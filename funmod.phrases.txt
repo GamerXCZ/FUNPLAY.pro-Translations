@@ -32,6 +32,14 @@
 		"de"			"/menu - Hauptmenü\n/shop - Spielladen\n/item - Spielgegenstände\n/loss - Verlustpreis\n/bonuses - Bonuseinstellungen\n/valve - Inventareinstellungen\n/setting - Servereinstellungen\n/rules - Server Regeln"
 		"pl"			"/menu - Menu główne\n/shop - Sklep w grze\n/item - Sklep z przedmiotami\n/loss - Przegranie nagrody\n/bonuses - Ustawienia bonusów\n/valve - Ustawienia ekwipunku\n/setting - Ustawienia serwera\n/rules - Zasady serwera"
 	}
+	"command not exists"
+	{
+		"en"			"{darkred}[!] {default}Incorrect or non-existent command."
+		"cze"			"{darkred}[!] {default}Nesprávný nebo neexistujici příkaz."
+		"sk"			"{darkred}[!] {default}Nesprávny alebo neexistujúci príkaz."
+		"de"			"{darkred}[!] {default}Falscher oder nicht vorhandener Befehl."
+		"pl"			"{darkred}[!] {default}Niepoprawne lub nieistniejące polecenie."
+	}
 	"played"
 	{
 		"en"			"Played:"
