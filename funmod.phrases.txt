@@ -72,6 +72,38 @@
 		"de"			"sekunde"
 		"pl"			"sekundy"
 	}
+	"usage"
+	{
+		"en"			"Usage"
+		"cze"			"Použití"
+		"sk"			"Použití"
+		"de"			"Verwendung"
+		"pl"			"Używanie"
+	}
+	"usage launcher"
+	{
+		"en"			"RMB when hold AK47/M4A4/M4A1-S"
+		"cze"			"PTM když držíš AK47/M4A4/M4A1-S"
+		"sk"			"PTM když držíš AK47/M4A4/M4A1-S"
+		"de"			"RMT wenn gehalten AK47/M4A4/M4A1-S"
+		"pl"			"PPM kiedy trzymasz AK47/M4A4/M4A1-S"
+	}
+	"usage pilefall"
+	{
+		"en"			"Hold CTRL when falling"
+		"cze"			"Podrž CTRL když padáš"
+		"sk"			"Podrž CTRL když padáš"
+		"de"			"Halten Sie CTRL gedrückt, wenn Sie fallen"
+		"pl"			"Przytrzymaj CTRL podczas upadku"
+	}
+	"usage revteammate"
+	{
+		"en"			"Hold CTRL + E on teammate dead position"
+		"cze"			"Podrž CTRL + E na mrtvé pozici spoluhráče"
+		"sk"			"Podrž CTRL + E na mrtvé pozici spoluhráče"
+		"de"			"Halten Sie CTRL + E bei Teamkameradotposition"
+		"pl"			"Przytrzymaj CTRL + E na martwej pozycji partnera"
+	}
 	"nade launcher ammo"
 	{
 		"#format"		"{1:i}"
@@ -163,6 +195,318 @@
 		"sk"			"Zmenit tím Hráča"
 		"de"			"Ändere das Team des Spielers"
 		"pl"			"Zmień drużynę"
+	}
+	"Hats Menu"
+	{
+		"en"			"Hats Menu"
+		"cze"			"Výběr doplněk"
+		"sk"			"Výběr doplněk"
+		"de"			"Hats Menü"
+		"pl"			"Menu Hats"
+	}
+	"hats off"
+	{
+		"en"			"Remove hats"
+		"cze"			"Odebrat doplňky"
+		"sk"			"Odebrat doplňky"
+		"de"			"Hüte hats"
+		"pl"			"Usuń hats"
+	}
+	"hat cape"
+	{
+		"en"			"Cape"
+		"cze"			"Plášť"
+		"sk"			"Plášť"
+		"de"			"Kap"
+		"pl"			"Peleryna"
+	}
+	"hat headphones"
+	{
+		"en"			"Headphones"
+		"cze"			"Sluchátka"
+		"sk"			"Sluchátka"
+		"de"			"Kopfhörer"
+		"pl"			"Słuchawki"
+	}
+	"hat angel"
+	{
+		"en"			"Angel"
+		"cze"			"Anděl"
+		"sk"			"Anděl"
+		"de"			"Engel"
+		"pl"			"Anioł"
+	}
+	"hat devil"
+	{
+		"en"			"Devil"
+		"cze"			"Čert"
+		"sk"			"Čert"
+		"de"			"Eufel"
+		"pl"			"Diabeł"
+	}
+	"cape skin"
+	{
+		"en"			"Choose Cape skin"
+		"cze"			"Vyber skin Pláště"
+		"sk"			"Vyber skin Pláště"
+		"de"			"Wählen Sie Cape-Haut"
+		"pl"			"Wybierz skórkę przylądka"
+	}
+	"cape red"
+	{
+		"en"			"Red Cape"
+		"cze"			"Červený Plášt"
+		"sk"			"Červený Plášt"
+		"de"			"Rot Kap"
+		"pl"			"Czerwony Peleryna"
+	}
+	"cape blue"
+	{
+		"en"			"Blue Cape"
+		"cze"			"Modrý Plášt"
+		"sk"			"Modrý Plášt"
+		"de"			"Blau Kap"
+		"pl"			"Niebieski Peleryna"
+	}
+	"cape green"
+	{
+		"en"			"Green Cape"
+		"cze"			"Zelený Plášt"
+		"sk"			"Zelený Plášt"
+		"de"			"Grün Kap"
+		"pl"			"Zielony Peleryna"
+	}
+	"cape yellow"
+	{
+		"en"			"Yellow Cape"
+		"cze"			"Žlutý Plášt"
+		"sk"			"Žlutý Plášt"
+		"de"			"Gelb Kap"
+		"pl"			"Żółty Peleryna"
+	}
+	"cape doppler"
+	{
+		"en"			"Doppler Cape"
+		"cze"			"Doppler Plášt"
+		"sk"			"Doppler Plášt"
+		"de"			"Doppler Kap"
+		"pl"			"Doppler Peleryna"
+	}
+	"cape crimson web"
+	{
+		"en"			"Crimson Web Cape"
+		"cze"			"Crimson Web Plášt"
+		"sk"			"Crimson Web Plášt"
+		"de"			"Crimson Web Kap"
+		"pl"			"Crimson Web Peleryna"
+	}
+	"cape hyper beast"
+	{
+		"en"			"Hyper Beast Cape"
+		"cze"			"Hyper Beast Plášt"
+		"sk"			"Hyper Beast Plášt"
+		"de"			"Hyper Beast Kap"
+		"pl"			"Hyper Beast Peleryna"
+	}
+	"cape slaughter"
+	{
+		"en"			"Slaughter Cape"
+		"cze"			"Slaughter Plášt"
+		"sk"			"Slaughter Plášt"
+		"de"			"Slaughter Kap"
+		"pl"			"Slaughter Peleryna"
+	}
+	"cape point disarray"
+	{
+		"en"			"Point Disarray Cape"
+		"cze"			"Point Disarray Plášt"
+		"sk"			"Point Disarray Plášt"
+		"de"			"Point Disarray Kap"
+		"pl"			"Point Disarray Peleryna"
+	}
+	"cape rekt"
+	{
+		"en"			"Rekt Cape"
+		"cze"			"Rekt Plášt"
+		"sk"			"Rekt Plášt"
+		"de"			"Rekt Kap"
+		"pl"			"Rekt Peleryna"
+	}
+	"cape assimov"
+	{
+		"en"			"Assimov Cape"
+		"cze"			"Assimov Plášt"
+		"sk"			"Assimov Plášt"
+		"de"			"Assimov Kap"
+		"pl"			"Assimov Peleryna"
+	}
+	"cape slovakia"
+	{
+		"en"			"Slovakia Cape"
+		"cze"			"Slovakia Plášt"
+		"sk"			"Slovakia Plášt"
+		"de"			"Slovakia Kap"
+		"pl"			"Slovakia Peleryna"
+	}
+	"cape czech"
+	{
+		"en"			"Czech Cape"
+		"cze"			"Czech Plášt"
+		"sk"			"Czech Plášt"
+		"de"			"Czech Kap"
+		"pl"			"Czech Peleryna"
+	}
+	"cape batman"
+	{
+		"en"			"Batman Cape"
+		"cze"			"Batman Plášt"
+		"sk"			"Batman Plášt"
+		"de"			"Batman Kap"
+		"pl"			"Batman Peleryna"
+	}
+	"cape joker"
+	{
+		"en"			"Joker Cape"
+		"cze"			"Joker Plášt"
+		"sk"			"Joker Plášt"
+		"de"			"Joker Kap"
+		"pl"			"Joker Peleryna"
+	}
+	"cape superman"
+	{
+		"en"			"Superman Cape"
+		"cze"			"Superman Plášt"
+		"sk"			"Superman Plášt"
+		"de"			"Superman Kap"
+		"pl"			"Superman Peleryna"
+	}
+	"cape spiderman"
+	{
+		"en"			"Spiderman Cape"
+		"cze"			"Spiderman Plášt"
+		"sk"			"Spiderman Plášt"
+		"de"			"Spiderman Kap"
+		"pl"			"Spiderman Peleryna"
+	}
+	"cape dragon lore"
+	{
+		"en"			"Dragon Lore Cape"
+		"cze"			"Dragon Lore Plášt"
+		"sk"			"Dragon Lore Plášt"
+		"de"			"Dragon Lore Kap"
+		"pl"			"Dragon Lore Peleryna"
+	}
+	"cape vulcan"
+	{
+		"en"			"Vulcan Cape"
+		"cze"			"Vulcan Plášt"
+		"sk"			"Vulcan Plášt"
+		"de"			"Vulcan Kap"
+		"pl"			"Vulcan Peleryna"
+	}
+	"cape wtf zombies"
+	{
+		"en"			"Wtf Zombies Cape"
+		"cze"			"Wtf Zombies Plášt"
+		"sk"			"Wtf Zombies Plášt"
+		"de"			"Wtf Zombies Kap"
+		"pl"			"Wtf Zombies Peleryna"
+	}
+	"cape oldschool"
+	{
+		"en"			"Old School Cape"
+		"cze"			"Old School Plášt"
+		"sk"			"Old School Plášt"
+		"de"			"Old School Kap"
+		"pl"			"Old School Peleryna"
+	}
+	"cape lava"
+	{
+		"en"			"Lava Cape"
+		"cze"			"Lava Plášt"
+		"sk"			"Lava Plášt"
+		"de"			"Lava Kap"
+		"pl"			"Lava Peleryna"
+	}
+	"headphones color"
+	{
+		"en"			"Choose Headphones color"
+		"cze"			"Vyber barvu Sluchátek"
+		"sk"			"Vyber barvu Sluchátek"
+		"de"			"Wählen Sie Kopfhörerfarbe"
+		"pl"			"Wybierz kolor słuchawek"
+	}
+	"headphones black"
+	{
+		"en"			"Black Headphones"
+		"cze"			"Černé Sluchátka"
+		"sk"			"Černé Sluchátka"
+		"de"			"Schwarz Kopfhörer"
+		"pl"			"Czarny Słuchawki"
+	}
+	"headphones blue"
+	{
+		"en"			"Blue Headphones"
+		"cze"			"Modré Sluchátka"
+		"sk"			"Modré Sluchátka"
+		"de"			"Blau Kopfhörer"
+		"pl"			"Niebieski Słuchawki"
+	}
+	"headphones red"
+	{
+		"en"			"Red Headphones"
+		"cze"			"Červené Sluchátka"
+		"sk"			"Červené Sluchátka"
+		"de"			"Rot Kopfhörer"
+		"pl"			"Czerwony Słuchawki"
+	}
+	"headphones cyan"
+	{
+		"en"			"Cyan Headphones"
+		"cze"			"Tyrkysové Sluchátka"
+		"sk"			"Tyrkysové Sluchátka"
+		"de"			"Türkis Kopfhörer"
+		"pl"			"Turkusowy Słuchawki"
+	}
+	"headphones green"
+	{
+		"en"			"Green Headphones"
+		"cze"			"Zelené Sluchátka"
+		"sk"			"Zelené Sluchátka"
+		"de"			"Grün Kopfhörer"
+		"pl"			"Zielony Słuchawki"
+	}
+	"headphones orange"
+	{
+		"en"			"Orange Headphones"
+		"cze"			"Oranžové Sluchátka"
+		"sk"			"Oranžové Sluchátka"
+		"de"			"Orange Kopfhörer"
+		"pl"			"Pomarańczowy Słuchawki"
+	}
+	"headphones pink"
+	{
+		"en"			"Pink Headphones"
+		"cze"			"Rúžové Sluchátka"
+		"sk"			"Rúžové Sluchátka"
+		"de"			"Rosa Kopfhörer"
+		"pl"			"Różowy Słuchawki"
+	}
+	"headphones purple"
+	{
+		"en"			"Purple Headphones"
+		"cze"			"Fialové Sluchátka"
+		"sk"			"Fialové Sluchátka"
+		"de"			"Lila Kopfhörer"
+		"pl"			"Fioletowy Słuchawki"
+	}
+	"headphones yellow"
+	{
+		"en"			"Yellow Headphones"
+		"cze"			"Žluté Sluchátka"
+		"sk"			"Žluté Sluchátka"
+		"de"			"Gelb Kopfhörer"
+		"pl"			"Żółty Słuchawki"
 	}
 	"Trail Menu"
 	{
@@ -332,6 +676,87 @@
 		"de"			"Urlaub"
 		"pl"			"Wakacje"
 	}
+	"Tracer Menu"
+	{
+		"en"			"Tracer Menu"
+		"cze"			"Tracer Menu"
+		"sk"			"Tracer Menu"
+		"de"			"Tracer Menü"
+		"pl"			"Menu Tracera"
+	}
+	"tracer off"
+	{
+		"en"			"Tracer off"
+		"cze"			"Žádný tracer"
+		"sk"			"Žiadny tracer"
+		"de"			"Tracer aus"
+		"pl"			"Tracer wyłączony"
+	}
+	"tracer color"
+	{
+		"en"			"Tracer color"
+		"cze"			"Barba traceru"
+		"sk"			"Farba traceru"
+		"de"			"Tracer Farbe"
+		"pl"			"Tracer kolor"
+	}
+	"tracer material"
+	{
+		"#format"		"{1:s}"
+		"en"			"Tracer material: {1}"
+		"cze"			"Materiál traceru: {1}"
+		"sk"			"Material traceru: {1}"
+		"de"			"Tracer material: {1}"
+		"pl"			"Tracer material: {1}"
+	}
+	"tracer lifetime"
+	{
+		"en"			"Tracer lifetime"
+		"cze"			"Životnost traceru"
+		"sk"			"Životnosť traceru"
+		"de"			"Tracer-Lebensdauer"
+		"pl"			"Życie Tracer"
+	}
+	"tracer width"
+	{
+		"en"			"Tracer width"
+		"cze"			"Šířka traceru"
+		"sk"			"Šírka traceru"
+		"de"			"Breite des Indikators"
+		"pl"			"Szerokość Tracer"
+	}
+	"small"
+	{
+		"en"			"small"
+		"cze"			"malý"
+		"sk"			"malý"
+		"de"			"klein"
+		"pl"			"mały"
+	}
+	"medium"
+	{
+		"en"			"medium"
+		"cze"			"střední"
+		"sk"			"stredná"
+		"de"			"mittel"
+		"pl"			"średni"
+	}
+	"large"
+	{
+		"en"			"large"
+		"cze"			"velký"
+		"sk"			"velký"
+		"de"			"groß"
+		"pl"			"duży"
+	}
+	"huge"
+	{
+		"en"			"huge"
+		"cze"			"obrovský"
+		"sk"			"obrovský"
+		"de"			"riesig"
+		"pl"			"ogromny"
+	}
 	"KillStreak"
 	{
 		"en"			"Kill Streak"
@@ -361,20 +786,20 @@
 	"TAB Info"
 	{
 		"#format"		"{1:i},{2:s},{3:s},{4:s}"
-		"en"			"<font size = '21'><font color = '#1e90ff'>Level:</font> {1}<br><font color = '#1e90ff'>XP:</font> {2}<font color = '#1e90ff'>/</font>{3}<br><font color = '#008000'>Bank:</font> ${4}</font>"
-		"cze"			"<font size = '21'><font color = '#1e90ff'>Úroveň:</font> {1}<br><font color = '#1e90ff'>XP:</font> {2}<font color = '#1e90ff'>/</font>{3}<br><font color = '#008000'>Banka:</font> ${4}</font>"
-		"sk"			"<font size = '21'><font color = '#1e90ff'>Úroveň:</font> {1}<br><font color = '#1e90ff'>XP:</font> {2}<font color = '#1e90ff'>/</font>{3}<br><font color = '#008000'>Banka:</font> ${4}</font>"
-		"de"			"<font size = '21'><font color = '#1e90ff'>Stufe:</font> {1}<br><font color = '#1e90ff'>XP:</font> {2}<font color = '#1e90ff'>/</font>{3}<br><font color = '#008000'>Bank:</font> ${4}</font>"
-		"pl"			"<font size = '21'><font color = '#1e90ff'>Poziom:</font> {1}<br><font color = '#1e90ff'>XP:</font> {2}<font color = '#1e90ff'>/</font>{3}<br><font color = '#008000'>Bank:</font> ${4}</font>"
+		"en"			"<font color='#CC0000'>Level:</font> {1}\n<font color='#1e90ff'>XP:</font> {2}<font color='#1e90ff'> ● </font>{3}\n<font color='#008000'>Bank:</font> ${4}"
+		"cze"			"<font color='#CC0000'>Úroveň:</font> {1}\n<font color='#1e90ff'>XP:</font> {2}<font color='#1e90ff'> ● </font>{3}\n<font color='#008000'>Banka:</font> ${4}"
+		"sk"			"<font color='#CC0000'>Úroveň:</font> {1}\n<font color='#1e90ff'>XP:</font> {2}<font color='#1e90ff'> ● </font>{3}\n<font color='#008000'>Banka:</font> ${4}"
+		"de"			"<font color='#CC0000'>Stufe:</font> {1}\n<font color='#1e90ff'>XP:</font> {2}<font color='#1e90ff'> ● </font>{3}\n<font color='#008000'>Bank:</font> ${4}"
+		"pl"			"<font color='#CC0000'>Poziom:</font> {1}\n<font color='#1e90ff'>XP:</font> {2}<font color='#1e90ff'> ● </font>{3}\n<font color='#008000'>Bank:</font> ${4}"
 	}
 	"SPECT Info"
 	{
 		"#format"		"{1:i},{2:s},{3:s},{4:s},{5:s},{6:s}"
-		"en"			"<font size = '20'>Level: {1} | XP: {2}/{3}<br>Bank: ${4}<br>Kills: {5} | {6}"
-		"cze"			"<font size = '20'>Úroveň: {1} | XP: {2}/{3}<br>Banka: ${4}<br>Zabití: {5} | {6}"
-		"sk"			"<font size = '20'>Úroveň: {1} | XP: {2}/{3}<br>Banka: ${4}<br>Zabitie: {5} | {6}"
-		"de"			"<font size = '20'>Stufe: {1} | XP: {2}/{3}<br>Bank: ${4}<br>Tötet: {5} | {6}"
-		"pl"			"<font size = '20'>Poziom: {1} | XP: {2}/{3}<br>Bank: ${4}<br>Zabójstwa: {5} | {6}"
+		"en"			"Level: {1} | XP: {2} ● {3}\nBank: ${4}\nKills: {5} | {6}"
+		"cze"			"Úroveň: {1} | XP: {2} ● {3}\nBanka: ${4}\nZabití: {5} | {6}"
+		"sk"			"Úroveň: {1} | XP: {2} ● {3}\nBanka: ${4}\nZabitie: {5} | {6}"
+		"de"			"Stufe: {1} | XP: {2} ● {3}\nBank: ${4}\nTötet: {5} | {6}"
+		"pl"			"Poziom: {1} | XP: {2} ● {3}\nBank: ${4}\nZabójstwa: {5} | {6}"
 	}
 	"You puckuped"
 	{
@@ -396,11 +821,11 @@
 	"you reviving"
 	{
 		"#format"		"{1:s}"
-		"en"			"Player <font color = '#ffffff'>{1}</font> you reviving!"
-		"cze"			"Hráč <font color = '#ffffff'>{1}</font> tě oživuje!"
-		"sk"			"Hráč <font color = '#ffffff'>{1}</font> ťa oživuje!"
-		"de"			"Spieler <font color = '#ffffff'>{1}</font> Sie beleben!"
-		"pl"			"Odradzasz gracza <font color = '#ffffff'>{1}</font>!"
+		"en"			"Player <font color='#ffffff'>{1}</font> you reviving!"
+		"cze"			"Hráč <font color='#ffffff'>{1}</font> tě oživuje!"
+		"sk"			"Hráč <font color='#ffffff'>{1}</font> ťa oživuje!"
+		"de"			"Spieler <font color='#ffffff'>{1}</font> Sie beleben!"
+		"pl"			"Odradzasz gracza <font color='#ffffff'>{1}</font>!"
 	}
 	"You are revived player"
 	{
@@ -413,11 +838,11 @@
 	"you revived"
 	{
 		"#format"		"{1:s}"
-		"en"			"Player <font color = '#ffffff'>{1}</font> you are revived!"
-		"cze"			"Hráč <font color = '#ffffff'>{1}</font> te ozivil!"
-		"sk"			"Hráč <font color = '#ffffff'>{1}</font> ťa oživil!"
-		"de"			"Spieler <font color = '#ffffff'>{1}</font> Du bist wiederbelebt!"
-		"pl"			"Gracz <font color = '#ffffff'>{1}</font> Cię odradza!"
+		"en"			"Player <font color='#ffffff'>{1}</font> you are revived!"
+		"cze"			"Hráč <font color='#ffffff'>{1}</font> te ozivil!"
+		"sk"			"Hráč <font color='#ffffff'>{1}</font> ťa oživil!"
+		"de"			"Spieler <font color='#ffffff'>{1}</font> Du bist wiederbelebt!"
+		"pl"			"Gracz <font color='#ffffff'>{1}</font> Cię odradza!"
 	}
 	"new round info"
 	{
@@ -505,11 +930,11 @@
 	"loss ninja hint msg"
 	{
 		"#format"		"{1:s}"
-		"en"			"{1}</font> <font color = '#FFFF00'>became a Ninja"
-		"cze"			"{1}</font> <font color = '#FFFF00'>se stal Ninjou"
-		"sk"			"{1}</font> <font color = '#FFFF00'>sa stal Ninjom"
-		"de"			"{1}</font> <font color = '#FFFF00'>Wurde ein Ninja"
-		"pl"			"{1}</font> <font color = '#FFFF00'>został Ninja"
+		"en"			"{1}</font> <font color='#FFFF00'>became a Ninja"
+		"cze"			"{1}</font> <font color='#FFFF00'>se stal Ninjou"
+		"sk"			"{1}</font> <font color='#FFFF00'>sa stal Ninjom"
+		"de"			"{1}</font> <font color='#FFFF00'>Wurde ein Ninja"
+		"pl"			"{1}</font> <font color='#FFFF00'>został Ninja"
 	}
 	"loss unammo chat msg"
 	{
@@ -523,11 +948,11 @@
 	"loss unammo hint msg"
 	{
 		"#format"		"{1:s}"
-		"en"			"{1}</font> <font color = '#FFFF00'>has unlimited ammo!"
-		"cze"			"{1}</font> <font color = '#FFFF00'>má neomezenou munici!"
-		"sk"			"{1}</font> <font color = '#FFFF00'>má neobmedzenú muníciu!"
-		"de"			"{1}</font> <font color = '#FFFF00'>Hat unbegrenzte Munition!"
-		"pl"			"{1}</font> <font color = '#FFFF00'>ma nielimitowaną ammunicję!"
+		"en"			"{1}</font> <font color='#FFFF00'>has unlimited ammo!"
+		"cze"			"{1}</font> <font color='#FFFF00'>má neomezenou munici!"
+		"sk"			"{1}</font> <font color='#FFFF00'>má neobmedzenú muníciu!"
+		"de"			"{1}</font> <font color='#FFFF00'>Hat unbegrenzte Munition!"
+		"pl"			"{1}</font> <font color='#FFFF00'>ma nielimitowaną ammunicję!"
 	}
 	"loss winlott chat msg"
 	{
@@ -541,11 +966,11 @@
 	"loss winlott hint msg"
 	{
 		"#format"		"{1:s},{2:i}"
-		"en"			"{1}</font> <font color = '#FFFF00'>raked in </font><font color = '#FFFFFF'>${2}"
-		"cze"			"{1}</font> <font color = '#FFFF00'>shrabnul </font><font color = '#FFFFFF'>${2}"
-		"sk"			"{1}</font> <font color = '#FFFF00'>zhrabol </font><font color = '#FFFFFF'>${2}"
-		"de"			"{1}</font> <font color = '#FFFF00'>Bekam </font><font color = '#FFFFFF'>${2}"
-		"pl"			"{1}</font> <font color = '#FFFF00'>zgarnął </font><font color = '#FFFFFF'>${2}"
+		"en"			"{1}</font> <font color='#FFFF00'>raked in </font><font color='#FFFFFF'>${2}"
+		"cze"			"{1}</font> <font color='#FFFF00'>shrabnul </font><font color='#FFFFFF'>${2}"
+		"sk"			"{1}</font> <font color='#FFFF00'>zhrabol </font><font color='#FFFFFF'>${2}"
+		"de"			"{1}</font> <font color='#FFFF00'>Bekam </font><font color='#FFFFFF'>${2}"
+		"pl"			"{1}</font> <font color='#FFFF00'>zgarnął </font><font color='#FFFFFF'>${2}"
 	}
 	"loss winhp chat msg"
 	{
@@ -559,11 +984,11 @@
 	"loss winhp hint msg"
 	{
 		"#format"		"{1:s}"
-		"en"			"{1}</font> <font color = '#FFFF00'>won 200 HP!"
-		"cze"			"{1}</font> <font color = '#FFFF00'>vyhrál 200 HP!"
-		"sk"			"{1}</font> <font color = '#FFFF00'>vyhral 200 HP!"
-		"de"			"{1}</font> <font color = '#FFFF00'>Gewann 200 HP!"
-		"pl"			"{1}</font> <font color = '#FFFF00'>wygrał 200 HP!"
+		"en"			"{1}</font> <font color='#FFFF00'>won 200 HP!"
+		"cze"			"{1}</font> <font color='#FFFF00'>vyhrál 200 HP!"
+		"sk"			"{1}</font> <font color='#FFFF00'>vyhral 200 HP!"
+		"de"			"{1}</font> <font color='#FFFF00'>Gewann 200 HP!"
+		"pl"			"{1}</font> <font color='#FFFF00'>wygrał 200 HP!"
 	}
 	"loss steroids chat msg"
 	{
@@ -577,11 +1002,11 @@
 	"loss steroids hint msg"
 	{
 		"#format"		"{1:s}"
-		"en"			"{1}</font> <font color = '#FFFF00'>took steroids!"
-		"cze"			"{1}</font> <font color = '#FFFF00'>si vzal sterojdy!"
-		"sk"			"{1}</font> <font color = '#FFFF00'>si zobral steroidy!"
-		"de"			"{1}</font> <font color = '#FFFF00'>Nahm Steroiden!"
-		"pl"			"{1}</font> <font color = '#FFFF00'>wziął sterydy!"
+		"en"			"{1}</font> <font color='#FFFF00'>took steroids!"
+		"cze"			"{1}</font> <font color='#FFFF00'>si vzal sterojdy!"
+		"sk"			"{1}</font> <font color='#FFFF00'>si zobral steroidy!"
+		"de"			"{1}</font> <font color='#FFFF00'>Nahm Steroiden!"
+		"pl"			"{1}</font> <font color='#FFFF00'>wziął sterydy!"
 	}
 	"loss invis chat msg"
 	{
@@ -595,11 +1020,11 @@
 	"loss invis hint msg"
 	{
 		"#format"		"{1:s}"
-		"en"			"{1}</font> <font color = '#FFFF00'>merged with the environment!"
-		"cze"			"{1}</font> <font color = '#FFFF00'>splynul s prostředím!"
-		"sk"			"{1}</font> <font color = '#FFFF00'>splynul s prostredím!"
-		"de"			"{1}</font> <font color = '#FFFF00'>Verschmalz mit der Umwelt!"
-		"pl"			"{1}</font> <font color = '#FFFF00'>połączył się z otoczeniem!"
+		"en"			"{1}</font> <font color='#FFFF00'>merged with the environment!"
+		"cze"			"{1}</font> <font color='#FFFF00'>splynul s prostředím!"
+		"sk"			"{1}</font> <font color='#FFFF00'>splynul s prostredím!"
+		"de"			"{1}</font> <font color='#FFFF00'>Verschmalz mit der Umwelt!"
+		"pl"			"{1}</font> <font color='#FFFF00'>połączył się z otoczeniem!"
 	}
 	"loss regen chat msg"
 	{
@@ -613,11 +1038,11 @@
 	"loss regen hint msg"
 	{
 		"#format"		"{1:s}"
-		"en"			"{1}</font> <font color = '#FFFF00'>has regeneration!"
-		"cze"			"{1}</font> <font color = '#FFFF00'>se dokáže regenerovat!"
-		"sk"			"{1}</font> <font color = '#FFFF00'>sa dokáže regenerovať!"
-		"de"			"{1}</font> <font color = '#FFFF00'>Regeneriert!"
-		"pl"			"{1}</font> <font color = '#FFFF00'>ma regeneracje!"
+		"en"			"{1}</font> <font color='#FFFF00'>has regeneration!"
+		"cze"			"{1}</font> <font color='#FFFF00'>se dokáže regenerovat!"
+		"sk"			"{1}</font> <font color='#FFFF00'>sa dokáže regenerovať!"
+		"de"			"{1}</font> <font color='#FFFF00'>Regeneriert!"
+		"pl"			"{1}</font> <font color='#FFFF00'>ma regeneracje!"
 	}
 	"loss fulleq chat msg"
 	{
@@ -631,11 +1056,11 @@
 	"loss fulleq hint msg"
 	{
 		"#format"		"{1:s}"
-		"en"			"{1}</font> <font color = '#FFFF00'>robbed the armory!"
-		"cze"			"{1}</font> <font color = '#FFFF00'>vykradl zbrojnici!"
-		"sk"			"{1}</font> <font color = '#FFFF00'>vykradol zbrojnicu!"
-		"de"			"{1}</font> <font color = '#FFFF00'>Raubte die Waffenkammer aus!"
-		"pl"			"{1}</font> <font color = '#FFFF00'>okradł zbrojownię!"
+		"en"			"{1}</font> <font color='#FFFF00'>robbed the armory!"
+		"cze"			"{1}</font> <font color='#FFFF00'>vykradl zbrojnici!"
+		"sk"			"{1}</font> <font color='#FFFF00'>vykradol zbrojnicu!"
+		"de"			"{1}</font> <font color='#FFFF00'>Raubte die Waffenkammer aus!"
+		"pl"			"{1}</font> <font color='#FFFF00'>okradł zbrojownię!"
 	}
 	"loss rambo chat msg"
 	{
@@ -649,11 +1074,11 @@
 	"loss rambo hint msg"
 	{
 		"#format"		"{1:s}"
-		"en"			"{1}</font> <font color = '#FFFF00'>is now RAMBO!!!!!!"
-		"cze"			"{1}</font> <font color = '#FFFF00'>je z něho RAMBO!!!!!!"
-		"sk"			"{1}</font> <font color = '#FFFF00'>je z neho RAMBO!!!!!!"
-		"de"			"{1}</font> <font color = '#FFFF00'>ist jetzt RAMBO!!!!!!"
-		"pl"			"{1}</font> <font color = '#FFFF00'>jest teraz RAMBO!!!!!!"
+		"en"			"{1}</font> <font color='#FFFF00'>is now RAMBO!!!!!!"
+		"cze"			"{1}</font> <font color='#FFFF00'>je z něho RAMBO!!!!!!"
+		"sk"			"{1}</font> <font color='#FFFF00'>je z neho RAMBO!!!!!!"
+		"de"			"{1}</font> <font color='#FFFF00'>ist jetzt RAMBO!!!!!!"
+		"pl"			"{1}</font> <font color='#FFFF00'>jest teraz RAMBO!!!!!!"
 	}
 	"loss god chat msg"
 	{
@@ -667,11 +1092,11 @@
 	"loss god hint msg"
 	{
 		"#format"		"{1:s}"
-		"en"			"{1}</font> <font color = '#FFFF00'>is immortal!"
-		"cze"			"{1}</font> <font color = '#FFFF00'>je nesmrtelný!"
-		"sk"			"{1}</font> <font color = '#FFFF00'>je nesmrtelný!"
-		"de"			"{1}</font> <font color = '#FFFF00'>ist unsterblich!"
-		"pl"			"{1}</font> <font color = '#FFFF00'>jest nieśmiertelny!"
+		"en"			"{1}</font> <font color='#FFFF00'>is immortal!"
+		"cze"			"{1}</font> <font color='#FFFF00'>je nesmrtelný!"
+		"sk"			"{1}</font> <font color='#FFFF00'>je nesmrtelný!"
+		"de"			"{1}</font> <font color='#FFFF00'>ist unsterblich!"
+		"pl"			"{1}</font> <font color='#FFFF00'>jest nieśmiertelny!"
 	}
 	"loss item chat msg"
 	{
@@ -685,11 +1110,11 @@
 	"loss item hint msg"
 	{
 		"#format"		"{1:s},{2:t}"
-		"en"			"{1}</font> <font color = '#FFFF00'>received {2}!"
-		"cze"			"{1}</font> <font color = '#FFFF00'>dostal {2}!"
-		"sk"			"{1}</font> <font color = '#FFFF00'>dostal {2}!"
-		"de"			"{1}</font> <font color = '#FFFF00'>empfangen {2}!"
-		"pl"			"{1}</font> <font color = '#FFFF00'>otrzymał {2}!"
+		"en"			"{1}</font> <font color='#FFFF00'>received {2}!"
+		"cze"			"{1}</font> <font color='#FFFF00'>dostal {2}!"
+		"sk"			"{1}</font> <font color='#FFFF00'>dostal {2}!"
+		"de"			"{1}</font> <font color='#FFFF00'>empfangen {2}!"
+		"pl"			"{1}</font> <font color='#FFFF00'>otrzymał {2}!"
 	}
 	"loss zeus chat msg"
 	{
@@ -703,11 +1128,11 @@
 	"loss zeus hint msg"
 	{
 		"#format"		"{1:s}"
-		"en"			"{1}</font> <font color = '#FFFF00'>is omnipotent Zeus!"
-		"cze"			"{1}</font> <font color = '#FFFF00'>je všemocny Zeus!"
-		"sk"			"{1}</font> <font color = '#FFFF00'>je z neho všemocný Zeus!"
-		"de"			"{1}</font> <font color = '#FFFF00'>ist ein allmächtiger Zeus!"
-		"pl"			"{1}</font> <font color = '#FFFF00'>jest wszechmogącym Zeusem!"
+		"en"			"{1}</font> <font color='#FFFF00'>is omnipotent Zeus!"
+		"cze"			"{1}</font> <font color='#FFFF00'>je všemocny Zeus!"
+		"sk"			"{1}</font> <font color='#FFFF00'>je z neho všemocný Zeus!"
+		"de"			"{1}</font> <font color='#FFFF00'>ist ein allmächtiger Zeus!"
+		"pl"			"{1}</font> <font color='#FFFF00'>jest wszechmogącym Zeusem!"
 	}
 	"loss horny chat msg"
 	{
@@ -721,11 +1146,11 @@
 	"loss horny hint msg"
 	{
 		"#format"		"{1:s}"
-		"en"			"{1}</font> <font color = '#FFFF00'>would like to some ass."
-		"cze"			"{1}</font> <font color = '#FFFF00'>by chtěl object nějaku prdelku."
-		"sk"			"{1}</font> <font color = '#FFFF00'>by chcel pretiahnuť nejakú riťku."
-		"de"			"{1}</font> <font color = '#FFFF00'>würde gerne etwas Arsch kauen."
-		"pl"			"{1}</font> <font color = '#FFFF00'>ma ochotę na jakąś dupcię."
+		"en"			"{1}</font> <font color='#FFFF00'>would like to some ass."
+		"cze"			"{1}</font> <font color='#FFFF00'>by chtěl object nějaku prdelku."
+		"sk"			"{1}</font> <font color='#FFFF00'>by chcel pretiahnuť nejakú riťku."
+		"de"			"{1}</font> <font color='#FFFF00'>würde gerne etwas Arsch kauen."
+		"pl"			"{1}</font> <font color='#FFFF00'>ma ochotę na jakąś dupcię."
 	}
 	"loss wh chat msg"
 	{
@@ -739,11 +1164,11 @@
 	"loss wh hint msg"
 	{
 		"#format"		"{1:s}"
-		"en"			"{1}</font> <font color = '#FFFF00'>turned on Wallhack !"
-		"cze"			"{1}</font> <font color = '#FFFF00'>si zapnul Wallhack !"
-		"sk"			"{1}</font> <font color = '#FFFF00'>si zapol Wallhack !"
-		"de"			"{1}</font> <font color = '#FFFF00'>Wallhack eingeschaltet!!!"
-		"pl"			"{1}</font> <font color = '#FFFF00'>włączył Wallhack !"
+		"en"			"{1}</font> <font color='#FFFF00'>turned on Wallhack !"
+		"cze"			"{1}</font> <font color='#FFFF00'>si zapnul Wallhack !"
+		"sk"			"{1}</font> <font color='#FFFF00'>si zapol Wallhack !"
+		"de"			"{1}</font> <font color='#FFFF00'>Wallhack eingeschaltet!!!"
+		"pl"			"{1}</font> <font color='#FFFF00'>włączył Wallhack !"
 	}
 	"loss oldman chat msg"
 	{
@@ -757,11 +1182,11 @@
 	"loss oldman hint msg"
 	{
 		"#format"		"{1:s}"
-		"en"			"{1}</font> <font color = '#FFFF00'>grow old"
-		"cze"			"{1}</font> <font color = '#FFFF00'>zestárnul"
-		"sk"			"{1}</font> <font color = '#FFFF00'>zostarol"
-		"de"			"{1}</font> <font color = '#FFFF00'>wurde alt"
-		"pl"			"{1}</font> <font color = '#FFFF00'>starzeje się"
+		"en"			"{1}</font> <font color='#FFFF00'>grow old"
+		"cze"			"{1}</font> <font color='#FFFF00'>zestárnul"
+		"sk"			"{1}</font> <font color='#FFFF00'>zostarol"
+		"de"			"{1}</font> <font color='#FFFF00'>wurde alt"
+		"pl"			"{1}</font> <font color='#FFFF00'>starzeje się"
 	}
 	"loss slap chat msg"
 	{
@@ -775,11 +1200,11 @@
 	"loss slap hint msg"
 	{
 		"#format"		"{1:s}"
-		"en"			"{1}</font> <font color = '#FFFF00'>is slapping"
-		"cze"			"{1}</font> <font color = '#FFFF00'>je fackovanej"
-		"sk"			"{1}</font> <font color = '#FFFF00'>je fackovaný"
-		"de"			"{1}</font> <font color = '#FFFF00'>wird geschlagen"
-		"pl"			"{1}</font> <font color = '#FFFF00'>uderza"
+		"en"			"{1}</font> <font color='#FFFF00'>is slapping"
+		"cze"			"{1}</font> <font color='#FFFF00'>je fackovanej"
+		"sk"			"{1}</font> <font color='#FFFF00'>je fackovaný"
+		"de"			"{1}</font> <font color='#FFFF00'>wird geschlagen"
+		"pl"			"{1}</font> <font color='#FFFF00'>uderza"
 	}
 	"loss jamgun chat msg"
 	{
@@ -793,11 +1218,11 @@
 	"loss jamgun hint msg"
 	{
 		"#format"		"{1:s}"
-		"en"			"{1}</font> <font color = '#FFFF00'>has jammed guns!"
-		"cze"			"{1}</font> <font color = '#FFFF00'>má poškozené zbraně!"
-		"sk"			"{1}</font> <font color = '#FFFF00'>má poškodené zbrane!"
-		"de"			"{1}</font> <font color = '#FFFF00'>hat eingeklemmte Waffen!"
-		"pl"			"{1}</font> <font color = '#FFFF00'>ma zepsute bronie!"
+		"en"			"{1}</font> <font color='#FFFF00'>has jammed guns!"
+		"cze"			"{1}</font> <font color='#FFFF00'>má poškozené zbraně!"
+		"sk"			"{1}</font> <font color='#FFFF00'>má poškodené zbrane!"
+		"de"			"{1}</font> <font color='#FFFF00'>hat eingeklemmte Waffen!"
+		"pl"			"{1}</font> <font color='#FFFF00'>ma zepsute bronie!"
 	}
 	"loss bankrupt chat msg"
 	{
@@ -811,11 +1236,11 @@
 	"loss bankrupt hint msg"
 	{
 		"#format"		"{1:s}"
-		"en"			"{1}</font> <font color = '#FFFF00'>lost all money!"
-		"cze"			"{1}</font> <font color = '#FFFF00'>ztratil všechny svoje prachy!"
-		"sk"			"{1}</font> <font color = '#FFFF00'>stratil všetky svoje peniaze!"
-		"de"			"{1}</font> <font color = '#FFFF00'>verlor sein Geld
-		"pl"			"{1}</font> <font color = '#FFFF00'>stracił wszystkie pieniądze!"
+		"en"			"{1}</font> <font color='#FFFF00'>lost all money!"
+		"cze"			"{1}</font> <font color='#FFFF00'>ztratil všechny svoje prachy!"
+		"sk"			"{1}</font> <font color='#FFFF00'>stratil všetky svoje peniaze!"
+		"de"			"{1}</font> <font color='#FFFF00'>verlor sein Geld
+		"pl"			"{1}</font> <font color='#FFFF00'>stracił wszystkie pieniądze!"
 	}
 	"loss chicken chat msg"
 	{
@@ -829,11 +1254,11 @@
 	"loss chicken hint msg"
 	{
 		"#format"		"{1:s}"
-		"en"			"{1}</font> <font color = '#FFFF00'>spawning chickens xD"
-		"cze"			"{1}</font> <font color = '#FFFF00'>vypouští slepice xD"
-		"sk"			"{1}</font> <font color = '#FFFF00'>vypustil sliepky  xD"
-		"de"			"{1}</font> <font color = '#FFFF00'>Spawnt Hühner xD"
-		"pl"			"{1}</font> <font color = '#FFFF00'>spawnuje kurczaki xD"
+		"en"			"{1}</font> <font color='#FFFF00'>spawning chickens xD"
+		"cze"			"{1}</font> <font color='#FFFF00'>vypouští slepice xD"
+		"sk"			"{1}</font> <font color='#FFFF00'>vypustil sliepky  xD"
+		"de"			"{1}</font> <font color='#FFFF00'>Spawnt Hühner xD"
+		"pl"			"{1}</font> <font color='#FFFF00'>spawnuje kurczaki xD"
 	}
 	"loss lightning chat msg"
 	{
@@ -847,20 +1272,20 @@
 	"loss lightning hint msg #1"
 	{
 		"#format"		"{1:s}"
-		"en"			"{1}</font> <font color = '#FFFF00'>was hit by lightning!"
-		"cze"			"{1}</font> <font color = '#FFFF00'>byl zasahnut bleskem!"
-		"sk"			"{1}</font> <font color = '#FFFF00'>bol zasiahnutý bleskom!"
-		"de"			"{1}</font> <font color = '#FFFF00'>wurde von einem Blitz getroffen!"
-		"pl"			"{1}</font> <font color = '#FFFF00'>został uderzony przez piorun!"
+		"en"			"{1}</font> <font color='#FFFF00'>was hit by lightning!"
+		"cze"			"{1}</font> <font color='#FFFF00'>byl zasahnut bleskem!"
+		"sk"			"{1}</font> <font color='#FFFF00'>bol zasiahnutý bleskom!"
+		"de"			"{1}</font> <font color='#FFFF00'>wurde von einem Blitz getroffen!"
+		"pl"			"{1}</font> <font color='#FFFF00'>został uderzony przez piorun!"
 	}
 	"loss lightning hint msg #2"
 	{
 		"#format"		"{1:s}"
-		"en"			"{1}</font> <font color = '#FFFF00'>was shot down by lightning!"
-		"cze"			"{1}</font> <font color = '#FFFF00'>byl sestřelen bleskem!"
-		"sk"			"{1}</font> <font color = '#FFFF00'>bol sestřelen bleskom!"
-		"de"			"{1}</font> <font color = '#FFFF00'>wurde von einem Blitz abgeschossen!
-		"pl"			"{1}</font> <font color = '#FFFF00'>został trafiony przez piorun!"
+		"en"			"{1}</font> <font color='#FFFF00'>was shot down by lightning!"
+		"cze"			"{1}</font> <font color='#FFFF00'>byl sestřelen bleskem!"
+		"sk"			"{1}</font> <font color='#FFFF00'>bol sestřelen bleskom!"
+		"de"			"{1}</font> <font color='#FFFF00'>wurde von einem Blitz abgeschossen!
+		"pl"			"{1}</font> <font color='#FFFF00'>został trafiony przez piorun!"
 	}
 	"loss losseqp chat msg"
 	{
@@ -874,11 +1299,11 @@
 	"loss losseqp hint msg"
 	{
 		"#format"		"{1:s}"
-		"en"			"{1}</font> <font color = '#FFFF00'>lost all his weapons!"
-		"cze"			"{1}</font> <font color = '#FFFF00'>prišel o všechny zbraně!"
-		"sk"			"{1}</font> <font color = '#FFFF00'>stratil všetky zbrane!"
-		"de"			"{1}</font> <font color = '#FFFF00'>verlor alle seine Waffen!"
-		"pl"			"{1}</font> <font color = '#FFFF00'>stracił wszystkie bronie!"
+		"en"			"{1}</font> <font color='#FFFF00'>lost all his weapons!"
+		"cze"			"{1}</font> <font color='#FFFF00'>prišel o všechny zbraně!"
+		"sk"			"{1}</font> <font color='#FFFF00'>stratil všetky zbrane!"
+		"de"			"{1}</font> <font color='#FFFF00'>verlor alle seine Waffen!"
+		"pl"			"{1}</font> <font color='#FFFF00'>stracił wszystkie bronie!"
 	}
 	"loss weightless chat msg"
 	{
@@ -892,11 +1317,11 @@
 	"loss weightless hint msg"
 	{
 		"#format"		"{1:s}"
-		"en"			"{1}</font> <font color = '#FFFF00'>is in a state of weightlessness!"
-		"cze"			"{1}</font> <font color = '#FFFF00'>je ve stavu beztíže!"
-		"sk"			"{1}</font> <font color = '#FFFF00'>je v stave beztiaže!"
-		"de"			"{1}</font> <font color = '#FFFF00'>ist in einem Zustand der Schwerelosigkeit!"
-		"pl"			"{1}</font> <font color = '#FFFF00'>nic nie waży!"
+		"en"			"{1}</font> <font color='#FFFF00'>is in a state of weightlessness!"
+		"cze"			"{1}</font> <font color='#FFFF00'>je ve stavu beztíže!"
+		"sk"			"{1}</font> <font color='#FFFF00'>je v stave beztiaže!"
+		"de"			"{1}</font> <font color='#FFFF00'>ist in einem Zustand der Schwerelosigkeit!"
+		"pl"			"{1}</font> <font color='#FFFF00'>nic nie waży!"
 	}
 	"loss drug chat msg"
 	{
@@ -910,11 +1335,11 @@
 	"loss drug hint msg"
 	{
 		"#format"		"{1:s}"
-		"en"			"{1}</font> <font color = '#FFFF00'>is drugged!"
-		"cze"			"{1}</font> <font color = '#FFFF00'>se zdrogoval!"
-		"sk"			"{1}</font> <font color = '#FFFF00'>sa zdrogoval!"
-		"de"			"{1}</font> <font color = '#FFFF00'>ist unter Drogen gesetzt!"
-		"pl"			"{1}</font> <font color = '#FFFF00'>jest naćpany!"
+		"en"			"{1}</font> <font color='#FFFF00'>is drugged!"
+		"cze"			"{1}</font> <font color='#FFFF00'>se zdrogoval!"
+		"sk"			"{1}</font> <font color='#FFFF00'>sa zdrogoval!"
+		"de"			"{1}</font> <font color='#FFFF00'>ist unter Drogen gesetzt!"
+		"pl"			"{1}</font> <font color='#FFFF00'>jest naćpany!"
 	}
 	"loss earthquakes chat msg"
 	{
@@ -928,11 +1353,11 @@
 	"loss earthquakes hint msg"
 	{
 		"#format"		"{1:s}"
-		"en"			"{1}</font> <font color = '#FFFF00'>experiencing earthquakes!"
-		"cze"			"{1}</font> <font color = '#FFFF00'>zažívá zemětřesení!"
-		"sk"			"{1}</font> <font color = '#FFFF00'>zažíva zemetrasenie!"
-		"de"			"{1}</font> <font color = '#FFFF00'>erlebt Erdbeben!"
-		"pl"			"{1}</font> <font color = '#FFFF00'>doświadcza trzęsienia ziemi!"
+		"en"			"{1}</font> <font color='#FFFF00'>experiencing earthquakes!"
+		"cze"			"{1}</font> <font color='#FFFF00'>zažívá zemětřesení!"
+		"sk"			"{1}</font> <font color='#FFFF00'>zažíva zemetrasenie!"
+		"de"			"{1}</font> <font color='#FFFF00'>erlebt Erdbeben!"
+		"pl"			"{1}</font> <font color='#FFFF00'>doświadcza trzęsienia ziemi!"
 	}
 	"loss lostbonuses chat msg"
 	{
@@ -946,11 +1371,11 @@
 	"loss lostbonuses hint msg"
 	{
 		"#format"		"{1:s}"
-		"en"			"{1}</font> <font color = '#FFFF00'>lost all bonuses."
-		"cze"			"{1}</font> <font color = '#FFFF00'>přišel o všechny bonusy."
-		"sk"			"{1}</font> <font color = '#FFFF00'>prišiel o všetky bonusy."
-		"de"			"{1}</font> <font color = '#FFFF00'>hat alle Boni verloren."
-		"pl"			"{1}</font> <font color = '#FFFF00'>stracił wszystkie bonusy."
+		"en"			"{1}</font> <font color='#FFFF00'>lost all bonuses."
+		"cze"			"{1}</font> <font color='#FFFF00'>přišel o všechny bonusy."
+		"sk"			"{1}</font> <font color='#FFFF00'>prišiel o všetky bonusy."
+		"de"			"{1}</font> <font color='#FFFF00'>hat alle Boni verloren."
+		"pl"			"{1}</font> <font color='#FFFF00'>stracił wszystkie bonusy."
 	}
 	"loss burn chat msg"
 	{
@@ -964,11 +1389,11 @@
 	"loss burn hint msg"
 	{
 		"#format"		"{1:s}"
-		"en"			"{1}</font> <font color = '#FFFF00'>played with the matchbox and burned up!"
-		"cze"			"{1}</font> <font color = '#FFFF00'>si hrál ze sirkama a zapálil se!"
-		"sk"			"{1}</font> <font color = '#FFFF00'>sa hral zo zápalkami a zapálil sa!"
-		"de"			"{1}</font> <font color = '#FFFF00'>spielte mit der Streichholzschachtel und verbrannte sich!"
-		"pl"			"{1}</font> <font color = '#FFFF00'>bawił się zapałkami i się podpalił!"
+		"en"			"{1}</font> <font color='#FFFF00'>played with the matchbox and burned up!"
+		"cze"			"{1}</font> <font color='#FFFF00'>si hrál ze sirkama a zapálil se!"
+		"sk"			"{1}</font> <font color='#FFFF00'>sa hral zo zápalkami a zapálil sa!"
+		"de"			"{1}</font> <font color='#FFFF00'>spielte mit der Streichholzschachtel und verbrannte sich!"
+		"pl"			"{1}</font> <font color='#FFFF00'>bawił się zapałkami i się podpalił!"
 	}
 	"loss blind chat msg"
 	{
@@ -982,11 +1407,11 @@
 	"loss blind hint msg"
 	{
 		"#format"		"{1:s}"
-		"en"			"{1}</font> <font color = '#FFFF00'>totally blinded!"
-		"cze"			"{1}</font> <font color = '#FFFF00'>úplně oslepnul!"
-		"sk"			"{1}</font> <font color = '#FFFF00'>úplne oslepol!"
-		"de"			"{1}</font> <font color = '#FFFF00'>total geblendet!!"
-		"pl"			"{1}</font> <font color = '#FFFF00'>jest całkiem oślepiony!"
+		"en"			"{1}</font> <font color='#FFFF00'>totally blinded!"
+		"cze"			"{1}</font> <font color='#FFFF00'>úplně oslepnul!"
+		"sk"			"{1}</font> <font color='#FFFF00'>úplne oslepol!"
+		"de"			"{1}</font> <font color='#FFFF00'>total geblendet!!"
+		"pl"			"{1}</font> <font color='#FFFF00'>jest całkiem oślepiony!"
 	}
 	"loss wildride chat msg"
 	{
@@ -1000,11 +1425,11 @@
 	"loss wildride hint msg"
 	{
 		"#format"		"{1:s}"
-		"en"			"{1}</font> <font color = '#FFFF00'>is going for a wild ride!"
-		"cze"			"{1}</font> <font color = '#FFFF00'>se chystá na divokou jízdu!"
-		"sk"			"{1}</font> <font color = '#FFFF00'>sa chystá na divokú jazdu!"
-		"de"			"{1}</font> <font color = '#FFFF00'>macht eine wilde Fahrt!"
-		"pl"			"{1}</font> <font color = '#FFFF00'>wybiera się na dziką przejażdżkę!"
+		"en"			"{1}</font> <font color='#FFFF00'>is going for a wild ride!"
+		"cze"			"{1}</font> <font color='#FFFF00'>se chystá na divokou jízdu!"
+		"sk"			"{1}</font> <font color='#FFFF00'>sa chystá na divokú jazdu!"
+		"de"			"{1}</font> <font color='#FFFF00'>macht eine wilde Fahrt!"
+		"pl"			"{1}</font> <font color='#FFFF00'>wybiera się na dziką przejażdżkę!"
 	}
 	"loss timebomb chat msg"
 	{
@@ -1018,272 +1443,272 @@
 	"loss timebomb hint msg"
 	{
 		"#format"		"{1:s}"
-		"en"			"{1}</font> <font color = '#FFFF00'>is a time-bomb !!!"
-		"cze"			"{1}</font> <font color = '#FFFF00'>je z něho časovaná bomba !!!"
-		"sk"			"{1}</font> <font color = '#FFFF00'>je z neho časovaná bomba !!!"
-		"de"			"{1}</font> <font color = '#FFFF00'>ist eine Zeitbombe !!!"
-		"pl"			"{1}</font> <font color = '#FFFF00'>jest bombą zegarową !!!"
+		"en"			"{1}</font> <font color='#FFFF00'>is a time-bomb !!!"
+		"cze"			"{1}</font> <font color='#FFFF00'>je z něho časovaná bomba !!!"
+		"sk"			"{1}</font> <font color='#FFFF00'>je z neho časovaná bomba !!!"
+		"de"			"{1}</font> <font color='#FFFF00'>ist eine Zeitbombe !!!"
+		"pl"			"{1}</font> <font color='#FFFF00'>jest bombą zegarową !!!"
 	}
 	"loss time start wildride"
 	{
 		"#format"		"{1:s}"
-		"en"			"{1}</font> <font color = '#FFFF00'>falling on ass..."
-		"cze"			"{1}</font> <font color = '#FFFF00'>padá na zadek...<"
-		"sk"			"{1}</font> <font color = '#FFFF00'>padá na zadok...<"
-		"de"			"{1}</font> <font color = '#FFFF00'>auf Arsch fallen ..."
-		"pl"			"{1}</font> <font color = '#FFFF00'>upadł na dupę..."
+		"en"			"{1}</font> <font color='#FFFF00'>falling on ass..."
+		"cze"			"{1}</font> <font color='#FFFF00'>padá na zadek...<"
+		"sk"			"{1}</font> <font color='#FFFF00'>padá na zadok...<"
+		"de"			"{1}</font> <font color='#FFFF00'>auf Arsch fallen ..."
+		"pl"			"{1}</font> <font color='#FFFF00'>upadł na dupę..."
 	}
 	"loss time on wildride"
 	{
 		"#format"		"{1:s},{2:d}"
-		"en"			"{1}</font> <font color = '#FFFF00'>will fall </font><font color = '#FFFFFF'>{2}"
-		"cze"			"{1}</font> <font color = '#FFFF00'>spadne za </font><font color = '#FFFFFF'>{2}"
-		"sk"			"{1}</font> <font color = '#FFFF00'>spadne za </font><font color = '#FFFFFF'>{2}"
-		"de"			"{1}</font> <font color = '#FFFF00'>wird fallen </font><font color = '#FFFFFF'>{2}"
-		"pl"			"{1}</font> <font color = '#FFFF00'>spadnie </font><font color = '#FFFFFF'>{2}"
+		"en"			"{1}</font> <font color='#FFFF00'>will fall </font><font color='#FFFFFF'>{2}"
+		"cze"			"{1}</font> <font color='#FFFF00'>spadne za </font><font color='#FFFFFF'>{2}"
+		"sk"			"{1}</font> <font color='#FFFF00'>spadne za </font><font color='#FFFFFF'>{2}"
+		"de"			"{1}</font> <font color='#FFFF00'>wird fallen </font><font color='#FFFFFF'>{2}"
+		"pl"			"{1}</font> <font color='#FFFF00'>spadnie </font><font color='#FFFFFF'>{2}"
 	}
 	"loss time end wildride"
 	{
 		"#format"		"{1:s}"
-		"en"			"{1}</font> <font color = '#FFFF00'>died by horrible fall."
-		"cze"			"{1}</font> <font color = '#FFFF00'>zemřel hrozným pádem."
-		"sk"			"{1}</font> <font color = '#FFFF00'>zomrel hrozným pádom."
-		"de"			"{1}</font> <font color = '#FFFF00'>gestorben durch einen schrecklichen Sturz."
-		"pl"			"{1}</font> <font color = '#FFFF00'>umiera od upadku."
+		"en"			"{1}</font> <font color='#FFFF00'>died by horrible fall."
+		"cze"			"{1}</font> <font color='#FFFF00'>zemřel hrozným pádem."
+		"sk"			"{1}</font> <font color='#FFFF00'>zomrel hrozným pádom."
+		"de"			"{1}</font> <font color='#FFFF00'>gestorben durch einen schrecklichen Sturz."
+		"pl"			"{1}</font> <font color='#FFFF00'>umiera od upadku."
 	}
 	"loss time on drug"
 	{
 		"#format"		"{1:s},{2:d}"
-		"en"			"{1}</font> <font color = '#FFFF00'>is drugged for </font><font color = '#FFFFFF'>{2}"
-		"cze"			"{1}</font> <font color = '#FFFF00'>je zdrogovaný ještě </font><font color = '#FFFFFF'>{2}"
-		"sk"			"{1}</font> <font color = '#FFFF00'>je zdrogovaný na </font><font color = '#FFFFFF'>{2}"
-		"de"			"{1}</font> <font color = '#FFFF00'>ist unter Drogen gesetzt </font><font color = '#FFFFFF'>{2}"
-		"pl"			"{1}</font> <font color = '#FFFF00'>jest naćpany przez </font><font color = '#FFFFFF'>{2}"
+		"en"			"{1}</font> <font color='#FFFF00'>is drugged for </font><font color='#FFFFFF'>{2}"
+		"cze"			"{1}</font> <font color='#FFFF00'>je zdrogovaný ještě </font><font color='#FFFFFF'>{2}"
+		"sk"			"{1}</font> <font color='#FFFF00'>je zdrogovaný na </font><font color='#FFFFFF'>{2}"
+		"de"			"{1}</font> <font color='#FFFF00'>ist unter Drogen gesetzt </font><font color='#FFFFFF'>{2}"
+		"pl"			"{1}</font> <font color='#FFFF00'>jest naćpany przez </font><font color='#FFFFFF'>{2}"
 	}
 	"loss time end drug"
 	{
 		"#format"		"{1:s}"
-		"en"			"{1}</font> <font color = '#FFFF00'>will no longer take drugs."
-		"cze"			"{1}</font> <font color = '#FFFF00'>už nebude brát drogy."
-		"sk"			"{1}</font> <font color = '#FFFF00'>už nebude užívať drogy."
-		"de"			"{1}</font> <font color = '#FFFF00'>werde keine Drogen mehr nehmen."
-		"pl"			"{1}</font> <font color = '#FFFF00'>już nie będzie ćpał."
+		"en"			"{1}</font> <font color='#FFFF00'>will no longer take drugs."
+		"cze"			"{1}</font> <font color='#FFFF00'>už nebude brát drogy."
+		"sk"			"{1}</font> <font color='#FFFF00'>už nebude užívať drogy."
+		"de"			"{1}</font> <font color='#FFFF00'>werde keine Drogen mehr nehmen."
+		"pl"			"{1}</font> <font color='#FFFF00'>już nie będzie ćpał."
 	}
 	"loss time on zeus"
 	{
 		"#format"		"{1:s},{2:d}"
-		"en"			"{1}</font> <font color = '#FFFF00'>is omnipotent Zeus for </font><font color = '#FFFFFF'>{2}"
-		"cze"			"{1}</font> <font color = '#FFFF00'>je všemocný Zeus na </font><font color = '#FFFFFF'>{2}"
-		"sk"			"{1}</font> <font color = '#FFFF00'>je všemocný Zeus na </font><font color = '#FFFFFF'>{2}"
-		"de"			"{1}</font> <font color = '#FFFF00'>ist allmächtiger Zeus für </font><font color = '#FFFFFF'>{2}"
-		"pl"			"{1}</font> <font color = '#FFFF00'>jest wszechmogącym Zeusem przez </font><font color = '#FFFFFF'>{2}"
+		"en"			"{1}</font> <font color='#FFFF00'>is omnipotent Zeus for </font><font color='#FFFFFF'>{2}"
+		"cze"			"{1}</font> <font color='#FFFF00'>je všemocný Zeus na </font><font color='#FFFFFF'>{2}"
+		"sk"			"{1}</font> <font color='#FFFF00'>je všemocný Zeus na </font><font color='#FFFFFF'>{2}"
+		"de"			"{1}</font> <font color='#FFFF00'>ist allmächtiger Zeus für </font><font color='#FFFFFF'>{2}"
+		"pl"			"{1}</font> <font color='#FFFF00'>jest wszechmogącym Zeusem przez </font><font color='#FFFFFF'>{2}"
 	}
 	"loss time end zeus"
 	{
 		"#format"		"{1:s}"
-		"en"			"{1}</font> <font color = '#FFFF00'>in no longer Zeus"
-		"cze"			"{1}</font> <font color = '#FFFF00'>už není Zeus teď je to sráč."
-		"sk"			"{1}</font> <font color = '#FFFF00'>už nie je Zeus teraz je to sráč."
-		"de"			"{1}</font> <font color = '#FFFF00'>nicht mehr Zeus"
-		"pl"			"{1}</font> <font color = '#FFFF00'>nie jest już Zeusem"
+		"en"			"{1}</font> <font color='#FFFF00'>in no longer Zeus"
+		"cze"			"{1}</font> <font color='#FFFF00'>už není Zeus teď je to sráč."
+		"sk"			"{1}</font> <font color='#FFFF00'>už nie je Zeus teraz je to sráč."
+		"de"			"{1}</font> <font color='#FFFF00'>nicht mehr Zeus"
+		"pl"			"{1}</font> <font color='#FFFF00'>nie jest już Zeusem"
 	}
 	"loss time on god"
 	{
 		"#format"		"{1:s},{2:d}"
-		"en"			"{1}</font> <font color = '#FFFF00'>is immortal for </font><font color = '#FFFFFF'>{2}"
-		"cze"			"{1}</font> <font color = '#FFFF00'>je nesmrtelný ještě </font><font color = '#FFFFFF'>{2}"
-		"sk"			"{1}</font> <font color = '#FFFF00'>je nesmrtelný na </font><font color = '#FFFFFF'>{2}"
-		"de"			"{1}</font> <font color = '#FFFF00'>ist unsterblich für </font><font color = '#FFFFFF'>{2}"
-		"pl"			"{1}</font> <font color = '#FFFF00'>jest nieśmiertelny przez </font><font color = '#FFFFFF'>{2}"
+		"en"			"{1}</font> <font color='#FFFF00'>is immortal for </font><font color='#FFFFFF'>{2}"
+		"cze"			"{1}</font> <font color='#FFFF00'>je nesmrtelný ještě </font><font color='#FFFFFF'>{2}"
+		"sk"			"{1}</font> <font color='#FFFF00'>je nesmrtelný na </font><font color='#FFFFFF'>{2}"
+		"de"			"{1}</font> <font color='#FFFF00'>ist unsterblich für </font><font color='#FFFFFF'>{2}"
+		"pl"			"{1}</font> <font color='#FFFF00'>jest nieśmiertelny przez </font><font color='#FFFFFF'>{2}"
 	}
 	"loss time end god"
 	{
 		"#format"		"{1:s}"
-		"en"			"{1}</font> <font color = '#FFFF00'>is no longer immortal."
-		"cze"			"{1}</font> <font color = '#FFFF00'>už není nesmrtelný."
-		"sk"			"{1}</font> <font color = '#FFFF00'>už nie je nemrtelný."
-		"de"			"{1}</font> <font color = '#FFFF00'>ist nicht mehr unsterblich."
-		"pl"			"{1}</font> <font color = '#FFFF00'>nie jest już nieśmiertelny."
+		"en"			"{1}</font> <font color='#FFFF00'>is no longer immortal."
+		"cze"			"{1}</font> <font color='#FFFF00'>už není nesmrtelný."
+		"sk"			"{1}</font> <font color='#FFFF00'>už nie je nemrtelný."
+		"de"			"{1}</font> <font color='#FFFF00'>ist nicht mehr unsterblich."
+		"pl"			"{1}</font> <font color='#FFFF00'>nie jest już nieśmiertelny."
 	}
 	"loss time on rambo"
 	{
 		"#format"		"{1:s},{2:d}"
-		"en"			"{1}</font> <font color = '#FFFF00'>is Rambo for </font><font color = '#FFFFFF'>{2}"
-		"cze"			"{1}</font> <font color = '#FFFF00'>je Rambo ještě </font><font color = '#FFFFFF'>{2}"
-		"sk"			"{1}</font> <font color = '#FFFF00'>je Rambo na  </font><font color = '#FFFFFF'>{2}"
-		"de"			"{1}</font> <font color = '#FFFF00'>ist Rambo für </font><font color = '#FFFFFF'>{2}"
-		"pl"			"{1}</font> <font color = '#FFFF00'>jest Rambo przez </font><font color = '#FFFFFF'>{2}"
+		"en"			"{1}</font> <font color='#FFFF00'>is Rambo for </font><font color='#FFFFFF'>{2}"
+		"cze"			"{1}</font> <font color='#FFFF00'>je Rambo ještě </font><font color='#FFFFFF'>{2}"
+		"sk"			"{1}</font> <font color='#FFFF00'>je Rambo na  </font><font color='#FFFFFF'>{2}"
+		"de"			"{1}</font> <font color='#FFFF00'>ist Rambo für </font><font color='#FFFFFF'>{2}"
+		"pl"			"{1}</font> <font color='#FFFF00'>jest Rambo przez </font><font color='#FFFFFF'>{2}"
 	}
 	"loss time end rambo"
 	{
 		"#format"		"{1:s}"
-		"en"			"{1}</font> <font color = '#FFFF00'>is no longer Rambo."
-		"cze"			"{1}</font> <font color = '#FFFF00'>už není Rambo."
-		"sk"			"{1}</font> <font color = '#FFFF00'>už nie je Rambo."
-		"de"			"{1}</font> <font color = '#FFFF00'>ist nicht mehr Rambo."
-		"dpl"			"{1}</font> <font color = '#FFFF00'>nie jest już Rambo."
+		"en"			"{1}</font> <font color='#FFFF00'>is no longer Rambo."
+		"cze"			"{1}</font> <font color='#FFFF00'>už není Rambo."
+		"sk"			"{1}</font> <font color='#FFFF00'>už nie je Rambo."
+		"de"			"{1}</font> <font color='#FFFF00'>ist nicht mehr Rambo."
+		"dpl"			"{1}</font> <font color='#FFFF00'>nie jest już Rambo."
 	}
 	"loss time on steroids"
 	{
 		"#format"		"{1:s},{2:d}"
-		"en"			"{1}</font> <font color = '#FFFF00'>taking steroids for </font><font color = '#FFFFFF'>{2}"
-		"cze"			"{1}</font> <font color = '#FFFF00'>bere sterojdy ještě </font><font color = '#FFFFFF'>{2}"
-		"sk"			"{1}</font> <font color = '#FFFF00'>berie steroidy na </font><font color = '#FFFFFF'>{2}"
-		"de"			"{1}</font> <font color = '#FFFF00'>Nahm Steroiden für </font><font color = '#FFFFFF'>{2}"
-		"pl"			"{1}</font> <font color = '#FFFF00'>bierze sterydy przez </font><font color = '#FFFFFF'>{2}"
+		"en"			"{1}</font> <font color='#FFFF00'>taking steroids for </font><font color='#FFFFFF'>{2}"
+		"cze"			"{1}</font> <font color='#FFFF00'>bere sterojdy ještě </font><font color='#FFFFFF'>{2}"
+		"sk"			"{1}</font> <font color='#FFFF00'>berie steroidy na </font><font color='#FFFFFF'>{2}"
+		"de"			"{1}</font> <font color='#FFFF00'>Nahm Steroiden für </font><font color='#FFFFFF'>{2}"
+		"pl"			"{1}</font> <font color='#FFFF00'>bierze sterydy przez </font><font color='#FFFFFF'>{2}"
 	}
 	"loss time end steroids"
 	{
 		"#format"		"{1:s}"
-		"en"			"{1}</font> <font color = '#FFFF00'>steroids run out."
-		"cze"			"{1}</font> <font color = '#FFFF00'>sterojdy mu došly."
-		"sk"			"{1}</font> <font color = '#FFFF00'>steroidy sa mu minuli."
-		"de"			"{1}</font> <font color = '#FFFF00'>Steroide sind ausgelaufen."
-		"pl"			"{1}</font> <font color = '#FFFF00'>skończyły się sterydy."
+		"en"			"{1}</font> <font color='#FFFF00'>steroids run out."
+		"cze"			"{1}</font> <font color='#FFFF00'>sterojdy mu došly."
+		"sk"			"{1}</font> <font color='#FFFF00'>steroidy sa mu minuli."
+		"de"			"{1}</font> <font color='#FFFF00'>Steroide sind ausgelaufen."
+		"pl"			"{1}</font> <font color='#FFFF00'>skończyły się sterydy."
 	}
 	"loss time on invis"
 	{
 		"#format"		"{1:s},{2:d}"
-		"en"			"{1}</font> <font color = '#FFFF00'>merged with the environment for </font><font color = '#FFFFFF'>{2}"
-		"cze"			"{1}</font> <font color = '#FFFF00'>splinul s prostředím na </font><font color = '#FFFFFF'>{2}"
-		"sk"			"{1}</font> <font color = '#FFFF00'>splynul s prostredím na </font><font color = '#FFFFFF'>{2}"
-		"de"			"{1}</font> <font color = '#FFFF00'>verschmalz mit der Umgebung für </font><font color = '#FFFFFF'>{2}"
-		"pl"			"{1}</font> <font color = '#FFFF00'>jest połączony z otoczeniem przez </font><font color = '#FFFFFF'>{2}"
+		"en"			"{1}</font> <font color='#FFFF00'>merged with the environment for </font><font color='#FFFFFF'>{2}"
+		"cze"			"{1}</font> <font color='#FFFF00'>splinul s prostředím na </font><font color='#FFFFFF'>{2}"
+		"sk"			"{1}</font> <font color='#FFFF00'>splynul s prostredím na </font><font color='#FFFFFF'>{2}"
+		"de"			"{1}</font> <font color='#FFFF00'>verschmalz mit der Umgebung für </font><font color='#FFFFFF'>{2}"
+		"pl"			"{1}</font> <font color='#FFFF00'>jest połączony z otoczeniem przez </font><font color='#FFFFFF'>{2}"
 	}
 	"loss time end invis"
 	{
 		"#format"		"{1:s}"
-		"en"			"{1}</font> <font color = '#FFFF00'>is no longer invisible."
-		"cze"			"{1}</font> <font color = '#FFFF00'>uz není neviditelný."
-		"sk"			"{1}</font> <font color = '#FFFF00'>uz nie je neviditelný."
-		"de"			"{1}</font> <font color = '#FFFF00'>ist nicht mehr unsichtbar."
-		"pl"			"{1}</font> <font color = '#FFFF00'>nie jest już niewidzialny."
+		"en"			"{1}</font> <font color='#FFFF00'>is no longer invisible."
+		"cze"			"{1}</font> <font color='#FFFF00'>uz není neviditelný."
+		"sk"			"{1}</font> <font color='#FFFF00'>uz nie je neviditelný."
+		"de"			"{1}</font> <font color='#FFFF00'>ist nicht mehr unsichtbar."
+		"pl"			"{1}</font> <font color='#FFFF00'>nie jest już niewidzialny."
 	}
 	"loss time on weightless"
 	{
 		"#format"		"{1:s},{2:d}"
-		"en"			"{1}</font> <font color = '#FFFF00'>is in a state of weightlessness for </font><font color = '#FFFFFF'>{2}"
-		"cze"			"{1}</font> <font color = '#FFFF00'>je ve stavu beztíže ještě </font><font color = '#FFFFFF'>{2}"
-		"sk"			"{1}</font> <font color = '#FFFF00'>je v stave beztiaže na </font><font color = '#FFFFFF'>{2}"
-		"de"			"{1}</font> <font color = '#FFFF00'>ist in einem Zustand der Schwerelosigkeit für </font><font color = '#FFFFFF'>{2}"
-		"pl"			"{1}</font> <font color = '#FFFF00'>jest bez wagi przez </font><font color = '#FFFFFF'>{2}"
+		"en"			"{1}</font> <font color='#FFFF00'>is in a state of weightlessness for </font><font color='#FFFFFF'>{2}"
+		"cze"			"{1}</font> <font color='#FFFF00'>je ve stavu beztíže ještě </font><font color='#FFFFFF'>{2}"
+		"sk"			"{1}</font> <font color='#FFFF00'>je v stave beztiaže na </font><font color='#FFFFFF'>{2}"
+		"de"			"{1}</font> <font color='#FFFF00'>ist in einem Zustand der Schwerelosigkeit für </font><font color='#FFFFFF'>{2}"
+		"pl"			"{1}</font> <font color='#FFFF00'>jest bez wagi przez </font><font color='#FFFFFF'>{2}"
 	}
 	"loss time end weightless"
 	{
 		"#format"		"{1:s}"
-		"en"			"{1}</font> <font color = '#FFFF00'>is already on his feet."
-		"cze"			"{1}</font> <font color = '#FFFF00'>už je nohama na zemi."
-		"sk"			"{1}</font> <font color = '#FFFF00'>už je nohami na zemi."
-		"de"			"{1}</font> <font color = '#FFFF00'>ist schon auf den Beinen."
-		"pl"			"{1}</font> <font color = '#FFFF00'>stanał na ziemi."
+		"en"			"{1}</font> <font color='#FFFF00'>is already on his feet."
+		"cze"			"{1}</font> <font color='#FFFF00'>už je nohama na zemi."
+		"sk"			"{1}</font> <font color='#FFFF00'>už je nohami na zemi."
+		"de"			"{1}</font> <font color='#FFFF00'>ist schon auf den Beinen."
+		"pl"			"{1}</font> <font color='#FFFF00'>stanał na ziemi."
 	}
 	"loss time on slap"
 	{
 		"#format"		"{1:s},{2:d}"
-		"en"			"{1}</font> <font color = '#FFFF00'>is slapping for </font><font color = '#FFFFFF'>{2}"
-		"cze"			"{1}</font> <font color = '#FFFF00'>je fackovanej ještě </font><font color = '#FFFFFF'>{2}"
-		"sk"			"{1}</font> <font color = '#FFFF00'>je fackovaný na </font><font color = '#FFFFFF'>{2}"
-		"de"			"{1}</font> <font color = '#FFFF00'>wird geschlagen für </font><font color = '#FFFFFF'>{2}"
-		"pl"			"{1}</font> <font color = '#FFFF00'>uderza przez </font><font color = '#FFFFFF'>{2}"
+		"en"			"{1}</font> <font color='#FFFF00'>is slapping for </font><font color='#FFFFFF'>{2}"
+		"cze"			"{1}</font> <font color='#FFFF00'>je fackovanej ještě </font><font color='#FFFFFF'>{2}"
+		"sk"			"{1}</font> <font color='#FFFF00'>je fackovaný na </font><font color='#FFFFFF'>{2}"
+		"de"			"{1}</font> <font color='#FFFF00'>wird geschlagen für </font><font color='#FFFFFF'>{2}"
+		"pl"			"{1}</font> <font color='#FFFF00'>uderza przez </font><font color='#FFFFFF'>{2}"
 	}
 	"loss time end slap"
 	{
 		"#format"		"{1:s}"
-		"en"			"{1}</font> <font color = '#FFFF00'>is no longer slapping"
-		"cze"			"{1}</font> <font color = '#FFFF00'>už není fackován"
-		"sk"			"{1}</font> <font color = '#FFFF00'>už nie je fackovaný"
-		"de"			"{1}</font> <font color = '#FFFF00'>wird nicht mehr geschlagen"
-		"pl"			"{1}</font> <font color = '#FFFF00'>już nie uderza"
+		"en"			"{1}</font> <font color='#FFFF00'>is no longer slapping"
+		"cze"			"{1}</font> <font color='#FFFF00'>už není fackován"
+		"sk"			"{1}</font> <font color='#FFFF00'>už nie je fackovaný"
+		"de"			"{1}</font> <font color='#FFFF00'>wird nicht mehr geschlagen"
+		"pl"			"{1}</font> <font color='#FFFF00'>już nie uderza"
 	}
 	"loss time died slap"
 	{
 		"#format"		"{1:s}"
-		"en"			"{1}</font> <font color = '#FFFF00'>was slapping to death! xD"
-		"cze"			"{1}</font> <font color = '#FFFF00'>byl ufackován k smrti! xD"
-		"sk"			"{1}</font> <font color = '#FFFF00'>bol ufackovaný k smrti! xD"
-		"de"			"{1}</font> <font color = '#FFFF00'>wurde zu Tode geschlagen! xD"
-		"pl"			"{1}</font> <font color = '#FFFF00'>uderzał do śmierci! XD"
+		"en"			"{1}</font> <font color='#FFFF00'>was slapping to death! xD"
+		"cze"			"{1}</font> <font color='#FFFF00'>byl ufackován k smrti! xD"
+		"sk"			"{1}</font> <font color='#FFFF00'>bol ufackovaný k smrti! xD"
+		"de"			"{1}</font> <font color='#FFFF00'>wurde zu Tode geschlagen! xD"
+		"pl"			"{1}</font> <font color='#FFFF00'>uderzał do śmierci! XD"
 	}
 	"loss time on oldman"
 	{
 		"#format"		"{1:s},{2:d}"
-		"en"			"{1}</font> <font color = '#FFFF00'>is old man for </font><font color = '#FFFFFF'>{2}"
-		"cze"			"{1}</font> <font color = '#FFFF00'>zestárnul na </font><font color = '#FFFFFF'>{2}"
-		"sk"			"{1}</font> <font color = '#FFFF00'>zostarol na </font><font color = '#FFFFFF'>{2}"
-		"de"			"{1}</font> <font color = '#FFFF00'>ist ein alter Mann für </font><font color = '#FFFFFF'>{2}"
-		"pl"			"{1}</font> <font color = '#FFFF00'>jest staruszkiem przez </font><font color = '#FFFFFF'>{2}"
+		"en"			"{1}</font> <font color='#FFFF00'>is old man for </font><font color='#FFFFFF'>{2}"
+		"cze"			"{1}</font> <font color='#FFFF00'>zestárnul na </font><font color='#FFFFFF'>{2}"
+		"sk"			"{1}</font> <font color='#FFFF00'>zostarol na </font><font color='#FFFFFF'>{2}"
+		"de"			"{1}</font> <font color='#FFFF00'>ist ein alter Mann für </font><font color='#FFFFFF'>{2}"
+		"pl"			"{1}</font> <font color='#FFFF00'>jest staruszkiem przez </font><font color='#FFFFFF'>{2}"
 	}
 	"loss time end oldman"
 	{
 		"#format"		"{1:s}"
-		"en"			"{1}</font> <font color = '#FFFF00'>drink water youth!"
-		"cze"			"{1}</font> <font color = '#FFFF00'>vypil vodu mládí!"
-		"sk"			"{1}</font> <font color = '#FFFF00'>vypil vodu mladosti!"
-		"de"			"{1}</font> <font color = '#FFFF00'>Trink Jugend Wasser!"
-		"pl"			"{1}</font> <font color = '#FFFF00'>wypił wodę młodości!"
+		"en"			"{1}</font> <font color='#FFFF00'>drink water youth!"
+		"cze"			"{1}</font> <font color='#FFFF00'>vypil vodu mládí!"
+		"sk"			"{1}</font> <font color='#FFFF00'>vypil vodu mladosti!"
+		"de"			"{1}</font> <font color='#FFFF00'>Trink Jugend Wasser!"
+		"pl"			"{1}</font> <font color='#FFFF00'>wypił wodę młodości!"
 	}
 	"loss time died oldman"
 	{
 		"#format"		"{1:s}"
-		"en"			"{1}</font> <font color = '#FFFF00'>died of a heart attack"
-		"cze"			"{1}</font> <font color = '#FFFF00'>zemřel na infarkt"
-		"sk"			"{1}</font> <font color = '#FFFF00'>zomrel na infarkt"
-		"de"			"{1}</font> <font color = '#FFFF00'>starb an einem Herzinfarkt"
-		"pl"			"{1}</font> <font color = '#FFFF00'>umarł na zawał"
+		"en"			"{1}</font> <font color='#FFFF00'>died of a heart attack"
+		"cze"			"{1}</font> <font color='#FFFF00'>zemřel na infarkt"
+		"sk"			"{1}</font> <font color='#FFFF00'>zomrel na infarkt"
+		"de"			"{1}</font> <font color='#FFFF00'>starb an einem Herzinfarkt"
+		"pl"			"{1}</font> <font color='#FFFF00'>umarł na zawał"
 	}
 	"loss time on horny"
 	{
 		"#format"		"{1:s},{2:d}"
-		"en"			"{1}</font> <font color = '#FFFF00'>is horny for </font><font color = '#FFFFFF'>{2}"
-		"cze"			"{1}</font> <font color = '#FFFF00'>je nadržený ještě </font><font color = '#FFFFFF'>{2}"
-		"sk"			"{1}</font> <font color = '#FFFF00'>je nadržaný na </font><font color = '#FFFFFF'>{2}"
-		"de"			"{1}</font> <font color = '#FFFF00'>ist geil für </font><font color = '#FFFFFF'>{2}"
-		"pl"			"{1}</font> <font color = '#FFFF00'>jest napalny przez </font><font color = '#FFFFFF'>{2}"
+		"en"			"{1}</font> <font color='#FFFF00'>is horny for </font><font color='#FFFFFF'>{2}"
+		"cze"			"{1}</font> <font color='#FFFF00'>je nadržený ještě </font><font color='#FFFFFF'>{2}"
+		"sk"			"{1}</font> <font color='#FFFF00'>je nadržaný na </font><font color='#FFFFFF'>{2}"
+		"de"			"{1}</font> <font color='#FFFF00'>ist geil für </font><font color='#FFFFFF'>{2}"
+		"pl"			"{1}</font> <font color='#FFFF00'>jest napalny przez </font><font color='#FFFFFF'>{2}"
 	}
 	"loss time end horny"
 	{
 		"#format"		"{1:s}"
-		"en"			"{1}</font> <font color = '#FFFF00'>will no longer horny."
-		"cze"			"{1}</font> <font color = '#FFFF00'>už není nadržený."
-		"sk"			"{1}</font> <font color = '#FFFF00'>už nie je nadržaný."
-		"de"			"{1}</font> <font color = '#FFFF00'>wird nicht mehr geil."
-		"pl"			"{1}</font> <font color = '#FFFF00'>doszedł."
+		"en"			"{1}</font> <font color='#FFFF00'>will no longer horny."
+		"cze"			"{1}</font> <font color='#FFFF00'>už není nadržený."
+		"sk"			"{1}</font> <font color='#FFFF00'>už nie je nadržaný."
+		"de"			"{1}</font> <font color='#FFFF00'>wird nicht mehr geil."
+		"pl"			"{1}</font> <font color='#FFFF00'>doszedł."
 	}
 	"loss time on timebomb"
 	{
 		"#format"		"{1:s},{2:d}"
-		"en"			"{1}</font> <font color = '#FFFF00'>will be explode in </font><font color = '#FFFFFF'>{2}"
-		"cze"			"{1}</font> <font color = '#FFFF00'>vybouchne za </font><font color = '#FFFFFF'>{2}"
-		"sk"			"{1}</font> <font color = '#FFFF00'>vybuchne za </font><font color = '#FFFFFF'>{2}"
-		"de"			"{1}</font> <font color = '#FFFF00'>wird explodieren in </font><font color = '#FFFFFF'>{2}"
-		"pl"			"{1}</font> <font color = '#FFFF00'>wybuchnie za </font><font color = '#FFFFFF'>{2}"
+		"en"			"{1}</font> <font color='#FFFF00'>will be explode in </font><font color='#FFFFFF'>{2}"
+		"cze"			"{1}</font> <font color='#FFFF00'>vybouchne za </font><font color='#FFFFFF'>{2}"
+		"sk"			"{1}</font> <font color='#FFFF00'>vybuchne za </font><font color='#FFFFFF'>{2}"
+		"de"			"{1}</font> <font color='#FFFF00'>wird explodieren in </font><font color='#FFFFFF'>{2}"
+		"pl"			"{1}</font> <font color='#FFFF00'>wybuchnie za </font><font color='#FFFFFF'>{2}"
 	}
 	"loss time end timebomb"
 	{
 		"#format"		"{1:s}"
-		"en"			"{1}</font> <font color = '#FFFF00'>has exploded."
-		"cze"			"{1}</font> <font color = '#FFFF00'>se rozletěl na sračky xD"
-		"sk"			"{1}</font> <font color = '#FFFF00'>sa rozletel na sračky xD"
-		"de"			"{1}</font> <font color = '#FFFF00'>ist explodiert."
-		"pl"			"{1}</font> <font color = '#FFFF00'>wybuchnął."
+		"en"			"{1}</font> <font color='#FFFF00'>has exploded."
+		"cze"			"{1}</font> <font color='#FFFF00'>se rozletěl na sračky xD"
+		"sk"			"{1}</font> <font color='#FFFF00'>sa rozletel na sračky xD"
+		"de"			"{1}</font> <font color='#FFFF00'>ist explodiert."
+		"pl"			"{1}</font> <font color='#FFFF00'>wybuchnął."
 	}
 	"loss time on wh"
 	{
 		"#format"		"{1:s},{2:d}"
-		"en"			"{1}</font> <font color = '#FFFF00'>has Wallhack for </font><font color = '#FFFFFF'>{2}"
-		"cze"			"{1}</font> <font color = '#FFFF00'>bude mít Wallhack ještě </font><font color = '#FFFFFF'>{2}"
-		"sk"			"{1}</font> <font color = '#FFFF00'>buda mať Wallhack na </font><font color = '#FFFFFF'>{2}"
-		"de"			"{1}</font> <font color = '#FFFF00'>hat Wallhack für </font><font color = '#FFFFFF'>{2}"
-		"pl"			"{1}</font> <font color = '#FFFF00'>ma Wallhack przez </font><font color = '#FFFFFF'>{2}"
+		"en"			"{1}</font> <font color='#FFFF00'>has Wallhack for </font><font color='#FFFFFF'>{2}"
+		"cze"			"{1}</font> <font color='#FFFF00'>bude mít Wallhack ještě </font><font color='#FFFFFF'>{2}"
+		"sk"			"{1}</font> <font color='#FFFF00'>buda mať Wallhack na </font><font color='#FFFFFF'>{2}"
+		"de"			"{1}</font> <font color='#FFFF00'>hat Wallhack für </font><font color='#FFFFFF'>{2}"
+		"pl"			"{1}</font> <font color='#FFFF00'>ma Wallhack przez </font><font color='#FFFFFF'>{2}"
 	}
 	"loss time end wh"
 	{
 		"#format"		"{1:s}"
-		"en"			"{1}</font> <font color = '#FFFF00'>turned off Wallhack."
-		"cze"			"{1}</font> <font color = '#FFFF00'>už vypnul Wallhack."
-		"sk"			"{1}</font> <font color = '#FFFF00'>už vypnol Wallhack."
-		"de"			"{1}</font> <font color = '#FFFF00'>Wallhack ausgeschaltet."
-		"pl"			"{1}</font> <font color = '#FFFF00'>wyłączył Wallhack."
+		"en"			"{1}</font> <font color='#FFFF00'>turned off Wallhack."
+		"cze"			"{1}</font> <font color='#FFFF00'>už vypnul Wallhack."
+		"sk"			"{1}</font> <font color='#FFFF00'>už vypnol Wallhack."
+		"de"			"{1}</font> <font color='#FFFF00'>Wallhack ausgeschaltet."
+		"pl"			"{1}</font> <font color='#FFFF00'>wyłączył Wallhack."
 	}
 	"must be VIP for AWP"
 	{
@@ -1488,6 +1913,22 @@
 		"sk"			"Tesla Granát"
 		"de"			"Tesla Granate"
 		"pl"			"Granat Tesla"
+	}
+	"Port-A-Fort"
+	{
+		"en"			"Port-A-Fort"
+		"cze"			"Port-A-Fort"
+		"sk"			"Port-A-Fort"
+		"de"			"Port-A-Fort"
+		"pl"			"Port-A-Fort"
+	}
+	"Rift-To-Go"
+	{
+		"en"			"Rift-To-Go"
+		"cze"			"Rift-To-Go"
+		"sk"			"Rift-To-Go"
+		"de"			"Rift-To-Go"
+		"pl"			"Rift-To-Go"
 	}
 	"Shop Speed #1"
 	{
@@ -1948,11 +2389,11 @@
 	"you reach level"
 	{
 		"#format"		"{1:i}"
-		"en"			"You have reached </font><font color = '#FFFFFF'>{1}. </font><font color = '#FF00FF'>level!"
-		"cze"			"Právě si dosáhl </font><font color = '#FFFFFF'>{1}. </font><font color = '#FF00FF'>úrovně!"
-		"sk"			"Práve si dosiahol </font><font color = '#FFFFFF'>{1}. </font><font color = '#FF00FF'>úroveň!"
-		"de"			"Du hast erreicht </font><font color = '#FFFFFF'>{1}. </font><font color = '#FF00FF'>Level!"
-		"pl"			"Osiągnąłeś </font><font color = '#FFFFFF'>{1}. </font><font color = '#FF00FF'>poziom!"
+		"en"			"You have reached </font><font color='#FFFFFF'>{1}. </font><font color='#FF00FF'>level!"
+		"cze"			"Právě si dosáhl </font><font color='#FFFFFF'>{1}. </font><font color='#FF00FF'>úrovně!"
+		"sk"			"Práve si dosiahol </font><font color='#FFFFFF'>{1}. </font><font color='#FF00FF'>úroveň!"
+		"de"			"Du hast erreicht </font><font color='#FFFFFF'>{1}. </font><font color='#FF00FF'>Level!"
+		"pl"			"Osiągnąłeś </font><font color='#FFFFFF'>{1}. </font><font color='#FF00FF'>poziom!"
 	}
 	"player reach level"
 	{
@@ -1969,7 +2410,15 @@
 		"cze"			"{darkred}[!] {default}Nemůžeš pustit píseň na konci kola."
 		"sk"			"{darkred}[!] {default}Nemôžeš pustiť pieseň na konci kola."
 		"de"			"{darkred}[!] {default}Runde Ende, kann Lied nicht spielen."
-		"pl"			"{darkred}[!] {default}Końcówka rundy, nie można puścić piosenki"
+		"pl"			"{darkred}[!] {default}Końcówka rundy, nie można puścić piosenki."
+	}
+	"cant song specialround"
+	{
+		"en"			"{darkred}[!] {default}Now running special round, can't play song."
+		"cze"			"{darkred}[!] {default}Nemůžeš pustit píseň při speciálním kole."
+		"sk"			"{darkred}[!] {default}Nemôžeš pustiť pieseň při speciálním kole."
+		"de"			"{darkred}[!] {default}Jetzt läuft spezielle Runde, kann Lied nicht spielen."
+		"pl"			"{darkred}[!] {default}Teraz podczas specjalnej rundy nie można odtwarzać utworu."
 	}
 	"cant song now playing"
 	{
@@ -2134,6 +2583,14 @@
 		"de"			"Informationen von einem Teamkollegen kaufen"
 		"pl"			"Informacje zakupu członka drużyny"
 	}
+	"set showdmg"
+	{
+		"en"			"Showing Damage"
+		"cze"			"Zobrazovaní zásahů"
+		"sk"			"Zobrazovaní zásahů"
+		"de"			"Schaden anzeigen"
+		"pl"			"Pokazuje obrażenia"
+	}
 	"turned on"
 	{
 		"#format"		"{1:t}"
@@ -2273,6 +2730,14 @@
 		"de"			"Verringere HE Schaden"
 		"pl"			"Niższe obrażenia od granatów"
 	}
+	"bonus blink"
+	{
+		"en"			"Blink"
+		"cze"			"Blink"
+		"sk"			"Blink"
+		"de"			"Blink"
+		"pl"			"Blink"
+	}
 	"bonus nofall"
 	{
 		"en"			"No Fall Damage"
@@ -2280,6 +2745,14 @@
 		"sk"			"No Fall Damage"
 		"de"			"Kein Fallschaden"
 		"pl"			"Brak obrażeń od upadku"
+	}
+	"bonus flamenade"
+	{
+		"en"			"Flame Nades"
+		"cze"			"Zápalné gránaty"
+		"sk"			"Zápalné gránaty"
+		"de"			"Flammennades"
+		"pl"			"Płomień Nades"
 	}
 	"bonus respawn"
 	{
@@ -2289,6 +2762,14 @@
 		"de"			"Respawn"
 		"pl"			"Odrodzenie"
 	}
+	"bonus pilefall"
+	{
+		"en"			"Pilefall"
+		"cze"			"Pilefall"
+		"sk"			"Pilefall"
+		"de"			"Pilefall"
+		"pl"			"Pilefall"
+	}
 	"bonus noflash"
 	{
 		"en"			"No Flash"
@@ -2296,6 +2777,14 @@
 		"sk"			"No Flash"
 		"de"			"Kein Flashbang Effekt"
 		"pl"			"Bezefektowne flashe"
+	}
+	"bonus block"
+	{
+		"en"			"Air Block"
+		"cze"			"Air Block"
+		"sk"			"Air Block"
+		"de"			"Luftblockierung"
+		"pl"			"Blok powietrzny"
 	}
 	"bonus boostjump"
 	{
@@ -2320,6 +2809,14 @@
 		"sk"			"Shoot Jump"
 		"de"			"Shoot Jump"
 		"pl"			"Shoot Jump"
+	}
+	"bonus recall"
+	{
+		"en"			"Recall"
+		"cze"			"Recall"
+		"sk"			"Recall"
+		"de"			"Recall"
+		"pl"			"Recall"
 	}
 	"bonus rope"
 	{
@@ -2744,6 +3241,14 @@
 		"sk"			"Zápalna munícia"
 		"de"			"Brand Kugeln"
 		"pl"			"Podpalające naboje"
+	}
+	"item Port-A-Fort"
+	{
+		"en"			"Port-A-Fort"
+		"cze"			"Port-A-Fort"
+		"sk"			"Port-A-Fort"
+		"de"			"Port-A-Fort"
+		"pl"			"Port-A-Fort"
 	}
 	"item knifevest"
 	{
@@ -3335,7 +3840,7 @@
 	"skin for all"
 	{
 		"en"			"Choose skin for all weapon"
-		"cze"			"Vybrat skin pro všechny zbraň"
+		"cze"			"Vybrat skin pro všechny zbraňe"
 		"sk"			"Vybrať skin pre všetky zbraňe"
 		"de"			"Wähle skin für alle Waffen"
 		"pl"			"Wybierz skin dla wszystkich broni"
@@ -3823,11 +4328,11 @@
 	}
 	"nametag info"
 	{
-		"en"			"Type any text\nExample Magic Stick\nYou can use the HTML format\ne.g: <font color = '#FF0000'>Magic Stick</font> for change text color\ne.g: <font size = '3'>Magic Stick</font> or change text size\nFor delete NameTag enter empty string"
-		"cze"			"Napiš libovolný text\nNapříklad Magic Stick\nMůžete používat HTML formát\nnapr: <font color = '#FF0000'>Magic Stick</font> pro změnu barvy písma\nnapr: <font size = '3'>Magic Stick</font> pro změnu velikosti písma\nPro smazání NameTagu nechte pole prázdné"
-		"sk"			"Napíš ľubovoľný text\nNapríklad Magic Stick\nMôžete používať HTML formát\nnapr: <font color = '#FF0000'>Magic Stick</font> pre zmenu farby písma\nnapr: <font size = '3'>Magic Stick</font> pre zmenu veľkosti písma\nPre zmazanie NameTagu nechajte pole prázdne"
-		"de"			"Geben Sie einen beliebigen Text ein\nBeispiel Magic Stick\nSie können das HTML-Format verwenden \ne.g: <font color = '#FF0000'>Magic Stick</font> für die Änderung der Textfarbe\ne.g .: <font size = '3'> Magic Stick </font> oder Textgröße ändern\nFür das Löschen von NameTag geben Sie eine leere Zeichenfolge ein"
-		"pl"			"Wpisz dowolny tekst\nPrzykład: Magic Stick\nUżyj formatu HTML jeśli chcesz\ne.g: <font color = '#FF0000'>Magic Stick</font> dla zmiany koloru\ne.g: <font size = '3'>Magic Stick</font> lub zmiany rozmiaru tekstu\nDla usunięcia NameTag wpisz pustą wartość"
+		"en"			"Type any text\nExample: Magic Stick\nFor delete NameTag enter empty string"
+		"cze"			"Napiš libovolný text\nNapříklad: Magic Stick\nPro smazání NameTagu nechte pole prázdné"
+		"sk"			"Napíš ľubovoľný text\nNapríklad: Magic Stick\nPre zmazanie NameTagu nechajte pole prázdne"
+		"de"			"Geben Sie einen beliebigen Text ein\nBeispiel: Magic Stick\nFür das Löschen von NameTag geben Sie eine leere Zeichenfolge ein"
+		"pl"			"Wpisz dowolny tekst\nPrzykład: Magic Stick\nDla usunięcia NameTag wpisz pustą wartość"
 	}
 	"nametag info title"
 	{
@@ -3974,6 +4479,162 @@
 		"sk"			"{darkred}[!] {default}Tu nie je dostatok miesta pre vežu!"
 		"de"			"{darkred}[!] {default}Hier ist nicht genug Platz für einen Turm!"
 		"pl"			"{darkred}[!] {default}Nie ma tu wystarczająco miejsca dla wieży!"
+	}
+	"reset skill"
+	{
+		"en"			"{darkred}[!] {default}You has been reset your skill!"
+		"cze"			"{darkred}[!] {default}Vyresetoval sis svůj skill!"
+		"sk"			"{darkred}[!] {default}Vyresetoval sis svůj skill!"
+		"de"			"{darkred}[!] {default}Zresetowałeś swoje umiejętności!"
+		"pl"			"{darkred}[!] {default}Du hast deine Fähigkeiten zurückgesetzt!"
+	}
+	"rate map"
+	{
+		"en"			"Rate the map"
+		"cze"			"Ohodnoť mapu"
+		"sk"			"Ohodnoť mapu"
+		"de"			"Bewerten Sie die Karte"
+		"pl"			"Oceń mapę"
+	}
+	"you rated map"
+	{
+		"en"			"You've rated"
+		"cze"			"Hodnotil jsi"
+		"sk"			"Hodnotil jsi"
+		"de"			"Sie haben bewertet"
+		"pl"			"Oceniłeś"
+	}
+	"player rated map"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"{green}[FUN] {default}{1}{olive} gave this map a rating {default}{2}{olive}."
+		"cze"			"{green}[FUN] {default}{1}{olive} dal této mapě hodnocení {default}{2}{olive}."
+		"sk"			"{green}[FUN] {default}{1}{olive} dal této mapě hodnocení {default}{2}{olive}."
+		"de"			"{green}[FUN] {default}{1}{olive} hat diese Karte bewertet {default}{2}{olive}."
+		"pl"			"{green}[FUN] {default}{1}{olive} nadał tej mapie ocenę {default}{2}{olive}."
+	}
+	"you change map rate"
+	{
+		"#format"		"{1:s}"
+		"en"			"{darkred}[!] {default}You changed the rating of this map to {olive}{1}{default}."
+		"cze"			"{darkred}[!] {default}Změnil si svě hodnocení této mapy na {olive}{1}{default}."
+		"sk"			"{darkred}[!] {default}Změnil si svě hodnocení této mapy na {olive}{1}{default}."
+		"de"			"{darkred}[!] {default}Zmieniłeś ocenę tej mapy na {olive}{1}{default}."
+		"pl"			"{darkred}[!] {default}Sie haben die Bewertung dieser Karte in geändert {olive}{1}{default}."
+	}
+	"BOT cant send inv"
+	{
+		"en"			"{default}[{purple}BOT ● FUNPLAY.pro{default}] {orange}I can't invite you in our steamgroup, because we're not friend. Please accept my friend request and try again."
+		"cze"			"{default}[{purple}BOT ● FUNPLAY.pro{default}] {orange}Nemůžu tě pozvat do naší steam skupiny, protože nejsme přátelé. Přijmi moji žádost o přátelstvý a zkuste to znovu."
+		"sk"			"{default}[{purple}BOT ● FUNPLAY.pro{default}] {orange}Nemůžu tě pozvat do naší steam skupiny, protože nejsme přátelé. Přijmi moji žádost o přátelstvý a zkuste to znovu."
+		"de"			"{default}[{purple}BOT ● FUNPLAY.pro{default}] {orange}Ich kann dich nicht in unsere Steam-Gruppe einladen, weil wir keine Freunde sind. Bitte akzeptieren Sie meine Freundschaftsanfrage und versuchen Sie es erneut."
+		"pl"			"{default}[{purple}BOT ● FUNPLAY.pro{default}] {orange}Nie mogę zaprosić Cię w naszej steam grupie, ponieważ nie jesteśmy przyjaciółmi. Przyjmij moją prośbę o dodanie do znajomych i spróbuj ponownie."
+	}
+	"BOT cant send msg"
+	{
+		"en"			"{default}[{purple}BOT ● FUNPLAY.pro{default}] {orange}I can't send you messages because we're not friends. Please accept my friend request and try again."
+		"cze"			"{default}[{purple}BOT ● FUNPLAY.pro{default}] {orange}Nemůžu ti posílat zprávy, protože nejsme přátelé. Přijmi moji žádost o přátelstvý a zkuste to znovu."
+		"sk"			"{default}[{purple}BOT ● FUNPLAY.pro{default}] {orange}Nemůžu ti posílat zprávy, protože nejsme přátelé. Přijmi moji žádost o přátelstvý a zkuste to znovu."
+		"de"			"{default}[{purple}BOT ● FUNPLAY.pro{default}] {orange}Ich kann dir keine Nachrichten senden, weil wir keine Freunde sind. Bitte akzeptieren Sie meine Freundschaftsanfrage und versuchen Sie es erneut."
+		"pl"			"{default}[{purple}BOT ● FUNPLAY.pro{default}] {orange}Nie mogę wysyłać Ci wiadomości, ponieważ nie jesteśmy przyjaciółmi. Przyjmij moją prośbę o dodanie do znajomych i spróbuj ponownie."
+	}
+	"BOT inv sent"
+	{
+		"en"			"{default}[{purple}BOT ● FUNPLAY.pro{default}] {orange}Invitation to our steam group has been sent."
+		"cze"			"{default}[{purple}BOT ● FUNPLAY.pro{default}] {orange}Pozvání do naší steam skupiny bylo odesláno."
+		"sk"			"{default}[{purple}BOT ● FUNPLAY.pro{default}] {orange}Pozvání do naší steam skupiny bylo odesláno."
+		"de"			"{default}[{purple}BOT ● FUNPLAY.pro{default}] {orange}Einladung zu unserer Steam-Gruppe wurde gesendet."
+		"pl"			"{default}[{purple}BOT ● FUNPLAY.pro{default}] {orange}Zaproszenie do naszej grupy Steam zostało wysłane."
+	}
+	"already in group"
+	{
+		"en"			"{darkred}[!] {default}You are already in our Steam group."
+		"cze"			"{darkred}[!] {default}Jsi již v naší Steam skupině."
+		"sk"			"{darkred}[!] {default}Jsi již v naší Steam skupině."
+		"de"			"{darkred}[!] {default}Sie sind bereits in unserer Steam-Gruppe."
+		"pl"			"{darkred}[!] {default}Jesteś już w naszej grupie Steam."
+	}
+	"steam group info"
+	{
+		"en"			"{orange}Join our Steam Group at {default}https://steamcommunity.com/groups/fun_mod{orange}."
+		"cze"			"{orange}Do naší Steam skupiny se připojíš na této webové adrese {default}https://steamcommunity.com/groups/fun_mod{orange}."
+		"sk"			"{orange}Do naší Steam skupiny se připojíš na této webové adrese {default}https://steamcommunity.com/groups/fun_mod{orange}."
+		"de"			"{orange}Treten Sie unserer Steam-Gruppe unter {default}https://steamcommunity.com/groups/fun_mod {orange}bei."
+		"pl"			"{orange}Dołącz do naszej grupy Steam na {default}https://steamcommunity.com/groups/fun_mod{orange}."
+	}
+	"Server List title"
+	{
+		"en"			"[FUNPLAY.pro] Servers"
+		"cze"			"[FUNPLAY.pro] Servery"
+		"sk"			"[FUNPLAY.pro] Servery"
+		"de"			"[FUNPLAY.pro] Servers"
+		"pl"			"[FUNPLAY.pro] Serwery"
+	}
+	"server"
+	{
+		"en"			"Server"
+		"cze"			"Server"
+		"sk"			"Server"
+		"de"			"Server"
+		"pl"			"Serwer"
+	}
+	"map"
+	{
+		"en"			"Map"
+		"cze"			"Mapa"
+		"sk"			"Mapa"
+		"de"			"Karte"
+		"pl"			"Mapa"
+	}
+	"players"
+	{
+		"en"			"Players"
+		"cze"			"Hráčů"
+		"sk"			"Hráčů"
+		"de"			"Spieler"
+		"pl"			"Gracze"
+	}
+	"redirect in chat"
+	{
+		"en"			"Send a link to chat"
+		"cze"			"Poslat link do chatu"
+		"sk"			"Poslat link do chatu"
+		"de"			"Senden Sie einen Link zum Chat"
+		"pl"			"Wyślij link do czatu"
+	}
+	"redirect chat info"
+	{
+		"#format"		"{1:s},{2:s},{3:s}"
+		"en"			"{orange}To connect to {default}{1}{orange} save IP {default}{2}{orange} to favorites or for quick connection, write {default}connect {3}{orange} to the console."
+		"cze"			"{orange}Pro připojení na {default}{1}{orange} si ulož IP {default}{2}{orange} do oblíbených nebo pro rychlé připojení napiš {default}connect {3}{orange} do konzole."
+		"sk"			"{orange}Pro připojení na {default}{1}{orange} si ulož IP {default}{2}{orange} do oblíbených nebo pro rychlé připojení napiš {default}connect {3}{orange} do konzole."
+		"de"			"{orange}Um eine Verbindung zu {default}{1}{orange} IP speichern {default}{2}{orange} zu Ihren Favoriten oder schnell verbinden schreiben {default}connect {3}{orange} an die Konsole."
+		"pl"			"{orange}Aby połączyć się z {default}{1}{orange} zapisz IP {default}{2}{orange} do ulubionych lub dla szybkiego połączenia napisz {default}connect {3}{orange} do konsoli."
+	}
+	"redirect in console"
+	{
+		"en"			"Send a link to console"
+		"cze"			"Poslat link do konzole"
+		"sk"			"Poslat link do konzole"
+		"de"			"Senden Sie einen Link zur Konsole"
+		"pl"			"Wyślij link do konsoli"
+	}
+	"redirect console info"
+	{
+		"#format"		"{1:s},{2:s},{3:s}"
+		"en"			"To connect to {1} save IP {2} to favorites or for quick connection, write connect {3} to the console."
+		"cze"			"Pro připojení na {1} si ulož IP {2} do oblíbených nebo pro rychlé připojení napiš connect {3} do konzole."
+		"sk"			"Pro připojení na {1} si ulož IP {2} do oblíbených nebo pro rychlé připojení napiš connect {3} do konzole."
+		"de"			"Um eine Verbindung zu {1} IP speichern {2} zu Ihren Favoriten oder schnell verbinden schreiben connect {3} an die Konsole."
+		"pl"			"Aby połączyć się z {1} zapisz IP {2} do ulubionych lub dla szybkiego połączenia napisz connect {3} do konsoli."
+	}
+	"redirect in steam"
+	{
+		"en"			"Send a link via Steam"
+		"cze"			"Poslat link přes steam"
+		"sk"			"Poslat link přes steam"
+		"de"			"Senden Sie einen Link über Steam"
+		"pl"			"Wyślij link przez Steam"
 	}
 	"announce #1"
 	{
@@ -4279,6 +4940,30 @@
 		"sk"			"! KOLO Z 3. OSOBY !"
 		"de"			"! DRITTE PERSON RUNDE !"
 		"pl"			"! RUNDA Z TRZECIA OSOBA !"
+	}
+	"onetap round"
+	{
+		"en"			"! ONE TAP ROUND !"
+		"cze"			"! ONE TAP KOLO !"
+		"sk"			"! ONE TAP KOLO !"
+		"de"			"! ONE TAP RUNDE !"
+		"pl"			"! RUNDA NA ONE TAP'y !"
+	}
+	"lava round"
+	{
+		"en"			"! GROUND IS LAVA !"
+		"cze"			"! ZEM JE LÁVA !"
+		"sk"			"! ZEM JE LÁVA !"
+		"de"			"! BODEN IST LAVA !"
+		"pl"			"! GROUND IS LAVA !"
+	}
+	"knife round"
+	{
+		"en"			"! KNIFE ROUND !"
+		"cze"			"! KNIFE KOLO !"
+		"sk"			"! KNIFE KOLO !"
+		"de"			"! KNIFE RUNDE !"
+		"pl"			"! RUNDA KNIFE !"
 	}
 	"LVL"
 	{
