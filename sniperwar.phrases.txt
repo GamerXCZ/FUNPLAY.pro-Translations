@@ -1,0 +1,2918 @@
+"Phrases"
+{
+	"join msg"
+	{
+		"en"			"joined us"
+		"cze"			"se k nám přidal"
+		"sk"			"sa k nám pridal"
+		"de"			"ist beigetreten"
+		"pl"			"dołączył do nas"
+	}
+	"leave msg"
+	{
+		"en"			"left us"
+		"cze"			"od nás odešel"
+		"sk"			"od nás odišiel"
+		"de"			"hat uns verlassen"
+		"pl"			"odszedł of nas"
+	}
+	"connect msg title"
+	{
+		"en"			"Main Commands:"
+		"cze"			"Hlavní příkazy:"
+		"sk"			"Hlavné príkazy:"
+		"de"			"Hauptbefehle:"
+		"pl"			"Główne komendy:"
+	}
+	"connect msg"
+	{
+		"en"			"/menu - Main Menu\n/valve - Inventory setting\n/tracer - Setting tracers\n/setting - Server setting\n/rules - Server Rules"
+		"cze"			"/menu - Hlavní Menu\n/valve - Nastavení Inventáře\n/tracer - Nastavení svítících střel\n/nastaveni - Nastavení Serveru\n/pravidla - Pravidla Serveru"
+		"sk"			"/menu - Hlavné Menu\n/valve - Nastavenie Inventára\n/tracer - Nastavenie svítících střel\n/nastavenie - Nastavenie Serveru\n/pravidla - Pravidlá Serveru"
+		"de"			"/menu - Hauptmenü\n/valve - Inventareinstellungen\n/tracer - Glühbirne Einstellungen\n/setting - Servereinstellungen\n/rules - Server Regeln"
+		"pl"			"/menu - Menu główne\n/valve - Ustawienia ekwipunku\n/tracer - Ustawienia Traceru\n/setting - Ustawienia serwera\n/rules - Zasady serwera"
+	}
+	"command not exists"
+	{
+		"en"			"{darkred}[!] {default}Incorrect or non-existent command."
+		"cze"			"{darkred}[!] {default}Nesprávný nebo neexistujici příkaz."
+		"sk"			"{darkred}[!] {default}Nesprávny alebo neexistujúci príkaz."
+		"de"			"{darkred}[!] {default}Falscher oder nicht vorhandener Befehl."
+		"pl"			"{darkred}[!] {default}Niepoprawne lub nieistniejące polecenie."
+	}
+	"played"
+	{
+		"en"			"Played:"
+		"cze"			"Nahráno:"
+		"sk"			"Nahrané:"
+		"de"			"Gespielt:"
+		"pl"			"Zagrał:"
+	}
+	"hours"
+	{
+		"en"			"hours"
+		"cze"			"hodin"
+		"sk"			"hodín"
+		"de"			"stunde"
+		"pl"			"godziny"
+	}
+	"minutes"
+	{
+		"en"			"minutes"
+		"cze"			"minut"
+		"sk"			"minút"
+		"de"			"minute"
+		"pl"			"minuty"
+	}
+	"seconds"
+	{
+		"en"			"seconds"
+		"cze"			"vteřin"
+		"sk"			"sekúnd"
+		"de"			"sekunde"
+		"pl"			"sekundy"
+	}
+	"SPECT Info"
+	{
+		"#format"		"{1:0.1f},{2:i},{3:s},{4:s},{5:s}"
+		"en"			"Longest NoScope: {1}m ({2} units)\nKills: {3} | {4}\n<b>{5}<b>"
+		"cze"			"Nejdelší NoScope: {1}m ({2} units)\nZabití: {3} | {4}\n<b>{5}<b>"
+		"sk"			"Nejdelší NoScope: {1}m ({2} units)\nZabitie: {3} | {4}\n<b>{5}<b>"
+		"de"			"Längstes NoScope: {1}m ({2} units)\nTötet: {3} | {4}\n<b>{5}<b>"
+		"pl"			"Najdłuższy NoScope: {1}m ({2} units)\nZabójstwa: {3} | {4}\n<b>{5}<b>"
+	}
+	"noscope new distance"
+	{
+		"#format"		"{1:s},{2:0.1f},{3:i}"
+		"en"			"{green}[AWP]{default} {1}{olive} gave noscope from a distance of {default}{2} {olive}meters ({default}{3} {olive}units)"
+		"cze"			"{green}[AWP]{default} {1}{olive} dal noscope ze vzdálenosti {default}{2} {olive}metrů ({default}{3} {olive}units)"
+		"sk"			"{green}[AWP]{default} {1}{olive} dal noscope ze vzdálenosti {default}{2} {olive}metrů ({default}{3} {olive}units)"
+		"de"			"{green}[AWP]{default} {1}{olive} gab Noskop aus einer Entfernung von {default}{2} {olive}Metern ({default}{3} {olive}units)"
+		"pl"			"{green}[AWP]{default} {1}{olive} podał noskop z odległości {default}{2} {olive}metrów ({default}{3} {olive}units)"
+	}
+	"Anketa Hint"
+	{
+		"#format"		"{1:s},{2:s},{3:i},{4:i}"
+		"en"			"{1}\n<font color='#2399E1'><b>{2}<b></font>\n            {3} ● /yes █ {4} ● /no"
+		"cze"			"{1}\n<font color='#2399E1'><b>{2}<b></font>\n            {3} ● /ano █ {4} ● /ne"
+		"sk"			"{1}\n<font color='#2399E1'><b>{2}<b></font>\n            {3} ● /ano █ {4} ● /nie"
+		"de"			"{1}\n<font color='#2399E1'><b>{2}<b></font>\n            {3} ● /ja █ {4} ● /nein"
+		"pl"			"{1}\n<font color='#2399E1'><b>{2}<b></font>\n            {3} ● /tak █ {4} ● /nie"
+	}
+	"anketa is running"
+	{
+		"en"			"{darkred}[!] {default}Another player's survey is currently running."
+		"cze"			"{darkred}[!] {default}Právě probíhá anketa jiného hráče."
+		"sk"			"{darkred}[!] {default}Právě probíhá anketa jiného hráče."
+		"de"			"{darkred}[!] {default}Die Umfrage eines anderen Spielers wird gerade ausgeführt."
+		"pl"			"{darkred}[!] {default}Ankieta innego gracza jest obecnie uruchomiona."
+	}
+	"anketa so much chars"
+	{
+		"en"			"{darkred}[!] {default}The survey may contain only 35 characters."
+		"cze"			"{darkred}[!] {default}Anketa může obsahovat pouze 35 znaků."
+		"sk"			"{darkred}[!] {default}Anketa může obsahovat pouze 35 znaků."
+		"de"			"{darkred}[!] {default}Die Umfrage darf nur 35 Zeichen enthalten."
+		"pl"			"{darkred}[!] {default}Ankieta może zawierać tylko 35 znaków."
+	}
+	"anketa voted"
+	{
+		"en"			"{darkred}[!] {default}You voted in the survey."
+		"cze"			"{darkred}[!] {default}Hlasoval jste v anketě."
+		"sk"			"{darkred}[!] {default}Hlasoval jste v anketě."
+		"de"			"{darkred}[!] {default}Sie haben in der Umfrage abgestimmt."
+		"pl"			"{darkred}[!] {default}Głosowałeś w ankiecie."
+	}
+	"anketa already voted"
+	{
+		"en"			"{darkred}[!] {default}You have already voted in the survey."
+		"cze"			"{darkred}[!] {default}Již jste v anketě hlasoval."
+		"sk"			"{darkred}[!] {default}Již jste v anketě hlasoval."
+		"de"			"{darkred}[!] {default}Sie haben bereits in der Umfrage abgestimmt."
+		"pl"			"{darkred}[!] {default}Już głosowałeś w ankiecie."
+	}
+	"anketa not yet"
+	{
+		"en"			"{darkred}[!] {default}No survey is not in progress."
+		"cze"			"{darkred}[!] {default}Neprobíhá žádná anketa."
+		"sk"			"{darkred}[!] {default}Neprobíhá žádná anketa."
+		"de"			"{darkred}[!] {default}Keine Umfrage ist nicht in Bearbeitung."
+		"pl"			"{darkred}[!] {default}Ankieta nie jest w toku."
+	}
+	"rules"
+	{
+		"en"			"rules"
+		"cze"			"pravidla"
+		"sk"			"pravidla"
+		"de"			"rules"
+		"pl"			"rules"
+	}
+	"benefits"
+	{
+		"en"			"benefits"
+		"cze"			"vyhody"
+		"sk"			"vyhody"
+		"de"			"benefits"
+		"pl"			"benefits"
+	}
+	"hitbox_1"
+	{
+		"en"			"Head"
+		"cze"			"Hlava"
+		"sk"			"Hlava"
+		"de"			"Kopf"
+		"pl"			"Głowa"
+	}
+	"hitbox_2"
+	{
+		"en"			"Chest"
+		"cze"			"Hruď"
+		"sk"			"Hruď"
+		"de"			"Brust"
+		"pl"			"Piersiowa"
+	}
+	"hitbox_3"
+	{
+		"en"			"Stomach"
+		"cze"			"Břicho"
+		"sk"			"Břicho"
+		"de"			"Bauch"
+		"pl"			"Brzuch"
+	}
+	"hitbox_4"
+	{
+		"en"			"L. Hand"
+		"cze"			"L. Ruka"
+		"sk"			"L. Ruka"
+		"de"			"L. Hand"
+		"pl"			"L. Dłoń"
+	}
+	"hitbox_5"
+	{
+		"en"			"R. Hand"
+		"cze"			"P. Ruka"
+		"sk"			"P. Ruka"
+		"de"			"R. Hand"
+		"pl"			"P. Dłoń"
+	}
+	"hitbox_6"
+	{
+		"en"			"L. Leg"
+		"cze"			"L. Noha"
+		"sk"			"L. Noha"
+		"de"			"L. Bein"
+		"pl"			"L. Noga"
+	}
+	"hitbox_7"
+	{
+		"en"			"R. Leg"
+		"cze"			"P. Noha"
+		"sk"			"P. Noha"
+		"de"			"R. Bein"
+		"pl"			"P. Noga"
+	}
+	"Silent Menu"
+	{
+		"#format"		"{1:i}"
+		"en"			"Mute player for {1} minutes (/silent <minutes>)"
+		"cze"			"Umlčet Hráče na {1} minut (/silent <minut>)"
+		"sk"			"Umlčať Hráča na {1} minút (/silent <minut>)"
+		"de"			"Spieler für {1} Minute muten (/silent <minute>)"
+		"pl"			"Zmutuj gracza na {1} minuty (/silent <minut>)"
+	}
+	"Teleport Menu"
+	{
+		"en"			"Teleport Player"
+		"cze"			"Teleportovat Hráče"
+		"sk"			"Teleportovať Hráča"
+		"de"			"Spieler teleportieren"
+		"pl"			"Przeteleportuj gracza"
+	}
+	"ChangeTeam Menu"
+	{
+		"en"			"Change player's team"
+		"cze"			"Zmenit tým Hráče"
+		"sk"			"Zmenit tím Hráča"
+		"de"			"Ändere das Team des Spielers"
+		"pl"			"Zmień drużynę"
+	}
+	"Tracer Menu"
+	{
+		"en"			"Tracer Menu"
+		"cze"			"Tracer Menu"
+		"sk"			"Tracer Menu"
+		"de"			"Tracer Menü"
+		"pl"			"Menu Tracera"
+	}
+	"tracer off"
+	{
+		"en"			"Tracer off"
+		"cze"			"Žádný tracer"
+		"sk"			"Žiadny tracer"
+		"de"			"Tracer aus"
+		"pl"			"Tracer wyłączony"
+	}
+	"tracer color"
+	{
+		"en"			"Tracer color"
+		"cze"			"Barba traceru"
+		"sk"			"Farba traceru"
+		"de"			"Tracer Farbe"
+		"pl"			"Tracer kolor"
+	}
+	"tracer material"
+	{
+		"#format"		"{1:s}"
+		"en"			"Tracer material: {1}"
+		"cze"			"Materiál traceru: {1}"
+		"sk"			"Material traceru: {1}"
+		"de"			"Tracer material: {1}"
+		"pl"			"Tracer material: {1}"
+	}
+	"tracer lifetime"
+	{
+		"en"			"Tracer lifetime"
+		"cze"			"Životnost traceru"
+		"sk"			"Životnosť traceru"
+		"de"			"Tracer-Lebensdauer"
+		"pl"			"Życie Tracer"
+	}
+	"tracer width"
+	{
+		"en"			"Tracer width"
+		"cze"			"Šířka traceru"
+		"sk"			"Šírka traceru"
+		"de"			"Breite des Indikators"
+		"pl"			"Szerokość Tracer"
+	}
+	"small"
+	{
+		"en"			"small"
+		"cze"			"malý"
+		"sk"			"malý"
+		"de"			"klein"
+		"pl"			"mały"
+	}
+	"medium"
+	{
+		"en"			"medium"
+		"cze"			"střední"
+		"sk"			"stredná"
+		"de"			"mittel"
+		"pl"			"średni"
+	}
+	"large"
+	{
+		"en"			"large"
+		"cze"			"velký"
+		"sk"			"velký"
+		"de"			"groß"
+		"pl"			"duży"
+	}
+	"huge"
+	{
+		"en"			"huge"
+		"cze"			"obrovský"
+		"sk"			"obrovský"
+		"de"			"riesig"
+		"pl"			"ogromny"
+	}
+	"Hats Menu"
+	{
+		"en"			"Hats Menu"
+		"cze"			"Výběr doplněk"
+		"sk"			"Výběr doplněk"
+		"de"			"Hats Menü"
+		"pl"			"Menu Hats"
+	}
+	"hats off"
+	{
+		"en"			"Remove hats"
+		"cze"			"Odebrat doplňky"
+		"sk"			"Odebrat doplňky"
+		"de"			"Hüte hats"
+		"pl"			"Usuń hats"
+	}
+	"hat cape"
+	{
+		"en"			"Cape"
+		"cze"			"Plášť"
+		"sk"			"Plášť"
+		"de"			"Kap"
+		"pl"			"Peleryna"
+	}
+	"hat headphones"
+	{
+		"en"			"Headphones"
+		"cze"			"Sluchátka"
+		"sk"			"Sluchátka"
+		"de"			"Kopfhörer"
+		"pl"			"Słuchawki"
+	}
+	"hat angel"
+	{
+		"en"			"Angel"
+		"cze"			"Anděl"
+		"sk"			"Anděl"
+		"de"			"Engel"
+		"pl"			"Anioł"
+	}
+	"hat devil"
+	{
+		"en"			"Devil"
+		"cze"			"Čert"
+		"sk"			"Čert"
+		"de"			"Eufel"
+		"pl"			"Diabeł"
+	}
+	"cape skin"
+	{
+		"en"			"Choose Cape skin"
+		"cze"			"Vyber skin Pláště"
+		"sk"			"Vyber skin Pláště"
+		"de"			"Wählen Sie Cape-Haut"
+		"pl"			"Wybierz skórkę przylądka"
+	}
+	"cape red"
+	{
+		"en"			"Red Cape"
+		"cze"			"Červený Plášt"
+		"sk"			"Červený Plášt"
+		"de"			"Rot Kap"
+		"pl"			"Czerwony Peleryna"
+	}
+	"cape blue"
+	{
+		"en"			"Blue Cape"
+		"cze"			"Modrý Plášt"
+		"sk"			"Modrý Plášt"
+		"de"			"Blau Kap"
+		"pl"			"Niebieski Peleryna"
+	}
+	"cape green"
+	{
+		"en"			"Green Cape"
+		"cze"			"Zelený Plášt"
+		"sk"			"Zelený Plášt"
+		"de"			"Grün Kap"
+		"pl"			"Zielony Peleryna"
+	}
+	"cape yellow"
+	{
+		"en"			"Yellow Cape"
+		"cze"			"Žlutý Plášt"
+		"sk"			"Žlutý Plášt"
+		"de"			"Gelb Kap"
+		"pl"			"Żółty Peleryna"
+	}
+	"cape doppler"
+	{
+		"en"			"Doppler Cape"
+		"cze"			"Doppler Plášt"
+		"sk"			"Doppler Plášt"
+		"de"			"Doppler Kap"
+		"pl"			"Doppler Peleryna"
+	}
+	"cape crimson web"
+	{
+		"en"			"Crimson Web Cape"
+		"cze"			"Crimson Web Plášt"
+		"sk"			"Crimson Web Plášt"
+		"de"			"Crimson Web Kap"
+		"pl"			"Crimson Web Peleryna"
+	}
+	"cape hyper beast"
+	{
+		"en"			"Hyper Beast Cape"
+		"cze"			"Hyper Beast Plášt"
+		"sk"			"Hyper Beast Plášt"
+		"de"			"Hyper Beast Kap"
+		"pl"			"Hyper Beast Peleryna"
+	}
+	"cape slaughter"
+	{
+		"en"			"Slaughter Cape"
+		"cze"			"Slaughter Plášt"
+		"sk"			"Slaughter Plášt"
+		"de"			"Slaughter Kap"
+		"pl"			"Slaughter Peleryna"
+	}
+	"cape point disarray"
+	{
+		"en"			"Point Disarray Cape"
+		"cze"			"Point Disarray Plášt"
+		"sk"			"Point Disarray Plášt"
+		"de"			"Point Disarray Kap"
+		"pl"			"Point Disarray Peleryna"
+	}
+	"cape rekt"
+	{
+		"en"			"Rekt Cape"
+		"cze"			"Rekt Plášt"
+		"sk"			"Rekt Plášt"
+		"de"			"Rekt Kap"
+		"pl"			"Rekt Peleryna"
+	}
+	"cape assimov"
+	{
+		"en"			"Assimov Cape"
+		"cze"			"Assimov Plášt"
+		"sk"			"Assimov Plášt"
+		"de"			"Assimov Kap"
+		"pl"			"Assimov Peleryna"
+	}
+	"cape slovakia"
+	{
+		"en"			"Slovakia Cape"
+		"cze"			"Slovakia Plášt"
+		"sk"			"Slovakia Plášt"
+		"de"			"Slovakia Kap"
+		"pl"			"Slovakia Peleryna"
+	}
+	"cape czech"
+	{
+		"en"			"Czech Cape"
+		"cze"			"Czech Plášt"
+		"sk"			"Czech Plášt"
+		"de"			"Czech Kap"
+		"pl"			"Czech Peleryna"
+	}
+	"cape batman"
+	{
+		"en"			"Batman Cape"
+		"cze"			"Batman Plášt"
+		"sk"			"Batman Plášt"
+		"de"			"Batman Kap"
+		"pl"			"Batman Peleryna"
+	}
+	"cape joker"
+	{
+		"en"			"Joker Cape"
+		"cze"			"Joker Plášt"
+		"sk"			"Joker Plášt"
+		"de"			"Joker Kap"
+		"pl"			"Joker Peleryna"
+	}
+	"cape superman"
+	{
+		"en"			"Superman Cape"
+		"cze"			"Superman Plášt"
+		"sk"			"Superman Plášt"
+		"de"			"Superman Kap"
+		"pl"			"Superman Peleryna"
+	}
+	"cape spiderman"
+	{
+		"en"			"Spiderman Cape"
+		"cze"			"Spiderman Plášt"
+		"sk"			"Spiderman Plášt"
+		"de"			"Spiderman Kap"
+		"pl"			"Spiderman Peleryna"
+	}
+	"cape dragon lore"
+	{
+		"en"			"Dragon Lore Cape"
+		"cze"			"Dragon Lore Plášt"
+		"sk"			"Dragon Lore Plášt"
+		"de"			"Dragon Lore Kap"
+		"pl"			"Dragon Lore Peleryna"
+	}
+	"cape vulcan"
+	{
+		"en"			"Vulcan Cape"
+		"cze"			"Vulcan Plášt"
+		"sk"			"Vulcan Plášt"
+		"de"			"Vulcan Kap"
+		"pl"			"Vulcan Peleryna"
+	}
+	"cape wtf zombies"
+	{
+		"en"			"Wtf Zombies Cape"
+		"cze"			"Wtf Zombies Plášt"
+		"sk"			"Wtf Zombies Plášt"
+		"de"			"Wtf Zombies Kap"
+		"pl"			"Wtf Zombies Peleryna"
+	}
+	"cape oldschool"
+	{
+		"en"			"Old School Cape"
+		"cze"			"Old School Plášt"
+		"sk"			"Old School Plášt"
+		"de"			"Old School Kap"
+		"pl"			"Old School Peleryna"
+	}
+	"headphones color"
+	{
+		"en"			"Choose Headphones color"
+		"cze"			"Vyber barvu Sluchátek"
+		"sk"			"Vyber barvu Sluchátek"
+		"de"			"Wählen Sie Kopfhörerfarbe"
+		"pl"			"Wybierz kolor słuchawek"
+	}
+	"headphones black"
+	{
+		"en"			"Black Headphones"
+		"cze"			"Černé Sluchátka"
+		"sk"			"Černé Sluchátka"
+		"de"			"Schwarz Kopfhörer"
+		"pl"			"Czarny Słuchawki"
+	}
+	"headphones blue"
+	{
+		"en"			"Blue Headphones"
+		"cze"			"Modré Sluchátka"
+		"sk"			"Modré Sluchátka"
+		"de"			"Blau Kopfhörer"
+		"pl"			"Niebieski Słuchawki"
+	}
+	"headphones red"
+	{
+		"en"			"Red Headphones"
+		"cze"			"Červené Sluchátka"
+		"sk"			"Červené Sluchátka"
+		"de"			"Rot Kopfhörer"
+		"pl"			"Czerwony Słuchawki"
+	}
+	"headphones cyan"
+	{
+		"en"			"Cyan Headphones"
+		"cze"			"Tyrkysové Sluchátka"
+		"sk"			"Tyrkysové Sluchátka"
+		"de"			"Türkis Kopfhörer"
+		"pl"			"Turkusowy Słuchawki"
+	}
+	"headphones green"
+	{
+		"en"			"Green Headphones"
+		"cze"			"Zelené Sluchátka"
+		"sk"			"Zelené Sluchátka"
+		"de"			"Grün Kopfhörer"
+		"pl"			"Zielony Słuchawki"
+	}
+	"headphones orange"
+	{
+		"en"			"Orange Headphones"
+		"cze"			"Oranžové Sluchátka"
+		"sk"			"Oranžové Sluchátka"
+		"de"			"Orange Kopfhörer"
+		"pl"			"Pomarańczowy Słuchawki"
+	}
+	"headphones pink"
+	{
+		"en"			"Pink Headphones"
+		"cze"			"Rúžové Sluchátka"
+		"sk"			"Rúžové Sluchátka"
+		"de"			"Rosa Kopfhörer"
+		"pl"			"Różowy Słuchawki"
+	}
+	"headphones purple"
+	{
+		"en"			"Purple Headphones"
+		"cze"			"Fialové Sluchátka"
+		"sk"			"Fialové Sluchátka"
+		"de"			"Lila Kopfhörer"
+		"pl"			"Fioletowy Słuchawki"
+	}
+	"headphones yellow"
+	{
+		"en"			"Yellow Headphones"
+		"cze"			"Žluté Sluchátka"
+		"sk"			"Žluté Sluchátka"
+		"de"			"Gelb Kopfhörer"
+		"pl"			"Żółty Słuchawki"
+	}
+	"Trail Menu"
+	{
+		"en"			"Trail Menu"
+		"cze"			"Trail Menu"
+		"sk"			"Trail Menu"
+		"de"			"Trail Menü"
+		"pl"			"Menu traila"
+	}
+	"trail off"
+	{
+		"en"			"Trail off"
+		"cze"			"Žádný trail"
+		"sk"			"Žiadny trail"
+		"de"			"Trail aus"
+		"pl"			"Trail wyłączony"
+	}
+	"trail random"
+	{
+		"en"			"Random color"
+		"cze"			"Náhodná barva"
+		"sk"			"Náhodná farba"
+		"de"			"Zufällige Farbe"
+		"pl"			"Losowe kolory
+	}
+	"trail red"
+	{
+		"en"			"Red"
+		"cze"			"Červený"
+		"sk"			"Červený"
+		"de"			"Rot"
+		"pl"			"Czerwony"
+	}
+	"trail orange"
+	{
+		"en"			"Orange"
+		"cze"			"Oranžový"
+		"sk"			"Oranžový"
+		"de"			"Orange"
+		"pl"			"Pomarańczowy"
+	}
+	"trail yellow"
+	{
+		"en"			"Yellow"
+		"cze"			"Žlutý"
+		"sk"			"Žltý"
+		"de"			"Gelb"
+		"pl"			"Żółty"
+	}
+	"trail lime"
+	{
+		"en"			"Lime"
+		"cze"			"Limetkově zelený"
+		"sk"			"Limetkovo zelený"
+		"de"			"Limette"
+		"pl"			"Limonkowy"
+	}
+	"trail green"
+	{
+		"en"			"Green"
+		"cze"			"Zelený"
+		"sk"			"Zelený"
+		"de"			"Grün"
+		"pl"			"Zielony"
+	}
+	"trail emerald"
+	{
+		"en"			"Emerald"
+		"cze"			"Smaragdový"
+		"sk"			"Smaragdový"
+		"de"			"Smaragdgrün"
+		"pl"			"Szmaragdowy"
+	}
+	"trail cyan"
+	{
+		"en"			"Cyan"
+		"cze"			"Tyrkysový"
+		"sk"			"Tyrkysový"
+		"de"			"Türkis"
+		"pl"			"Turkusowy"
+	}
+	"trail lightblue"
+	{
+		"en"			"Lightblue"
+		"cze"			"Světle modrý"
+		"sk"			"Svetlo modrý"
+		"de"			"Hellblau"
+		"pl"			"Jasnoniebieski"
+	}
+	"trail blue"
+	{
+		"en"			"Blue"
+		"cze"			"Modrý"
+		"sk"			"Modrý"
+		"de"			"Blau"
+		"pl"			"Niebieski"
+	}
+	"trail purple"
+	{
+		"en"			"Purple"
+		"cze"			"Nachový"
+		"sk"			"Fialový"
+		"de"			"Lila"
+		"pl"			"Fioletowy"
+	}
+	"trail magenta"
+	{
+		"en"			"Magenta"
+		"cze"			"Purpurový"
+		"sk"			"Purpurový"
+		"de"			"Magenta"
+		"pl"			"Magenta"
+	}
+	"trail pink"
+	{
+		"en"			"Pink"
+		"cze"			"Růžový"
+		"sk"			"Ružový"
+		"de"			"Rosa"
+		"pl"			"Różowy"
+	}
+	"trail white"
+	{
+		"en"			"White"
+		"cze"			"Bílý"
+		"sk"			"Biely"
+		"de"			"Weiß"
+		"pl"			"Biały"
+	}
+	"trail velocity"
+	{
+		"en"			"Velocity"
+		"cze"			"Rychlostní"
+		"sk"			"Rýchlostný"
+		"de"			"Geschwindigkeit"
+		"pl"			"Czułość"
+	}
+	"trail spectrum"
+	{
+		"en"			"Spectrum"
+		"cze"			"Spektrumní"
+		"sk"			"Spektrumný"
+		"de"			"Spektrum
+		"pl"			"Widmo"
+	}
+	"trail wave"
+	{
+		"en"			"Wave"
+		"cze"			"Sledový"
+		"sk"			"Sledový"
+		"de"			"Welle"
+		"pl"			"Fala"
+	}
+	"trail crazy"
+	{
+		"en"			"Crazy"
+		"cze"			"Bláznivý"
+		"sk"			"Bláznivý"
+		"de"			"Verrückt"
+		"pl"			"Szalona"
+	}
+	"trail holiday"
+	{
+		"en"			"Holiday"
+		"cze"			"Svátečný"
+		"sk"			"Sviatočný"
+		"de"			"Urlaub"
+		"pl"			"Wakacje"
+	}
+	"Point Menu"
+	{
+		"en"			"Point Menu"
+		"cze"			"Point Menu"
+		"sk"			"Point Menu"
+		"de"			"Punktmenü"
+		"pl"			"Menu punktu"
+	}
+	"point off"
+	{
+		"en"			"Pointer off"
+		"cze"			"Pointer vypnut"
+		"sk"			"Pointer vypnut"
+		"de"			"Pointer aus"
+		"pl"			"Pointer wyłączony"
+	}
+	"point random"
+	{
+		"en"			"Random Pointer"
+		"cze"			"Náhodný Pointer"
+		"sk"			"Náhodný Pointer"
+		"de"			"PZufallszeiger"
+		"pl"			"Losowy wskaźnik"
+	}
+	"point white"
+	{
+		"en"			"White"
+		"cze"			"Bílý"
+		"sk"			"Biely"
+		"de"			"Weiß"
+		"pl"			"Biały"
+	}
+	"point black"
+	{
+		"en"			"Black"
+		"cze"			"Černý"
+		"sk"			"Černý"
+		"de"			"Schwarz"
+		"pl"			"Czarny"
+	}
+	"point blue"
+	{
+		"en"			"Blue"
+		"cze"			"Modrý"
+		"sk"			"Modrý"
+		"de"			"Blau"
+		"pl"			"Niebieski"
+	}
+	"point lightblue"
+	{
+		"en"			"Lightblue"
+		"cze"			"Světle Modrý"
+		"sk"			"Světle Modrý"
+		"de"			"Hellblau"
+		"pl"			"Jasny Niebieski"
+	}
+	"point brown"
+	{
+		"en"			"Brown"
+		"cze"			"Hnědý"
+		"sk"			"Hnědý"
+		"de"			"Braun"
+		"pl"			"Brązowy"
+	}
+	"point cyan"
+	{
+		"en"			"Cyan"
+		"cze"			"Tyrkysový"
+		"sk"			"Tyrkysový"
+		"de"			"Türkis"
+		"pl"			"Turkusowy"
+	}
+	"point green"
+	{
+		"en"			"Green"
+		"cze"			"Zelený"
+		"sk"			"Zelený"
+		"de"			"Grün"
+		"pl"			"Zielony"
+	}
+	"point darkgreen"
+	{
+		"en"			"Dark green"
+		"cze"			"Tmavozelený"
+		"sk"			"Tmavozelený"
+		"de"			"Dunkelgrün"
+		"pl"			"Ciemnozielony"
+	}
+	"point red"
+	{
+		"en"			"Red"
+		"cze"			"Červený"
+		"sk"			"Červený"
+		"de"			"Rot"
+		"pl"			"Czerwony"
+	}
+	"point orange"
+	{
+		"en"			"Orange"
+		"cze"			"Oranžový"
+		"sk"			"Oranžový"
+		"de"			"Orange"
+		"pl"			"Pomarańczowy"
+	}
+	"point yellow"
+	{
+		"en"			"Yellow"
+		"cze"			"Žlutý"
+		"sk"			"Žltý"
+		"de"			"Gelb"
+		"pl"			"Żółty"
+	}
+	"point pink"
+	{
+		"en"			"Pink"
+		"cze"			"Růžový"
+		"sk"			"Ružový"
+		"de"			"Rosa"
+		"pl"			"Różowy"
+	}
+	"point lightpink"
+	{
+		"en"			"Light pink"
+		"cze"			"Světle růžová"
+		"sk"			"Světle růžová"
+		"de"			"Hell-Pink"
+		"pl"			"Jasnoróżowy"
+	}
+	"point purple"
+	{
+		"en"			"Purple"
+		"cze"			"Nachový"
+		"sk"			"Fialový"
+		"de"			"Lila"
+		"pl"			"Fioletowy"
+	}
+	"KillStreak"
+	{
+		"en"			"Kill Streak"
+		"cze"			"Zabití v řadě"
+		"sk"			"Zabitie v rade"
+		"de"			"Abschussserie"
+		"pl"			"Seria zabójstw"
+	}
+	"tower you have"
+	{
+		"en"			"{darkred}[!] {default}You still already have a built tower!"
+		"cze"			"{darkred}[!] {default}Stále máte postavenou věž!"
+		"sk"			"{darkred}[!] {default}Stále máte postavenou vež!"
+		"de"			"{darkred}[!] {default}Du hast schon einen Turm gebaut!"
+		"pl"			"{darkred}[!] {default}Wciąż posiadasz zbudowaną wieżę!"
+	}
+	"tower cant near spawn"
+	{
+		"en"			"{darkred}[!] {default}You cant build tower near spawn!"
+		"cze"			"{darkred}[!] {default}Nemůžete postavit věž poblíž spawnu!"
+		"sk"			"{darkred}[!] {default}Nemôžete postaviť veža blízkosti spawne!"
+		"de"			"{darkred}[!] {default}Du kannst keine türme in der nähe des spawns bauen!"
+		"pl"			"{darkred}[!] {default}Nie możesz budować wieży blisko spawnu!"
+	}
+	"tower cant near teleport"
+	{
+		"en"			"{darkred}[!] {default}You cant build tower near teleport!"
+		"cze"			"{darkred}[!] {default}Nemůžete postavit věž poblíž teleportu!"
+		"sk"			"{darkred}[!] {default}Nemôžete postaviť veža blízkosti teleportu!"
+		"de"			"{darkred}[!] {default}Du kannst keinen Turm in der nähe eines Teleports bauen!"
+		"pl"			"{darkred}[!] {default}Nie możesz budować wieży blisko teleportu!"
+	}
+	"tower cant on this object"
+	{
+		"en"			"{darkred}[!] {default}You cant build tower on this object!"
+		"cze"			"{darkred}[!] {default}Nemůžete postavit věž na tomto objektu!"
+		"sk"			"{darkred}[!] {default}Nemôžete postaviť veža na tomto objektě!"
+		"de"			"{darkred}[!] {default}Du kannst keinen Turm auf diesem Objekt bauen!"
+		"pl"			"{darkred}[!] {default}Nie możesz zbudować wieży na tym obiekcie!"
+	}
+	"tower no place"
+	{
+		"en"			"{darkred}[!] {default}Here is not enough place for the tower!"
+		"cze"			"{darkred}[!] {default}Zde není dostatek místa pro věž!"
+		"sk"			"{darkred}[!] {default}Tu nie je dostatok miesta pre vežu!"
+		"de"			"{darkred}[!] {default}Hier ist nicht genug Platz für einen Turm!"
+		"pl"			"{darkred}[!] {default}Nie ma tu wystarczająco miejsca dla wieży!"
+	}
+	"You puckuped"
+	{
+		"#format"		"{1:s}"
+		"en"			"You picked up {1}."
+		"cze"			"Sebral jsi {1}."
+		"sk"			"Zobral si {1}."
+		"de"			"Du hast aufgenommen {1}."
+		"pl"			"Podniosłeś {1}."
+	}
+	"new round info"
+	{
+		"#format"		"{1:i},{2:s}"
+		"en"			"{green}[AWP] {olive}Round: {default}{1}.{olive} | Map: {default}{2}{olive}."
+		"cze"			"{green}[AWP] {olive}Kolo: {default}{1}.{olive} | Mapa: {default}{2}{olive}."
+		"sk"			"{green}[AWP] {olive}Kolo: {default}{1}.{olive} | Mapa: {default}{2}{olive}."
+		"de"			"{green}[AWP] {olive}Runde: {default}{1}.{olive} | Karte: {default}{2}{olive}."
+		"pl"			"{green}[AWP] {olive}Runda: {default}{1}.{olive} | Mapa: {default}{2}{olive}."
+	}
+	"resetscore"
+	{
+		"en"			"{darkred}[!] {default}You just reset your score."
+		"cze"			"{darkred}[!] {default}Vynuloval sis skóre."
+		"sk"			"{darkred}[!] {default}Vynuloval si si skóre."
+		"de"			"{darkred}[!] {default}Sie haben Ihre Punktezahl zurückgesetzt."
+		"pl"			"{darkred}[!] {default}Zrestartowałeś swoje punkty."
+	}
+	"faulty value"
+	{
+		"en"			"{darkred}[!] {default}Faulty value entered!"
+		"cze"			"{darkred}[!] {default}Špatně zadaná hodnota"
+		"sk"			"{darkred}[!] {default}Zle zadaná hodnota"
+		"de"			"{darkred}[!] {default}Fehlerhafter Wert eingegeben!"
+		"pl"			"{darkred}[!] {default}Fałszywa wartość wprowadzona!"
+	}
+	"invalid code"
+	{
+		"en"			"{darkred}[!] {default}Incorrectly or invalid code"
+		"cze"			"{darkred}[!] {default}Špatně zadaný nebo neplatný kód"
+		"sk"			"{darkred}[!] {default}Zle zadaný alebo neplatný kód"
+		"de"			"{darkred}[!] {default}Falscher oder ungültiger Code"
+		"pl"			"{darkred}[!] {default}Niepoprawny lub wadliwy kod"
+	}
+	"credits recived"
+	{
+		"#format"		"{1:i}"
+		"en"			"{darkred}[!] {default}You have received{olive} {1} {default}credits!"
+		"cze"			"{darkred}[!] {default}Bylo ti přičteno{olive} {1} {default}kreditů!"
+		"sk"			"{darkred}[!] {default}Bolo ti pripočítané{olive} {1} {default}kreditov!"
+		"de"			"{darkred}[!] {default}Du hast erhalten{olive} {1} {default}Credits!"
+		"pl"			"{darkred}[!] {default}Otrzymałeś{olive} {1} {default}kredytów!"
+	}
+	"cant nom map is playing"
+	{
+		"en"			"{darkred}[!] {default}You can not nominate a map which just played!"
+		"cze"			"{darkred}[!] {default}Nemůžes nominovat mapu která se právě hraje!"
+		"sk"			"{darkred}[!] {default}Nemôžeš nominovať mapu ktorá sa práve hrá!"
+		"de"			"{darkred}[!] {default}Sie können keine Karte angeben, die gerade gespielt wurde!"
+		"pl"			"{darkred}[!] {default}Nie możesz nominować mapy, na której aktualnie grasz!"
+	}
+	"cant nom map is recently played"
+	{
+		"en"			"{darkred}[!] {default}This map has been played too recently!"
+		"cze"			"{darkred}[!] {default}Tato mapa se nedávno hrála!"
+		"sk"			"{darkred}[!] {default}Táto mapa sa nedávno hrala!"
+		"de"			"{darkred}[!] {default}Diese Karte wurde zu kürzlich gespielt!"
+		"pl"			"{darkred}[!] {default}Ta mapa była niedawno rozgrywana!"
+	}
+	"cant nom awp is playing awp"
+	{
+		"en"			"{darkred}[!] {default}Now is play AWP map, you can't nominate next!"
+		"cze"			"{darkred}[!] {default}Zrovna se AWP mapa hraje nemůžes nominovat další!"
+		"sk"			"{darkred}[!] {default}Teraz sa AWP mapa hrá nemôžeš nominovať ďalšie AWP mapy!"
+		"de"			"{darkred}[!] {default}Jetzt ist AWP Map spielen, Sie können nicht als nächstes nominieren!"
+		"pl"			"{darkred}[!] {default}Mapa AWP jest aktualnie rogrywana, nie możesz nominować kolejnej!"
+	}
+	"cant nom awp is recently played awp"
+	{
+		"en"			"{darkred}[!] {default}AWP map was recently played!"
+		"cze"			"{darkred}[!] {default}AWP mapa se hrála nedávno!"
+		"sk"			"{darkred}[!] {default}AWP mapa sa hrala nedávno!"
+		"de"			"{darkred}[!] {default}AWP Karte wurde kürzlich gespielt!"
+		"pl"			"{darkred}[!] {default}AWP mapa była niedawno rozgrywana!"
+	}
+	"cant nom map is big for few players"
+	{
+		"#format"		"{1:i}"
+		"en"			"{darkred}[!] {default}This map is too big for{olive} {1} {default}players!"
+		"cze"			"{darkred}[!] {default}Tato mapa je příliš velká pro{olive} {1} {default}hráčů!"
+		"sk"			"{darkred}[!] {default}Táto mapa je príliš veľká pre{olive} {1} {default}hráčov!"
+		"de"			"{darkred}[!] {default}Diese Karte ist zu groß für{olive} {1} {default}Spieler!"
+		"pl"			"{darkred}[!] {default}Ta mapa jest za duża dla {olive} {1} {default}graczy!"
+	}
+	"you cancel nom map"
+	{
+		"#format"		"{1:s}"
+		"en"			"{darkred}[!] {default}You canceled the nomination map {olive}{1}{default}."
+		"cze"			"{darkred}[!] {default}Zrušil si nominaci mapy {olive}{1}{default}."
+		"sk"			"{darkred}[!] {default}Zrušil si nominovanú mapu {olive}{1}{default}."
+		"de"			"{darkred}[!] {default}Sie haben die Nominierungskarte storniert {olive}{1}{default}."
+		"pl"			"{darkred}[!] {default}Anulowałeś nominacje mapy {olive}{1}{default}."
+	}
+	"you nom enough maps"
+	{
+		"en"			"{darkred}[!] {default}You've been nominated enough maps!"
+		"cze"			"{darkred}[!] {default}Už si nominoval dostatek map!"
+		"sk"			"{darkred}[!] {default}Už si nominoval dostatok máp!"
+		"de"			"{darkred}[!] {default}Du wurdest genug Karten nominiert!"
+		"pl"			"{darkred}[!] {default}Nominowałeś wystarczająco dużo map!"
+	}
+	"already nominated"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"{darkred}[!] {olive}{1} {default}already nominated {olive}{2}{default}."
+		"cze"			"{darkred}[!] {olive}{1} {default}již nominoval {olive}{2}{default}."
+		"sk"			"{darkred}[!] {olive}{1} {default}už nominoval {olive}{2}{default}."
+		"de"			"{darkred}[!] {olive}{1} {default}bereits nominiert {olive}{2}{default}."
+		"pl"			"{darkred}[!] {olive}{1} {default}już nominowałeś {olive}{2}{default}."
+	}
+	"player nominated map"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"{green}[AWP] {default}{1} {olive}nominated map {default}{2}{olive}."
+		"cze"			"{green}[AWP] {default}{1} {olive}nominoval mapu {default}{2}{olive}."
+		"sk"			"{green}[AWP] {default}{1} {olive}nominoval mapu {default}{2}{olive}."
+		"de"			"{green}[AWP] {default}{1} {olive}nominierte Karte {default}{2}{olive}."
+		"pl"			"{green}[AWP] {default}{1} {olive}nominowano mape {default}{2}{olive}."
+	}
+	"no vote yet"
+	{
+		"en"			"{darkred}[!] {default}No voting yet."
+		"cze"			"{darkred}[!] {default}Ješte se nehlasovalo."
+		"sk"			"{darkred}[!] {default}Ešte se nehlasovalo."
+		"de"			"{darkred}[!] {default}Noch keine Abstimmung."
+		"pl"			"{darkred}[!] {default}Brak głosowania."
+	}
+	"you not any nom"
+	{
+		"en"			"{darkred}[!] {default}You have not nominated any map."
+		"cze"			"{darkred}[!] {default}Ješte si nenominoval žádnou mapu."
+		"sk"			"{darkred}[!] {default}Ešte si nenominoval žiadnu mapu."
+		"de"			"{darkred}[!] {default}Sie haben keine Karte nominiert."
+		"pl"			"{darkred}[!] {default}Nie nominowałeś żadnej mapy."
+	}
+	"you are nom"
+	{
+		"en"			"{darkred}[!] {default}You are nominated"
+		"cze"			"{darkred}[!] {default}Nominoval si"
+		"sk"			"{darkred}[!] {default}Nominoval si"
+		"de"			"{darkred}[!] {default}Sie sind nominiert"
+		"pl"			"{darkred}[!] {default}Nominujesz"
+	}
+	"rtv soon after start"
+	{
+		"en"			"{darkred}[!] {default}So soon after the start of maps may not vote for the new map!"
+		"cze"			"{darkred}[!] {default}Tak brzo po startu mapy nemůžeš hlasovat pro novou mapu!"
+		"sk"			"{darkred}[!] {default}Tak skoro po štarte mapy nemôžeš hlasovať pre novú mapu!"
+		"de"			"{darkred}[!] {default}So bald nach dem Start der Karten darf nicht für die neue Karte stimmen!"
+		"pl"			"{darkred}[!] {default}Chwilę po rozpoczeciu mapy nie możesz głosować za zmianą na nową!"
+	}
+	"you rtv already"
+	{
+		"en"			"{darkred}[!] {default}You're already voted for new map!"
+		"cze"			"{darkred}[!] {default}Už si hlasoval pro novou mapu!"
+		"sk"			"{darkred}[!] {default}Už si hlasoval pre novú mapu!"
+		"de"			"{darkred}[!] {default}Du hast bereits eine neue Karte gewählt!"
+		"pl"			"{darkred}[!] {default}Już głosowałeś za nową mapą!"
+	}
+	"you muted"
+	{
+		"#format"		"{1:i}"
+		"en"			"{darkred}[!] {default}You are muted for{olive} {1} {default}seconds!"
+		"cze"			"{darkred}[!] {default}Jsi umlčen ještě na{olive} {1} {default}vteřin!"
+		"sk"			"{darkred}[!] {default}Si umlčaný ešte na{olive} {1} {default}vteřin!"
+		"de"			"{darkred}[!] {default}Du bist gemutet für{olive} {1} {default}sekunde!"
+		"pl"			"{darkred}[!] {default}Jesteś wyciszony przez{olive} {1} {default}sekund!"
+	}
+	"do not repeat chat"
+	{
+		"en"			"{darkred}[!] {default}Do not repeat chat messages!"
+		"cze"			"{darkred}[!] {default}Neopakuj zpravy v chatu!"
+		"sk"			"{darkred}[!] {default}Neopakuj spravy v chate!"
+		"de"			"{darkred}[!] {default}Wiederhole keine Chat-Nachrichten!"
+		"pl"			"{darkred}[!] {default}Nie powtarzaj wiadomości!"
+	}
+	"cant song end round"
+	{
+		"en"			"{darkred}[!] {default}Round ending, can't play song."
+		"cze"			"{darkred}[!] {default}Nemůžeš pustit píseň na konci kola."
+		"sk"			"{darkred}[!] {default}Nemôžeš pustiť pieseň na konci kola."
+		"de"			"{darkred}[!] {default}Runde Ende, kann Lied nicht spielen."
+		"pl"			"{darkred}[!] {default}Końcówka rundy, nie można puścić piosenki"
+	}
+	"cant song specialround"
+	{
+		"en"			"{darkred}[!] {default}Now running special round, can't play song."
+		"cze"			"{darkred}[!] {default}Nemůžeš pustit píseň při speciálním kole."
+		"sk"			"{darkred}[!] {default}Nemôžeš pustiť pieseň při speciálním kole."
+		"de"			"{darkred}[!] {default}Jetzt läuft spezielle Runde, kann Lied nicht spielen."
+		"pl"			"{darkred}[!] {default}Teraz podczas specjalnej rundy nie można odtwarzać utworu."
+	}
+	"cant song now playing"
+	{
+		"#format"		"{1:i}"
+		"en"			"{darkred}[!] {default}Now playing different song you must wait {olive}{1} {default}seconds."
+		"cze"			"{darkred}[!] {default}Právě hraje jiná písnička, musíš počkat {olive}{1} {default}vteřin."
+		"sk"			"{darkred}[!] {default}Práve hrá iná pesnička, musíš ešte počkať {olive}{1} {default}sekúnd."
+		"de"			"{darkred}[!] {default}Wenn du jetzt ein anderes Lied spielst, musst du warten {olive}{1} {default}seconds."
+		"pl"			"{darkred}[!] {default}Aktualnie leci inna piosenka, musisz poczekać {olive}{1} {default}sekund."
+	}
+	"player play song"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"{green}[AWP]{default} {1} {olive}is playing {default}{2}{olive}."
+		"cze"			"{green}[AWP]{default} {1} {olive}pustil {default}{2}{olive}."
+		"sk"			"{green}[AWP]{default} {1} {olive}pustil {default}{2}{olive}."
+		"de"			"{green}[AWP]{default} {1} {olive}spielt {default}{2}{olive}."
+		"pl"			"{green}[AWP]{default} {1} {olive}puścił {default}{2}{olive}."
+	}
+	"Maps Menu"
+	{
+		"en"			"List Maps (/maps)\nSelect for nominate"
+		"cze"			"Seznam Map (/maps)\nVyber pro nominaci"
+		"sk"			"Zoznam Map (/maps)\nVyber pre nomináciu"
+		"de"			"Karten auflisten (/maps)\nWählen Sie für nominieren"
+		"pl"			"Lista Map (/maps)\nWybierz do nominacji"
+	}
+	"Setting Menu"
+	{
+		"en"			"Server Setting (/setting)"
+		"cze"			"Nastavení Serveru (/nastaveni)"
+		"sk"			"Nastavenie Serveru (/nastavenia)"
+		"de"			"Servereinstellung (/setting)"
+		"pl"			"Ustawienia servera (/setting)"
+	}
+	"Setting Function"
+	{
+		"en"			"Function Setting"
+		"cze"			"Nastavení funkcí"
+		"sk"			"Nastavenie funkcí"
+		"de"			"Funktionseinstellung"
+		"pl"			"Ustawienia funkcji"
+	}
+	"Setting Sound"
+	{
+		"en"			"Sound Volume"
+		"cze"			"Hlasitost zvuků"
+		"sk"			"Hlasitosť zvukov"
+		"de"			"Lautstärke"
+		"pl"			"Ustawienia głośności"
+	}
+	"Setting VIP"
+	{
+		"en"			"VIP Setting"
+		"cze"			"VIP Nastavení"
+		"sk"			"VIP Nastavenia"
+		"de"			"VIP-Einstellung"
+		"pl"			"Ustawienia VIP"
+	}
+	"set roundsounds"
+	{
+		"en"			"Round sounds"
+		"cze"			"Songy na konci kola"
+		"sk"			"Songy na konci kola"
+		"de"			"Runde Töne"
+		"pl"			"Dźwięk rund"
+	}
+	"set songs"
+	{
+		"en"			"Songs from menu"
+		"cze"			"Songy z menu"
+		"sk"			"Songy z menu"
+		"de"			"Songs aus dem Menü"
+		"pl"			"Piosenki z menu"
+	}
+	"set ultisounds"
+	{
+		"en"			"Ultimate sounds"
+		"cze"			"Ultimatní zvuky"
+		"sk"			"Ultimátne zvuky"
+		"de"			"Ultimative Sounds"
+		"pl"			"Dźwięk ostateczne"
+	}
+	"set hitsound"
+	{
+		"en"			"Hit sounds"
+		"cze"			"Zvuk při zásahu"
+		"sk"			"Zvuk pri zásahu"
+		"de"			"Treffertöne"
+		"pl"			"Dźwięk trafień"
+	}
+	"set killsound"
+	{
+		"en"			"Kill sounds"
+		"cze"			"Zvuk při zabití"
+		"sk"			"Zvuk pri zabití"
+		"de"			"Töte Töne"
+		"pl"			"Dźwięk zabójstw"
+	}
+	"set othertrails"
+	{
+		"en"			"Trails behind players"
+		"cze"			"Traily za hráči"
+		"sk"			"Traily za hráčmi"
+		"de"			"Spuren hinter Spielern"
+		"pl"			"Traile za graczem"
+	}
+	"set hitmaker"
+	{
+		"en"			"Hit marker"
+		"cze"			"Hit marker"
+		"sk"			"Hit marker"
+		"de"			"Hit marker"
+		"pl"			"Hit marker"
+	}
+	"set showdamage"
+	{
+		"en"			"Show damage"
+		"cze"			"Zobrazit poškození"
+		"sk"			"Zobraziť škody"
+		"de"			"Schaden anzeigen"
+		"pl"			"Pokaż obrażenia"
+	}
+	"set showbodyhit"
+	{
+		"en"			"Show body hit"
+		"cze"			"Zobrazit úder těla"
+		"sk"			"Zobrazit úder těla"
+		"de"			"Zeige Körpertreffer"
+		"pl"			"Pokaż uderzenie ciała"
+	}
+	"set showmeters"
+	{
+		"en"			"Show kill distance"
+		"cze"			"Zobrazit vzdálenost zabití"
+		"sk"			"Zobrazit vzdálenost zabití"
+		"de"			"Killdistanz anzeigen"
+		"pl"			"Pokaż odległość zabicia"
+	}
+	"turned on"
+	{
+		"#format"		"{1:t}"
+		"en"			"You turned on {1}"
+		"cze"			"Zapnul sis {1}"
+		"sk"			"Zapol si si {1}"
+		"de"			"Du bist eingeschaltet {1}"
+		"pl"			"Włączyłeś {1}"
+	}
+	"activated"
+	{
+		"#format"		"{1:t}"
+		"en"			"You activated {1}"
+		"cze"			"Aktivoval sis {1}"
+		"sk"			"Aktivoval si si {1}"
+		"de"			"Du hast aktiviert {1}"
+		"pl"			"Aktywowałeś {1}"
+	}
+	"turned off"
+	{
+		"#format"		"{1:t}"
+		"en"			"You turned off {1}"
+		"cze"			"Vypnul sis {1}"
+		"sk"			"Vypol si si {1}"
+		"de"			"Du bist ausgeschaltet{1}"
+		"pl"			"Wyłączyłeś {1}"
+	}
+	"active"
+	{
+		"en"			"ACTIVE"
+		"cze"			"AKTIVNÍ"
+		"sk"			"AKTÍVNY"
+		"de"			"AKTIVIERT"
+		"pl"			"AKTYWNE"
+	}
+	"inactive"
+	{
+		"en"			"INACTIVE"
+		"cze"			"NEAKTIVNÍ"
+		"sk"			"NEAKTÍVNY"
+		"de"			"INAKTIV"
+		"pl"			"NIEAKTYWNE"
+	}
+	"bonus parachute"
+	{
+		"en"			"Parachute"
+		"cze"			"Padák"
+		"sk"			"Padák"
+		"de"			"Fallschirm"
+		"pl"			"Spadochron"
+	}
+	"bonus knifejump"
+	{
+		"en"			"Knife Jump"
+		"cze"			"Knife Jump"
+		"sk"			"Knife Jump"
+		"de"			"Knife Sprung"
+		"pl"			"Skok na nożu"
+	}
+	"bonus doublejump"
+	{
+		"en"			"Double Jump"
+		"cze"			"Dvoj skok"
+		"sk"			"Dvoj skok"
+		"de"			"Doppelsprung"
+		"pl"			"Podwójny skok"
+	}
+	"bonus bunnyhop"
+	{
+		"en"			"Auto BunnyHop"
+		"cze"			"Auto BunnyHop"
+		"sk"			"Auto BunnyHop"
+		"de"			"Auto BunnyHop"
+		"pl"			"Auto BunnyHop"
+	}
+	"bonus boostjump"
+	{
+		"en"			"Boost Jump"
+		"cze"			"Boost Jump"
+		"sk"			"Boost Jump"
+		"de"			"Boost Sprung"
+		"pl"			"Boost Skoku"
+	}
+	"bonus shootjump"
+	{
+		"en"			"Shoot Jump"
+		"cze"			"Shoot Jump"
+		"sk"			"Shoot Jump"
+		"de"			"Shoot Jump"
+		"pl"			"Shoot Jump"
+	}
+	"bonus tower"
+	{
+		"en"			"Control Tower"
+		"cze"			"Kontrolní Věž"
+		"sk"			"Kontrolní Věž"
+		"de"			"Kontrollturm"
+		"pl"			"Wieżę kontroli"
+	}
+	"Volume Menu"
+	{
+		"en"			"Volume:"
+		"cze"			"Hlasitost:"
+		"sk"			"Hlasitosť:"
+		"de"			"Lautstärke:"
+		"pl"			"Głośność:"
+	}
+	"vol roundsounds"
+	{
+		"en"			"Songs at the end of round"
+		"cze"			"Písní na konci kola"
+		"sk"			"Piesní na konci kola"
+		"de"			"Lieder am Ende der Runde"
+		"pl"			"Piosenki na koniec rundy"
+	}
+	"vol song"
+	{
+		"en"			"Songs from menu"
+		"cze"			"Songů z menu"
+		"sk"			"Piesní z menu"
+		"de"			"Songs aus dem Menü"
+		"pl"			"Piosenki z menu"
+	}
+	"vol ultisounds"
+	{
+		"en"			"Ultimate sounds"
+		"cze"			"Ultimátních zvuků"
+		"sk"			"Ultimátnych zvukov"
+		"de"			"Ultimative Sounds"
+		"pl"			"Ostateczne Dźwięk"
+	}
+	"vol hitsounds"
+	{
+		"en"			"Hit sounds"
+		"cze"			"Zvuků při zásahu"
+		"sk"			"Zvukov pri zásahu"
+		"de"			"Treffertöne"
+		"pl"			"Dźwięk trafień"
+	}
+	"vol killsounds"
+	{
+		"en"			"Kill sounds"
+		"cze"			"Zvuků při zabití"
+		"sk"			"Zvukov pri zabití"
+		"de"			"Töte Töne"
+		"pl"			"Dźwięk zabójstw"
+	}
+	"vol default"
+	{
+		"en"			"Set Default"
+		"cze"			"Nastavit výchozí"
+		"sk"			"Nastaviť predvolené"
+		"de"			"Setze Standard"
+		"pl"			"Ustaw domyślne"
+	}
+	"vip effekt"
+	{
+		"en"			"Kill effect"
+		"cze"			"Efekt při zabití"
+		"sk"			"Efekt pri zabití"
+		"de"			"Töte den Effekt"
+		"pl"			"Dźwięk zabójstwa"
+	}
+	"vip skin"
+	{
+		"en"			"VIP skin"
+		"cze"			"VIP skin"
+		"sk"			"VIP skin"
+		"de"			"VIP skin"
+		"pl"			"VIP skin"
+	}
+	"vip blockknife"
+	{
+		"en"			"Immune against knives"
+		"cze"			"Imunní proti noži"
+		"sk"			"Imunní proti noži"
+		"de"			"Immun gegen Messer"
+		"pl"			"Odporny na noże"
+	}
+	"blockknife info"
+	{
+		"en"			"When you have this turned on you can't use your knife."
+		"cze"			"Když máš tohle zapnuté nemůžes používat svůj nůž."
+		"sk"			"Když máš tohle zapnuté nemůžes používat svůj nůž."
+		"de"			"Wenn Sie das eingeschaltet haben, können Sie Ihr Messer nicht benutzen."
+		"pl"			"Kiedy masz to włączone, nie możesz użyć noża."
+	}
+	"Main Menu"
+	{
+		"en"			"Head Menu"
+		"cze"			"Hlavní Menu"
+		"sk"			"Hlavné Menu"
+		"de"			"Kopfmenü"
+		"pl"			"Menu głowy"
+	}
+	"mainmenu hats"
+	{
+		"en"			"Choose Hat (/hats)"
+		"cze"			"Vybrat Doplňek (/hats)"
+		"sk"			"Vybrať Doplnok (/hats)"
+		"de"			"Wähle Hut (/hats)"
+		"pl"			"Wybierz czapkę (/hats)"
+	}
+	"mainmenu trail"
+	{
+		"en"			"Choose Trail (/trail)"
+		"cze"			"Vybrat Trail (/trail)"
+		"sk"			"Vybrať Trail (/trail)"
+		"de"			"Wähle Pfad (/trail)"
+		"pl"			"Wybierz trail (/trail)"
+	}
+	"mainmenu tracer"
+	{
+		"en"			"Choose Tracer (/tracer)"
+		"cze"			"Vybrat Tracer (/tracer)"
+		"sk"			"Vybrať Tracer (/tracer)"
+		"de"			"Wählen Sie Tracer (/tracer)"
+		"pl"			"Wybierz Tracer (/tracer)"
+	}
+	"mainmenu pointer"
+	{
+		"en"			"Choose Pointer (/point)"
+		"cze"			"Vybrat Pointer (/point)"
+		"sk"			"Vybrať Pointer (/point)"
+		"de"			"Wählen Sie Zeiger (/point)"
+		"pl"			"Wybierz Pointer (/point)"
+	}
+	"mainmenu song"
+	{
+		"en"			"Choose Song (/song)"
+		"cze"			"Pustit Píseň (/song)"
+		"sk"			"Pustiť Pieseň (/song)"
+		"de"			"Wähle Lied (/song)"
+		"pl"			"Wybierz piosenkę (/song)"
+	}
+	"mainmenu report"
+	{
+		"en"			"Report Player (/report)"
+		"cze"			"Reportovat Hráče (/report)"
+		"sk"			"Nahlásiť Hráča (/report)"
+		"de"			"Melde Spieler (/report)"
+		"pl"			"Zgłoś gracza (/report)"
+	}
+	"mainmenu setting"
+	{
+		"en"			"Setting (/setting)"
+		"cze"			"Nastavení (/nastaveni)"
+		"sk"			"Nastavenia (/nastavenia)"
+		"de"			"Einstellung (/setting)"
+		"pl"			"Ustawienia (/setting)"
+	}
+	"mainmenu rules"
+	{
+		"en"			"Rules (/rules)"
+		"cze"			"Pravidla (/pravidla)"
+		"sk"			"Pravidlá (/pravidla)"
+		"de"			"Regeln (/rules)"
+		"pl"			"Zasady (/rules)"
+	}
+	"mainmenu info"
+	{
+		"en"			"Info (/Info)"
+		"cze"			"Info (/Info)"
+		"sk"			"Info (/Info)"
+		"de"			"Info (/Info)"
+		"pl"			"Informacje (/Info)"
+	}
+	"you own"
+	{
+		"en"			"[You own]"
+		"cze"			"[Vlastníš]"
+		"sk"			"[Vlastníš]"
+		"de"			"[Du besitzt]"
+		"pl"			"[Posiadasz]"
+	}
+	"purchased"
+	{
+		"en"			"[Purchased]"
+		"cze"			"[Zakoupeno]"
+		"sk"			"[Zakúpený]"
+		"de"			"[Gekauft]"
+		"pl"			"[Zakupiono]"
+	}
+	"vipmenu credits"
+	{
+		"#format"		"{1:i}"
+		"en"			"You have {1} credits"
+		"cze"			"Máš {1} kreditů"
+		"sk"			"Máš {1} kreditov"
+		"de"			"Sie haben {1} credits"
+		"pl"			"Posiadasz {1} kredytów"
+	}
+	"vipmenu expire"
+	{
+		"#format"		"{1:s}"
+		"en"			"Your VIP will expire in: {1}"
+		"cze"			"Platnost VIP skončí: {1}"
+		"sk"			"Platnosť VIP skončí: {1}"
+		"de"			"Ihr VIP wird ablaufen in: {1}"
+		"pl"			"Twój VIP wygraśnie za {1}"
+	}
+	"never"
+	{
+		"en"			"NEVER"
+		"cze"			"NIKDY"
+		"sk"			"NIKDY"
+		"de"			"NIE"
+		"pl"			"NIGDY"
+	}
+	"new"
+	{
+		"en"			"NEW"
+		"cze"			"NOVÝ"
+		"sk"			"NOVÝ"
+		"de"			"NEU"
+		"pl"			"NOWY"
+	}
+	"soon"
+	{
+		"en"			"SOON"
+		"cze"			"BRZY"
+		"sk"			"ČOSKORO"
+		"de"			"BALD"
+		"pl"			"WKRÓTCE"
+	}
+	"credits"
+	{
+		"en"			"credits"
+		"cze"			"kreditů"
+		"sk"			"kreditov"
+		"de"			"credits"
+		"pl"			"kredyty"
+	}
+	"vip benefits"
+	{
+		"en"			"VIP Benefits"
+		"cze"			"VIP Výhody"
+		"sk"			"VIP Výhody"
+		"de"			"VIP Leistungen"
+		"pl"			"Przywileje VIP"
+	}
+	"buy vip forever"
+	{
+		"en"			"Purchase VIP forever"
+		"cze"			"Zakoupit VIP na vždy"
+		"sk"			"Zakúpiť VIP na vždy"
+		"de"			"Kaufe VIP für immer"
+		"pl"			"Zakupiono VIP na zawsze"
+	}
+	"no enough credit"
+	{
+		"en"			"{darkred}[!] {default}You do not have enough credits!"
+		"cze"			"{darkred}[!] {default}Nemáš dostatek kreditů!"
+		"sk"			"{darkred}[!] {default}Nemáš dostatok kreditov!"
+		"de"			"{darkred}[!] {default}Du hast nicht genug Credits!"
+		"pl"			"{darkred}[!] {default}Nie masz wystarczająco kredytów!"
+	}
+	"you have"
+	{
+		"en"			"You have"
+		"cze"			"Nyní máš"
+		"sk"			"Teraz máš"
+		"de"			"Du hast"
+		"pl"			"Masz"
+	}
+	"Song Menu"
+	{
+		"en"			"Choose Song"
+		"cze"			"Vyber Píseň"
+		"sk"			"Pustiť Pieseň"
+		"de"			"Wähle Lied"
+		"pl"			"Wybierz piosenkę"
+	}
+	"random song"
+	{
+		"en"			"Random Song"
+		"cze"			"Náhodna Píseň"
+		"sk"			"Náhodna Pieseň"
+		"de"			"Zufällige Lied"
+		"pl"			"Losowa piosenka"
+	}
+	"disablehtmlmotd"
+	{
+		"en"			"You have cl_disablehtmlmotd to 1 and for you cant show MOTD. Please, put this in your console: cl_disablehtmlmotd 0"
+		"cze"			"Máš nastavané cl_disablehtmlmotd na 1 a proto se ti nezobrazí MOTD okno. Napiš toto do konzole pro povolení: cl_disablehtmlmotd 0"
+		"sk"			"Máš nastavené cl_disablehtmlmotd na 1 a preto sa ti nezobrazí MOTD okno. Napíš toto do konzoly pre povolenie: cl_disablehtmlmotd 0"
+		"de"			"Sie haben cl_disablethtmlmotd zu 1 und für Sie kann MOTD nicht zeigen. Bitte setzen Sie dies in Ihre Konsole: cl_disablethtmlmotd 0"
+		"pl"			"Masz cl_disablehtmlmotd na 1 i nie możesz wyświetlić MOTD. Prosimy zmienić wartośc w konsoli na: cl_disablehtmlmotd 0"
+	}
+	"you are been muted"
+	{
+		"#format"		"{1:i}"
+		"en"			"{darkred}[!] {default}You have been muted for {olive}{1} {default}minutes!"
+		"cze"			"{darkred}[!] {default}Byl jsi umlčen na {olive}{1} {default}minut!"
+		"sk"			"{darkred}[!] {default}Bol si umlčaný na {olive}{1} {default}minút!"
+		"de"			"{darkred}[!] {default}Du wurdest gemutet {olive}{1} {default}Minute!"
+		"pl"			"{darkred}[!] {default}Zostałeś wyciszony na {olive}{1} {default}minuty!"
+	}
+	"you are been unmuted"
+	{
+		"en"			"{darkred}[!] {default}You have been unmuted!"
+		"cze"			"{darkred}[!] {default}Byl jsi odumlčen!"
+		"sk"			"{darkred}[!] {default}Už môžeš znovu písať do chatu!"
+		"de"			"{darkred}[!] {default}Du wurdest ungemutet!"
+		"pl"			"{darkred}[!] {default}Zostałeś odciszony!"
+	}
+	"admin mute player"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"{green}[AWP]{olive} Player {default}{1} {olive}has been muted, by Admin {default}{2}{olive}."
+		"cze"			"{green}[AWP]{olive} Hráč {default}{1} {olive}byl umlčen adminem {default}{2}{olive}."
+		"sk"			"{green}[AWP]{olive} Hráč {default}{1} {olive}bol umlčaný adminom {default}{2}{olive}."
+		"de"			"{green}[AWP]{olive} Spieler {default}{1} {olive}wurde gemutet, von Admin {default}{2}{olive}."
+		"pl"			"{green}[AWP]{olive} Gracz {default}{1} {olive}został wyciszony przez Admina {default}{2}{olive}."
+	}
+	"admin unmute player"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"{green}[AWP]{olive} Player {default}{1} {olive}has been unmuted, by Admin {default}{2}{olive}."
+		"cze"			"{green}[AWP]{olive} Hráč {default}{1} {olive}byl odmlčen adminem {default}{2}{olive}."
+		"sk"			"{green}[AWP]{olive} Hráč {default}{1} {olive}bol odmlčaní adminom {default}{2}{olive}."
+		"de"			"{green}[AWP]{olive} Spieler {default}{1} {olive}wurde ungemutet, von Admin {default}{2}{olive}."
+		"pl"			"{green}[AWP]{olive} Gracz {default}{1} {olive}został odciszony przez Admina {default}{2}{olive}."
+	}
+	"admin teleport player"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"{green}[AWP]{olive} Player {default}{1} {olive}has been teleported, by Admin {default}{2}{olive}."
+		"cze"			"{green}[AWP]{olive} Hráč {default}{1} {olive}byl teleportován adminem {default}{2}{olive}."
+		"sk"			"{green}[AWP]{olive} Hráč {default}{1} {olive}bol teleportovaný adminom {default}{2}{olive}."
+		"de"			"{green}[AWP]{olive} Spieler {default}{1} {olive}wurde teleportet, von Admin {default}{2}{olive}."
+		"pl"			"{green}[AWP]{olive} Gracz {default}{1} {olive}został przeteleportowany przez Admina {default}{2}{olive}."
+	}
+	"enter positive value"
+	{
+		"en"			"{darkred}[!] {default}You must enter a positive value!"
+		"cze"			"{darkred}[!] {default}Musíte zadat kladnou hodnotu!"
+		"sk"			"{darkred}[!] {default}Musíte zadať kladnú hodnotu!"
+		"de"			"{darkred}[!] {default}Sie müssen einen positiven Wert eingeben!"
+		"pl"			"{darkred}[!] {default}Musisz wstawić wartość dodatnią!"
+	}
+	"rtv done"
+	{
+		"en"			"{green}[AWP] {olive}Enough players voted for the new map, this is the last round!"
+		"cze"			"{green}[AWP] {olive}Dostatek hráčů hlasovalo pro novou mapu, toto je poslední kolo!"
+		"sk"			"{green}[AWP] {olive}Dostatok hráčov hlasovalo pre novú mapu, toto je posledné kolo!"
+		"de"			"{green}[AWP] {olive}Genug Spieler haben für die neue Karte gestimmt, dies ist die letzte Runde!"
+		"pl"			"{green}[AWP] {olive}Wystarczająca ilość graczy zagłosowała za zmianą mapy, to ostatnia runda!"
+	}
+	"rtv need"
+	{
+		"#format"		"{1:i}"
+		"en"			"{green}[AWP] {default}{1} {olive}more players must type {darkred}rtv {olive}for a new map pool!"
+		"cze"			"{green}[AWP] {olive}Ještě {default}{1} {olive}hráčů musí napsat {darkred}rtv {olive}pro nové hlasovaní map!"
+		"sk"			"{green}[AWP] {olive}Eště {default}{1} {olive}hráčov musí napísať {darkred}rtv {olive}pre nové hlasovanie máp!"
+		"de"			"{green}[AWP] {default}{1} {olive}mehr Spieler müssen tippen {darkred}rtv {olive}für einen neuen Kartenpool!"
+		"pl"			"{green}[AWP] {default}{1} {olive}więcej graczy musi wpisać {darkred}rtv {olive},aby zmienić mapę!"
+	}
+	"played first"
+	{
+		"#format"		"{1:s}"
+		"en"			"{darkred}[!] {default}For the first time you were on the server{olive} {1}{default}."
+		"cze"			"{darkred}[!] {default}Na serveru si byl poprvé{olive} {1}{default}."
+		"sk"			"{darkred}[!] {default}Na serveri si bol prvýkrát{olive} {1}{default}."
+		"de"			"{darkred}[!] {default}Zum ersten Mal waren Sie auf dem Server{olive} {1}{default}."
+		"pl"			"{darkred}[!] {default}Po raz pierwszy byłeś na serwerze przez{olive} {1}{default}."
+	}
+	"played hours"
+	{
+		"#format"		"{1:i}"
+		"en"			"{darkred}[!] {default}You have played on this server for{olive} {1}{default} hours."
+		"cze"			"{darkred}[!] {default}Na serveru máš nahráno{olive} {1}{default} hodin."
+		"sk"			"{darkred}[!] {default}Na serveri máš nahratých{olive} {1}{default} hodín."
+		"de"			"{darkred}[!] {default}Sie haben auf diesem Server für gespielt{olive} {1}{default} Std."
+		"pl"			"{darkred}[!] {default}Grałeś na serwerze{olive} {1}{default} godzin."
+	}
+	"pick present"
+	{
+		"en"			"pick up present"
+		"cze"			"sebral dáreček"
+		"sk"			"zobral darček"
+		"de"			"Geschenk abgeholt"
+		"pl"			"podniósł prezent"
+	}
+	"bonus from gift"
+	{
+		"#format"		"{1:t}"
+		"en"			"{darkred}[!] {default}You're earned {olive}{1} {default}a gift!"
+		"cze"			"{darkred}[!] {default}Získal si {olive}{1} {default}z dárečku!"
+		"sk"			"{darkred}[!] {default}Získal si {olive}{1} {default}z darčeku!"
+		"de"			"{darkred}[!] {default}Sie erhalten {olive}{1} {default}ein Geschenk!"
+		"pl"			"{darkred}[!] {default}Otrzymałeś {olive}{1} {default}prezent!"
+	}
+	"speed from gift"
+	{
+		"en"			"{darkred}[!] {default}You're earned {olive}Speed boost {default}a gift!"
+		"cze"			"{darkred}[!] {default}Získal si {olive}Speed boost {default}z dárečku!"
+		"sk"			"{darkred}[!] {default}Získal si {olive}Speed boost {default}z darčeku!"
+		"de"			"{darkred}[!] {default}Sie erhalten {olive}Speed boost {default}ein Geschenk!"
+		"pl"			"{darkred}[!] {default}Otrzymałeś {olive}Speed boost {default}prezent!"
+	}
+	"bonus get from gift"
+	{
+		"#format"		"{1:s},{2:t}"
+		"en"			"{green}[AWP] {default}{1} {olive}earned {default}{2} {olive}from gift!"
+		"cze"			"{green}[AWP] {default}{1} {olive}získal {default}{2} {olive}z dárečku!"
+		"sk"			"{green}[AWP] {default}{1} {olive}získal {default}{2} {olive}z darčeku!"
+		"de"			"{green}[AWP] {default}{1} {olive}verdient {default}{2} {olive}ein Geschenk!"
+		"pl"			"{green}[AWP] {default}{1} {olive}zarobione {default}{2} {olive}prezent!"
+	}
+	"speed get from gift"
+	{
+		"#format"		"{1:s}"
+		"en"			"{green}[DGL] {default}{1} {olive}earned {default}Speed boost {olive}from gift!"
+		"cze"			"{green}[DGL] {default}{1} {olive}získal {default}Speed boost {olive}z dárečku!"
+		"sk"			"{green}[DGL] {default}{1} {olive}získal {default}Speed boost {olive}z darčeku!"
+		"de"			"{green}[DGL] {default}{1} {olive}verdient {default}Speed boost {olive}ein Geschenk!"
+		"pl"			"{green}[DGL] {default}{1} {olive}zarobione {default}Speed boost {olive}prezent!"
+	}
+	"nothing from gift"
+	{
+		"en"			"{darkred}[!] {default}Unfortunately, you in present found nothing :("
+		"cze"			"{darkred}[!] {default}Bohužel si v dárečku nic nenašel :("
+		"sk"			"{darkred}[!] {default}Bohužiaľ si v darčeku nič nenašiel :("
+		"de"			"{darkred}[!] {default}Leider hast du in der Geschenk nichts gefunden :("
+		"pl"			"{darkred}[!] {default}Niestety nic nie znalazłeś w prezencie :("
+	}
+	"vip from gift"
+	{
+		"en"			"{darkred}[!] {default}You're earned {olive}VIP {default}forever a gift!!!"
+		"cze"			"{darkred}[!] {default}Získal si {olive}VIP {default}na vždy z dárečku !!!"
+		"sk"			"{darkred}[!] {default}Získal si {olive}VIP {default}navždy z darčeka !!!"
+		"de"			"{darkred}[!] {default}Sie erhalten {olive}VIP {default}für immer ein Geschenk!!!"
+		"pl"			"{darkred}[!] {default}Otrzymałeś {olive}VIP {default}na zawsze, w prezencie!!!"
+	}
+	"Report Menu"
+	{
+		"en"			"Report Player"
+		"cze"			"Nahlásit Hráče"
+		"sk"			"Nahlásiť Hráča"
+		"de"			"Melde Spieler"
+		"pl"			"Zgłoś gracza"
+	}
+	"report reason"
+	{
+		"en"			"Report reason"
+		"cze"			"Důvod nahlášení"
+		"sk"			"Dôvod nahlásenia"
+		"de"			"Grund melden"
+		"pl"			"Podwód zgłoszenia"
+	}
+	"you reported player"
+	{
+		"#format"		"{1:s}"
+		"en"			"{darkred}[!] {default}You're has reported player {olive}{1}{default}."
+		"cze"			"{darkred}[!] {default}Nahlasil si hráče {olive}{1}{default}."
+		"sk"			"{darkred}[!] {default}Nahlásil si hráča {olive}{1}{default}."
+		"de"			"{darkred}[!] {default}Du hast einen Spieler gemeldet {olive}{1}{default}."
+		"pl"			"{darkred}[!] {default}Zgłosiłeś gracza {olive}{1}{default}."
+	}
+	"Valve Menu"
+	{
+		"en"			"Valve Content"
+		"cze"			"Valve Obsah"
+		"sk"			"Valve Obsah"
+		"de"			"Valve Inhalt"
+		"pl"			"Valve Content"
+	}
+	"valve weapons"
+	{
+		"en"			"Weapon Customization"
+		"cze"			"Přizpůsobení Zbraně"
+		"sk"			"Prispôsobenie Zbrane"
+		"de"			"Waffenanpassung"
+		"pl"			"Ustawienia Broni"
+	}
+	"valve knife"
+	{
+		"en"			"Choose Knife"
+		"cze"			"Výběr Nože"
+		"sk"			"Výber Nožíka"
+		"de"			"Wähle Knife"
+		"pl"			"Wybierz Nóż"
+	}
+	"valve glove"
+	{
+		"en"			"Choose Gloves"
+		"cze"			"Výběr Rukavic"
+		"sk"			"Výber Rukavíc"
+		"de"			"Wähle Gloves"
+		"pl"			"Wybierz Rękawice"
+	}
+	"valve sprays"
+	{
+		"en"			"Choose Graffiti"
+		"cze"			"Výběr Spreye"
+		"sk"			"Výber Spreye"
+		"de"			"Wähle Graffiti"
+		"pl"			"Wybierz Graffiti"
+	}
+	"valve music"
+	{
+		"en"			"Choose Music Kit"
+		"cze"			"Výběr Hudebního Balíčku"
+		"sk"			"Výber Hudobného Balíčka"
+		"de"			"Wähle Musik Kit"
+		"pl"			"Wybierz Zestaw Muzyczny"
+	}
+	"valve coin"
+	{
+		"en"			"Choose Coin"
+		"cze"			"Výběr Mince"
+		"sk"			"Výber Mince"
+		"de"			"Wähle Münze"
+		"pl"			"Wybierz Żeton"
+	}
+	"stattrack all"
+	{
+		"en"			"StatTrak™ on all weapons"
+		"cze"			"StatTrak™ na všech zbraních"
+		"sk"			"StatTrak™ na všetkých zbraniach"
+		"de"			"StatTrak™ auf allen Waffen"
+		"pl"			"StatTrak™ na wszystkich broniach"
+	}
+	"stattrack knife"
+	{
+		"en"			"StatTrak™ only on knife"
+		"cze"			"StatTrak™ pouze na noži"
+		"sk"			"StatTrak™ iba na nožíku"
+		"de"			"StatTrak™ nur auf Knife"
+		"pl"			"StatTrak™ tylko na nożu"
+	}
+	"tweak your AWP"
+	{
+		"en"			"Tweak your AWP"
+		"cze"			"Uprav si svoje AWP"
+		"sk"			"Uprav si svoje AWP"
+		"de"			"Optimieren Sie Ihre AWP"
+		"pl"			"Zmień swój AWP"
+	}
+	"tweak your knife"
+	{
+		"en"			"Tweak your Knife"
+		"cze"			"Uprav si svůj Nůž"
+		"sk"			"Uprav si svůj Nůž"
+		"de"			"Optimieren Sie Ihre Knife"
+		"pl"			"Zmień swój Knife"
+	}
+	"tweak your knife spec"
+	{
+		"#format"		"{1:s}"
+		"en"			"Tweak your Knife: {1}"
+		"cze"			"Uprav si svůj Nůž: {1}"
+		"sk"			"Uprav si svůj Nůž: {1}"
+		"de"			"Optimieren Sie Ihre Knife: {1}"
+		"pl"			"Zmień swój Knife: {1}"
+	}
+	"menu set skin"
+	{
+		"en"			"Choose Paint"
+		"cze"			"Nastavit Skin"
+		"sk"			"Nastaviť Skin"
+		"de"			"Wähle Skin"
+		"pl"			"Wybierz Skin"
+	}
+	"menu set quality"
+	{
+		"#format"		"{1:s}"
+		"en"			"Choose Quality: {1}"
+		"cze"			"Nastavit Kvalitu: {1}"
+		"sk"			"Nastaviť Kvalitu: {1}"
+		"de"			"Wähle Quality: {1}"
+		"pl"			"Wybierz Quality: {1}"
+	}
+	"menu set stattrack"
+	{
+		"#format"		"{1:s}"
+		"en"			"StatTrak™ Technology: {1}"
+		"cze"			"StatTrak™ Technologie: {1}"
+		"sk"			"StatTrak™ Technológie: {1}"
+		"de"			"StatTrak™ Technologie: {1}"
+		"pl"			"StatTrak™ Technologie: {1}"
+	}
+	"menu set sticker"
+	{
+		"en"			"Choose Sticker"
+		"cze"			"Nastavit Samolepku"
+		"sk"			"Nastaviť Samolepku"
+		"de"			"Wähle Sticker"
+		"pl"			"Wybierz naklejkę"
+	}
+	"menu set float"
+	{
+		"#format"		"{1:s}"
+		"en"			"Set Wear: {1}"
+		"cze"			"Nastavit Opotřebení: {1}"
+		"sk"			"Nastaviť Opotrebení: {1}"
+		"de"			"Wähle Waffen Wear: {1}"
+		"pl"			"Wybierz Wear: {1}"
+	}
+	"menu set custom float"
+	{
+		"en"			"Set custom Wear"
+		"cze"			"Nastavit vlastní Opotřebení"
+		"sk"			"Nastaviť vlastní Opotrebení"
+		"de"			"Wähle Brauch Wear"
+		"pl"			"Ustaw niestandardowe Wear"
+	}
+	"menu set pattern"
+	{
+		"#format"		"{1:i}"
+		"en"			"Choose Pattern: {1}"
+		"cze"			"Nastavit Pattern: {1}"
+		"sk"			"Nastaviť Pattern: {1}"
+		"de"			"Wähle pattern: {1}"
+		"pl"			"Wybierz Pattern: {1}"
+	}
+	"menu set nametag"
+	{
+		"en"			"Choose NameTag"
+		"cze"			"Nastavit NameTag"
+		"sk"			"Nastaviť NameTag"
+		"de"			"Wähle NameTag"
+		"pl"			"Nadaj NameTag"
+	}
+	"menu delete nametag"
+	{
+		"en"			"Delete NameTag"
+		"cze"			"Smazat NameTag"
+		"sk"			"Smazat NameTag"
+		"de"			"Löschen Sie NameTag"
+		"pl"			"Usuń NameTag"
+	}
+	"float set title"
+	{
+		"#format"		"{1:s}"
+		"en"			"Set this Float:\n{1}"
+		"cze"			"Nastavit tento Float:\n{1}"
+		"sk"			"Nastaviť tento Float:\n{1}"
+		"de"			"Stellen Sie dieses Float ein:\n{1}"
+		"pl"			"Ustaw wartość Float na: \n{1}"
+	}
+	"pattern set title"
+	{
+		"#format"		"{1:i}"
+		"en"			"Set this Pattern:\n{1}"
+		"cze"			"Nastavit tento Pattern:\n{1}"
+		"sk"			"Nastaviť tento Pattern:\n{1}"
+		"de"			"Setze dieses Pattern:\n{1}"
+		"pl"			"Ustaw Pattern na: \n{1}"
+	}
+	"nametag set title"
+	{
+		"#format"		"{1:s}"
+		"en"			"Set this NameTag:\n{1}"
+		"cze"			"Nastavit tento NameTag:\n{1}"
+		"sk"			"Nastaviť tento NameTag:\n{1}"
+		"de"			"Stellen Sie diese NameTag ein:\n{1}"
+		"pl"			"Ustaw NameTag na: \n{1}"
+	}
+	"ws set on current"
+	{
+		"en"			"On current weapon"
+		"cze"			"Na aktuální zbraň"
+		"sk"			"Na aktuálnu zbraň"
+		"de"			"Auf der aktuellen Waffe"
+		"pl"			"Na aktualnej broni"
+	}
+	"ws set on all"
+	{
+		"en"			"On all weapons"
+		"cze"			"Na všechny zbraně"
+		"sk"			"Na všetky zbrane"
+		"de"			"Auf alle Waffen"
+		"pl"			"Na wszystkich broniach"
+	}
+	"ws cant set weapon"
+	{
+		"#format"		"{1:s}"
+		"en"			"{darkred}[!] {default}On this weapon can't set {1}!"
+		"cze"			"{darkred}[!] {default}Na tuto zbraň nemůžeš nastavit {1}!"
+		"sk"			"{darkred}[!] {default}Na túto zbraň nemôžeš nastaviť {1}!"
+		"de"			"{darkred}[!] {default}Auf dieser Waffe kann nicht eingestellt werden{1}!"
+		"pl"			"{darkred}[!] {default}Nie możesz ustawić na tej broni {1}!"
+	}
+	"ws set skin knife"
+	{
+		"en"			"Choose you skin for your knife"
+		"cze"			"Zvol si skin pro tvůj Nůž"
+		"sk"			"Zvoľ si skin pre tvůj Nôž"
+		"de"			"Wähle skin für deine knife"
+		"pl"			"Wybierz skin dla wszystkich knife"
+	}
+	"ws set skin awp"
+	{
+		"en"			"Choose you skin for your AWP"
+		"cze"			"Zvol si skin pro tvoje AWP"
+		"sk"			"Zvoľ si skin pre tvoje AWP"
+		"de"			"Wähle skin für deine AWP"
+		"pl"			"Wybierz skin dla wszystkich AWP"
+	}
+	"ws search by type"
+	{
+		"en"			"Search by weapon type"
+		"cze"			"Hledat podle typu zbraně"
+		"sk"			"Hľadať podľa typu zbrane"
+		"de"			"Suche nach Waffentyp"
+		"pl"			"Wybierz według rodzaju broni"
+	}
+	"ws search by case"
+	{
+		"en"			"Search by case type"
+		"cze"			"Hledat podle typu bedny"
+		"sk"			"Hľadať podľa typu debny"
+		"de"			"Suche nach Falltyp"
+		"pl"			"Wybierz według rodzaju skrzynki"
+	}
+	"ws choose weapon type"
+	{
+		"en"			"Choose weapon type"
+		"cze"			"Zvol typ zbraně"
+		"sk"			"Zvoľ typ zbrane"
+		"de"			"Wähle Waffenart"
+		"pl"			"Wybierdz rodzaj broni"
+	}
+	"ws choose case type"
+	{
+		"en"			"Choose case type"
+		"cze"			"Zvol typ bedny"
+		"sk"			"Zvoľ typ debny"
+		"de"			"Wählen Sie den Falltyp"
+		"pl"			"Wybierz rodzaj skrzynki"
+	}
+	"ws choose weapon"
+	{
+		"en"			"Choose weapon"
+		"cze"			"Zvol si zbraň"
+		"sk"			"Zvoľ si zbraň"
+		"de"			"Wähle Waffe"
+		"pl"			"Wybierz broń"
+	}
+	"ws random"
+	{
+		"en"			"Random"
+		"cze"			"Náhodný"
+		"sk"			"Náhodný"
+		"de"			"Zufall"
+		"pl"			"Losowy"
+	}
+	"ws default"
+	{
+		"en"			"Default"
+		"cze"			"Výchozí"
+		"sk"			"Predvoleny"
+		"de"			"Standard"
+		"pl"			"Domyślny"
+	}
+	"glove set skin"
+	{
+		"en"			"Choose you skin for your gloves"
+		"cze"			"Zvol si skin pro tvoje rukavice"
+		"sk"			"Zvoľ si skin pre tvoje rukavice"
+		"de"			"Wähle skin für deine Handschuhe"
+		"pl"			"Wybierz skin dla wszystkich rękawiczki"
+	}
+	"glove search by type"
+	{
+		"en"			"Search by glove type"
+		"cze"			"Hledat podle typu rukavic"
+		"sk"			"Hľadať podľa typu rukavic"
+		"de"			"Suche nach Handschuhetyp"
+		"pl"			"Wybierz według rodzaju rękawiczki"
+	}
+	"glove choose type"
+	{
+		"en"			"Choose glove type"
+		"cze"			"Zvol typ rukavic"
+		"sk"			"Zvoľ typ rukavic"
+		"de"			"Wähle Handschuhetyp"
+		"pl"			"Wybierdz rodzaj rękawiczki"
+	}
+	"glove quality"
+	{
+		"en"			"Choose glove quality"
+		"cze"			"Zvol opotřebení rukavic"
+		"sk"			"Zvoľ opotřebení rukavic"
+		"de"			"Wählen Sie die Handschuhqualität"
+		"pl"			"Wybierz jakość rękawic"
+	}
+	"Factory-New"
+	{
+		"en"			"Factory New"
+		"cze"			"Zbrusu nový"
+		"sk"			"Zbrusu nový"
+		"de"			"Fabrikneu"
+		"pl"			"prosto z fabryki"
+	}
+	"Minimal-Wear"
+	{
+		"en"			"Minimal Wear"
+		"cze"			"Lehce opotřebený"
+		"sk"			"Lehce opotřebený"
+		"de"			"Minimale Gebrauchsspuren"
+		"pl"			"ekkie zużycie"
+	}
+	"Field-Tested"
+	{
+		"en"			"Field-Tested"
+		"cze"			"Opotřebený"
+		"sk"			"Opotřebený"
+		"de"			"Abgenutzt"
+		"pl"			"po testach bojowych"
+	}
+	"Well-Worn"
+	{
+		"en"			"Well-Worn"
+		"cze"			"Silně opotřebený"
+		"sk"			"Silně opotřebený"
+		"de"			"Einsatzerprobt"
+		"pl"			"mocne zużycie"
+	}
+	"Battle-Scarred"
+	{
+		"en"			"Battle-Scarred"
+		"cze"			"Poničený bojem"
+		"sk"			"Poničený bojem"
+		"de"			"Kampfspuren"
+		"pl"			"po ciężkich walkach"
+	}
+	"Knife Menu"
+	{
+		"en"			"Choose Knife"
+		"cze"			"Výber Nože"
+		"sk"			"Zvoľ si Nôž"
+		"de"			"Wähle Knife"
+		"pl"			"Wybierz Nóż"
+	}
+	"choose knife both"
+	{
+		"en"			"Choose Knife for both team"
+		"cze"			"Výber Nože pro oba týmy"
+		"sk"			"Zvoľ si Nôž pre oba tímy"
+		"de"			"Wählen Sie Knife für beide Teams"
+		"pl"			"Wybierz Nóż dla obu zespołów"
+	}
+	"choose knife ct"
+	{
+		"en"			"Choose Knife for CT"
+		"cze"			"Výber Nože pro CT"
+		"sk"			"Zvoľ si Nož pre CT"
+		"de"			"Wählen Sie Knife für CT"
+		"pl"			"Wybierz Nóż dla CT"
+	}
+	"choose knife t"
+	{
+		"en"			"Choose Knife for T"
+		"cze"			"Výber Nože pro T"
+		"sk"			"Zvoľ si Nož pre T"
+		"de"			"Wählen Sie Knife für T"
+		"pl"			"Wybierz Nóż dla T"
+	}
+	"team"
+	{
+		"en"			"team"
+		"cze"			"tým"
+		"sk"			"tím"
+		"de"			"Team"
+		"pl"			"Drużyna"
+	}
+	"teams"
+	{
+		"en"			"teams"
+		"cze"			"týmy"
+		"sk"			"tímy"
+		"de"			"Teams"
+		"pl"			"Drużyny"
+	}
+	"current"
+	{
+		"en"			"(Current)"
+		"cze"			"(Aktuální)"
+		"sk"			"(Aktuálny)"
+		"de"			"(Aktuell)"
+		"pl"			"(Aktualny)"
+	}
+	"gold knife"
+	{
+		"en"			"Golden Knife"
+		"cze"			"Zlatý Nůž"
+		"sk"			"Zlatý Nôž"
+		"de"			"Golden Knife"
+		"pl"			"Złoty Nóż"
+	}
+	"Coin Menu"
+	{
+		"en"			"Choose Coin (/coin)"
+		"cze"			"Výber Mince (/mince)"
+		"sk"			"Zvoľ si Mincu (/minca)"
+		"de"			"Wähle Münze (/coin)"
+		"pl"			"Wybierz żeton (/coin)"
+	}
+	"no coin"
+	{
+		"en"			"No Coin"
+		"cze"			"Žádná Mince"
+		"sk"			"Žiadna Minca"
+		"de"			"Keine Münze"
+		"pl"			"Brak żetonu"
+	}
+	"vote next map"
+	{
+		"en"			"Voting a next map"
+		"cze"			"Hlasovani dalsi mapy"
+		"sk"			"Hlasovanie ďalšej mapy"
+		"de"			"Wählen einer nächsten Karte"
+		"pl"			"Głosowanie na następną mapę"
+	}
+	"player voted for"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"{green}[AWP] {default}{1} {olive}voted for {default}{2}{olive}."
+		"cze"			"{green}[AWP] {default}{1} {olive}hlasoval pro {default}{2}{olive}."
+		"sk"			"{green}[AWP] {default}{1} {olive}hlasoval pre {default}{2}{olive}."
+		"de"			"{green}[AWP] {default}{1} {olive}stimmte für {default}{2}{olive}."
+		"pl"			"{green}[AWP] {default}{1} {olive}zagłosował za{default}{2}{olive}."
+	}
+	"player not voted"
+	{
+		"#format"		"{1:s}"
+		"en"			"{green}[AWP] {default}{1} {olive}not voted."
+		"cze"			"{green}[AWP] {default}{1} {olive}nehlasoval."
+		"sk"			"{green}[AWP] {default}{1} {olive}nehlasoval."
+		"de"			"{green}[AWP] {default}{1} {olive}nicht gewählt."
+		"pl"			"{green}[AWP] {default}{1} {olive}nie głosował."
+	}
+	"no any votes"
+	{
+		"en"			"{green}[AWP] {olive}No votes, map will be selected at random..."
+		"cze"			"{green}[AWP] {olive}Nikdo nehlasoval, mapa se zvolí náhodně..."
+		"sk"			"{green}[AWP] {olive}Nikto nehlasoval, mapa sa zvolí náhodne..."
+		"de"			"{green}[AWP] {olive}Keine Stimmen, Karte wird zufällig ausgewählt..."
+		"pl"			"{green}[AWP] {olive}Brak głosów, zostanie wybrana losowa mapa..."
+	}
+	"vote map finished"
+	{
+		"en"			"{green}[AWP] {olive}Voting finished."
+		"cze"			"{green}[AWP] {olive}Hlasovaní skončilo."
+		"sk"			"{green}[AWP] {olive}Hlasovanie skončilo."
+		"de"			"{green}[AWP] {olive}Abstimmung beendet."
+		"pl"			"{green}[AWP] {olive}Głosowanie zakończone."
+	}
+	"next map will"
+	{
+		"#format"		"{1:s}"
+		"en"			"{green}[AWP] {olive}Next map will be {default}{1}{olive}."
+		"cze"			"{green}[AWP] {olive}Další mapa bude {default}{1}{olive}."
+		"sk"			"{green}[AWP] {olive}Nasledujúca mapa bude {default}{1}{olive}."
+		"de"			"{green}[AWP] {olive}Die nächste Karte wird sein {default}{1}{olive}."
+		"pl"			"{green}[AWP] {olive}Następną mapą będzie {default}{1}{olive}."
+	}
+	"player pissing"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"{green}[AWP]{default} {1} {olive}pissing on{default} {2}'s{olive} corpse :D"
+		"cze"			"{green}[AWP]{default} {1} {olive}močí na{default} {2}ovo{olive} tělo :D"
+		"sk"			"{green}[AWP]{default} {1} {olive}močí na{default} {2}ovo{olive} telo :D"
+		"de"			"{green}[AWP]{default} {1} {olive}aufpissen{default} {2}'s{olive} Leiche :D"
+		"pl"			"{green}[AWP]{default} {1} {olive}sika na ciało {default} {2}'s{olive} :D"
+	}
+	"back menu"
+	{
+		"en"			"Back to menu"
+		"cze"			"Zpět do menu"
+		"sk"			"Späť do menu"
+		"de"			"Zurück zum Menü"
+		"pl"			"Powrót do menu"
+	}
+	"close"
+	{
+		"en"			"Close"
+		"cze"			"Zavřít"
+		"sk"			"Zatvoriť"
+		"de"			"Schließen"
+		"pl"			"Zamknij"
+	}
+	"via"
+	{
+		"en"			"Via"
+		"cze"			"Přes"
+		"sk"			"Cez"
+		"de"			"Über"
+		"pl"			"Przez"
+	}
+	"Credit Menu"
+	{
+		"#format"		"{1:i}"
+		"en"			"Credits (/credit)\nYou have {1} credits"
+		"cze"			"Kredity (/kredit)\nMáš {1} kreditů"
+		"sk"			"Kredity (/kredit)\nMáš {1} kreditov"
+		"de"			"Credits (/credit)\nDu hast {1} credits"
+		"pl"			"Kredyty (/credit)\nMasz {1} kredytów"
+	}
+	"credit purchase vip"
+	{
+		"en"			"Purchase VIP"
+		"cze"			"Zakoupit VIP"
+		"sk"			"Zakúpiť VIP"
+		"de"			"Kaufe VIP"
+		"pl"			"Zakupiono VIP"
+	}
+	"credit purchase xp"
+	{
+		"en"			"Purchase XP"
+		"cze"			"Zakoupit XP"
+		"sk"			"Zakúpiť XP"
+		"de"			"Kaufe XP"
+		"pl"			"Zakupiono XP"
+	}
+	"credit purchase money"
+	{
+		"en"			"Purchase MONEY"
+		"cze"			"Zakoupit MONEY"
+		"sk"			"Zakúpiť MONEY"
+		"de"			"Kaufe MONEY"
+		"pl"			"Zakupiono MONEY"
+	}
+	"credit buy"
+	{
+		"en"			"Buy Credits"
+		"cze"			"Dobít Kredity"
+		"sk"			"Dobiť Kredit"
+		"de"			"Kaufen Credits"
+		"pl"			"Kup Kredyty"
+	}
+	"activ old code"
+	{
+		"en"			"Activate old CS1.6 code"
+		"cze"			"Aktivovat starý CS1.6 kód"
+		"sk"			"Aktivovať starý CS1.6 kód"
+		"de"			"Aktivieren Sie den alten CS1.6 Code"
+		"pl"			"Aktywuj stary kod CS1.6"
+	}
+	"Purchase Menu"
+	{
+		"en"			"Purchase Credits"
+		"cze"			"Zakoupení Kreditů"
+		"sk"			"Zakúpenie Kreditov"
+		"de"			"Kaufe Credits"
+		"pl"			"Zakup kredyty"
+	}
+	"float info"
+	{
+		"en"			"Type value in decimal or smaller\nExample 0.00001 for best quality\nOr 0.9 for low quality"
+		"cze"			"Napiš hodnotu v desetinách nebo menší\nNapříklad 0.00001 pro nejlepší kvalitu\nNebo 0.9 pro horší kvalitu"
+		"sk"			"Napíš hodnotu v desatinách\nNapríklad 0.00001 pre najlepšiu kvalitu\nalebo 0.9 pre horšiu kvalitu"
+		"de"			"Geben Sie den Wert in Dezimal oder kleiner ein.\nBeispiel 0.00001 für die beste Qualität\noder 0.9 für die niedrige Qualität"
+		"pl"			"Wpisz wartość dziesiętna lub mniejszą\n Dla przykładu 0.00001 dla najlepszej jakości\n lub 0.9 dla niskiej jakości"
+	}
+	"float info title"
+	{
+		"en"			"Choose weapon Float"
+		"cze"			"Nastavit Float zbraně"
+		"sk"			"Nastaviť Float zbrane"
+		"de"			"Wähle Waffen Float"
+		"pl"			"Wybierz Float broni"
+	}
+	"pattern info"
+	{
+		"en"			"Type a positive numeric value\nExample 50"
+		"cze"			"Napiš kladnou číselnou hodnotu\nNapříklad 50"
+		"sk"			"Napíš kladnú číselnú hodnotu\nNapríklad 50"
+		"de"			"Geben Sie einen positiven numerischen Wert ein \nBeispiel 50"
+		"pl"			"Wpisz pozytywną wartość numeryczną\nNa przykład 50"
+	}
+	"pattern info title"
+	{
+		"en"			"Choose weapon Pattern"
+		"cze"			"Nastavit Pattern zbraně"
+		"sk"			"Nastaviť Pattern zbrane"
+		"de"			"Wähle Waffen Pattern"
+		"pl"			"Wybierz Pattern broni"
+	}
+	"nametag info"
+	{
+		"en"			"Type any text\nExample: Magic Stick\nFor delete NameTag enter empty string"
+		"cze"			"Napiš libovolný text\nNapříklad: Magic Stick\nPro smazání NameTagu nechte pole prázdné"
+		"sk"			"Napíš ľubovoľný text\nNapríklad: Magic Stick\nPre zmazanie NameTagu nechajte pole prázdne"
+		"de"			"Geben Sie einen beliebigen Text ein\nBeispiel: Magic Stick\nFür das Löschen von NameTag geben Sie eine leere Zeichenfolge ein"
+		"pl"			"Wpisz dowolny tekst\nPrzykład: Magic Stick\nDla usunięcia NameTag wpisz pustą wartość"
+	}
+	"nametag info title"
+	{
+		"en"			"Choose weapon Nametag"
+		"cze"			"Nastavit Nametag zbraně"
+		"sk"			"Nastaviť Nametag zbrane"
+		"de"			"Wähle Waffen Nametag"
+		"pl"			"Wybierz NameTag broni"
+	}
+	"paypal info title"
+	{
+		"en"			"Purchase Credits via PayPal"
+		"cze"			"Zakoupení Kreditů přes PayPal"
+		"sk"			"Zakúpenie Kreditov cez PayPal"
+		"de"			"Kaufe Credits über PayPal"
+		"pl"			"Kup kredyty przez PayPal"
+	}
+	"paypal info"
+	{
+		"en"			"0.04€ = 1 credit\nTo e-mail stoupaa@email.cz\nTo info message write your SteamID or link on steam profile!"
+		"cze"			"1 koruna / 0.04€ = 1 kredit\nNa e-mail stoupaa@email.cz\nDo info zprávy napiš tvůj SteamID nebo link na steam profil!"
+		"sk"			"0.04€ = 1 kredit\nNa e-mail stoupaa@email.cz\nDo info správy napíš tvoje SteamID alebo link na steam profil!"
+		"de"			"0.04€ = 1 credit\nTo e-mail stoupaa@email.cz\nZur Info-Nachricht schreibe deine SteamID oder verlinke auf das Steam-Profil!"
+		"pl"			"0.04 Euro = 1 kredyt\nNa e-mail stoupaa@email.cz\nW informacjach wpisz swój SteamID lub link do profilu Steam"
+	}
+	"paysafecard info title"
+	{
+		"en"			"Purchase Credits via PaySafeCard"
+		"cze"			"Zakoupení Kreditů přes PaySafeCard"
+		"sk"			"Zakúpenie Kreditov cez PaySafeCard"
+		"de"			"Kaufe Credits über PaySafeCard"
+		"pl"			"Kup kredyty przez PaySafeCard"
+	}
+	"paysafecard info"
+	{
+		"en"			"0.04€ = 1 credit\nContact the server owner\nhttp://steamcommunity.com/id/gamerxcz/"
+		"cze"			"1 koruna / 0.04€ = 1 kredit\nZkontaktujte majitele serveru\nhttp://steamcommunity.com/id/gamerxcz/"
+		"sk"			"0.04€ = 1 kredit\nKontaktujte majiteľa serveru\nhttp://steamcommunity.com/id/gamerxcz/"
+		"de"			"0.04€ = 1 credit\nWenden Sie sich an den Serverbesitzer\nhttp://steamcommunity.com/id/gamerxcz/"
+		"pl"			"0.04 Euro = 1 kredyt\nSkontaktuj się z właścicielem serwera\nhttp://steamcommunity.com/id/gamerxcz/"
+	}
+	"steamoffer info title"
+	{
+		"en"			"Purchase Credits via Steam Offer"
+		"cze"			"Zakoupení Kreditů přes Steam Offer"
+		"sk"			"Zakúpenie Kreditov cez Steam Offer"
+		"de"			"Kaufe Credits über Steam Offer"
+		"pl"			"Kup kredyty przez Ofertę Steam"
+	}
+	"steamoffer info"
+	{
+		"en"			"0.04€ = 1 credit\nAddress for redirection to offer:\nhttp://funmod.org/offer.html\nAll items from all games will be accepted"
+		"cze"			"1 koruna / 0.04€ = 1 kredit\nAdresa pro přesměrování na offer:\nhttp://funmod.org/offer.html\nVšechny itemy ze všech her budou přijimány"
+		"sk"			"0.04€ = 1 kredit\nAdresa pre presmerovanie na offer:\nhttp://funmod.org/offer.html\nVšetky itemy zo všetkých hier budú prijaté"
+		"de"			"0.04€ = 1 credit\nAdresse für die Weiterleitung zum Angebot:\nhttp://funmod.org/offer.html\nAlle Elemente aus allen Spiel werden akzeptiert"
+		"pl"			"0.04 Euro = 1 kredyt\nAdres do oferty:\nhttp://funmod.org/offer.html\nPrzedmioty z wszystkich gier są akceptowalne"
+	}
+	"oldcode info"
+	{
+		"en"			"Write to chat your\nold VIP code."
+		"cze"			"Napiš do chatu tvůj\nstarý VIP kód."
+		"sk"			"Napíš do chatu tvoj\nstarý VIP kód."
+		"de"			"Schreiben Sie, um Ihren\nVIP-Code zu chatten."
+		"pl"			"Wpisz na czacie swój\nstary kod VIP."
+	}
+	"info"
+	{
+		"en"			"info"
+		"cze"			"info"
+		"sk"			"info"
+		"de"			"info"
+		"pl"			"info"
+	}
+	"Skybox Menu"
+	{
+		"en"			"Choose a skybox"
+		"cze"			"Výběr skyboxu"
+		"sk"			"Výber skyboxu"
+		"de"			"Wähle ein Skybox"
+		"pl"			"Wybierz Skybox"
+	}
+	"sky default"
+	{
+		"en"			"Map Skybox"
+		"cze"			"Skybox Mapy"
+		"sk"			"Skybox Mapy"
+		"de"			"Karte Skybox"
+		"pl"			"Mapa Skybox"
+	}
+	"give credits"
+	{
+		"#format"		"{1:i}"
+		"en"			"Give {1} credits to player:"
+		"cze"			"Darovat {1} kreditů hráčovy:"
+		"sk"			"Darovat {1} kreditov hráčovy:"
+		"de"			"Spende {1} Credits an Spieler:"
+		"pl"			"Daj {1} kredytów dla gracza:"
+	}
+	"credits sent"
+	{
+		"#format"		"{1:i},{2:s}"
+		"en"			"{darkred}[!] {default}You sent{olive} {1} {default}credits to{olive} {2}{default}!"
+		"cze"			"{darkred}[!] {default}Poslal si{olive} {1} {default}kreditů hráčovy{olive} {2}{default}!"
+		"sk"			"{darkred}[!] {default}Poslal si{olive} {1} {default}kreditov hráčovy{olive} {2}{default}!"
+		"de"			"{darkred}[!] {default}Du hast{olive} {1} {default}krediten zu{olive} {2} {default}gesendet!"
+		"pl"			"{darkred}[!] {default}Wysłałeś{olive} {1} {default}kredytów do{olive} {2}{default}!"
+	}
+	"reset skill"
+	{
+		"en"			"{darkred}[!] {default}You has been reset your skill!"
+		"cze"			"{darkred}[!] {default}Vyresetoval sis svůj skill!"
+		"sk"			"{darkred}[!] {default}Vyresetoval sis svůj skill!"
+		"de"			"{darkred}[!] {default}Zresetowałeś swoje umiejętności!"
+		"pl"			"{darkred}[!] {default}Du hast deine Fähigkeiten zurückgesetzt!"
+	}
+	"rate map"
+	{
+		"en"			"Rate the map"
+		"cze"			"Ohodnoť mapu"
+		"sk"			"Ohodnoť mapu"
+		"de"			"Bewerten Sie die Karte"
+		"pl"			"Oceń mapę"
+	}
+	"you rated map"
+	{
+		"en"			"You've rated"
+		"cze"			"Hodnotil jsi"
+		"sk"			"Hodnotil jsi"
+		"de"			"Sie haben bewertet"
+		"pl"			"Oceniłeś"
+	}
+	"player rated map"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"{green}[AWP] {default}{1}{olive} gave this map a rating {default}{2}{olive}."
+		"cze"			"{green}[AWP] {default}{1}{olive} dal této mapě hodnocení {default}{2}{olive}."
+		"sk"			"{green}[AWP] {default}{1}{olive} dal této mapě hodnocení {default}{2}{olive}."
+		"de"			"{green}[AWP] {default}{1}{olive} hat diese Karte bewertet {default}{2}{olive}."
+		"pl"			"{green}[AWP] {default}{1}{olive} nadał tej mapie ocenę {default}{2}{olive}."
+	}
+	"you change map rate"
+	{
+		"#format"		"{1:s}"
+		"en"			"{darkred}[!] {default}You changed the rating of this map to {olive}{1}{default}."
+		"cze"			"{darkred}[!] {default}Změnil si svě hodnocení této mapy na {olive}{1}{default}."
+		"sk"			"{darkred}[!] {default}Změnil si svě hodnocení této mapy na {olive}{1}{default}."
+		"de"			"{darkred}[!] {default}Zmieniłeś ocenę tej mapy na {olive}{1}{default}."
+		"pl"			"{darkred}[!] {default}Sie haben die Bewertung dieser Karte in geändert {olive}{1}{default}."
+	}
+	"already in group"
+	{
+		"en"			"{darkred}[!] {default}You are already in our Steam group."
+		"cze"			"{darkred}[!] {default}Jsi již v naší Steam skupině."
+		"sk"			"{darkred}[!] {default}Jsi již v naší Steam skupině."
+		"de"			"{darkred}[!] {default}Sie sind bereits in unserer Steam-Gruppe."
+		"pl"			"{darkred}[!] {default}Jesteś już w naszej grupie Steam."
+	}
+	"steam group info"
+	{
+		"en"			"{orange}Join our Steam Group at {default}https://steamcommunity.com/groups/fun_mod{orange}."
+		"cze"			"{orange}Do naší Steam skupiny se připojíš na této webové adrese {default}https://steamcommunity.com/groups/fun_mod{orange}."
+		"sk"			"{orange}Do naší Steam skupiny se připojíš na této webové adrese {default}https://steamcommunity.com/groups/fun_mod{orange}."
+		"de"			"{orange}Treten Sie unserer Steam-Gruppe unter {default}https://steamcommunity.com/groups/fun_mod {orange}bei."
+		"pl"			"{orange}Dołącz do naszej grupy Steam na {default}https://steamcommunity.com/groups/fun_mod{orange}."
+	}
+	"Server List title"
+	{
+		"en"			"[FUNPLAY.pro] Servers"
+		"cze"			"[FUNPLAY.pro] Servery"
+		"sk"			"[FUNPLAY.pro] Servery"
+		"de"			"[FUNPLAY.pro] Servers"
+		"pl"			"[FUNPLAY.pro] Serwery"
+	}
+	"server"
+	{
+		"en"			"Server"
+		"cze"			"Server"
+		"sk"			"Server"
+		"de"			"Server"
+		"pl"			"Serwer"
+	}
+	"map"
+	{
+		"en"			"Map"
+		"cze"			"Mapa"
+		"sk"			"Mapa"
+		"de"			"Karte"
+		"pl"			"Mapa"
+	}
+	"players"
+	{
+		"en"			"Players"
+		"cze"			"Hráčů"
+		"sk"			"Hráčů"
+		"de"			"Spieler"
+		"pl"			"Gracze"
+	}
+	"redirect in chat"
+	{
+		"en"			"Send a link to chat"
+		"cze"			"Poslat link do chatu"
+		"sk"			"Poslat link do chatu"
+		"de"			"Senden Sie einen Link zum Chat"
+		"pl"			"Wyślij link do czatu"
+	}
+	"redirect chat info"
+	{
+		"#format"		"{1:s},{2:s},{3:s}"
+		"en"			"{orange}To connect to {default}{1}{orange} save IP {default}{2}{orange} to favorites or for quick connection, write {default}connect {3}{orange} to the console."
+		"cze"			"{orange}Pro připojení na {default}{1}{orange} si ulož IP {default}{2}{orange} do oblíbených nebo pro rychlé připojení napiš {default}connect {3}{orange} do konzole."
+		"sk"			"{orange}Pro připojení na {default}{1}{orange} si ulož IP {default}{2}{orange} do oblíbených nebo pro rychlé připojení napiš {default}connect {3}{orange} do konzole."
+		"de"			"{orange}Um eine Verbindung zu {default}{1}{orange} IP speichern {default}{2}{orange} zu Ihren Favoriten oder schnell verbinden schreiben {default}connect {3}{orange} an die Konsole."
+		"pl"			"{orange}Aby połączyć się z {default}{1}{orange} zapisz IP {default}{2}{orange} do ulubionych lub dla szybkiego połączenia napisz {default}connect {3}{orange} do konsoli."
+	}
+	"redirect in console"
+	{
+		"en"			"Send a link to console"
+		"cze"			"Poslat link do konzole"
+		"sk"			"Poslat link do konzole"
+		"de"			"Senden Sie einen Link zur Konsole"
+		"pl"			"Wyślij link do konsoli"
+	}
+	"redirect console info"
+	{
+		"#format"		"{1:s},{2:s},{3:s}"
+		"en"			"To connect to {1} save IP {2} to favorites or for quick connection, write connect {3} to the console."
+		"cze"			"Pro připojení na {1} si ulož IP {2} do oblíbených nebo pro rychlé připojení napiš connect {3} do konzole."
+		"sk"			"Pro připojení na {1} si ulož IP {2} do oblíbených nebo pro rychlé připojení napiš connect {3} do konzole."
+		"de"			"Um eine Verbindung zu {1} IP speichern {2} zu Ihren Favoriten oder schnell verbinden schreiben connect {3} an die Konsole."
+		"pl"			"Aby połączyć się z {1} zapisz IP {2} do ulubionych lub dla szybkiego połączenia napisz connect {3} do konsoli."
+	}
+	"redirect in steam"
+	{
+		"en"			"Send a link via Steam"
+		"cze"			"Poslat link přes steam"
+		"sk"			"Poslat link přes steam"
+		"de"			"Senden Sie einen Link über Steam"
+		"pl"			"Wyślij link przez Steam"
+	}
+	"announce #1"
+	{
+		"en"			"{green}Want to play song for everyone on the server? Type {olive}/song {green}and choose one!"
+		"cze"			"{green}Chceš mít za sebou stylový trail? Tak napiš {olive}/trail {green}do chatu!"
+		"sk"			"{green}Chceš mať za sebou štýlový trail? tak napíš {olive}/trail {green}do chatu!"
+		"de"			"{green}Willst du Songs für jeden auf dem Server spielen? Geben Sie ein {olive}/song {green}und wähle eins!"
+		"pl"			"{green}Chcesz zagrać wszystkim piosenkę? Wpisz {olive}/song {green}i wybierz jedną!"
+		"el"			"{green}Παίξτε μουσική για όλους μέσα στον Server πατήστε {olive}/song {green}!"
+	}
+	"announce #2"
+	{
+		"en"			"{green}Join us {olive}www.fb.com/FunMod.org{green}!"
+		"cze"			"{green}Nezapomeň sledovat náš Facebook {olive}www.fb.com/FunMod.org{green}!"
+		"sk"			"{green}Nezabudni sledovať náš Facebook {olive}www.fb.com/FunMod.org{green}!"
+		"de"			"{green}Vergiss nicht unsere Facebook-Seite zu mögen! {olive}www.fb.com/FunMod.org{green}!"
+		"pl"			"{green}Dołącz do nas {olive}www.fb.com/FunMod.org{green}!"
+		"el"			"{green}Κάντε like στη σελίδα μας στο Facebook {olive}@FunMod.org{green}!"
+	}
+	"announce #3"
+	{
+		"en"			"{green}For main server menu type {olive}/menu{green} in chat!"
+		"cze"			"{green}Hlavní herní menu serveru najdeš pod příkazem {olive}/menu{green}!"
+		"sk"			"{green}Hlavné herné menu servera nájdeš pod príkazom {olive}/menu{green}!"
+		"de"			"{green}Für den Hauptserver-Menütyp {olive}/menu{green} in Chat!"
+		"pl"			"{green}Główne menu serwera {olive}/menu{green}!"
+		"el"			"{green}Για το main server menu πατήστε στο chat {olive}/menu{green}!"
+	}
+	"announce #4"
+	{
+		"en"			"{green}Do you want to use different skin, nametag or anything else? To do so type {olive}/valve{green}!"
+		"cze"			"{green}Chceš si nastavit skin, nametag nebo něco jiného? Tak napiš {olive}/valve {green}do chatu!"
+		"sk"			"{green}Chceš si nastaviť skin, nametag alebo niečo iné? tak napíš {olive}/valve {green}do chatu!"
+		"de"			"{green}Möchten Sie andere skin, Nametag oder etwas anderes verwenden? Um dies zu tun, geben Sie ein {olive}/valve{green}!"
+		"pl"			"{green}Chcesz zmienić skin, nametag lub ocś innego? Jeśli tak, wpisz {olive}/valve{green}!"
+		"el"			"{green}Αν θέλετε !ws !knife !gloves πατήστε  {olive}/valve{green}!"
+	}
+	"announce #5"
+	{
+		"en"			"{green}Don't forget to visit our website! Type {olive}/web {green}! {olive}www.funmod.org"
+		"cze"			"{green}Nezapomeň se podívat na náš web! Napiš {olive}/web {green}do chatu! {olive}www.funmod.org"
+		"sk"			"{green}Nezabudni sa pozrieť na náš web! Napíš {olive}/web {green}do chatu! {olive}www.funmod.org"
+		"de"			"{green}Vergessen Sie nicht, unsere Website zu besuchen! Tippen Sie ein{olive}/web {green}!{olive}www.funmod.org"
+		"pl"			"{green}Nie zapomnij odwiedzić naszej strony! Wpisz {olive}/web {green}! {olive}www.funmod.org"
+	}
+	"killstreak #0"
+	{
+		"en"			"Multi Kill!"
+		"cze"			"Multi Kill!"
+		"sk"			"Multi Kill!"
+		"de"			"Mehrfachtötung!"
+		"pl"			"Wielokrotne zabójstwo!"
+	}
+	"killstreak #1"
+	{
+		"en"			"Starts off!"
+		"cze"			"Se rozjíždí!"
+		"sk"			"Sa rozbieha!"
+		"de"			"Beginnt!"
+		"pl"			"Zaczyna się!"
+	}
+	"killstreak #2"
+	{
+		"en"			"Decent killer!"
+		"cze"			"Slušny zabijak!"
+		"sk"			"Slušný zabijak!"
+		"de"			"Anständiger Killer!"
+		"pl"			"Nieludzkie zabójstwo!"
+	}
+	"killstreak #3"
+	{
+		"en"			"Respect goes from him!"
+		"cze"			"Jde z něho Respect!"
+		"sk"			"Ide z neho Respect!"
+		"de"			"Respekt geht von ihm aus!"
+		"pl"			"Szacunek dla niego!"
+	}
+	"killstreak #4"
+	{
+		"en"			"He received another !!!"
+		"cze"			"Dostal dalšího !!!"
+		"sk"			"Dostal ďalšieho !!!"
+		"de"			"Er hat noch einen bekommen!!!"
+		"pl"			"Zabija kolejnego!"
+	}
+	"killstreak #5"
+	{
+		"en"			"Elusive!"
+		"cze"			"Nepolapitelný!"
+		"sk"			"Nepolapitelný!"
+		"de"			"Schwer fassbar!"
+		"pl"			"Niepowstrzymany!"
+	}
+	"killstreak #6"
+	{
+		"en"			"Killing Machine!"
+		"cze"			"Vraždící Stroj!"
+		"sk"			"Vraždiaci Stroj!"
+		"de"			"Tötungsmaschine!"
+		"pl"			"Maszyna do zabijania!"
+	}
+	"killstreak #7"
+	{
+		"en"			"Is the best!"
+		"cze"			"Je nejlepší!"
+		"sk"			"Je nejlepší!"
+		"de"			"Ist das Beste!"
+		"pl"			"Jest najlepszy!"
+	}
+	"killstreak #8"
+	{
+		"en"			"Better than cheater!"
+		"cze"			"Lepší jak cheater!"
+		"sk"			"Lepšie ako cheater!"
+		"de"			"Besser als ein Cheater!"
+		"pl"			"Lepszy od cheatera"
+	}
+	"gravity round"
+	{
+		"en"			"! GRAVITY ROUND !"
+		"cze"			"! GRAVITY KOLO !"
+		"sk"			"! GRAVITY KOLO !"
+		"de"			"! GRAVITY RUNDE !"
+		"pl"			"! RUNDA GRAVITY!"
+	}
+	"headshot round"
+	{
+		"en"			"! HEADSHOT ROUND !"
+		"cze"			"! HEADSHOT KOLO !"
+		"sk"			"! HEADSHOT KOLO !"
+		"de"			"! KOPFSCHUSS RUNDE !"
+		"pl"			"! RUNDA NA HEADSHOTY !"
+	}
+	"ffa round"
+	{
+		"en"			"! FREE FOR ALL !"
+		"cze"			"! VŠICHNI PROTI VŠEM !"
+		"sk"			"! KAŽDÝ PROTI KAŽDÉMU !"
+		"de"			"! FREI FÜR ALLE !"
+		"pl"			"! WSZYSCY NA WSZYSTKICH !"
+	}
+	"noscope round"
+	{
+		"en"			"! NO SCOPE ROUND !"
+		"cze"			"! NO SCOPE KOLO !"
+		"sk"			"! NO SCOPE KOLO !"
+		"de"			"! KEINE VISIER RUNDE !"
+		"pl"			"! RUNDA NA NO SCOPE'y !"
+	}
+	"3person round"
+	{
+		"en"			"! THIRD PERSON ROUND !"
+		"cze"			"! KOLO Z 3. OSOBY !"
+		"sk"			"! KOLO Z 3. OSOBY !"
+		"de"			"! DRITTE PERSON RUNDE !"
+		"pl"			"! RUNDA Z TRZECIA OSOBA !"
+	}
+	"knife round"
+	{
+		"en"			"! KNIFE ROUND !"
+		"cze"			"! KNIFE KOLO !"
+		"sk"			"! KNIFE KOLO !"
+		"de"			"! KNIFE RUNDE !"
+		"pl"			"! RUNDA KNIFE !"
+	}
+	"fun round"
+	{
+		"en"			"! FUN ROUND !"
+		"cze"			"! FUN KOLO !"
+		"sk"			"! FUN KOLO !"
+		"de"			"! FUN RUNDE !"
+		"pl"			"! RUNDA FUN !"
+	}
+	"none"
+	{
+		"en"			""
+	}
+}
