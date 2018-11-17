@@ -1,4 +1,4 @@
-Translations from all our CS:GO server.
+<h1>Translations from all our CS:GO server.</h1>
 
 Please not edit texts in { } and in < > (HTML formats)
 
