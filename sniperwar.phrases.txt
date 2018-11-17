@@ -1040,22 +1040,6 @@
 		"de"			"{darkred}[!] {default}Diese Karte wurde zu kürzlich gespielt!"
 		"pl"			"{darkred}[!] {default}Ta mapa była niedawno rozgrywana!"
 	}
-	"cant nom awp is playing awp"
-	{
-		"en"			"{darkred}[!] {default}Now is play AWP map, you can't nominate next!"
-		"cze"			"{darkred}[!] {default}Zrovna se AWP mapa hraje nemůžes nominovat další!"
-		"sk"			"{darkred}[!] {default}Teraz sa AWP mapa hrá nemôžeš nominovať ďalšie AWP mapy!"
-		"de"			"{darkred}[!] {default}Jetzt ist AWP Map spielen, Sie können nicht als nächstes nominieren!"
-		"pl"			"{darkred}[!] {default}Mapa AWP jest aktualnie rogrywana, nie możesz nominować kolejnej!"
-	}
-	"cant nom awp is recently played awp"
-	{
-		"en"			"{darkred}[!] {default}AWP map was recently played!"
-		"cze"			"{darkred}[!] {default}AWP mapa se hrála nedávno!"
-		"sk"			"{darkred}[!] {default}AWP mapa sa hrala nedávno!"
-		"de"			"{darkred}[!] {default}AWP Karte wurde kürzlich gespielt!"
-		"pl"			"{darkred}[!] {default}AWP mapa była niedawno rozgrywana!"
-	}
 	"cant nom map is big for few players"
 	{
 		"#format"		"{1:i}"
@@ -2738,50 +2722,6 @@
 		"sk"			"Poslat link přes steam"
 		"de"			"Senden Sie einen Link über Steam"
 		"pl"			"Wyślij link przez Steam"
-	}
-	"announce #1"
-	{
-		"en"			"{green}Want to play song for everyone on the server? Type {olive}/song {green}and choose one!"
-		"cze"			"{green}Chceš mít za sebou stylový trail? Tak napiš {olive}/trail {green}do chatu!"
-		"sk"			"{green}Chceš mať za sebou štýlový trail? tak napíš {olive}/trail {green}do chatu!"
-		"de"			"{green}Willst du Songs für jeden auf dem Server spielen? Geben Sie ein {olive}/song {green}und wähle eins!"
-		"pl"			"{green}Chcesz zagrać wszystkim piosenkę? Wpisz {olive}/song {green}i wybierz jedną!"
-		"el"			"{green}Παίξτε μουσική για όλους μέσα στον Server πατήστε {olive}/song {green}!"
-	}
-	"announce #2"
-	{
-		"en"			"{green}Join us {olive}www.fb.com/FunMod.org{green}!"
-		"cze"			"{green}Nezapomeň sledovat náš Facebook {olive}www.fb.com/FunMod.org{green}!"
-		"sk"			"{green}Nezabudni sledovať náš Facebook {olive}www.fb.com/FunMod.org{green}!"
-		"de"			"{green}Vergiss nicht unsere Facebook-Seite zu mögen! {olive}www.fb.com/FunMod.org{green}!"
-		"pl"			"{green}Dołącz do nas {olive}www.fb.com/FunMod.org{green}!"
-		"el"			"{green}Κάντε like στη σελίδα μας στο Facebook {olive}@FunMod.org{green}!"
-	}
-	"announce #3"
-	{
-		"en"			"{green}For main server menu type {olive}/menu{green} in chat!"
-		"cze"			"{green}Hlavní herní menu serveru najdeš pod příkazem {olive}/menu{green}!"
-		"sk"			"{green}Hlavné herné menu servera nájdeš pod príkazom {olive}/menu{green}!"
-		"de"			"{green}Für den Hauptserver-Menütyp {olive}/menu{green} in Chat!"
-		"pl"			"{green}Główne menu serwera {olive}/menu{green}!"
-		"el"			"{green}Για το main server menu πατήστε στο chat {olive}/menu{green}!"
-	}
-	"announce #4"
-	{
-		"en"			"{green}Do you want to use different skin, nametag or anything else? To do so type {olive}/valve{green}!"
-		"cze"			"{green}Chceš si nastavit skin, nametag nebo něco jiného? Tak napiš {olive}/valve {green}do chatu!"
-		"sk"			"{green}Chceš si nastaviť skin, nametag alebo niečo iné? tak napíš {olive}/valve {green}do chatu!"
-		"de"			"{green}Möchten Sie andere skin, Nametag oder etwas anderes verwenden? Um dies zu tun, geben Sie ein {olive}/valve{green}!"
-		"pl"			"{green}Chcesz zmienić skin, nametag lub ocś innego? Jeśli tak, wpisz {olive}/valve{green}!"
-		"el"			"{green}Αν θέλετε !ws !knife !gloves πατήστε  {olive}/valve{green}!"
-	}
-	"announce #5"
-	{
-		"en"			"{green}Don't forget to visit our website! Type {olive}/web {green}! {olive}www.funmod.org"
-		"cze"			"{green}Nezapomeň se podívat na náš web! Napiš {olive}/web {green}do chatu! {olive}www.funmod.org"
-		"sk"			"{green}Nezabudni sa pozrieť na náš web! Napíš {olive}/web {green}do chatu! {olive}www.funmod.org"
-		"de"			"{green}Vergessen Sie nicht, unsere Website zu besuchen! Tippen Sie ein{olive}/web {green}!{olive}www.funmod.org"
-		"pl"			"{green}Nie zapomnij odwiedzić naszej strony! Wpisz {olive}/web {green}! {olive}www.funmod.org"
 	}
 	"killstreak #0"
 	{
