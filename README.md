@@ -2,9 +2,9 @@ Translations from all our CS:GO server.
 
 Please not edit texts in { } and in < > (HTML formats)
 
-<span style="font-weight: bold;">Credits</span><br>
+<b>Credits</b>
 
-Czech translations - <font style="font-weight: bold;">The [G]amerX</font><br>
-Slovakia translations - <font style="font-weight: bold;">B!g 5m0k3</font><br>
-German translations - <font style="font-weight: bold;">apobawer</font><br>
-Polish translation - <font style="font-weight: bold;">The [G]amerX</font><br>
+Czech translations - <b>The [G]amerX</b>
+Slovakia translations - <b>B!g 5m0k3</b>
+German translations - <b>apobawer</b>
+Polish translation - <b>The [G]amerX</b>
