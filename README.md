@@ -2,6 +2,8 @@ Translations from all our CS:GO server.
 
 Please not edit texts in { } and in < > (HTML formats)
 
+If you want add or edit so download translation file in <b>Notepad++<br> edit and upload as <b>Pull requast</b>.
+
 <b>Credits</b>
 
 Czech translations - <b>The [G]amerX</b><br>
