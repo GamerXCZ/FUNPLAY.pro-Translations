@@ -2,7 +2,7 @@ Translations from all our CS:GO server.
 
 Please not edit texts in { } and in < > (HTML formats)
 
-If you want add or edit so download translation file in <b>Notepad++</b> edit and upload as <b>Pull requast</b>.
+If you want add or edit so download translation file in <b>Notepad++</b> edit and upload as <b>Pull request</b>.
 
 <b>Credits</b>
 
