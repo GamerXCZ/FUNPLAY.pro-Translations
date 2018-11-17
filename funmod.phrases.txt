@@ -7,6 +7,9 @@
 		"sk"			"sa k nám pridal"
 		"de"			"ist beigetreten"
 		"pl"			"dołączył do nas"
+		"bh"                   "se pridružio"
+		"se"                   "se pridružio"
+		"hr"                    "se pridružio"
 	}
 	"leave msg"
 	{
@@ -15,6 +18,9 @@
 		"sk"			"od nás odišiel"
 		"de"			"hat uns verlassen"
 		"pl"			"odszedł of nas"
+		"bh"                   "je nas napustio"
+		"se"                   "je nas napustio"
+		"hr"                    "je nas napustio"
 	}
 	"connect msg title"
 	{
@@ -23,6 +29,9 @@
 		"sk"			"Hlavné príkazy:"
 		"de"			"Hauptbefehle:"
 		"pl"			"Główne komendy:"
+		"bh"                   "Glavne komande"
+		"se"                   "Glavne komande"
+		"hr"                    "Glavne komande"
 	}
 	"connect msg"
 	{
