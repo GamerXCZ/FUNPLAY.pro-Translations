@@ -40,6 +40,12 @@
 		"sk"			"/menu - Hlavné Menu\n/shop - Herný Obchod\n/item - Item Obchod\n/loss - Náhodné losovanie\n/bonusy - Nastavenie Bonusov\n/valve - Nastavenie Inventára\n/nastavenie - Nastavenie Serveru\n/pravidla - Pravidlá Serveru"
 		"de"			"/menu - Hauptmenü\n/shop - Spielladen\n/item - Spielgegenstände\n/loss - Verlustpreis\n/bonuses - Bonuseinstellungen\n/valve - Inventareinstellungen\n/setting - Servereinstellungen\n/rules - Server Regeln"
 		"pl"			"/menu - Menu główne\n/shop - Sklep w grze\n/item - Sklep z przedmiotami\n/loss - Przegranie nagrody\n/bonuses - Ustawienia bonusów\n/valve - Ustawienia ekwipunku\n/setting - Ustawienia serwera\n/rules - Zasady serwera"
+		"bh"                    "/menu - Glavni izbornik\n/shop - Prodavnica\n/item - Prodavnica objekata\n/loss - Nasumičan dobitak\n/bonuses - Postavke bonusa\n/valve - Postavke inventara\n/setting - Postavke servera\n/rules - Pravila servera"
+		"se"                    "/menu - Glavni izbornik\n/shop - Prodavnica\n/item - Prodavnica objekata\n/loss - Nasumičan dobitak\n/bonuses - Postavke bonusa\n/valve - Postavke inventara\n/setting - Postavke servera\n/rules - Pravila servera"
+		"hr"                    "/menu - Glavni izbornik\n/shop - Prodavnica\n/item - Prodavnica objekata\n/loss - Nasumičan dobitak\n/bonuses - Postavke bonusa\n/valve - Postavke inventara\n/setting - Postavke servera\n/rules - Pravila servera"
+	}
+	}
+	}
 	}
 	"command not exists"
 	{
@@ -48,6 +54,9 @@
 		"sk"			"{darkred}[!] {default}Nesprávny alebo neexistujúci príkaz."
 		"de"			"{darkred}[!] {default}Falscher oder nicht vorhandener Befehl."
 		"pl"			"{darkred}[!] {default}Niepoprawne lub nieistniejące polecenie."
+		"bh"                    "{darkred}[!] {default}Pogrešna ili nepostojeća komanda" 
+		"se"                    "{darkred}[!] {default}Pogrešna ili nepostojeća komanda" 
+		"hr"                    "{darkred}[!] {default}Pogrešna ili nepostojeća komanda" 
 	}
 	"played"
 	{
@@ -56,6 +65,9 @@
 		"sk"			"Nahrané:"
 		"de"			"Gespielt:"
 		"pl"			"Zagrał:"
+		"bh"                    "Igrao"
+		"se"                    "Igrao"
+		"hr"                    "Igrao"
 	}
 	"hours"
 	{
@@ -64,6 +76,9 @@
 		"sk"			"hodín"
 		"de"			"stunde"
 		"pl"			"godziny"
+		"bh"                    "sati"
+		"se"                    "sati"
+		"hr"                    "sati"
 	}
 	"minutes"
 	{
@@ -72,6 +87,9 @@
 		"sk"			"minút"
 		"de"			"minute"
 		"pl"			"minuty"
+		"bh"                    "minuta"
+		"se"                    "minuta"
+		"hr"                    "minuta"
 	}
 	"seconds"
 	{
@@ -80,6 +98,9 @@
 		"sk"			"sekúnd"
 		"de"			"sekunde"
 		"pl"			"sekundy"
+		"bh"                    "sekundi"
+		"se"                    "sekundi"
+		"hr"                    "sekundi"
 	}
 	"usage"
 	{
@@ -88,6 +109,9 @@
 		"sk"			"Použití"
 		"de"			"Verwendung"
 		"pl"			"Używanie"
+		"bh"                    "Upotreba"
+		"se"                    "Upotreba"
+		"hr"                    "Upotreba"
 	}
 	"usage launcher"
 	{
@@ -96,6 +120,9 @@
 		"sk"			"PTM když držíš AK47/M4A4/M4A1-S"
 		"de"			"RMT wenn gehalten AK47/M4A4/M4A1-S"
 		"pl"			"PPM kiedy trzymasz AK47/M4A4/M4A1-S"
+		"bh"                    "DKM kad držiš AK47/M4A4/M4A1-S"
+		"se"                    "DKM kad držiš AK47/M4A4/M4A1-S"
+		"hr"                    "DKM kad držiš AK47/M4A4/M4A1-S"
 	}
 	"usage pilefall"
 	{
@@ -104,6 +131,9 @@
 		"sk"			"Podrž CTRL když padáš"
 		"de"			"Halten Sie CTRL gedrückt, wenn Sie fallen"
 		"pl"			"Przytrzymaj CTRL podczas upadku"
+		"bh"                    "Držite CTRL kada padate"
+		"se"                    "Držite CTRL kada padate"
+		"hr"                    "Držite CTRL kada padate"
 	}
 	"usage revteammate"
 	{
@@ -112,6 +142,9 @@
 		"sk"			"Podrž CTRL + E na mrtvé pozici spoluhráče"
 		"de"			"Halten Sie CTRL + E bei Teamkameradotposition"
 		"pl"			"Przytrzymaj CTRL + E na martwej pozycji partnera"
+		"bh"                    "Držite CTRL+E na poziciji mrtvog suigrača"
+		"se"                    "Držite CTRL+E na poziciji mrtvog suigrača"
+		"hr"                    "Držite CTRL+E na poziciji mrtvog suigrača" 
 	}
 	"nade launcher ammo"
 	{
@@ -121,6 +154,9 @@
 		"sk"			"Granátomet: {1}"
 		"de"			"Granatenwerfer: {1}"
 		"pl"			"Granaty: {1}"
+		"bh"                    "Bacač granata: {1}" 
+		"se"                    "Bacač granata: {1}" 
+		"hr"                    "Bacač granata: {1}" 
 	}
 	"throw knifes ammo"
 	{
@@ -130,6 +166,10 @@
 		"sk"			"Vrhacích nožov: {1}"
 		"de"			"Wurfmesser: {1}"
 		"pl"			"Noże do rzucania: {1}"
+		"bh"                    "Bacanje noževa: {1}"
+		"se"                    "Bacanje noževa: {1}"
+		"hr"                    "Bacanje noževa: {1}"
+		
 	}
 	"you burn player"
 	{
@@ -139,6 +179,9 @@
 		"sk"			"{green}[FUN]{default} {1}{olive} zapálil {default}{2}{olive}!"
 		"de"			"{green}[FUN]{default} {1}{olive} verbrannt {default}{2}{olive!"
 		"pl"			"{green}[FUN]{default} {1}{olive} spalił {default}{2}{olive}!"
+		"bh"                    "{green}[FUN]{default} {1}{olive} izgorio {default}{2}{olive}!"
+		"se"                    "{green}[FUN]{default} {1}{olive} izgorio {default}{2}{olive}!"
+		"hr"                    "{green}[FUN]{default} {1}{olive} izgorio {default}{2}{olive}!"
 	}
 	"Respawn Menu"
 	{
@@ -147,6 +190,9 @@
 		"sk"			"Oživiť sa?"
 		"de"			"Respawn?"
 		"pl"			"Odrodzić?"
+		"bh"                    "Respawn?"
+		"se"                    "Respawn?"
+		"hr"                    "Respawn?"
 	}
 	"yes"
 	{
@@ -155,6 +201,9 @@
 		"sk"			"Ano"
 		"de"			"Ja"
 		"pl"			"Tak"
+		"bh"                    "Da"
+		"se"                    "Da"
+		"hr"                    "Da"
 	}
 	"no"
 	{
@@ -163,6 +212,9 @@
 		"sk"			"Nie"
 		"de"			"Nein"
 		"pl"			"Nie"
+		"bh"                    "Ne"
+		"se"                    "Ne"
+		"hr"                    "Ne"
 	}
 	"rules"
 	{
@@ -171,6 +223,9 @@
 		"sk"			"pravidla"
 		"de"			"rules"
 		"pl"			"rules"
+		"bh"                    "Pravila"
+		"se"                    "Pravila"
+		"hr"                    "Pravila"
 	}
 	"benefits"
 	{
@@ -179,6 +234,9 @@
 		"sk"			"vyhody"
 		"de"			"benefits"
 		"pl"			"benefits"
+		"bh"                    "prednosti"
+		"se"                    "prednosti"
+		"hr"                    "prednosti"
 	}
 	"Silent Menu"
 	{
@@ -188,6 +246,9 @@
 		"sk"			"Umlčať Hráča na {1} minút (/silent <minut>)"
 		"de"			"Spieler für {1} Minute muten (/silent <minute>)"
 		"pl"			"Zmutuj gracza na {1} minuty (/silent <minut>)"
+		"bh"                    "Igrača za {1} Minute ušućkati (/silent <minute>)"
+		"se"                    "Igrača za {1} Minute ušućkati (/silent <minute>)"
+		"hr"                    "Igrača za {1} Minute ušućkati (/silent <minute>)"
 	}
 	"Teleport Menu"
 	{
@@ -196,6 +257,9 @@
 		"sk"			"Teleportovať Hráča"
 		"de"			"Spieler teleportieren"
 		"pl"			"Przeteleportuj gracza"
+		"bh"                    "Teleportuj igrača"
+		"se"                    "Teleportuj igrača"
+		"hr"                    "Teleportuj igrača"
 	}
 	"ChangeTeam Menu"
 	{
@@ -204,6 +268,9 @@
 		"sk"			"Zmenit tím Hráča"
 		"de"			"Ändere das Team des Spielers"
 		"pl"			"Zmień drużynę"
+		"bh"                    "Promjeni tim igrača"
+		"se"                    "Promjeni tim igrača"
+		"hr"                    "Promjeni tim igrača"
 	}
 	"Hats Menu"
 	{
@@ -212,14 +279,20 @@
 		"sk"			"Výběr doplněk"
 		"de"			"Hats Menü"
 		"pl"			"Menu Hats"
+		"bh"                    "Hats menu"
+		"se"                    "Hats menu"
+		"hr"                    "Hats menu"
 	}
 	"hats off"
 	{
 		"en"			"Remove hats"
 		"cze"			"Odebrat doplňky"
 		"sk"			"Odebrat doplňky"
-		"de"			"Hüte hats"
+		"de"			"Hüte entfernen"
 		"pl"			"Usuń hats"
+		"bh"                    "Izbriši hats"
+		"se"                    "Izbriši hats"
+		"hr"                    "Izbriši hats"
 	}
 	"hat cape"
 	{
@@ -228,6 +301,9 @@
 		"sk"			"Plášť"
 		"de"			"Kap"
 		"pl"			"Peleryna"
+		"bh"                    "Plašt"
+		"se"                    "Plašt"
+		"hr"                    "Plašt"
 	}
 	"hat headphones"
 	{
@@ -236,6 +312,9 @@
 		"sk"			"Sluchátka"
 		"de"			"Kopfhörer"
 		"pl"			"Słuchawki"
+		"bh"                    "Slušalice"
+		"se"                    "Slušalice"
+		"hr"                    "Slušalice"
 	}
 	"hat angel"
 	{
@@ -244,6 +323,9 @@
 		"sk"			"Anděl"
 		"de"			"Engel"
 		"pl"			"Anioł"
+		"bh"                    "Anđeo"
+		"se"                    "Anđeo"
+		"hr"                    "Anđeo"
 	}
 	"hat devil"
 	{
@@ -252,6 +334,9 @@
 		"sk"			"Čert"
 		"de"			"Eufel"
 		"pl"			"Diabeł"
+		"bh"                    "Đavo"
+		"se"                    "Đavo"
+		"hr"                    "Đavo"
 	}
 	"cape skin"
 	{
@@ -260,6 +345,9 @@
 		"sk"			"Vyber skin Pláště"
 		"de"			"Wählen Sie Cape-Haut"
 		"pl"			"Wybierz skórkę przylądka"
+		"bh"                    "Izaberite skin plašta"
+		"se"                    "Izaberite skin plašta"
+		"hr"                    "Izaberite skin plašta"
 	}
 	"cape red"
 	{
@@ -268,6 +356,9 @@
 		"sk"			"Červený Plášt"
 		"de"			"Rot Kap"
 		"pl"			"Czerwony Peleryna"
+		"bh"                    "Crveni Plašt"
+		"se"                    "Crveni Plašt"
+		"hr"                    "Crveni Plašt"
 	}
 	"cape blue"
 	{
@@ -276,6 +367,9 @@
 		"sk"			"Modrý Plášt"
 		"de"			"Blau Kap"
 		"pl"			"Niebieski Peleryna"
+		"bh"                    "Plavi Plašt"
+		"se"                    "Plavi Plašt"
+		"hr"                    "Plavi Plašt"
 	}
 	"cape green"
 	{
@@ -284,6 +378,9 @@
 		"sk"			"Zelený Plášt"
 		"de"			"Grün Kap"
 		"pl"			"Zielony Peleryna"
+		"bh"                    "Zeleni Plašt"
+		"se"                    "Zeleni Plašt"
+		"hr"                    "Zeleni Plašt"
 	}
 	"cape yellow"
 	{
@@ -292,6 +389,9 @@
 		"sk"			"Žlutý Plášt"
 		"de"			"Gelb Kap"
 		"pl"			"Żółty Peleryna"
+		"bh"                    "Žuti Plašt"
+		"se"                    "Žuti Plašt"
+		"hr"                    "Žuti Plašt"
 	}
 	"cape doppler"
 	{
@@ -300,6 +400,9 @@
 		"sk"			"Doppler Plášt"
 		"de"			"Doppler Kap"
 		"pl"			"Doppler Peleryna"
+		"bh"                    "Doppler Plašt"
+		"se"                    "Doppler Plašt"
+		"hr"                    "Doppler Plašt"
 	}
 	"cape crimson web"
 	{
@@ -308,6 +411,9 @@
 		"sk"			"Crimson Web Plášt"
 		"de"			"Crimson Web Kap"
 		"pl"			"Crimson Web Peleryna"
+		"bh"                    "Crimson Web Plašt"
+		"se"                    "Crimson Web Plašt"
+		"hr"                    "Crimson Web Plašt"
 	}
 	"cape hyper beast"
 	{
@@ -316,6 +422,9 @@
 		"sk"			"Hyper Beast Plášt"
 		"de"			"Hyper Beast Kap"
 		"pl"			"Hyper Beast Peleryna"
+		"bh"                    "Hyper Beast Plašt"
+		"se"                    "Hyper Beast Plašt"
+		"hr"                    "Hyper Beast Plašt"
 	}
 	"cape slaughter"
 	{
@@ -324,6 +433,9 @@
 		"sk"			"Slaughter Plášt"
 		"de"			"Slaughter Kap"
 		"pl"			"Slaughter Peleryna"
+		"bh"                    "Slaughter Plašt"
+		"se"                    "Slaughter Plašt"
+		"hr"                    "Slaughter Plašt"
 	}
 	"cape point disarray"
 	{
@@ -332,6 +444,9 @@
 		"sk"			"Point Disarray Plášt"
 		"de"			"Point Disarray Kap"
 		"pl"			"Point Disarray Peleryna"
+		"bh"                    "Point Disarray Plašt"
+		"se"                    "Point Disarray Plašt"
+		"hr"                    "Point Disarray Plašt"
 	}
 	"cape rekt"
 	{
@@ -340,6 +455,9 @@
 		"sk"			"Rekt Plášt"
 		"de"			"Rekt Kap"
 		"pl"			"Rekt Peleryna"
+		"ba"                    "Rekt Plašt"
+		"se"                    "Rekt Plašt"
+		"hr"                    "Rekt Plašt"
 	}
 	"cape assimov"
 	{
@@ -348,6 +466,9 @@
 		"sk"			"Assimov Plášt"
 		"de"			"Assimov Kap"
 		"pl"			"Assimov Peleryna"
+		"ba"                    "Assimov Plašt"
+		"se"                    "Assimov Plašt"
+		"hr"                    "Assimov Plašt"
 	}
 	"cape slovakia"
 	{
@@ -356,6 +477,9 @@
 		"sk"			"Slovakia Plášt"
 		"de"			"Slovakia Kap"
 		"pl"			"Slovakia Peleryna"
+		"ba"                    "Slovačka Plašt"
+		"se"                    "Slovačka Plašt"
+		"hr"                    "Slovačka Plašt"
 	}
 	"cape czech"
 	{
@@ -364,6 +488,9 @@
 		"sk"			"Czech Plášt"
 		"de"			"Czech Kap"
 		"pl"			"Czech Peleryna"
+		"ba"                    "Češki Plašt"
+		"se"                    "Češki Plašt"
+		"hr"                    "Češki Plašt"
 	}
 	"cape batman"
 	{
@@ -372,6 +499,9 @@
 		"sk"			"Batman Plášt"
 		"de"			"Batman Kap"
 		"pl"			"Batman Peleryna"
+		"ba"                    "Batman Plašt"
+		"se"                    "Batman Plašt"
+		"hr"                    "Batman Plašt"
 	}
 	"cape joker"
 	{
@@ -380,6 +510,9 @@
 		"sk"			"Joker Plášt"
 		"de"			"Joker Kap"
 		"pl"			"Joker Peleryna"
+		"ba"                    "Joker Plašt"
+		"se"                    "Joker Plašt"
+		"hr"                    "Joker Plašt"
 	}
 	"cape superman"
 	{
@@ -388,6 +521,9 @@
 		"sk"			"Superman Plášt"
 		"de"			"Superman Kap"
 		"pl"			"Superman Peleryna"
+		"ba"                    "SupermanPlašt"
+		"se"                    "Superman Plašt"
+		"hr"                    "Superman Plašt"
 	}
 	"cape spiderman"
 	{
@@ -396,6 +532,9 @@
 		"sk"			"Spiderman Plášt"
 		"de"			"Spiderman Kap"
 		"pl"			"Spiderman Peleryna"
+		"ba"                    "Spiderman Plašt"
+		"se"                    "Spiderman Plašt"
+		"hr"                    "Spiderman Plašt"
 	}
 	"cape dragon lore"
 	{
@@ -404,6 +543,9 @@
 		"sk"			"Dragon Lore Plášt"
 		"de"			"Dragon Lore Kap"
 		"pl"			"Dragon Lore Peleryna"
+		"ba"                    "Dragon Lore Plašt"
+		"se"                    "Dragon Lore Plašt"
+		"hr"                    "Dragon Lore Plašt"
 	}
 	"cape vulcan"
 	{
@@ -412,6 +554,9 @@
 		"sk"			"Vulcan Plášt"
 		"de"			"Vulcan Kap"
 		"pl"			"Vulcan Peleryna"
+		"ba"                    "Vulkan Plašt"
+		"se"                    "Vulkan Plašt"
+		"hr"                    "Vulkan Plašt"
 	}
 	"cape wtf zombies"
 	{
@@ -420,6 +565,9 @@
 		"sk"			"Wtf Zombies Plášt"
 		"de"			"Wtf Zombies Kap"
 		"pl"			"Wtf Zombies Peleryna"
+		"ba"                    "Wtf Zombies Plašt"
+		"se"                    "Wtf Zombies Plašt"
+		"hr"                    "Wtf Zombies Plašt"
 	}
 	"cape oldschool"
 	{
@@ -428,6 +576,9 @@
 		"sk"			"Old School Plášt"
 		"de"			"Old School Kap"
 		"pl"			"Old School Peleryna"
+		"ba"                    "Old School Plašt"
+		"se"                    "Old School Plašt"
+		"hr"                    "Old School Plašt"
 	}
 	"cape lava"
 	{
@@ -436,6 +587,9 @@
 		"sk"			"Lava Plášt"
 		"de"			"Lava Kap"
 		"pl"			"Lava Peleryna"
+		"ba"                    "Lava Plašt"
+		"se"                    "Lava Plašt"
+		"hr"                    "Lava Plašt"
 	}
 	"headphones color"
 	{
@@ -444,6 +598,9 @@
 		"sk"			"Vyber barvu Sluchátek"
 		"de"			"Wählen Sie Kopfhörerfarbe"
 		"pl"			"Wybierz kolor słuchawek"
+		"ba"                    "Izaberite slušalice"
+		"se"                    "Izaberite slušalice"
+		"hr"                    "Izaberite slušalice"
 	}
 	"headphones black"
 	{
@@ -452,6 +609,9 @@
 		"sk"			"Černé Sluchátka"
 		"de"			"Schwarz Kopfhörer"
 		"pl"			"Czarny Słuchawki"
+		"ba"                    "Crne slušalice"
+		"se"                    "Crne slušalice"
+		"hr"                    "Crne slušalice"
 	}
 	"headphones blue"
 	{
@@ -460,6 +620,9 @@
 		"sk"			"Modré Sluchátka"
 		"de"			"Blau Kopfhörer"
 		"pl"			"Niebieski Słuchawki"
+		"ba"                    "Plave slušalice"
+		"se"                    "Plave slušalice"
+		"hr"                    "Plave slušalice"
 	}
 	"headphones red"
 	{
@@ -468,6 +631,9 @@
 		"sk"			"Červené Sluchátka"
 		"de"			"Rot Kopfhörer"
 		"pl"			"Czerwony Słuchawki"
+		"ba"                    "Crvene slušalice"
+		"se"                    "Crvene slušalice"
+		"hr"                    "Crvene slušalice"
 	}
 	"headphones cyan"
 	{
@@ -476,6 +642,9 @@
 		"sk"			"Tyrkysové Sluchátka"
 		"de"			"Türkis Kopfhörer"
 		"pl"			"Turkusowy Słuchawki"
+		"ba"                    "Tirkizne slušalice"
+		"se"                    "Tirkizne slušalice"
+		"hr"                    "Tirkizne slušalice"
 	}
 	"headphones green"
 	{
@@ -484,6 +653,9 @@
 		"sk"			"Zelené Sluchátka"
 		"de"			"Grün Kopfhörer"
 		"pl"			"Zielony Słuchawki"
+		"ba"                    "Zelene slušalice"
+		"se"                    "Zelene slušalice"
+		"hr"                    "Zelene slušalice"
 	}
 	"headphones orange"
 	{
@@ -492,6 +664,9 @@
 		"sk"			"Oranžové Sluchátka"
 		"de"			"Orange Kopfhörer"
 		"pl"			"Pomarańczowy Słuchawki"
+		"ba"                    "Narandžaste slušalice"
+		"se"                    "Narandžaste slušalice"
+		"hr"                    "Narandžaste slušalice"
 	}
 	"headphones pink"
 	{
@@ -500,6 +675,9 @@
 		"sk"			"Rúžové Sluchátka"
 		"de"			"Rosa Kopfhörer"
 		"pl"			"Różowy Słuchawki"
+		"ba"                    "Pink slušalice"
+		"se"                    "Pink slušalice"
+		"hr"                    "Pink slušalice"
 	}
 	"headphones purple"
 	{
@@ -508,14 +686,20 @@
 		"sk"			"Fialové Sluchátka"
 		"de"			"Lila Kopfhörer"
 		"pl"			"Fioletowy Słuchawki"
+		"ba"                    "Ljubičaste slušalice"
+		"se"                    "Ljubičaste slušalice"
+		"hrŽute"                    "Ljubičaste slušalice"
 	}
 	"headphones yellow"
-	{
+	{Ljubičaste
 		"en"			"Yellow Headphones"
 		"cze"			"Žluté Sluchátka"
 		"sk"			"Žluté Sluchátka"
 		"de"			"Gelb Kopfhörer"
 		"pl"			"Żółty Słuchawki"
+		"ba"                    "Žute slušalice"
+		"se"                    "Žute slušalice"
+		"hr"                    "Žute slušalice"
 	}
 	"Trail Menu"
 	{
@@ -524,6 +708,9 @@
 		"sk"			"Trail Menu"
 		"de"			"Trail Menü"
 		"pl"			"Menu traila"
+		"ba"                    "Menu Trailova"
+		"se"                    "Menu Trailova"
+		"hr"                    "Menu Trailova"
 	}
 	"trail off"
 	{
@@ -532,6 +719,9 @@
 		"sk"			"Žiadny trail"
 		"de"			"Trail aus"
 		"pl"			"Trail wyłączony"
+		"bh"                    "Trail isključen"
+		"se"                    "Trail isključen"
+		"hr"                    "Trail isključen"
 	}
 	"trail random"
 	{
@@ -539,7 +729,10 @@
 		"cze"			"Náhodná barva"
 		"sk"			"Náhodná farba"
 		"de"			"Zufällige Farbe"
-		"pl"			"Losowe kolory
+		"pl"			"Losowe kolory"
+		"bh"                    "Nasumična boja"
+		"se"                    "Nasumična boja"
+		"hr"                    "Nasumična boja"
 	}
 	"trail red"
 	{
@@ -548,6 +741,9 @@
 		"sk"			"Červený"
 		"de"			"Rot"
 		"pl"			"Czerwony"
+		"bh"                    "Crveni"
+		"se"                    "Crveni"
+		"hr"                    "Crveni"
 	}
 	"trail orange"
 	{
@@ -556,6 +752,9 @@
 		"sk"			"Oranžový"
 		"de"			"Orange"
 		"pl"			"Pomarańczowy"
+		"bh"                    "Narandžasti"
+		"se"                    "Narandžasti"
+		"hr"                    "Narandžasti"
 	}
 	"trail yellow"
 	{
@@ -564,6 +763,9 @@
 		"sk"			"Žltý"
 		"de"			"Gelb"
 		"pl"			"Żółty"
+		"bh"                    "Žuti"
+		"se"                    "Žuti"
+		"hr"                    "Žuti"
 	}
 	"trail lime"
 	{
@@ -572,6 +774,9 @@
 		"sk"			"Limetkovo zelený"
 		"de"			"Limette"
 		"pl"			"Limonkowy"
+		"bh"                    "Limeta"
+		"se"                    "Limeta"
+		"hr"                    "Limeta"
 	}
 	"trail green"
 	{
@@ -580,6 +785,9 @@
 		"sk"			"Zelený"
 		"de"			"Grün"
 		"pl"			"Zielony"
+		"bh"                    "Zeleni"
+		"se"                    "Zeleni"
+		"hr"                    "Zeleni"
 	}
 	"trail emerald"
 	{
@@ -588,6 +796,9 @@
 		"sk"			"Smaragdový"
 		"de"			"Smaragdgrün"
 		"pl"			"Szmaragdowy"
+		"bh"                    "Smaragdzelena"
+		"se"                    "Smaragdzelena"
+		"hr"                    "Smaragdzelena"
 	}
 	"trail cyan"
 	{
@@ -596,6 +807,9 @@
 		"sk"			"Tyrkysový"
 		"de"			"Türkis"
 		"pl"			"Turkusowy"
+		"bh"                    "Tirkizni"
+		"se"                    "Tirkizni"
+		"hr"                    "Tirkizni"
 	}
 	"trail lightblue"
 	{
@@ -604,6 +818,9 @@
 		"sk"			"Svetlo modrý"
 		"de"			"Hellblau"
 		"pl"			"Jasnoniebieski"
+		"bh"                    "Svjetloplavi"
+		"se"                    "Svjetloplavi"
+		"hr"                    "Svjetloplavi"
 	}
 	"trail blue"
 	{
@@ -612,6 +829,9 @@
 		"sk"			"Modrý"
 		"de"			"Blau"
 		"pl"			"Niebieski"
+		"bh"                    "Plavi"
+		"se"                    "Plavi"
+		"hr"                    "Plavi"
 	}
 	"trail purple"
 	{
@@ -620,6 +840,9 @@
 		"sk"			"Fialový"
 		"de"			"Lila"
 		"pl"			"Fioletowy"
+		"bh"                    "Ljubičasti"
+		"se"                    "Ljubičasti"
+		"hr"                    "Ljubičasti"
 	}
 	"trail magenta"
 	{
@@ -628,6 +851,9 @@
 		"sk"			"Purpurový"
 		"de"			"Magenta"
 		"pl"			"Magenta"
+		"bh"                    "Magentni"
+		"se"                    "Magentni"
+		"hr"                    "Magentni"
 	}
 	"trail pink"
 	{
@@ -636,6 +862,9 @@
 		"sk"			"Ružový"
 		"de"			"Rosa"
 		"pl"			"Różowy"
+		"bh"                    "Pink"
+		"se"                    "Pink"
+		"hr"                    "Pink"
 	}
 	"trail white"
 	{
@@ -644,6 +873,9 @@
 		"sk"			"Biely"
 		"de"			"Weiß"
 		"pl"			"Biały"
+		"bh"                    "Bjeli"
+		"se"                    "Bjeli"
+		"hr"                    "Bjeli"
 	}
 	"trail velocity"
 	{
@@ -652,6 +884,9 @@
 		"sk"			"Rýchlostný"
 		"de"			"Geschwindigkeit"
 		"pl"			"Czułość"
+		"bh"                    "Velocity"
+		"se"                    "Velocity"
+		"hr"                    "Velocity"
 	}
 	"trail spectrum"
 	{
@@ -660,6 +895,9 @@
 		"sk"			"Spektrumný"
 		"de"			"Spektrum
 		"pl"			"Widmo"
+		"bh"                    "Spektrum"
+		"se"                    "Spektrum"
+		"hr"                    "Spektrum"
 	}
 	"trail wave"
 	{
@@ -668,6 +906,9 @@
 		"sk"			"Sledový"
 		"de"			"Welle"
 		"pl"			"Fala"
+		"ba"                    "Val"
+		"se"                    "Val"
+		"hr"                    "Val"
 	}
 	"trail crazy"
 	{
@@ -676,6 +917,9 @@
 		"sk"			"Bláznivý"
 		"de"			"Verrückt"
 		"pl"			"Szalona"
+		"ba"                    "Ludi"
+		"ba"                    "Ludi"
+		"ba"                    "Ludi"
 	}
 	"trail holiday"
 	{
@@ -684,6 +928,9 @@
 		"sk"			"Sviatočný"
 		"de"			"Urlaub"
 		"pl"			"Wakacje"
+		"ba"                    "Praznici"
+		"se"                    "Praznici"
+		"hr"                    "Praznici"
 	}
 	"Tracer Menu"
 	{
@@ -692,6 +939,9 @@
 		"sk"			"Tracer Menu"
 		"de"			"Tracer Menü"
 		"pl"			"Menu Tracera"
+		"ba"                    "Izbornik za Tracer"
+		"se"                    "Izbornik za Tracer"
+		"hr"                    "Izbornik za Tracer"
 	}
 	"tracer off"
 	{
@@ -700,6 +950,9 @@
 		"sk"			"Žiadny tracer"
 		"de"			"Tracer aus"
 		"pl"			"Tracer wyłączony"
+		"ba"                    "Tracer isključen"
+		"se"                    "Tracer isključen"
+		"hr"                    "Tracer isključen"
 	}
 	"tracer color"
 	{
@@ -708,6 +961,9 @@
 		"sk"			"Farba traceru"
 		"de"			"Tracer Farbe"
 		"pl"			"Tracer kolor"
+		"ba"                    "Boja TraceraTracer"
+		"se"                    "Boja TraceraTracer"
+		"hr"                    "Boja TraceraTracer"
 	}
 	"tracer material"
 	{
@@ -717,6 +973,9 @@
 		"sk"			"Material traceru: {1}"
 		"de"			"Tracer material: {1}"
 		"pl"			"Tracer material: {1}"
+		"ba"                    "Materijal Tracera: {1}"
+		"se"                    "Materijal Tracera: {1}"
+		"hr"                    "Materijal Tracera: {1}"
 	}
 	"tracer lifetime"
 	{
@@ -725,6 +984,9 @@
 		"sk"			"Životnosť traceru"
 		"de"			"Tracer-Lebensdauer"
 		"pl"			"Życie Tracer"
+		"ba"			"Doživotni Tracer"
+		"se"			"Doživotni Tracer"
+		"hr"			"Doživotni Tracer"
 	}
 	"tracer width"
 	{
@@ -733,6 +995,9 @@
 		"sk"			"Šírka traceru"
 		"de"			"Breite des Indikators"
 		"pl"			"Szerokość Tracer"
+		"ba"			"Širina Tracera"
+		"se"			"Širina Tracera"
+		"hr"			"Širina Tracera"
 	}
 	"small"
 	{
@@ -741,6 +1006,9 @@
 		"sk"			"malý"
 		"de"			"klein"
 		"pl"			"mały"
+		"ba"                    "mali"
+		"se"                    "mali"
+		"hr"                    "mali"
 	}
 	"medium"
 	{
@@ -749,6 +1017,9 @@
 		"sk"			"stredná"
 		"de"			"mittel"
 		"pl"			"średni"
+		"ba"                    "srednji"
+		"se"                    "srednji"
+		"hr"                    "srednji"
 	}
 	"large"
 	{
@@ -757,6 +1028,9 @@
 		"sk"			"velký"
 		"de"			"groß"
 		"pl"			"duży"
+		"ba"                    "veliki"
+		"se"                    "veliki"
+		"hr"                    "veliki"
 	}
 	"huge"
 	{
@@ -765,6 +1039,9 @@
 		"sk"			"obrovský"
 		"de"			"riesig"
 		"pl"			"ogromny"
+		"ba"                    "ogromni"
+		"se"                    "ogromni"
+		"hr"                    "ogromni"
 	}
 	"KillStreak"
 	{
@@ -773,6 +1050,9 @@
 		"sk"			"Zabitie v rade"
 		"de"			"Abschussserie"
 		"pl"			"Seria zabójstw"
+		"ba"                    "Serija ubistva"
+		"se"                    "Serija ubistva"
+		"hr"                    "Serija ubistva"
 	}
 	"You won"
 	{
@@ -782,6 +1062,9 @@
 		"sk"			"{green}[FUN] {olive}Vyhral si{lightgreen} ${1} {olive}!"
 		"de"			"{green}[FUN] {olive}Du hast gewonnen{lightgreen ${1} {olive}!"
 		"pl"			"{green}[FUN] {olive}Wygrałeś{lightgreen ${1} {olive}!"
+		"ba"                    "{green}[FUN] {olive}Ti si pobjedio{lightgreen ${1} {olive}!"
+		"se"                    "{green}[FUN] {olive}Ti si pobjedio{lightgreen ${1} {olive}!"
+		"hr"                    "{green}[FUN] {olive}Ti si pobjedio{lightgreen ${1} {olive}!"
 	}
 	"You lose"
 	{
@@ -791,6 +1074,9 @@
 		"sk"			"{green}[FUN] {olive}Prehral si{lightgreen} ${1} {olive}!"
 		"de"			"{green}[FUN] {olive}Du hast verloren{lightgreen} ${1} {olive}!"
 		"pl"			"{green}[FUN] {olive}Przegrałeś{lightgreen} ${1} {olive}!"
+		"ba"                    "{green}[FUN] {olive}Ti si izgubio{lightgreen ${1} {olive}!"
+		"se"                    "{green}[FUN] {olive}Ti si izgubio{lightgreen ${1} {olive}!"
+		"hr"                    "{green}[FUN] {olive}Ti si izgubio{lightgreen ${1} {olive}!"
 	}
 	"TAB Info"
 	{
@@ -800,6 +1086,9 @@
 		"sk"			"<font color='#CC0000'>Úroveň:</font> {1}\n<font color='#1e90ff'>XP:</font> {2}<font color='#1e90ff'> ● </font>{3}\n<font color='#008000'>Banka:</font> ${4}"
 		"de"			"<font color='#CC0000'>Stufe:</font> {1}\n<font color='#1e90ff'>XP:</font> {2}<font color='#1e90ff'> ● </font>{3}\n<font color='#008000'>Bank:</font> ${4}"
 		"pl"			"<font color='#CC0000'>Poziom:</font> {1}\n<font color='#1e90ff'>XP:</font> {2}<font color='#1e90ff'> ● </font>{3}\n<font color='#008000'>Bank:</font> ${4}"
+		"ba"			"<font color='#CC0000'>Level:</font> {1}\n<font color='#1e90ff'>XP:</font> {2}<font color='#1e90ff'> ● </font>{3}\n<font color='#008000'>Banka:</font> ${4}"
+		"se"			"<font color='#CC0000'>Level:</font> {1}\n<font color='#1e90ff'>XP:</font> {2}<font color='#1e90ff'> ● </font>{3}\n<font color='#008000'>Banka:</font> ${4}"
+		"hr"			"<font color='#CC0000'>Level:</font> {1}\n<font color='#1e90ff'>XP:</font> {2}<font color='#1e90ff'> ● </font>{3}\n<font color='#008000'>Banka:</font> ${4}"
 	}
 	"SPECT Info"
 	{
@@ -809,6 +1098,9 @@
 		"sk"			"Úroveň: {1} | XP: {2} ● {3}\nBanka: ${4}\nZabitie: {5} | {6}"
 		"de"			"Stufe: {1} | XP: {2} ● {3}\nBank: ${4}\nTötet: {5} | {6}"
 		"pl"			"Poziom: {1} | XP: {2} ● {3}\nBank: ${4}\nZabójstwa: {5} | {6}"
+		"ba"			"Level: {1} | XP: {2} ● {3}\nBanka: ${4}\nUbistva: {5} | {6}"
+		"se"			"Level: {1} | XP: {2} ● {3}\nBanka: ${4}\nUbistva: {5} | {6}"
+		"hr"			"Level: {1} | XP: {2} ● {3}\nBanka: ${4}\nUbistva: {5} | {6}"
 	}
 	"You puckuped"
 	{
@@ -818,6 +1110,9 @@
 		"sk"			"Zobral si {1}."
 		"de"			"Du hast aufgenommen {1}."
 		"pl"			"Podniosłeś {1}."
+		"ba"			"Pokupio si {1}."
+		"se"			"Pokupio si {1}."
+		"hr"			"Pokupio si {1}."
 	}
 	"Reviving player"
 	{
@@ -826,6 +1121,9 @@
 		"sk"			"Oživuješ hráča:"
 		"de"			"Belebe Spieler:"
 		"pl"			"Odradzanie gracza:"
+		"ba"			"Oživljavanje igrača:"
+		"se"			"Oživljavanje igrača:"
+		"hr"			"Oživljavanje igrača:"
 	}
 	"you reviving"
 	{
@@ -835,14 +1133,20 @@
 		"sk"			"Hráč <font color='#ffffff'>{1}</font> ťa oživuje!"
 		"de"			"Spieler <font color='#ffffff'>{1}</font> Sie beleben!"
 		"pl"			"Odradzasz gracza <font color='#ffffff'>{1}</font>!"
+		"ba"			"Igrač <font color='#ffffff'>{1}</font> vas oživljava!"
+		"se"			"Igrač <font color='#ffffff'>{1}</font> vas oživljava!"
+		"hr"			"Igrač <font color='#ffffff'>{1}</font> vas oživljava!"
 	}
 	"You are revived player"
 	{
-		"en"			"You are revived player"
+		"en"			"You revived a player"
 		"cze"			"Oživil si hráče"
 		"sk"			"Oživil si hráča"
 		"de"			"Du hast einen Spieler wiederbelebt"
 		"pl"			"Odrodziłeś gracza"
+		"ba"			"Ti si oživio igrača"
+		"se"			"Ti si oživio igrača"
+		"hr"			"Ti si oživio igrača"
 	}
 	"you revived"
 	{
@@ -852,6 +1156,10 @@
 		"sk"			"Hráč <font color='#ffffff'>{1}</font> ťa oživil!"
 		"de"			"Spieler <font color='#ffffff'>{1}</font> Du bist wiederbelebt!"
 		"pl"			"Gracz <font color='#ffffff'>{1}</font> Cię odradza!"
+		"ba"			"Igrač <font color='#ffffff'>{1}</font> Ti si oživljen!"
+		"se"			"Igrač <font color='#ffffff'>{1}</font> Ti si oživljen!"
+		"hr"			"Igrač <font color='#ffffff'>{1}</font> Ti si oživljen!"
+		
 	}
 	"new round info"
 	{
@@ -861,6 +1169,9 @@
 		"sk"			"{green}[FUN] {olive}Kolo: {default}{1}.{olive} | Mapa: {default}{2}{olive} | Máš {lime}${3} {olive}v banke."
 		"de"			"{green}[FUN] {olive}Runde: {default}{1}.{olive} | Karte: {default}{2}{olive} | Du hast {lime}${3} {olive}in deiner Bank."
 		"pl"			"{green}[FUN] {olive}Runda: {default}{1}.{olive} | Mapa: {default}{2}{olive} | Masz {lime}${3} {olive}w banku."
+		"ba"			"{green}[FUN] {olive}Runda: {default}{1}.{olive} | Mapa: {default}{2}{olive} | Imaš {lime}${3} {olive}u svojoj banci."
+		"se"			"{green}[FUN] {olive}Runda: {default}{1}.{olive} | Mapa: {default}{2}{olive} | Imaš {lime}${3} {olive}u svojoj banci."
+		"hr"			"{green}[FUN] {olive}Runda: {default}{1}.{olive} | Mapa: {default}{2}{olive} | Imaš {lime}${3} {olive}u svojoj banci."
 	}
 	"resetscore"
 	{
@@ -869,6 +1180,9 @@
 		"sk"			"{darkred}[!] {default}Vynuloval si si skóre."
 		"de"			"{darkred}[!] {default}Sie haben Ihre Punktezahl zurückgesetzt."
 		"pl"			"{darkred}[!] {default}Zrestartowałeś swoje punkty."
+		"ba"			"{darkred}[!] {default}Resetovali ste vaš skor."
+		"se"			"{darkred}[!] {default}Resetovali ste vaš skor."
+		"hr"			"{darkred}[!] {default}Resetovali ste vaš skor."
 	}
 	"must alive for loss"
 	{
@@ -877,6 +1191,9 @@
 		"sk"			"{darkred}[!] {default}Musíš byť nažive aby si mohol losovať!"
 		"de"			"{darkred}[!] {default}Sie müssen am Leben sein für den Los!"
 		"pl"			"{darkred}[!] {default}Musisz żyć by zakręcić!"
+		"ba"			"{darkred}[!] {default}Morate biti živi za nasumičnu nagradu!"
+		"se"			"{darkred}[!] {default}Morate biti živi za nasumičnu nagradu!"
+		"hr"			"{darkred}[!] {default}Morate biti živi za nasumičnu nagradu!"
 	}
 	"cant loss in lobby"
 	{
@@ -885,6 +1202,9 @@
 		"sk"			"{darkred}[!] {default}V spawn miestnosti tejto mapy nemôžeš losovať."
 		"de"			"{darkred}[!] {default}Im Spawnraum auf dieser Karte kann nicht gelost werden!"
 		"pl"			"{darkred}[!] {default}Nie możesz zakręcić w miejscu spawnu na tej mapie!"
+		"ba"			"{darkred}[!] {default}Na ovom spawnu ne možete dobiti nasumičnu nagradu!"
+		"se"			"{darkred}[!] {default}Na ovom spawnu ne možete dobiti nasumičnu nagradu!"
+		"hr"			"{darkred}[!] {default}Na ovom spawnu ne možete dobiti nasumičnu nagradu!"
 	}
 	"cant loss if specialround"
 	{
@@ -893,6 +1213,9 @@
 		"sk"			"{darkred}[!] {default}Pri špeciálnom kole nemôžeš losovať."
 		"de"			"{darkred}[!] {default}Wenn es eine spezielle Runde ist, kannst du keinen los benutzen!"
 		"pl"			"{darkred}[!] {default}Nie możesz zakręcić w specjalnej rundzie!"
+		"ba"			"{darkred}[!] {default}Kada je specijalna runda ne možes koristiti nasumičnu nagradu!"
+		"se"			"{darkred}[!] {default}Kada je specijalna runda ne možes koristiti nasumičnu nagradu!"
+		"hr"			"{darkred}[!] {default}Kada je specijalna runda ne možes koristiti nasumičnu nagradu!"
 	}
 	"cant loss if first round"
 	{
@@ -901,6 +1224,9 @@
 		"sk"			"{darkred}[!] {default}V prvom kole nemožeš losovať."
 		"de"			"{darkred}[!] {default}In der ersten Runde kannst du keinen los benutzen!"
 		"pl"			"{darkred}[!] {default}Nie możesz zakręcić w pierwszej rundzie!"
+		"ba"			"{darkred}[!] {default}U prvoj rundi ne možete koristiti nasumičnu nagradu!"
+		"se"			"{darkred}[!] {default}U prvoj rundi ne možete koristiti nasumičnu nagradu!"
+		"hr"			"{darkred}[!] {default}U prvoj rundi ne možete koristiti nasumičnu nagradu!"
 	}
 	"cant loss if round end"
 	{
@@ -909,6 +1235,9 @@
 		"sk"			"{darkred}[!] {default}Na konci kola nemôžeš losovať."
 		"de"			"{darkred}[!] {default}Rundenende, kann kein los benutzen."
 		"pl"			"{darkred}[!] {default}Runda się kończy, nie możesz zakręcić!"
+		"ba"			"{darkred}[!] {default}Kraj runde pa ne možete koristiti nasumičnu nagradu!"
+		"se"			"{darkred}[!] {default}Kraj runde pa ne možete koristiti nasumičnu nagradu!"
+		"hr"			"{darkred}[!] {default}Kraj runde pa ne možete koristiti nasumičnu nagradu!"
 	}
 	"try again loss"
 	{
@@ -918,14 +1247,20 @@
 		"sk"			"{darkred}[!] {default}Znova losovať môžeš až za {olive}{1} {default}sekúnd!"
 		"de"			"{darkred}[!] {default}Sie können ein los in {olive}{1} {default}Sekunden benutzen!"
 		"pl"			"{darkred}[!] {default}Możesz zakręcić ponownie za {olive}{1} {default}sekund!"
+		"ba"			"{darkred}[!] {default}Nasumičnu nagradu možete koristiti za {olive}{1} {default}Sekundi!"
+		"se"			"{darkred}[!] {default}Nasumičnu nagradu možete koristiti za {olive}{1} {default}Sekundi!"
+		"hr"			"{darkred}[!] {default}Nasumičnu nagradu možete koristiti za {olive}{1} {default}Sekundi!"
 	}
 	"loss outran"
 	{
 		"en"			"{darkred}[!] {default}Somebody has outran you, try again later!"
 		"cze"			"{darkred}[!] {default}Někdo tě přdběhnul, zkus to později."
 		"sk"			"{darkred}[!] {default}Niekto ťa predbehol, skús to neskôr."
-		"de"			"{darkred}[!] {default}Jemand hat vor dir ein Los verwendet, versuche es später noch einmal!"
+		"de"			"{darkred}[!] {default}Jemand hat vor dir gelosst, versuche es später!"
 		"pl"			"{darkred}[!] {default}Ktoś Cię wyprzedził, spróbuj ponownie później!"
+		"ba"			"{darkred}[!] {default}Neko je prije tebe uzeo nasumičnu nagradu, pokušaj kasnije!"
+		"se"			"{darkred}[!] {default}Neko je prije tebe uzeo nasumičnu nagradu, pokušaj kasnije!"
+		"hr"			"{darkred}[!] {default}Neko je prije tebe uzeo nasumičnu nagradu, pokušaj kasnije!"
 	}
 	"loss ninja chat msg"
 	{
@@ -935,6 +1270,9 @@
 		"sk"			"{green}[FUN]{default} {1} {olive}sa premenil v Ninju."
 		"de"			"{green}[FUN]{default} {1} {olive}Hat sich in einen Ninja verwandelt."
 		"pl"			"{green}[FUN]{default} {1} {olive}zamienił się w Ninja."
+		"ba"			"{green}[FUN]{default} {1} {olive}se pretvorio u Ninju."
+		"se"			"{green}[FUN]{default} {1} {olive}se pretvorio u Ninju."
+		"hr"			"{green}[FUN]{default} {1} {olive}se pretvorio u Ninju."
 	}
 	"loss ninja hint msg"
 	{
@@ -944,6 +1282,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>sa stal Ninjom"
 		"de"			"{1}</font> <font color='#FFFF00'>Wurde ein Ninja"
 		"pl"			"{1}</font> <font color='#FFFF00'>został Ninja"
+		"ba"			"{1}</font> <font color='#FFFF00'>je postao Ninja"
+		"se"			"{1}</font> <font color='#FFFF00'>je postao Ninja"
+		"hr"			"{1}</font> <font color='#FFFF00'>je postao Ninja"
 	}
 	"loss unammo chat msg"
 	{
@@ -953,6 +1294,11 @@
 		"sk"			"{green}[FUN]{default} {1} {olive}má neobmedzenú muníciu!"
 		"de"			"{green}[FUN]{default} {1} {olive}Hat unbegrenzte Munition!"
 		"pl"			"{green}[FUN]{default} {1} {olive}ma nielimitowaną ammunicję!"
+		"bh"			"{green}[FUN]{default} {1} {olive}ima beskonačno municije!"
+		"se"			"{green}[FUN]{default} {1} {olive}ima beskonačno municije!"
+		"hr"			"{green}[FUN]{default} {1} {olive}ima beskonačno municije!"
+		
+		
 	}
 	"loss unammo hint msg"
 	{
@@ -962,6 +1308,10 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>má neobmedzenú muníciu!"
 		"de"			"{1}</font> <font color='#FFFF00'>Hat unbegrenzte Munition!"
 		"pl"			"{1}</font> <font color='#FFFF00'>ma nielimitowaną ammunicję!"
+		"bh"			"{1}</font> <font color='#FFFF00'>Ima beskonačno municije!"
+		"se"			"{1}</font> <font color='#FFFF00'>Ima beskonačno municije!"
+		"hr"			"{1}</font> <font color='#FFFF00'>Ima beskonačno municije!"
+		
 	}
 	"loss winlott chat msg"
 	{
@@ -971,6 +1321,9 @@
 		"sk"			"{green}[FUN]{default} {1} {olive}vyhral v lotérii{default} ${2}{olive}!"
 		"de"			"{green}[FUN]{default} {1} {olive}Im Lotto gewonnen{default} ${2}{olive}!"
 		"pl"			"{green}[FUN]{default} {1} {olive}wygrał loterię{default} ${2}{olive}!"
+		"bh"			"{green}[FUN]{default} {1} {olive}U Lotu dobio{default} ${2}{olive}!"
+		"se"			"{green}[FUN]{default} {1} {olive}U Lotu dobio{default} ${2}{olive}!"
+		"hr"			"{green}[FUN]{default} {1} {olive}U Lotu dobio{default} ${2}{olive}!"
 	}
 	"loss winlott hint msg"
 	{
@@ -980,6 +1333,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>zhrabol </font><font color='#FFFFFF'>${2}"
 		"de"			"{1}</font> <font color='#FFFF00'>Bekam </font><font color='#FFFFFF'>${2}"
 		"pl"			"{1}</font> <font color='#FFFF00'>zgarnął </font><font color='#FFFFFF'>${2}"
+		"bh"			"{1}</font> <font color='#FFFF00'>Dobio </font><font color='#FFFFFF'>${2}"
+		"se"			"{1}</font> <font color='#FFFF00'>Dobio </font><font color='#FFFFFF'>${2}"
+		"hr"			"{1}</font> <font color='#FFFF00'>Dobio </font><font color='#FFFFFF'>${2}"
 	}
 	"loss winhp chat msg"
 	{
@@ -989,6 +1345,9 @@
 		"sk"			"{green}[FUN]{default} {1} {olive}vyhral 200 {darkred}HP{olive}!!!"
 		"de"			"{green}[FUN]{default} {1} {olive}Gewann 200 {darkred}HP{olive}!!!"
 		"pl"			"{green}[FUN]{default} {1} {olive}wygrał 200 {darkred}HP{olive}!!!"
+		"ba"			"{green}[FUN]{default} {1} {olive}Dobio je 200 {darkred}HP{olive}!!!"
+		"se"			"{green}[FUN]{default} {1} {olive}Dobio je 200 {darkred}HP{olive}!!!"
+		"hr"			"{green}[FUN]{default} {1} {olive}Dobio je 200 {darkred}HP{olive}!!!"
 	}
 	"loss winhp hint msg"
 	{
@@ -998,6 +1357,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>vyhral 200 HP!"
 		"de"			"{1}</font> <font color='#FFFF00'>Gewann 200 HP!"
 		"pl"			"{1}</font> <font color='#FFFF00'>wygrał 200 HP!"
+		"ba"			"{1}</font> <font color='#FFFF00'>je dobio 200 HP!"
+		"se"			"{1}</font> <font color='#FFFF00'>je dobio 200 HP!"
+		"hr"			"{1}</font> <font color='#FFFF00'>je dobio 200 HP!"
 	}
 	"loss steroids chat msg"
 	{
@@ -1007,6 +1369,9 @@
 		"sk"			"{green}[FUN]{default} {1} {olive}si zobral steroidy!"
 		"de"			"{green}[FUN]{default} {1} {olive}Nahm Steroiden!"
 		"pl"			"{green}[FUN]{default} {1} {olive}jest na sterydach!"
+		"ba"			"{green}[FUN]{default} {1} {olive}je uzeo Steroide!"
+		"se"			"{green}[FUN]{default} {1} {olive}je uzeo Steroide!"
+		"hr"			"{green}[FUN]{default} {1} {olive}je uzeo Steroide!"
 	}
 	"loss steroids hint msg"
 	{
@@ -1016,6 +1381,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>si zobral steroidy!"
 		"de"			"{1}</font> <font color='#FFFF00'>Nahm Steroiden!"
 		"pl"			"{1}</font> <font color='#FFFF00'>wziął sterydy!"
+		"ba"			"{1}</font> <font color='#FFFF00'>je uzeo Streoide!"
+		"se"			"{1}</font> <font color='#FFFF00'>je uzeo Streoide!"
+		"hr"			"{1}</font> <font color='#FFFF00'>je uzeo Streoide!"
 	}
 	"loss invis chat msg"
 	{
@@ -1025,6 +1393,9 @@
 		"sk"			"{green}[FUN]{default} {1} {olive}splynul s prostredím!"
 		"de"			"{green}[FUN]{default} {1} {olive}Verschmalz mit der Umwelt!"
 		"pl"			"{green}[FUN]{default} {1} {olive}połączył się z otoczeniem!"
+		"ba"			"{green}[FUN]{default} {1} {olive}je spojen sa okolinom!"
+		"se"			"{green}[FUN]{default} {1} {olive}je spojen sa okolinom!"
+		"hr"			"{green}[FUN]{default} {1} {olive}je spojen sa okolinom!"
 	}
 	"loss invis hint msg"
 	{
@@ -1034,6 +1405,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>splynul s prostredím!"
 		"de"			"{1}</font> <font color='#FFFF00'>Verschmalz mit der Umwelt!"
 		"pl"			"{1}</font> <font color='#FFFF00'>połączył się z otoczeniem!"
+		"ba"			"{1}</font> <font color='#FFFF00'>je spojen sa okolinom!"
+		"se"			"{1}</font> <font color='#FFFF00'>je spojen sa okolinom!"
+		"hr"			"{1}</font> <font color='#FFFF00'>je spojen sa okolinom!"
 	}
 	"loss regen chat msg"
 	{
@@ -1043,6 +1417,9 @@
 		"sk"			"{green}[FUN]{default} {1} {olive}sa regerenuje!"
 		"de"			"{green}[FUN]{default} {1} {olive}Regeneriert!"
 		"pl"			"{green}[FUN]{default} {1} {olive}ma regeneracje!"
+		"ba"			"{green}[FUN]{default} {1} {olive}se regeneruje!"
+		"se"			"{green}[FUN]{default} {1} {olive}se regeneruje!"
+		"hr"			"{green}[FUN]{default} {1} {olive}se regeneruje!"
 	}
 	"loss regen hint msg"
 	{
@@ -1052,6 +1429,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>sa dokáže regenerovať!"
 		"de"			"{1}</font> <font color='#FFFF00'>Regeneriert!"
 		"pl"			"{1}</font> <font color='#FFFF00'>ma regeneracje!"
+		"ba"			"{1}</font> <font color='#FFFF00'>se regeneruje!"
+		"se"			"{1}</font> <font color='#FFFF00'>se regeneruje!"
+		"hr"			"{1}</font> <font color='#FFFF00'>se regeneruje!"
 	}
 	"loss fulleq chat msg"
 	{
@@ -1061,6 +1441,9 @@
 		"sk"			"{green}[FUN]{default} {1} {olive}dostal plnú výbavu!"
 		"de"			"{green}[FUN]{default} {1} {olive}Habe eine komplette Ausrüstung bekommen!"
 		"pl"			"{green}[FUN]{default} {1} {olive}ma cały ekwipunek!"
+		"ba"			"{green}[FUN]{default} {1} {olive}je dobio kompletnu opremu!"
+		"se"			"{green}[FUN]{default} {1} {olive}je dobio kompletnu opremu!"
+		"hr"			"{green}[FUN]{default} {1} {olive}je dobio kompletnu opremu!"
 	}
 	"loss fulleq hint msg"
 	{
@@ -1070,6 +1453,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>vykradol zbrojnicu!"
 		"de"			"{1}</font> <font color='#FFFF00'>Raubte die Waffenkammer aus!"
 		"pl"			"{1}</font> <font color='#FFFF00'>okradł zbrojownię!"
+		"ba"			"{1}</font> <font color='#FFFF00'>je opljačkao skladište oružja!"
+		"se"			"{1}</font> <font color='#FFFF00'>je opljačkao skladište oružja!"
+		"hr"			"{1}</font> <font color='#FFFF00'>je opljačkao skladište oružja!"
 	}
 	"loss rambo chat msg"
 	{
@@ -1079,6 +1465,9 @@
 		"sk"			"{green}[FUN]{default} {1} {olive}je RAMBO!!!!!!"
 		"de"			"{green}[FUN]{default} {1} {olive}ist jetzt RAMBO!!!!!!"
 		"pl"			"{green}[FUN]{default} {1} {olive}jest RAMBO!!!!!!"
+		"ba"			"{green}[FUN]{default} {1} {olive}je sada RAMBO!!!!!!"
+		"se"			"{green}[FUN]{default} {1} {olive}je sada RAMBO!!!!!!"
+		"hr"			"{green}[FUN]{default} {1} {olive}je sada RAMBO!!!!!!"
 	}
 	"loss rambo hint msg"
 	{
@@ -1088,6 +1477,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>je z neho RAMBO!!!!!!"
 		"de"			"{1}</font> <font color='#FFFF00'>ist jetzt RAMBO!!!!!!"
 		"pl"			"{1}</font> <font color='#FFFF00'>jest teraz RAMBO!!!!!!"
+		"ba"			"{1}</font> <font color='#FFFF00'>je sada RAMBO!!!!!!"
+		"se"			"{1}</font> <font color='#FFFF00'>je sada RAMBO!!!!!!"
+		"hr"			"{1}</font> <font color='#FFFF00'>je sada RAMBO!!!!!!"
 	}
 	"loss god chat msg"
 	{
@@ -1097,6 +1489,9 @@
 		"sk"			"{green}[FUN]{default} {1} {olive}je nesmrtelný!"
 		"de"			"{green}[FUN]{default} {1} {olive}Hat Gottmodus!"
 		"pl"			"{green}[FUN]{default} {1} {olive}ma nieśmiertelność!"
+		"ba"			"{green}[FUN]{default} {1} {olive}ima godmode!"
+		"se"			"{green}[FUN]{default} {1} {olive}ima godmode!"
+		"hr"			"{green}[FUN]{default} {1} {olive}ima godmode!"
 	}
 	"loss god hint msg"
 	{
@@ -1106,6 +1501,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>je nesmrtelný!"
 		"de"			"{1}</font> <font color='#FFFF00'>ist unsterblich!"
 		"pl"			"{1}</font> <font color='#FFFF00'>jest nieśmiertelny!"
+		"ba"			"{1}</font> <font color='#FFFF00'>je besmrtan!"
+		"se"			"{1}</font> <font color='#FFFF00'>je besmrtan!"
+		"hr"			"{1}</font> <font color='#FFFF00'>je besmrtan!"
 	}
 	"loss item chat msg"
 	{
@@ -1115,6 +1513,9 @@
 		"sk"			"{green}[FUN]{default} {1} {olive}dostal {2}!"
 		"de"			"{green}[FUN]{default} {1} {olive}empfangen {2}!"
 		"pl"			"{green}[FUN]{default} {1} {olive}otrzymał {2}!"
+		"ba"			"{green}[FUN]{default} {1} {olive}je dobio {2}!"
+		"se"			"{green}[FUN]{default} {1} {olive}je dobio {2}!"
+		"hr"			"{green}[FUN]{default} {1} {olive}je dobio {2}!"
 	}
 	"loss item hint msg"
 	{
@@ -1124,6 +1525,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>dostal {2}!"
 		"de"			"{1}</font> <font color='#FFFF00'>empfangen {2}!"
 		"pl"			"{1}</font> <font color='#FFFF00'>otrzymał {2}!"
+		"ba"			"{1}</font> <font color='#FFFF00'>je dobio {2}!"
+		"se"			"{1}</font> <font color='#FFFF00'>je dobio {2}!"
+		"hr"			"{1}</font> <font color='#FFFF00'>je dobio {2}!"
 	}
 	"loss zeus chat msg"
 	{
@@ -1133,6 +1537,9 @@
 		"sk"			"{green}[FUN]{default} {1} {olive}je všemocný Zeus!! Huhahua"
 		"de"			"{green}[FUN]{default} {1} {olive}ist ein allmächtiger Zeus!! Huhahua"
 		"pl"			"{green}[FUN]{default} {1} {olive}jest wszechmogącym Zeusem!! Huhahua"
+		"ba"			"{green}[FUN]{default} {1} {olive}je svemogući Zeus!! Huhahua"
+		"se"			"{green}[FUN]{default} {1} {olive}je svemogući Zeus!! Huhahua"
+		"hr"			"{green}[FUN]{default} {1} {olive}je svemogući Zeus!! Huhahua"
 	}
 	"loss zeus hint msg"
 	{
@@ -1142,6 +1549,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>je z neho všemocný Zeus!"
 		"de"			"{1}</font> <font color='#FFFF00'>ist ein allmächtiger Zeus!"
 		"pl"			"{1}</font> <font color='#FFFF00'>jest wszechmogącym Zeusem!"
+		"ba"			"{1}</font> <font color='#FFFF00'>je svemogući Zeus!"
+		"se"			"{1}</font> <font color='#FFFF00'>je svemogući Zeus!"
+		"hr"			"{1}</font> <font color='#FFFF00'>je svemogući Zeus!"
 	}
 	"loss horny chat msg"
 	{
@@ -1151,6 +1561,9 @@
 		"sk"			"{green}[FUN]{default} {1} {olive}je nadržaný!"
 		"de"			"{green}[FUN]{default} {1} {olive}ist geil!"
 		"pl"			"{green}[FUN]{default} {1} {olive}jest napalony!"
+		"ba"			"{green}[FUN]{default} {1} {olive}je napaljen!"
+		"se"			"{green}[FUN]{default} {1} {olive}je napaljen!"
+		"hr"			"{green}[FUN]{default} {1} {olive}je napaljen!"
 	}
 	"loss horny hint msg"
 	{
@@ -1160,6 +1573,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>by chcel pretiahnuť nejakú riťku."
 		"de"			"{1}</font> <font color='#FFFF00'>würde gerne etwas Arsch kauen."
 		"pl"			"{1}</font> <font color='#FFFF00'>ma ochotę na jakąś dupcię."
+		"ba"			"{1}</font> <font color='#FFFF00'>bi želio neko dupe."
+		"se"			"{1}</font> <font color='#FFFF00'>bi želio neko dupe."
+		"hr"			"{1}</font> <font color='#FFFF00'>bi želio neko dupe."
 	}
 	"loss wh chat msg"
 	{
@@ -1169,6 +1585,9 @@
 		"sk"			"{green}[FUN]{default} {1} {olive}si zapol Wallhack !!!"
 		"de"			"{green}[FUN]{default} {1} {olive}Wallhack eingeschaltet!!!"
 		"pl"			"{green}[FUN]{default} {1} {olive}włączył Wallhack !!!"
+		"ba"			"{green}[FUN]{default} {1} {olive}je uključio Wallhack !!!"
+		"se"			"{green}[FUN]{default} {1} {olive}je uključio Wallhack !!!"
+		"hr"			"{green}[FUN]{default} {1} {olive}je uključio Wallhack !!!"
 	}
 	"loss wh hint msg"
 	{
@@ -1178,6 +1597,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>si zapol Wallhack !"
 		"de"			"{1}</font> <font color='#FFFF00'>Wallhack eingeschaltet!!!"
 		"pl"			"{1}</font> <font color='#FFFF00'>włączył Wallhack !"
+		"ba"			"{1}</font> <font color='#FFFF00'>je uključio Wallhack!!!"
+		"se"			"{1}</font> <font color='#FFFF00'>je uključio Wallhack!!!"
+		"hr"			"{1}</font> <font color='#FFFF00'>je uključio Wallhack!!!"
 	}
 	"loss oldman chat msg"
 	{
@@ -1187,6 +1609,9 @@
 		"sk"			"{green}[FUN]{default} {1} {olive}sa stal starým dedkom!"
 		"de"			"{green}[FUN]{default} {1} {olive}ist jetzt ein alter Mann!"
 		"pl"			"{green}[FUN]{default} {1} {olive}jest staruszkiem!"
+		"ba"			"{green}[FUN]{default} {1} {olive}je sada stari čovijek!"
+		"se"			"{green}[FUN]{default} {1} {olive}je sada stari čovijek!"
+		"hr"			"{green}[FUN]{default} {1} {olive}je sada stari čovijek!"
 	}
 	"loss oldman hint msg"
 	{
@@ -1196,6 +1621,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>zostarol"
 		"de"			"{1}</font> <font color='#FFFF00'>wurde alt"
 		"pl"			"{1}</font> <font color='#FFFF00'>starzeje się"
+		"ba"			"{1}</font> <font color='#FFFF00'>je postao star"
+		"se"			"{1}</font> <font color='#FFFF00'>je postao star"
+		"hr"			"{1}</font> <font color='#FFFF00'>je postao star"
 	}
 	"loss slap chat msg"
 	{
@@ -1205,6 +1633,9 @@
 		"sk"			"{green}[FUN]{default} {1} {olive}je fackovaný."
 		"de"			"{green}[FUN]{default} {1} {olive}hat sich die tödliche Schlagkrankheit erlangt."
 		"pl"			"{green}[FUN]{default} {1} {olive}ma chorobę smiercionośnych klapsów."
+		"ba"			"{green}[FUN]{default} {1} {olive}je dobio smrtonosnu bolest."
+		"se"			"{green}[FUN]{default} {1} {olive}je dobio smrtonosnu bolest."
+		"hr"			"{green}[FUN]{default} {1} {olive}je dobio smrtonosnu bolest."
 	}
 	"loss slap hint msg"
 	{
@@ -1214,6 +1645,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>je fackovaný"
 		"de"			"{1}</font> <font color='#FFFF00'>wird geschlagen"
 		"pl"			"{1}</font> <font color='#FFFF00'>uderza"
+		"ba"			"{1}</font> <font color='#FFFF00'>počinje biti udaran"
+		"se"			"{1}</font> <font color='#FFFF00'>počinje biti udaran"
+		"hr"			"{1}</font> <font color='#FFFF00'>počinje biti udaran"
 	}
 	"loss jamgun chat msg"
 	{
@@ -1223,6 +1657,9 @@
 		"sk"			"{green}[FUN]{default} {1} {olive}má poškodené zbrane!"
 		"de"			"{green}[FUN]{default} {1} {olive}hat eingeklemmte Waffen!"
 		"pl"			"{green}[FUN]{default} {1} {olive}ma zepsute bronie!"
+		"ba"			"{green}[FUN]{default} {1} {olive}ima pokvarene puške!"
+		"se"			"{green}[FUN]{default} {1} {olive}ima pokvarene puške!"
+		"hr"			"{green}[FUN]{default} {1} {olive}ima pokvarene puške!"
 	}
 	"loss jamgun hint msg"
 	{
@@ -1232,6 +1669,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>má poškodené zbrane!"
 		"de"			"{1}</font> <font color='#FFFF00'>hat eingeklemmte Waffen!"
 		"pl"			"{1}</font> <font color='#FFFF00'>ma zepsute bronie!"
+		"ba"			"{1}</font> <font color='#FFFF00'>ima pokvarene puške!"
+		"se"			"{1}</font> <font color='#FFFF00'>ima pokvarene puške!"
+		"hr"			"{1}</font> <font color='#FFFF00'>ima pokvarene puške!"
 	}
 	"loss bankrupt chat msg"
 	{
@@ -1241,6 +1681,9 @@
 		"sk"			"{green}[FUN]{default} {1} {olive}zbankrotoval."
 		"de"			"{green}[FUN]{default} {1} {olive}Pleite."
 		"pl"			"{green}[FUN]{default} {1} {olive}zbankrutował."
+		"ba"			"{green}[FUN]{default} {1} {olive}bankrotirao."
+		"ba"			"{green}[FUN]{default} {1} {olive}bankrotirao."
+		"ba"			"{green}[FUN]{default} {1} {olive}bankrotirao."
 	}
 	"loss bankrupt hint msg"
 	{
@@ -1248,8 +1691,11 @@
 		"en"			"{1}</font> <font color='#FFFF00'>lost all money!"
 		"cze"			"{1}</font> <font color='#FFFF00'>ztratil všechny svoje prachy!"
 		"sk"			"{1}</font> <font color='#FFFF00'>stratil všetky svoje peniaze!"
-		"de"			"{1}</font> <font color='#FFFF00'>verlor sein Geld
+		"de"			"{1}</font> <font color='#FFFF00'>verlor sein Geld"
 		"pl"			"{1}</font> <font color='#FFFF00'>stracił wszystkie pieniądze!"
+		"ba"			"{1}</font> <font color='#FFFF00'>je izgubio svoje pare!"
+		"se"			"{1}</font> <font color='#FFFF00'>je izgubio svoje pare!"
+		"hr"			"{1}</font> <font color='#FFFF00'>je izgubio svoje pare!"
 	}
 	"loss chicken chat msg"
 	{
@@ -1259,6 +1705,9 @@
 		"sk"			"{green}[FUN]{default} {1} {olive}vyhral sliepky xD"
 		"de"			"{green}[FUN]{default} {1} {olive}gewann Hühner xD"
 		"pl"			"{green}[FUN]{default} {1} {olive}wygrał kurczaki xD"
+		"ba"			"{green}[FUN]{default} {1} {olive}je osvojio kokoške xD"
+		"se"			"{green}[FUN]{default} {1} {olive}je osvojio kokoške xD"
+		"hr"			"{green}[FUN]{default} {1} {olive}je osvojio kokoške xD"
 	}
 	"loss chicken hint msg"
 	{
@@ -1268,6 +1717,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>vypustil sliepky  xD"
 		"de"			"{1}</font> <font color='#FFFF00'>Spawnt Hühner xD"
 		"pl"			"{1}</font> <font color='#FFFF00'>spawnuje kurczaki xD"
+		"ba"			"{1}</font> <font color='#FFFF00'>spawnuje kokoške xD"
+		"se"			"{1}</font> <font color='#FFFF00'>spawnuje kokoške xD"
+		"hr"			"{1}</font> <font color='#FFFF00'>spawnuje kokoške xD"
 	}
 	"loss lightning chat msg"
 	{
@@ -1277,6 +1729,9 @@
 		"sk"			"{green}[FUN]{default} {1} {olive}zasiahol blesk!"
 		"de"			"{green}[FUN]{default} {1} {olive}wurde von einem Blitz getroffen!"
 		"pl"			"{green}[FUN]{default} {1} {olive}został uderzony przez piorun!"
+		"ba"			"{green}[FUN]{default} {1} {olive}je pogođen Gromom!"
+		"se"			"{green}[FUN]{default} {1} {olive}je pogođen Gromom!"
+		"hr"			"{green}[FUN]{default} {1} {olive}je pogođen Gromom!"
 	}
 	"loss lightning hint msg #1"
 	{
@@ -1286,6 +1741,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>bol zasiahnutý bleskom!"
 		"de"			"{1}</font> <font color='#FFFF00'>wurde von einem Blitz getroffen!"
 		"pl"			"{1}</font> <font color='#FFFF00'>został uderzony przez piorun!"
+		"ba"			"{1}</font> <font color='#FFFF00'>je pogođen Gromom!"
+		"se"			"{1}</font> <font color='#FFFF00'>je pogođen Gromom!"
+		"hr"			"{1}</font> <font color='#FFFF00'>je pogođen Gromom!"
 	}
 	"loss lightning hint msg #2"
 	{
@@ -1295,6 +1753,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>bol sestřelen bleskom!"
 		"de"			"{1}</font> <font color='#FFFF00'>wurde von einem Blitz abgeschossen!
 		"pl"			"{1}</font> <font color='#FFFF00'>został trafiony przez piorun!"
+		"ba"			"{1}</font> <font color='#FFFF00'>je ubijen od Groma!"
+		"se"			"{1}</font> <font color='#FFFF00'>je ubijen od Groma!"
+		"hr"			"{1}</font> <font color='#FFFF00'>je ubijen od Groma!"
 	}
 	"loss losseqp chat msg"
 	{
@@ -1304,6 +1765,9 @@
 		"sk"			"{green}[FUN]{default} {1} {olive}stratil všetky zbrane!"
 		"de"			"{green}[FUN]{default} {1} {olive}verlor alle seine Waffen!"
 		"pl"			"{green}[FUN]{default} {1} {olive}stracił wszystkie bronie!"
+		"ba"			"{green}[FUN]{default} {1} {olive}je izgubio sve svoje puške!"
+		"se"			"{green}[FUN]{default} {1} {olive}je izgubio sve svoje puške!"
+		"hr"			"{green}[FUN]{default} {1} {olive}je izgubio sve svoje puške!"
 	}
 	"loss losseqp hint msg"
 	{
@@ -1313,6 +1777,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>stratil všetky zbrane!"
 		"de"			"{1}</font> <font color='#FFFF00'>verlor alle seine Waffen!"
 		"pl"			"{1}</font> <font color='#FFFF00'>stracił wszystkie bronie!"
+		"ba"			"{1}</font> <font color='#FFFF00'>je izgubio sve svoje puške!"
+		"se"			"{1}</font> <font color='#FFFF00'>je izgubio sve svoje puške!"
+		"hr"			"{1}</font> <font color='#FFFF00'>je izgubio sve svoje puške!"
 	}
 	"loss weightless chat msg"
 	{
@@ -1322,6 +1789,9 @@
 		"sk"			"{green}[FUN]{default} {1} {olive}je v stave beztiaže!"
 		"de"			"{green}[FUN]{default} {1} {olive}ist in einem Zustand der Schwerelosigkeit!"
 		"pl"			"{green}[FUN]{default} {1} {olive}nic nie waży!"
+		"ba"			"{green}[FUN]{default} {1} {olive}je u stanju beztežine!"
+		"se"			"{green}[FUN]{default} {1} {olive}je u stanju beztežine!"
+		"hr"			"{green}[FUN]{default} {1} {olive}je u stanju beztežine!"
 	}
 	"loss weightless hint msg"
 	{
@@ -1331,6 +1801,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>je v stave beztiaže!"
 		"de"			"{1}</font> <font color='#FFFF00'>ist in einem Zustand der Schwerelosigkeit!"
 		"pl"			"{1}</font> <font color='#FFFF00'>nic nie waży!"
+		"ba"			"{1}</font> <font color='#FFFF00'>je u stanju beztežine!"
+		"se"			"{1}</font> <font color='#FFFF00'>je u stanju beztežine!"
+		"hr"			"{1}</font> <font color='#FFFF00'>je u stanju beztežine!"
 	}
 	"loss drug chat msg"
 	{
@@ -1340,6 +1813,9 @@
 		"sk"			"{green}[FUN]{default} {1} {olive}sa zdrogoval!"
 		"de"			"{green}[FUN]{default} {1} {olive}ist unter Drogen gesetzt!"
 		"pl"			"{green}[FUN]{default} {1} {olive}jest naćpany!"
+		"ba"			"{green}[FUN]{default} {1} {olive}je na drogama!"
+		"se"			"{green}[FUN]{default} {1} {olive}je na drogama!"
+		"hr"			"{green}[FUN]{default} {1} {olive}je na drogama!"
 	}
 	"loss drug hint msg"
 	{
@@ -1349,6 +1825,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>sa zdrogoval!"
 		"de"			"{1}</font> <font color='#FFFF00'>ist unter Drogen gesetzt!"
 		"pl"			"{1}</font> <font color='#FFFF00'>jest naćpany!"
+		"ba"			"{1}</font> <font color='#FFFF00'>je na drogama!"
+		"se"			"{1}</font> <font color='#FFFF00'>je na drogama!"
+		"hr"			"{1}</font> <font color='#FFFF00'>je na drogama!"
 	}
 	"loss earthquakes chat msg"
 	{
@@ -1358,6 +1837,9 @@
 		"sk"			"{green}[FUN]{default} {1} {olive}zažíva zemetrasenie!"
 		"de"			"{green}[FUN]{default} {1} {olive}erlebt Erdbeben!"
 		"pl"			"{green}[FUN]{default} {1} {olive}doświadcza trzęsienia ziemi!"
+		"ba"			"{green}[FUN]{default} {1} {olive}doživljava Zemljotres!"
+		"se"			"{green}[FUN]{default} {1} {olive}doživljava Zemljotres!"
+		"hr"			"{green}[FUN]{default} {1} {olive}doživljava Zemljotres!"
 	}
 	"loss earthquakes hint msg"
 	{
@@ -1367,6 +1849,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>zažíva zemetrasenie!"
 		"de"			"{1}</font> <font color='#FFFF00'>erlebt Erdbeben!"
 		"pl"			"{1}</font> <font color='#FFFF00'>doświadcza trzęsienia ziemi!"
+		"ba"			"{1}</font> <font color='#FFFF00'>doživljava Zemljotres!"
+		"se"			"{1}</font> <font color='#FFFF00'>doživljava Zemljotres!"
+		"hr"			"{1}</font> <font color='#FFFF00'>doživljava Zemljotres!"
 	}
 	"loss lostbonuses chat msg"
 	{
@@ -1376,6 +1861,9 @@
 		"sk"			"{green}[FUN]{default} {1} {olive}prišiel o všetky bonusy."
 		"de"			"{green}[FUN]{default} {1} {olive}hat alle Boni verloren."
 		"pl"			"{green}[FUN]{default} {1} {olive}stracił wszystkie bonusy."
+		"ba"			"{green}[FUN]{default} {1} {olive}je izgubio sve bonuse."
+		"se"			"{green}[FUN]{default} {1} {olive}je izgubio sve bonuse."
+		"hr"			"{green}[FUN]{default} {1} {olive}je izgubio sve bonuse."
 	}
 	"loss lostbonuses hint msg"
 	{
@@ -1385,6 +1873,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>prišiel o všetky bonusy."
 		"de"			"{1}</font> <font color='#FFFF00'>hat alle Boni verloren."
 		"pl"			"{1}</font> <font color='#FFFF00'>stracił wszystkie bonusy."
+		"ba"			"{1}</font> <font color='#FFFF00'>je izgubio sve bonuse."
+		"se"			"{1}</font> <font color='#FFFF00'>je izgubio sve bonuse."
+		"hr"			"{1}</font> <font color='#FFFF00'>je izgubio sve bonuse."
 	}
 	"loss burn chat msg"
 	{
@@ -1394,6 +1885,9 @@
 		"sk"			"{green}[FUN]{default} {1} {olive}začal horieť!"
 		"de"			"{green}[FUN]{default} {1} {olive}brennt!"
 		"pl"			"{green}[FUN]{default} {1} {olive}płonie!"
+		"ba"			"{green}[FUN]{default} {1} {olive}gori!"
+		"se"			"{green}[FUN]{default} {1} {olive}gori!"
+		"hr"			"{green}[FUN]{default} {1} {olive}gori!"
 	}
 	"loss burn hint msg"
 	{
@@ -1403,6 +1897,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>sa hral zo zápalkami a zapálil sa!"
 		"de"			"{1}</font> <font color='#FFFF00'>spielte mit der Streichholzschachtel und verbrannte sich!"
 		"pl"			"{1}</font> <font color='#FFFF00'>bawił się zapałkami i się podpalił!"
+		"ba"			"{1}</font> <font color='#FFFF00'>igrao se sa šibicama i zapalio se!"
+		"se"			"{1}</font> <font color='#FFFF00'>igrao se sa šibicama i zapalio se!"
+		"hr"			"{1}</font> <font color='#FFFF00'>igrao se sa šibicama i zapalio se!"
 	}
 	"loss blind chat msg"
 	{
@@ -1412,6 +1909,9 @@
 		"sk"			"{green}[FUN]{default} {1} {olive}oslepol!"
 		"de"			"{green}[FUN]{default} {1} {olive}Geblendet!"
 		"pl"			"{green}[FUN]{default} {1} {olive}jest ślepy!"
+		"ba"			"{green}[FUN]{default} {1} {olive}oslijepio!"
+		"se"			"{green}[FUN]{default} {1} {olive}oslijepio!"
+		"hr"			"{green}[FUN]{default} {1} {olive}oslijepio!"
 	}
 	"loss blind hint msg"
 	{
@@ -1421,6 +1921,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>úplne oslepol!"
 		"de"			"{1}</font> <font color='#FFFF00'>total geblendet!!"
 		"pl"			"{1}</font> <font color='#FFFF00'>jest całkiem oślepiony!"
+		"ba"			"{1}</font> <font color='#FFFF00'>je skroz oslijepio!!"
+		"se"			"{1}</font> <font color='#FFFF00'>je skroz oslijepio!!"
+		"hr"			"{1}</font> <font color='#FFFF00'>je skroz oslijepio!!"
 	}
 	"loss wildride chat msg"
 	{
@@ -1430,6 +1933,9 @@
 		"sk"			"{green}[FUN]{default} {1} {olive}sa chystá na divokú jazdu!"
 		"de"			"{green}[FUN]{default} {1} {olive}macht eine wilde Fahrt!"
 		"pl"			"{green}[FUN]{default} {1} {olive}wybiera się na dziką przejażdżkę!"
+		"ba"			"{green}[FUN]{default} {1} {olive}ide na ludu vožnju!"
+		"se"			"{green}[FUN]{default} {1} {olive}ide na ludu vožnju!"
+		"hr"			"{green}[FUN]{default} {1} {olive}ide na ludu vožnju!"
 	}
 	"loss wildride hint msg"
 	{
@@ -1439,6 +1945,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>sa chystá na divokú jazdu!"
 		"de"			"{1}</font> <font color='#FFFF00'>macht eine wilde Fahrt!"
 		"pl"			"{1}</font> <font color='#FFFF00'>wybiera się na dziką przejażdżkę!"
+		"ba"			"{1}</font> <font color='#FFFF00'>ide na ludu vožnju!"
+		"se"			"{1}</font> <font color='#FFFF00'>ide na ludu vožnju!"
+		"hr"			"{1}</font> <font color='#FFFF00'>ide na ludu vožnju!"
 	}
 	"loss timebomb chat msg"
 	{
@@ -1448,6 +1957,9 @@
 		"sk"			"{green}[FUN]{default} {1} {olive}má na chrbte časovanú bombu !!!"
 		"de"			"{green}[FUN]{default} {1} {olive}ist eine Zeitbombe!!!"
 		"pl"			"{green}[FUN]{default} {1} {olive}jest bombą zegarową !!!"
+		"ba"			"{green}[FUN]{default} {1} {olive}je vremenska bomba!!!"
+		"se"			"{green}[FUN]{default} {1} {olive}je vremenska bomba!!!"
+		"hr"			"{green}[FUN]{default} {1} {olive}je vremenska bomba!!!"
 	}
 	"loss timebomb hint msg"
 	{
@@ -1457,6 +1969,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>je z neho časovaná bomba !!!"
 		"de"			"{1}</font> <font color='#FFFF00'>ist eine Zeitbombe !!!"
 		"pl"			"{1}</font> <font color='#FFFF00'>jest bombą zegarową !!!"
+		"ba"			"{1}</font> <font color='#FFFF00'>je vremenska bomba !!!"
+		"se"			"{1}</font> <font color='#FFFF00'>je vremenska bomba !!!"
+		"hr"			"{1}</font> <font color='#FFFF00'>je vremenska bomba !!!"
 	}
 	"loss time start wildride"
 	{
@@ -1466,6 +1981,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>padá na zadok...<"
 		"de"			"{1}</font> <font color='#FFFF00'>auf Arsch fallen ..."
 		"pl"			"{1}</font> <font color='#FFFF00'>upadł na dupę..."
+		"ba"			"{1}</font> <font color='#FFFF00'>pada na dupe ..."
+		"se"			"{1}</font> <font color='#FFFF00'>pada na dupe ..."
+		"hr"			"{1}</font> <font color='#FFFF00'>pada na dupe ..."
 	}
 	"loss time on wildride"
 	{
@@ -1475,6 +1993,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>spadne za </font><font color='#FFFFFF'>{2}"
 		"de"			"{1}</font> <font color='#FFFF00'>wird fallen </font><font color='#FFFFFF'>{2}"
 		"pl"			"{1}</font> <font color='#FFFF00'>spadnie </font><font color='#FFFFFF'>{2}"
+		"ba"			"{1}</font> <font color='#FFFF00'>će pasti </font><font color='#FFFFFF'>{2}"
+		"se"			"{1}</font> <font color='#FFFF00'>će pasti </font><font color='#FFFFFF'>{2}"
+		"hr"			"{1}</font> <font color='#FFFF00'>će pasti </font><font color='#FFFFFF'>{2}"
 	}
 	"loss time end wildride"
 	{
@@ -1484,6 +2005,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>zomrel hrozným pádom."
 		"de"			"{1}</font> <font color='#FFFF00'>gestorben durch einen schrecklichen Sturz."
 		"pl"			"{1}</font> <font color='#FFFF00'>umiera od upadku."
+		"ba"			"{1}</font> <font color='#FFFF00'>je umro zbog strašnog pada."
+		"se"			"{1}</font> <font color='#FFFF00'>je umro zbog strašnog pada."
+		"hr"			"{1}</font> <font color='#FFFF00'>je umro zbog strašnog pada."
 	}
 	"loss time on drug"
 	{
@@ -1493,6 +2017,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>je zdrogovaný na </font><font color='#FFFFFF'>{2}"
 		"de"			"{1}</font> <font color='#FFFF00'>ist unter Drogen gesetzt </font><font color='#FFFFFF'>{2}"
 		"pl"			"{1}</font> <font color='#FFFF00'>jest naćpany przez </font><font color='#FFFFFF'>{2}"
+		"ba"			"{1}</font> <font color='#FFFF00'>je na drogama </font><font color='#FFFFFF'>{2}"
+		"se"			"{1}</font> <font color='#FFFF00'>je na drogama </font><font color='#FFFFFF'>{2}"
+		"hr"			"{1}</font> <font color='#FFFF00'>je na drogama </font><font color='#FFFFFF'>{2}"
 	}
 	"loss time end drug"
 	{
@@ -1502,6 +2029,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>už nebude užívať drogy."
 		"de"			"{1}</font> <font color='#FFFF00'>werde keine Drogen mehr nehmen."
 		"pl"			"{1}</font> <font color='#FFFF00'>już nie będzie ćpał."
+		"ba"			"{1}</font> <font color='#FFFF00'>više neće uzimati droge."
+		"se"			"{1}</font> <font color='#FFFF00'>više neće uzimati droge."
+		"hr"			"{1}</font> <font color='#FFFF00'>više neće uzimati droge."
 	}
 	"loss time on zeus"
 	{
@@ -1511,6 +2041,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>je všemocný Zeus na </font><font color='#FFFFFF'>{2}"
 		"de"			"{1}</font> <font color='#FFFF00'>ist allmächtiger Zeus für </font><font color='#FFFFFF'>{2}"
 		"pl"			"{1}</font> <font color='#FFFF00'>jest wszechmogącym Zeusem przez </font><font color='#FFFFFF'>{2}"
+		"ba"			"{1}</font> <font color='#FFFF00'>je svemoćni Zeus za </font><font color='#FFFFFF'>{2}"
+		"se"			"{1}</font> <font color='#FFFF00'>je svemoćni Zeus za </font><font color='#FFFFFF'>{2}"
+		"hr"			"{1}</font> <font color='#FFFF00'>je svemoćni Zeus za </font><font color='#FFFFFF'>{2}"
 	}
 	"loss time end zeus"
 	{
@@ -1520,6 +2053,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>už nie je Zeus teraz je to sráč."
 		"de"			"{1}</font> <font color='#FFFF00'>nicht mehr Zeus"
 		"pl"			"{1}</font> <font color='#FFFF00'>nie jest już Zeusem"
+		"ba"			"{1}</font> <font color='#FFFF00'>nije više Zeus"
+		"se"			"{1}</font> <font color='#FFFF00'>nije više Zeus"
+		"hr"			"{1}</font> <font color='#FFFF00'>nije više Zeus"
 	}
 	"loss time on god"
 	{
@@ -1529,6 +2065,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>je nesmrtelný na </font><font color='#FFFFFF'>{2}"
 		"de"			"{1}</font> <font color='#FFFF00'>ist unsterblich für </font><font color='#FFFFFF'>{2}"
 		"pl"			"{1}</font> <font color='#FFFF00'>jest nieśmiertelny przez </font><font color='#FFFFFF'>{2}"
+		"ba"			"{1}</font> <font color='#FFFF00'>je besmrtan za </font><font color='#FFFFFF'>{2}"
+		"se"			"{1}</font> <font color='#FFFF00'>je besmrtan za </font><font color='#FFFFFF'>{2}"
+		"hr"			"{1}</font> <font color='#FFFF00'>je besmrtan za </font><font color='#FFFFFF'>{2}"
 	}
 	"loss time end god"
 	{
@@ -1538,6 +2077,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>už nie je nemrtelný."
 		"de"			"{1}</font> <font color='#FFFF00'>ist nicht mehr unsterblich."
 		"pl"			"{1}</font> <font color='#FFFF00'>nie jest już nieśmiertelny."
+		"ba"			"{1}</font> <font color='#FFFF00'>nije više besmrtan."
+		"se"			"{1}</font> <font color='#FFFF00'>nije više besmrtan."
+		"hr"			"{1}</font> <font color='#FFFF00'>nije više besmrtan."
 	}
 	"loss time on rambo"
 	{
@@ -1547,6 +2089,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>je Rambo na  </font><font color='#FFFFFF'>{2}"
 		"de"			"{1}</font> <font color='#FFFF00'>ist Rambo für </font><font color='#FFFFFF'>{2}"
 		"pl"			"{1}</font> <font color='#FFFF00'>jest Rambo przez </font><font color='#FFFFFF'>{2}"
+		"ba"			"{1}</font> <font color='#FFFF00'>je Rambo za </font><font color='#FFFFFF'>{2}"
+		"se"			"{1}</font> <font color='#FFFF00'>je Rambo za </font><font color='#FFFFFF'>{2}"
+		"hr"			"{1}</font> <font color='#FFFF00'>je Rambo za </font><font color='#FFFFFF'>{2}"
 	}
 	"loss time end rambo"
 	{
@@ -1556,6 +2101,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>už nie je Rambo."
 		"de"			"{1}</font> <font color='#FFFF00'>ist nicht mehr Rambo."
 		"dpl"			"{1}</font> <font color='#FFFF00'>nie jest już Rambo."
+		"ba"			"{1}</font> <font color='#FFFF00'>nije više Rambo."
+		"se"			"{1}</font> <font color='#FFFF00'>nije više Rambo."
+		"hr"			"{1}</font> <font color='#FFFF00'>nije više Rambo."
 	}
 	"loss time on steroids"
 	{
@@ -1565,6 +2113,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>berie steroidy na </font><font color='#FFFFFF'>{2}"
 		"de"			"{1}</font> <font color='#FFFF00'>Nahm Steroiden für </font><font color='#FFFFFF'>{2}"
 		"pl"			"{1}</font> <font color='#FFFF00'>bierze sterydy przez </font><font color='#FFFFFF'>{2}"
+		"ba"			"{1}</font> <font color='#FFFF00'>Uzeo je Steroide za </font><font color='#FFFFFF'>{2}"
+		"se"			"{1}</font> <font color='#FFFF00'>Uzeo je Steroide za </font><font color='#FFFFFF'>{2}"
+		"hr"			"{1}</font> <font color='#FFFF00'>Uzeo je Steroide za </font><font color='#FFFFFF'>{2}"
 	}
 	"loss time end steroids"
 	{
@@ -1574,6 +2125,10 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>steroidy sa mu minuli."
 		"de"			"{1}</font> <font color='#FFFF00'>Steroide sind ausgelaufen."
 		"pl"			"{1}</font> <font color='#FFFF00'>skończyły się sterydy."
+		"ba"			"{1}</font> <font color='#FFFF00'>Stereoidi su istekli."
+		"se"			"{1}</font> <font color='#FFFF00'>Stereoidi su istekli."
+		"hr"			"{1}</font> <font color='#FFFF00'>Stereoidi su istekli."
+		
 	}
 	"loss time on invis"
 	{
@@ -1583,6 +2138,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>splynul s prostredím na </font><font color='#FFFFFF'>{2}"
 		"de"			"{1}</font> <font color='#FFFF00'>verschmalz mit der Umgebung für </font><font color='#FFFFFF'>{2}"
 		"pl"			"{1}</font> <font color='#FFFF00'>jest połączony z otoczeniem przez </font><font color='#FFFFFF'>{2}"
+		"ba"			"{1}</font> <font color='#FFFF00'>je spojen sa okolinom za </font><font color='#FFFFFF'>{2}"
+		"se"			"{1}</font> <font color='#FFFF00'>je spojen sa okolinom za </font><font color='#FFFFFF'>{2}"
+		"hr"			"{1}</font> <font color='#FFFF00'>je spojen sa okolinom za </font><font color='#FFFFFF'>{2}"
 	}
 	"loss time end invis"
 	{
@@ -1592,6 +2150,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>uz nie je neviditelný."
 		"de"			"{1}</font> <font color='#FFFF00'>ist nicht mehr unsichtbar."
 		"pl"			"{1}</font> <font color='#FFFF00'>nie jest już niewidzialny."
+		"ba"			"{1}</font> <font color='#FFFF00'>nije više nevidljiv."
+		"se"			"{1}</font> <font color='#FFFF00'>nije više nevidljiv."
+		"hr"			"{1}</font> <font color='#FFFF00'>nije više nevidljiv."
 	}
 	"loss time on weightless"
 	{
@@ -1601,6 +2162,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>je v stave beztiaže na </font><font color='#FFFFFF'>{2}"
 		"de"			"{1}</font> <font color='#FFFF00'>ist in einem Zustand der Schwerelosigkeit für </font><font color='#FFFFFF'>{2}"
 		"pl"			"{1}</font> <font color='#FFFF00'>jest bez wagi przez </font><font color='#FFFFFF'>{2}"
+		"ba"			"{1}</font> <font color='#FFFF00'>je u stanju beztežine za </font><font color='#FFFFFF'>{2}"
+		"se"			"{1}</font> <font color='#FFFF00'>je u stanju beztežine za </font><font color='#FFFFFF'>{2}"
+		"hr"			"{1}</font> <font color='#FFFF00'>je u stanju beztežine za </font><font color='#FFFFFF'>{2}"
 	}
 	"loss time end weightless"
 	{
@@ -1610,6 +2174,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>už je nohami na zemi."
 		"de"			"{1}</font> <font color='#FFFF00'>ist schon auf den Beinen."
 		"pl"			"{1}</font> <font color='#FFFF00'>stanał na ziemi."
+		"ba"			"{1}</font> <font color='#FFFF00'>je već na svojim nogama."
+		"se"			"{1}</font> <font color='#FFFF00'>je već na svojim nogama."
+		"hr"			"{1}</font> <font color='#FFFF00'>je već na svojim nogama."
 	}
 	"loss time on slap"
 	{
@@ -1619,6 +2186,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>je fackovaný na </font><font color='#FFFFFF'>{2}"
 		"de"			"{1}</font> <font color='#FFFF00'>wird geschlagen für </font><font color='#FFFFFF'>{2}"
 		"pl"			"{1}</font> <font color='#FFFF00'>uderza przez </font><font color='#FFFFFF'>{2}"
+		"ba"			"{1}</font> <font color='#FFFF00'>biva udaran za </font><font color='#FFFFFF'>{2}"
+		"se"			"{1}</font> <font color='#FFFF00'>biva udaran za </font><font color='#FFFFFF'>{2}"
+		"hr"			"{1}</font> <font color='#FFFF00'>biva udaran za </font><font color='#FFFFFF'>{2}"
 	}
 	"loss time end slap"
 	{
@@ -1628,6 +2198,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>už nie je fackovaný"
 		"de"			"{1}</font> <font color='#FFFF00'>wird nicht mehr geschlagen"
 		"pl"			"{1}</font> <font color='#FFFF00'>już nie uderza"
+		"ba"			"{1}</font> <font color='#FFFF00'>ne biva udaran više"
+		"se"			"{1}</font> <font color='#FFFF00'>ne biva udaran više"
+		"hr"			"{1}</font> <font color='#FFFF00'>ne biva udaran više"
 	}
 	"loss time died slap"
 	{
@@ -1637,6 +2210,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>bol ufackovaný k smrti! xD"
 		"de"			"{1}</font> <font color='#FFFF00'>wurde zu Tode geschlagen! xD"
 		"pl"			"{1}</font> <font color='#FFFF00'>uderzał do śmierci! XD"
+		"ba"			"{1}</font> <font color='#FFFF00'>je do smrti izudaran! xD"
+		"se"			"{1}</font> <font color='#FFFF00'>je do smrti izudaran! xD"
+		"hr"			"{1}</font> <font color='#FFFF00'>je do smrti izudaran! xD"
 	}
 	"loss time on oldman"
 	{
@@ -1646,6 +2222,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>zostarol na </font><font color='#FFFFFF'>{2}"
 		"de"			"{1}</font> <font color='#FFFF00'>ist ein alter Mann für </font><font color='#FFFFFF'>{2}"
 		"pl"			"{1}</font> <font color='#FFFF00'>jest staruszkiem przez </font><font color='#FFFFFF'>{2}"
+		"ba"			"{1}</font> <font color='#FFFF00'>je stari čovijek za </font><font color='#FFFFFF'>{2}"
+		"se"			"{1}</font> <font color='#FFFF00'>je stari čovijek za </font><font color='#FFFFFF'>{2}"
+		"hr"			"{1}</font> <font color='#FFFF00'>je stari čovijek za </font><font color='#FFFFFF'>{2}"
 	}
 	"loss time end oldman"
 	{
@@ -1654,7 +2233,10 @@
 		"cze"			"{1}</font> <font color='#FFFF00'>vypil vodu mládí!"
 		"sk"			"{1}</font> <font color='#FFFF00'>vypil vodu mladosti!"
 		"de"			"{1}</font> <font color='#FFFF00'>Trink Jugend Wasser!"
-		"pl"			"{1}</font> <font color='#FFFF00'>wypił wodę młodości!"
+		"pl"			"{1}</font> <font color='#FFFF00'>wypił wodę młodo"
+		"ba"			"{1}</font> <font color='#FFFF00'>popio vodu mladosti!"
+		"se"			"{1}</font> <font color='#FFFF00'>popio vodu mladosti!"
+		"hr"			"{1}</font> <font color='#FFFF00'>popio vodu mladosti!"
 	}
 	"loss time died oldman"
 	{
@@ -1664,6 +2246,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>zomrel na infarkt"
 		"de"			"{1}</font> <font color='#FFFF00'>starb an einem Herzinfarkt"
 		"pl"			"{1}</font> <font color='#FFFF00'>umarł na zawał"
+		"ba"			"{1}</font> <font color='#FFFF00'>je umro na srčanom udaru"
+		"se"			"{1}</font> <font color='#FFFF00'>je umro na srčanom udaru"
+		"hr"			"{1}</font> <font color='#FFFF00'>je umro na srčanom udaru"
 	}
 	"loss time on horny"
 	{
@@ -1673,6 +2258,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>je nadržaný na </font><font color='#FFFFFF'>{2}"
 		"de"			"{1}</font> <font color='#FFFF00'>ist geil für </font><font color='#FFFFFF'>{2}"
 		"pl"			"{1}</font> <font color='#FFFF00'>jest napalny przez </font><font color='#FFFFFF'>{2}"
+		"ba"			"{1}</font> <font color='#FFFF00'>je napaljen za </font><font color='#FFFFFF'>{2}"
+		"se"			"{1}</font> <font color='#FFFF00'>je napaljen za </font><font color='#FFFFFF'>{2}"
+		"hr"			"{1}</font> <font color='#FFFF00'>je napaljen za </font><font color='#FFFFFF'>{2}"
 	}
 	"loss time end horny"
 	{
@@ -1682,6 +2270,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>už nie je nadržaný."
 		"de"			"{1}</font> <font color='#FFFF00'>wird nicht mehr geil."
 		"pl"			"{1}</font> <font color='#FFFF00'>doszedł."
+		"ba"			"{1}</font> <font color='#FFFF00'>nije više napaljen."
+		"se"			"{1}</font> <font color='#FFFF00'>nije više napaljen."
+		"hr"			"{1}</font> <font color='#FFFF00'>nije više napaljen."
 	}
 	"loss time on timebomb"
 	{
@@ -1691,6 +2282,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>vybuchne za </font><font color='#FFFFFF'>{2}"
 		"de"			"{1}</font> <font color='#FFFF00'>wird explodieren in </font><font color='#FFFFFF'>{2}"
 		"pl"			"{1}</font> <font color='#FFFF00'>wybuchnie za </font><font color='#FFFFFF'>{2}"
+		"ba"			"{1}</font> <font color='#FFFF00'>će eksplodirati za </font><font color='#FFFFFF'>{2}"
+		"se"			"{1}</font> <font color='#FFFF00'>će eksplodirati za </font><font color='#FFFFFF'>{2}"
+		"hr"			"{1}</font> <font color='#FFFF00'>će eksplodirati za </font><font color='#FFFFFF'>{2}"
 	}
 	"loss time end timebomb"
 	{
@@ -1700,6 +2294,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>sa rozletel na sračky xD"
 		"de"			"{1}</font> <font color='#FFFF00'>ist explodiert."
 		"pl"			"{1}</font> <font color='#FFFF00'>wybuchnął."
+		"ba"			"{1}</font> <font color='#FFFF00'>je eksplodirao."
+		"se"			"{1}</font> <font color='#FFFF00'>je eksplodirao."
+		"hr"			"{1}</font> <font color='#FFFF00'>je eksplodirao."
 	}
 	"loss time on wh"
 	{
@@ -1709,6 +2306,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>buda mať Wallhack na </font><font color='#FFFFFF'>{2}"
 		"de"			"{1}</font> <font color='#FFFF00'>hat Wallhack für </font><font color='#FFFFFF'>{2}"
 		"pl"			"{1}</font> <font color='#FFFF00'>ma Wallhack przez </font><font color='#FFFFFF'>{2}"
+		"ba"			"{1}</font> <font color='#FFFF00'>ima Wallhack za </font><font color='#FFFFFF'>{2}"
+		"se"			"{1}</font> <font color='#FFFF00'>ima Wallhack za </font><font color='#FFFFFF'>{2}"
+		"hr"			"{1}</font> <font color='#FFFF00'>ima Wallhack za </font><font color='#FFFFFF'>{2}"
 	}
 	"loss time end wh"
 	{
@@ -1718,6 +2318,9 @@
 		"sk"			"{1}</font> <font color='#FFFF00'>už vypnol Wallhack."
 		"de"			"{1}</font> <font color='#FFFF00'>Wallhack ausgeschaltet."
 		"pl"			"{1}</font> <font color='#FFFF00'>wyłączył Wallhack."
+		"ba"			"{1}</font> <font color='#FFFF00'>je isključio Wallhack."
+		"se"			"{1}</font> <font color='#FFFF00'>je isključio Wallhack."
+		"hr"			"{1}</font> <font color='#FFFF00'>je isključio Wallhack."
 	}
 	"must be VIP for AWP"
 	{
@@ -1726,6 +2329,9 @@
 		"sk"			"Na použitie AWP zbrane musíš byť VIP hráč!"
 		"de"			"Um AWP Waffe zu benutzen, müssen Sie ein VIP Spieler sein!"
 		"pl"			"Aby używać AWP musisz być VIP'em!"
+		"ba"			"Da bi koristio AWP moraš bii VIP igrač"
+		"se"			"Da bi koristio AWP moraš bii VIP igrač"
+		"hr"			"Da bi koristio AWP moraš bii VIP igrač"
 	}
 	"must be 75 for AWP"
 	{
@@ -1734,6 +2340,9 @@
 		"sk"			"Na použitie AWP zbrane musíš dosiahnuť 75. levlu!"
 		"de"			"Um AWP Waffe zu benutzen, musst du Level 75 erreichen!"
 		"pl"			"Aby używać AWP musisz osiągnąć poziom 75!"
+		"ba"			"Da bi koristio AWP mmoras biti level 75"
+		"se"			"Da bi koristio AWP mmoras biti level 75"
+		"hr"			"Da bi koristio AWP mmoras biti level 75"
 	}
 	"already use vipmenu"
 	{
@@ -1742,6 +2351,9 @@
 		"sk"			"{darkred}[!] {default}V tomto kole si už výber zbraní použil!"
 		"de"			"{darkred}[!] {default}In dieser Runde nutzen Sie bereits das VIP-Menü"
 		"pl"			"{darkred}[!] {default}Używałeś menu VIP'a w tej rundzie!"
+		"ba"                    "{darkred}[!] {default}U ovoj rundi si već korisio VIP menu"
+		"se"                    "{darkred}[!] {default}U ovoj rundi si već korisio VIP menu"
+		"hr"                    "{darkred}[!] {default}U ovoj rundi si već korisio VIP menu"
 	}
 	"must alive for buy"
 	{
@@ -1750,6 +2362,9 @@
 		"sk"			"{darkred}[!] {default}Pri nakupovaní musíš byť na žive!"
 		"de"			"{darkred}[!] {default}Du musst am Leben sein!"
 		"pl"			"{darkred}[!] {default}Musisz żyć!"
+		"ba"			"{darkred}[!] {default}Moraš biti živ!"
+		"se"			"{darkred}[!] {default}Moraš biti živ!"
+		"hr"			"{darkred}[!] {default}Moraš biti živ!"
 	}
 	"cant buy in first rounds"
 	{
@@ -1758,6 +2373,9 @@
 		"sk"			"{darkred}[!] {default}V prvom kole nemôžeš nakupovať."
 		"de"			"{darkred}[!] {default}In den ersten Runden kann Shop nicht verwendet werden."
 		"pl"			"{darkred}[!] {default}W pierwszych rundach nie możesz używać sklepu."
+		"ba"			"{darkred}[!] {default}U prvim rundama ne možete kortistiti Prodavnicu."
+		"se"			"{darkred}[!] {default}U prvim rundama ne možete kortistiti Prodavnicu."
+		"hr"			"{darkred}[!] {default}U prvim rundama ne možete kortistiti Prodavnicu."
 	}
 	"wait to buy"
 	{
@@ -1767,6 +2385,9 @@
 		"sk"			"{darkred}[!] {default}Zatiaľ nemôžeš nakupovať z obchodu, musíš čakať ešte{olive} {1} {default}sekúnd!"
 		"de"			"{darkred}[!] {default}Bis jetzt kannst du nicht in einem Geschäft kaufen, warte{olive} {1} {default}sekunde!"
 		"pl"			"{darkred}[!] {default}Póki co, nie możesz kupować w sklepie, poczekaj{olive} {1} {default}sekund!"
+		"ba"			"{darkred}[!] {default}Do sada ne možes kupovati u Prodavnici, sačekaj{olive} {1} {default}sekundi!"
+		"se"			"{darkred}[!] {default}Do sada ne možes kupovati u Prodavnici, sačekaj{olive} {1} {default}sekundi!"
+		"hr"			"{darkred}[!] {default}Do sada ne možes kupovati u Prodavnici, sačekaj{olive} {1} {default}sekundi!"
 	}
 	"cant buy on start round"
 	{
@@ -1775,6 +2396,9 @@
 		"sk"			"{darkred}[!] {default}Tak skoro po štarte kola nemôžeš nakupovať!"
 		"de"			"{darkred}[!] {default}So bald nach dem Start der Runde kann Shop nicht nutzen!"
 		"pl"			"{darkred}[!] {default}Nie możesz używać sklepu zaraz po rozpoczęciu rundy!"
+		"ba"			"{darkred}[!] {default}Tako brzo posle početka runde ne možes koristiti Prodavnicu!"
+		"se"			"{darkred}[!] {default}Tako brzo posle početka runde ne možes koristiti Prodavnicu!"
+		"hr"			"{darkred}[!] {default}Tako brzo posle početka runde ne možes koristiti Prodavnicu!"
 	}
 	"Shop Menu"
 	{
@@ -1784,6 +2408,9 @@
 		"sk"			"Herný Obchod (/shop)\nBanka: ${1}"
 		"de"			"Spiel-Shop (/shop)\nBank: ${1}"
 		"pl"			"Sklep gry (/shop)\nBank: ${1}"
+		"ba"			"Prodavnica (/shop)\nBanka: ${1}"
+		"se"			"Prodavnica (/shop)\nBanka: ${1}"
+		"hr"			"Prodavnica (/shop)\nBanka: ${1}"
 	}
 	"Shop Grenades"
 	{
@@ -1792,6 +2419,9 @@
 		"sk"			"Granáty"
 		"de"			"Granaten"
 		"pl"			"Granaty"
+		"ba"			"Granate"
+		"se"			"Granate"
+		"hr"			"Granate"
 	}
 	"Shop Speed"
 	{
@@ -1800,6 +2430,9 @@
 		"sk"			"Rýchlosť"
 		"de"			"Geschwindigkeit"
 		"pl"			"Prędkość"
+		"ba"			"Brzina"
+		"se"			"Brzina"
+		"hr"			"Brzina"
 	}
 	"Shop Gravity"
 	{
@@ -1808,6 +2441,9 @@
 		"sk"			"Gravitácia"
 		"de"			"Schwere"
 		"pl"			"Grawitacja"
+		"ba"			"Gravitacija"
+		"se"			"Gravitacija"
+		"hr"			"Gravitacija"
 	}
 	"Shop Invisible"
 	{
@@ -1816,6 +2452,9 @@
 		"sk"			"Neviditeľnosť"
 		"de"			"Unsichtbar"
 		"pl"			"Niewidzialność"
+		"ba"			"Nevidljivost"
+		"se"			"Nevidljivost"
+		"hr"			"Nevidljivost"
 	}
 	"Shop Health"
 	{
@@ -1824,6 +2463,9 @@
 		"sk"			"Životy"
 		"de"			"Gesundheit"
 		"pl"			"Zdrowie"
+		"ba"			"Helti"
+		"se"			"Helti"
+		"hr"			"Helti"
 	}
 	"Shop Knifes"
 	{
@@ -1832,6 +2474,9 @@
 		"sk"			"Vrhacie nože"
 		"de"			"Messer werfen"
 		"pl"			"Noże do rzucania"
+		"ba"			"Bacaći noževi"
+		"se"			"Bacaći noževi"
+		"hr"			"Bacaći noževi"
 	}
 	"no enough money"
 	{
@@ -1840,6 +2485,9 @@
 		"sk"			"{darkred}[!] {default}Nemáš dostatok peňazí!"
 		"de"			"{darkred}[!] {default}Du hast nicht genug Geld!"
 		"pl"			"{darkred}[!] {default}Nie masz wystarczająco pieniędzy!"
+		"ba"			"{darkred}[!] {default}Nemaš dovoljno novca!"
+		"se"			"{darkred}[!] {default}Nemaš dovoljno novca!"
+		"hr"			"{darkred}[!] {default}Nemaš dovoljno novca!"
 	}
 	"you buy something"
 	{
@@ -1849,6 +2497,9 @@
 		"sk"			"{darkred}[!] {default}Kúpil si si {olive}{1}{default}!"
 		"de"			"{darkred}[!] {default}Du kauftest {olive}{1}{default}!"
 		"pl"			"{darkred}[!] {default}Kupiłeś {olive}{1}{default}!"
+		"ba"			"{darkred}[!] {default}Ti si kupio {olive}{1}{default}!"
+		"se"			"{darkred}[!] {default}Ti si kupio {olive}{1}{default}!"
+		"hr"			"{darkred}[!] {default}Ti si kupio {olive}{1}{default}!"
 	}
 	"player buy something"
 	{
@@ -1858,6 +2509,9 @@
 		"sk"			"{darkred}[!] {default}Spoluhráč {olive}{1} {default}si kúpil {olive}{2}{default}."
 		"de"			"{darkred}[!] {default}Teamspieler {olive}{1} {default}gekauft {olive}{2}{default}."
 		"pl"			"{darkred}[!] {default}Członek drużyny {olive}{1} {default}kupił {olive}{2}{default}."
+		"ba"			"{darkred}[!] {default}Suigrač {olive}{1} {default}je kupio {olive}{2}{default}."
+		"se"			"{darkred}[!] {default}Suigrač {olive}{1} {default}je kupio {olive}{2}{default}."
+		"hr"			"{darkred}[!] {default}Suigrač {olive}{1} {default}je kupio {olive}{2}{default}."
 	}
 	"HE Grenade"
 	{
@@ -1866,6 +2520,9 @@
 		"sk"			"HE Granát"
 		"de"			"HE Granate"
 		"pl"			"Granat wybuchowy"
+		"ba"			"HE Granata"
+		"se"			"HE Granata"
+		"hr"			"HE Granata"
 	}
 	"Molotov"
 	{
@@ -1874,6 +2531,9 @@
 		"sk"			"Molotov"
 		"de"			"Brandgranate"
 		"pl"			"Mołotow"
+		"ba"			"Molotov"
+		"se"			"Molotov"
+		"hr"			"Molotov"
 	}
 	"Tactical"
 	{
@@ -1882,6 +2542,9 @@
 		"sk"			"Tactical Granát"
 		"de"			"Taktische Granate"
 		"pl"			"Granat taktyczny"
+		"ba"			"Taktička granata"
+		"se"			"Taktička granata"
+		"hr"			"Taktička granata"
 	}
 	"Flashbang"
 	{
@@ -1890,6 +2553,9 @@
 		"sk"			"Flashbang"
 		"de"			"Blendgranate"
 		"pl"			"Granat błyskowy"
+		"ba"			"Flashbang"
+		"se"			"Flashbang"
+		"hr"			"Flashbang"
 	}
 	"Smoke"
 	{
@@ -1898,6 +2564,9 @@
 		"sk"			"Smoke"
 		"de"			"Rauchgranate"
 		"pl"			"Granat dymny"
+		"ba"			"Smoke"
+		"se"			"Smoke"
+		"hr"			"Smoke"
 	}
 	"Decoy"
 	{
@@ -1906,6 +2575,9 @@
 		"sk"			"Decoy"
 		"de"			"Köder"
 		"pl"			"Wabik"
+		"ba"			"Decoy"
+		"se"			"Decoy"
+		"hr"			"Decoy"
 	}
 	"TeleNade"
 	{
@@ -1914,6 +2586,9 @@
 		"sk"			"Teleportačný Granát"
 		"de"			"Teleport Granate"
 		"pl"			"Granat teleportacyjny"
+		"ba"			"Teleport Granata"
+		"se"			"Teleport Granata"
+		"hr"			"Teleport Granata"
 	}
 	"TeslaNade"
 	{
@@ -1922,6 +2597,9 @@
 		"sk"			"Tesla Granát"
 		"de"			"Tesla Granate"
 		"pl"			"Granat Tesla"
+		"ba"			"Tesla Nade"
+		"se"			"Tesla Nade"
+		"hr"			"Tesla Nade"
 	}
 	"Port-A-Fort"
 	{
@@ -1930,6 +2608,9 @@
 		"sk"			"Port-A-Fort"
 		"de"			"Port-A-Fort"
 		"pl"			"Port-A-Fort"
+		"ba"			"Port-A-Fort"
+		"se"			"Port-A-Fort"
+		"hr"			"Port-A-Fort"
 	}
 	"Rift-To-Go"
 	{
@@ -1938,14 +2619,20 @@
 		"sk"			"Rift-To-Go"
 		"de"			"Rift-To-Go"
 		"pl"			"Rift-To-Go"
+		"ba"			"Rift-To-Go"
+		"se"			"Rift-To-Go"
+		"hr"			"Rift-To-Go"
 	}
 	"Shop Speed #1"
 	{
 		"en"			"+100% Speed"
 		"cze"			"Zrychlit o 100%"
 		"sk"			"Zrýchliť o 100%"
-		"en"			"+100% Geschwindigkeit"
+		"de"			"+100% Geschwindigkeit"
 		"pl"			"+100% Prędkości"
+		"ba"			"+100% Brzina"
+		"se"			"+100% Brzina"
+		"hr"			"+100% Brzina"
 	}
 	"Shop Speed #2"
 	{
@@ -1954,6 +2641,9 @@
 		"sk"			"Zrýchliť o 75%"
 		"de"			"+75% Geschwindigkeit"
 		"pl"			"+75% Prędkości"
+		"ba"			"+75% Brzina"
+		"se"			"+75% Brzina"
+		"hr"			"+75% Brzina"
 	}
 	"Shop Speed #3"
 	{
@@ -1962,6 +2652,9 @@
 		"sk"			"Zrýchliť o 50%"
 		"de"			"+50% Geschwindigkeit"
 		"pl"			"+50% Prędkości"
+		"ba"			"+50% Brzina"
+		"se"			"+50% Brzina"
+		"hr"			"+50% Brzina"
 	}
 	"Shop Speed #4"
 	{
@@ -1969,7 +2662,10 @@
 		"cze"			"Zrychlit o 25%"
 		"sk"			"Zrýchliť o 25%"
 		"de"			"+25% Geschwindigkeit"
-		"pl"			"+24% Prędkości"
+		"pl"			"+25% Prędkości"
+		"ba"			"+25% Brzina"
+		"se"			"+25% Brzina"
+		"hr"			"+25% Brzina"
 	}
 	"speed buy #1"
 	{
@@ -1978,6 +2674,9 @@
 		"sk"			"100% Zrýchlenie"
 		"de"			"+100% Geschwindigkeit"
 		"pl"			"+100% Prędkości"
+                "ba"			"+100% Brzina"
+		"se"			"+100% Brzina"
+		"hr"			"+100% Brzina"
 	}
 	"speed buy #2"
 	{
@@ -1986,6 +2685,9 @@
 		"sk"			"75% Zrýchlenie"
 		"de"			"+75% Geschwindigkeit"
 		"pl"			"+75% Prędkości"
+		"ba"			"+75% Brzina"
+		"se"			"+75% Brzina"
+		"hr"			"+75% Brzina"
 	}
 	"speed buy #3"
 	{
@@ -1994,6 +2696,9 @@
 		"sk"			"50% Zrýchlenie"
 		"de"			"+50% Geschwindigkeit"
 		"pl"			"+50% Prędkości"
+		"ba"			"+50% Brzina"
+		"se"			"+50% Brzina"
+		"hr"			"+50% Brzina"
 	}
 	"speed buy #4"
 	{
@@ -2002,6 +2707,9 @@
 		"sk"			"25% Zrýchlenie"
 		"de"			"+25% Geschwindigkeit"
 		"pl"			"+24% Prędkości"
+		"ba"			"+25% Brzina"
+		"se"			"+25% Brzina"
+		"hr"			"+25% Brzina"
 	}
 	"gravity buy #1"
 	{
@@ -2010,6 +2718,9 @@
 		"sk"			"20% Gravitácia"
 		"de"			"20% Schwere"
 		"pl"			"20% Grawitacji"
+		"ba"			"+20% Gravitacija"
+		"se"			"+20% Gravitacija"
+		"hr"			"+20% Gravitacija"
 	}
 	"gravity buy #2"
 	{
@@ -2018,6 +2729,9 @@
 		"sk"			"40% Gravitácia"
 		"de"			"40% Schwere"
 		"pl"			"40% Grawitacji"
+		"ba"			"+40% Gravitacija"
+		"se"			"+40% Gravitacija"
+		"hr"			"+40% Gravitacija"
 	}
 	"gravity buy #3"
 	{
@@ -2026,6 +2740,9 @@
 		"sk"			"60% Gravitácia"
 		"de"			"60% Schwere"
 		"pl"			"60% Grawitacji"
+		"ba"			"+60% Gravitacija"
+		"se"			"+60% Gravitacija"
+		"hr"			"+60% Gravitacija"
 	}
 	"gravity buy #4"
 	{
@@ -2034,6 +2751,9 @@
 		"sk"			"40% Gravitácia"
 		"de"			"80% Schwere"
 		"pl"			"80% Grawitacji"
+		"ba"			"+80% Gravitacija"
+		"ba"			"+80% Gravitacija"
+		"ba"			"+80% Gravitacija"
 	}
 	"gravity buy #1"
 	{
@@ -2042,6 +2762,9 @@
 		"sk"			"20% Gravitácia"
 		"de"			"20% Schwere"
 		"pl"			"20% Grawitacji"
+		"ba"			"+20% Gravitacija"
+		"se"			"+20% Gravitacija"
+		"hr"			"+20% Gravitacija"
 	}
 	"invis buy #1"
 	{
@@ -2050,6 +2773,9 @@
 		"sk"			"80% Neviditeľnosť"
 		"de"			"80% Unsichtbar"
 		"pl"			"80% Niewidzialności"
+		"ba"			"+80% Gravitacija"
+		"se"			"+80% Gravitacija"
+		"hr"			"+80% Gravitacija"
 	}
 	"invis buy #2"
 	{
@@ -2058,6 +2784,9 @@
 		"sk"			"60% Neviditeľnosť"
 		"de"			"60% Unsichtbar"
 		"pl"			"60% Niewidzialności"
+		"ba"			"+60% Gravitacija"
+		"se"			"+60% Gravitacija"
+		"hr"			"+60% Gravitacija"
 	}
 	"invis buy #3"
 	{
@@ -2066,6 +2795,9 @@
 		"sk"			"40% Neviditeľnosť"
 		"de"			"40% Unsichtbar"
 		"pl"			"40% Niewidzialności"
+		"ba"			"+40% Gravitacija"
+		"se"			"+40% Gravitacija"
+		"hr"			"+40% Gravitacija"
 	}
 	"invis buy #4"
 	{
@@ -2074,6 +2806,9 @@
 		"sk"			"20% Neviditeľnosť"
 		"de"			"20% Unsichtbar"
 		"pl"			"20% Niewidzialności"
+		"ba"			"+20% Gravitacija"
+		"se"			"+20% Gravitacija"
+		"hr"			"+20% Gravitacija"
 	}
 	"health buy #1"
 	{
@@ -2130,6 +2865,9 @@
 		"sk"			"15 Vrhacích Nožov"
 		"de"			"15 Messer werfen"
 		"pl"			"15 Noży do rzucania"
+		"ba"			"15 Bacajućih noževa"
+		"se"			"15 Bacajućih noževa"
+		"hr"			"15 Bacajućih noževa"
 	}
 	"knife buy #2"
 	{
@@ -2138,6 +2876,9 @@
 		"sk"			"10 Vrhacích Nožov"
 		"de"			"10 Messer werfen"
 		"pl"			"10 Noży do rzucania"
+		"ba"			"10 Bacajućih noževa"
+		"se"			"10 Bacajućih noževa"
+		"hr"			"10 Bacajućih noževa"
 	}
 	"knife buy #3"
 	{
@@ -2146,6 +2887,9 @@
 		"sk"			"5 Vrhacích Nožov"
 		"de"			"5 Messer werfen"
 		"pl"			"5 Noży do rzucania"
+		"ba"			"5 Bacajućih noževa"
+		"se"			"5 Bacajućih noževa"
+		"hr"			"5 Bacajućih noževa"
 	}
 	"knife buy #4"
 	{
@@ -2154,6 +2898,9 @@
 		"sk"			"1 Vrhací Nôž"
 		"de"			"1 Messer werfen"
 		"pl"			"1 Noży do rzucania"
+		"ba"			"1 Bacajućih noževa"
+		"se"			"1 Bacajućih noževa"
+		"hr"			"1 Bacajućih noževa"
 	}
 	"bonusxp buy #1"
 	{
@@ -2186,6 +2933,9 @@
 		"sk"			"{darkred}[!] {default}Zle zadaná hodnota"
 		"de"			"{darkred}[!] {default}Fehlerhafter Wert eingegeben!"
 		"pl"			"{darkred}[!] {default}Fałszywa wartość wprowadzona!"
+		"ba"			"{darkred}[!] {default}Pogrešna ukucana vrijednost!"
+		"se"			"{darkred}[!] {default}Pogrešna ukucana vrijednost!"
+		"hr"			"{darkred}[!] {default}Pogrešna ukucana vrijednost!"
 	}
 	"invalid code"
 	{
@@ -2194,6 +2944,9 @@
 		"sk"			"{darkred}[!] {default}Zle zadaný alebo neplatný kód"
 		"de"			"{darkred}[!] {default}Falscher oder ungültiger Code"
 		"pl"			"{darkred}[!] {default}Niepoprawny lub wadliwy kod"
+		"ba"			"{darkred}[!] {default}Pogrešan ili nevažeći kod!"
+		"se"			"{darkred}[!] {default}Pogrešan ili nevažeći kod!"
+		"hr"			"{darkred}[!] {default}Pogrešan ili nevažeći kod!"
 	}
 	"credits recived"
 	{
@@ -2203,6 +2956,9 @@
 		"sk"			"{darkred}[!] {default}Bolo ti pripočítané{olive} {1} {default}kreditov!"
 		"de"			"{darkred}[!] {default}Du hast erhalten{olive} {1} {default}Credits!"
 		"pl"			"{darkred}[!] {default}Otrzymałeś{olive} {1} {default}kredytów!"
+		"ba"			"{darkred}[!] {default}Dobio si{olive} {1} {default}Creditsa!"
+		"se"			"{darkred}[!] {default}Dobio si{olive} {1} {default}Creditsa!"
+		"hr"			"{darkred}[!] {default}Dobio si{olive} {1} {default}Creditsa!"
 	}
 	"cant nom map is playing"
 	{
@@ -2211,6 +2967,9 @@
 		"sk"			"{darkred}[!] {default}Nemôžeš nominovať mapu ktorá sa práve hrá!"
 		"de"			"{darkred}[!] {default}Sie können keine Karte angeben, die gerade gespielt wurde!"
 		"pl"			"{darkred}[!] {default}Nie możesz nominować mapy, na której aktualnie grasz!"
+		"ba"			"{darkred}[!] {default}Ne možete nominirati mapu koja se sada igra!"
+		"se"			"{darkred}[!] {default}Ne možete nominirati mapu koja se sada igra!"
+		"hr"			"{darkred}[!] {default}Ne možete nominirati mapu koja se sada igra!"
 	}
 	"cant nom map is recently played"
 	{
@@ -2219,6 +2978,9 @@
 		"sk"			"{darkred}[!] {default}Táto mapa sa nedávno hrala!"
 		"de"			"{darkred}[!] {default}Diese Karte wurde zu kürzlich gespielt!"
 		"pl"			"{darkred}[!] {default}Ta mapa była niedawno rozgrywana!"
+		"ba"			"{darkred}[!] {default}Ova mapa je skoro igrana!"
+		"se"			"{darkred}[!] {default}Ova mapa je skoro igrana!"
+		"hr"			"{darkred}[!] {default}Ova mapa je skoro igrana!"
 	}
 	"cant nom awp is playing awp"
 	{
@@ -2227,6 +2989,9 @@
 		"sk"			"{darkred}[!] {default}Teraz sa AWP mapa hrá nemôžeš nominovať ďalšie AWP mapy!"
 		"de"			"{darkred}[!] {default}Jetzt ist AWP Map spielen, Sie können nicht als nächstes nominieren!"
 		"pl"			"{darkred}[!] {default}Mapa AWP jest aktualnie rogrywana, nie możesz nominować kolejnej!"
+		"ba"			"{darkred}[!] {default}Sada je AWP mapa pa ne može nominirati!"
+		"se"			"{darkred}[!] {default}Sada je AWP mapa pa ne može nominirati!"
+		"hr"			"{darkred}[!] {default}Sada je AWP mapa pa ne može nominirati!"
 	}
 	"cant nom awp is recently played awp"
 	{
@@ -2235,6 +3000,9 @@
 		"sk"			"{darkred}[!] {default}AWP mapa sa hrala nedávno!"
 		"de"			"{darkred}[!] {default}AWP Karte wurde kürzlich gespielt!"
 		"pl"			"{darkred}[!] {default}AWP mapa była niedawno rozgrywana!"
+		"ba"			"{darkred}[!] {default}AWP mapa je skoro igrana!"
+		"se"			"{darkred}[!] {default}AWP mapa je skoro igrana!"
+		"hr"			"{darkred}[!] {default}AWP mapa je skoro igrana!"
 	}
 	"cant nom map is big for few players"
 	{
@@ -2244,6 +3012,9 @@
 		"sk"			"{darkred}[!] {default}Táto mapa je príliš veľká pre{olive} {1} {default}hráčov!"
 		"de"			"{darkred}[!] {default}Diese Karte ist zu groß für{olive} {1} {default}Spieler!"
 		"pl"			"{darkred}[!] {default}Ta mapa jest za duża dla {olive} {1} {default}graczy!"
+		"ba"			"{darkred}[!] {default}Ova mapa je velika za{olive} {1} {default}Igrača!"
+		"se"			"{darkred}[!] {default}Ova mapa je velika za{olive} {1} {default}Igrača!"
+		"hr"			"{darkred}[!] {default}Ova mapa je velika za{olive} {1} {default}Igrača!"
 	}
 	"you cancel nom map"
 	{
@@ -2253,6 +3024,9 @@
 		"sk"			"{darkred}[!] {default}Zrušil si nominovanú mapu {olive}{1}{default}."
 		"de"			"{darkred}[!] {default}Sie haben die Nominierungskarte storniert {olive}{1}{default}."
 		"pl"			"{darkred}[!] {default}Anulowałeś nominacje mapy {olive}{1}{default}."
+		"ba"			"{darkred}[!] {default}Prekinuli ste nominaciju mape {olive}{1}{default}."
+		"se"			"{darkred}[!] {default}Prekinuli ste nominaciju mape {olive}{1}{default}."
+		"hr"			"{darkred}[!] {default}Prekinuli ste nominaciju mape {olive}{1}{default}."
 	}
 	"you nom enough maps"
 	{
@@ -2261,6 +3035,9 @@
 		"sk"			"{darkred}[!] {default}Už si nominoval dostatok máp!"
 		"de"			"{darkred}[!] {default}Du wurdest genug Karten nominiert!"
 		"pl"			"{darkred}[!] {default}Nominowałeś wystarczająco dużo map!"
+		"ba"			"{darkred}[!] {default}Dovoljno si mapa nominirao!"
+		"se"			"{darkred}[!] {default}Dovoljno si mapa nominirao!"
+		"hr"			"{darkred}[!] {default}Dovoljno si mapa nominirao!"
 	}
 	"already nominated"
 	{
@@ -2270,6 +3047,9 @@
 		"sk"			"{darkred}[!] {olive}{1} {default}už nominoval {olive}{2}{default}."
 		"de"			"{darkred}[!] {olive}{1} {default}bereits nominiert {olive}{2}{default}."
 		"pl"			"{darkred}[!] {olive}{1} {default}już nominowałeś {olive}{2}{default}."
+		"ba"			"{darkred}[!] {olive}{1} {default}već nominirana {olive}{2}{default}."
+		"se"			"{darkred}[!] {olive}{1} {default}već nominirana {olive}{2}{default}."
+		"hr"			"{darkred}[!] {olive}{1} {default}već nominirana {olive}{2}{default}."
 	}
 	"player nominated map"
 	{
@@ -2279,6 +3059,9 @@
 		"sk"			"{green}[FUN] {default}{1} {olive}nominoval mapu {default}{2}{olive}."
 		"de"			"{green}[FUN] {default}{1} {olive}nominierte Karte {default}{2}{olive}."
 		"pl"			"{green}[FUN] {default}{1} {olive}nominowano mape {default}{2}{olive}."
+		"ba"			"{green}[FUN] {default}{1} {olive}nominirana mapa {default}{2}{olive}."
+		"se"			"{green}[FUN] {default}{1} {olive}nominirana mapa {default}{2}{olive}."
+		"hr"			"{green}[FUN] {default}{1} {olive}nominirana mapa {default}{2}{olive}."
 	}
 	"no vote yet"
 	{
@@ -2287,6 +3070,9 @@
 		"sk"			"{darkred}[!] {default}Ešte se nehlasovalo."
 		"de"			"{darkred}[!] {default}Noch keine Abstimmung."
 		"pl"			"{darkred}[!] {default}Brak głosowania."
+		"ba"			"{darkred}[!] {default}Još nema glasanja."
+		"se"			"{darkred}[!] {default}Još nema glasanja."
+		"hr"			"{darkred}[!] {default}Još nema glasanja."
 	}
 	"you not any nom"
 	{
@@ -2295,6 +3081,9 @@
 		"sk"			"{darkred}[!] {default}Ešte si nenominoval žiadnu mapu."
 		"de"			"{darkred}[!] {default}Sie haben keine Karte nominiert."
 		"pl"			"{darkred}[!] {default}Nie nominowałeś żadnej mapy."
+		"ba"			"{darkred}[!] {default}Niste nominirali nijednu mapu."
+		"se"			"{darkred}[!] {default}Niste nominirali nijednu mapu."
+		"hr"			"{darkred}[!] {default}Niste nominirali nijednu mapu."
 	}
 	"you are nom"
 	{
@@ -2303,6 +3092,9 @@
 		"sk"			"{darkred}[!] {default}Nominoval si"
 		"de"			"{darkred}[!] {default}Sie sind nominiert"
 		"pl"			"{darkred}[!] {default}Nominujesz"
+		"ba"			"{darkred}[!] {default}Ti si nominiran"
+		"se"			"{darkred}[!] {default}Ti si nominiran"
+		"hr"			"{darkred}[!] {default}Ti si nominiran"
 	}
 	"rtv soon after start"
 	{
@@ -2311,6 +3103,9 @@
 		"sk"			"{darkred}[!] {default}Tak skoro po štarte mapy nemôžeš hlasovať pre novú mapu!"
 		"de"			"{darkred}[!] {default}So bald nach dem Start der Karten darf nicht für die neue Karte stimmen!"
 		"pl"			"{darkred}[!] {default}Chwilę po rozpoczeciu mapy nie możesz głosować za zmianą na nową!"
+		"ba"			"{darkred}[!] {default}Skoro nakon početka nove mape nemožete glasati za novu mapu!"
+		"se"			"{darkred}[!] {default}Skoro nakon početka nove mape nemožete glasati za novu mapu!"
+		"hr"			"{darkred}[!] {default}Skoro nakon početka nove mape nemožete glasati za novu mapu!"
 	}
 	"you rtv already"
 	{
@@ -2319,6 +3114,9 @@
 		"sk"			"{darkred}[!] {default}Už si hlasoval pre novú mapu!"
 		"de"			"{darkred}[!] {default}Du hast bereits eine neue Karte gewählt!"
 		"pl"			"{darkred}[!] {default}Już głosowałeś za nową mapą!"
+		"ba"			"{darkred}[!] {default}Već si glasao za novu mapu!"
+		"se"			"{darkred}[!] {default}Već si glasao za novu mapu!"
+		"hr"			"{darkred}[!] {default}Već si glasao za novu mapu!"
 	}
 	"playet bet on CT"
 	{
@@ -2328,6 +3126,9 @@
 		"sk"			"{green}[FUN] {default}{1} {olive}vsadil{lightgreen} ${2} {olive}na tím policajtov."
 		"de"			"{green}[FUN] {default}{1} {olive}Wette{lightgreen} ${2} {olive}gegen Team-Terroristen."
 		"pl"			"{green}[FUN] {default}{1} {olive}postwaił{lightgreen} ${2} {olive}na drużynę antyterrorystów."
+		"ba"			"{green}[FUN] {default}{1} {olive}Opklada{lightgreen} ${2} {olive}za counter-terroriste."
+		"se"			"{green}[FUN] {default}{1} {olive}Opklada{lightgreen} ${2} {olive}za counter-terroriste."
+		"hr"			"{green}[FUN] {default}{1} {olive}Opklada{lightgreen} ${2} {olive}za counter-terroriste."
 	}
 	"playet bet on T"
 	{
@@ -2337,6 +3138,9 @@
 		"sk"			"{green}[FUN] {default}{1} {olive}vsadil{lightgreen} ${2} {olive}na tím teroristov."
 		"de"			"{green}[FUN] {default}{1} {olive}Wette{lightgreen} ${2} {olive}auf Team-Terroristen."
 		"pl"			"{green}[FUN] {default}{1} {olive}postawił{lightgreen} ${2} {olive}na drużynę terrorystów."
+		"ba"			"{green}[FUN] {default}{1} {olive}Opklada{lightgreen} ${2} {olive}za Team-Terrorista."
+		"se"			"{green}[FUN] {default}{1} {olive}Opklada{lightgreen} ${2} {olive}za Team-Terrorista."
+		"hr"			"{green}[FUN] {default}{1} {olive}Opklada{lightgreen} ${2} {olive}za Team-Terrorista."
 	}
 	"want bet more than have"
 	{
@@ -2345,6 +3149,9 @@
 		"sk"			"{darkred}[!] {default}Chceš vsadiť viac peňazí než máš pri sebe!"
 		"de"			"{darkred}[!] {default}Sie setzen mehr Geld als Sie haben!"
 		"pl"			"{darkred}[!] {default}Postawiłeś więcej pieniędzy niż masz!"
+		"ba"			"{darkred}[!] {default}Stavili ste više novca nego što imate!"
+		"se"			"{darkred}[!] {default}Stavili ste više novca nego što imate!"
+		"hr"			"{darkred}[!] {default}Stavili ste više novca nego što imate!"
 	}
 	"cant bet on respawn map"
 	{
@@ -2353,6 +3160,9 @@
 		"sk"			"{darkred}[!] {default}Na mape z respawnom si nemôžeš vsadiť!"
 		"de"			"{darkred}[!] {default}Auf Respawn-Maps kann nicht gewettet werden!"
 		"pl"			"{darkred}[!] {default}Po odrodzeniu nie możesz obstawiać!"
+		"ba"			"{darkred}[!] {default}Na respawn mapama se ne može kladiti!"
+		"se"			"{darkred}[!] {default}Na respawn mapama se ne može kladiti!"
+		"hr"			"{darkred}[!] {default}Na respawn mapama se ne može kladiti!"
 	}
 	"cant bet on specialround"
 	{
@@ -2361,6 +3171,9 @@
 		"sk"			"{darkred}[!] {default}Pri tomto špeciálnom kole si nemôžeš vsadiť!"
 		"de"			"{darkred}[!] {default}Kann nicht auf diese spezielle Runde setzen!"
 		"pl"			"{darkred}[!] {default}Nie możesz obstawiać w specjalnej rundzie!"
+		"ba"			"{darkred}[!] {default}Ne možete se kladiti na specijalnim rundama!"
+		"se"			"{darkred}[!] {default}Ne možete se kladiti na specijalnim rundama!"
+		"hr"			"{darkred}[!] {default}Ne možete se kladiti na specijalnim rundama!"
 	}
 	"you betted or no money"
 	{
@@ -2369,6 +3182,9 @@
 		"sk"			"{darkred}[!] {default}Nemáš dostatok peňazí alebo si si už vsadil!"
 		"de"			"{darkred}[!] {default}Sie haben nicht genug Geld oder Sie sind bereits wetten!"
 		"pl"			"{darkred}[!] {default}Nie masz wystarczająco dużo pieniędzy lub już obstawiałeś!"
+		"ba"			"{darkred}[!] {default}Nemate dovoljno novca ili ste već postavili opkladu!"
+		"se"			"{darkred}[!] {default}Nemate dovoljno novca ili ste već postavili opkladu!"
+		"hr"			"{darkred}[!] {default}Nemate dovoljno novca ili ste već postavili opkladu!"
 	}
 	"cant bet round end"
 	{
@@ -2377,6 +3193,9 @@
 		"sk"			"{darkred}[!] {default}Na konci kola si nemôžeš vsadiť!"
 		"de"			"{darkred}[!] {default}Wetten können am Ende einer Runde nicht durchgeführt werden!"
 		"pl"			"{darkred}[!] {default}Obstawianie jest wyłączone w tej rundzie!"
+		"ba"			"{darkred}[!] {default}Na kraju runde ne možeš se kladiti!"
+		"se"			"{darkred}[!] {default}Na kraju runde ne možeš se kladiti!"
+		"hr"			"{darkred}[!] {default}Na kraju runde ne možeš se kladiti!"
 	}
 	"you muted"
 	{
@@ -2386,6 +3205,9 @@
 		"sk"			"{darkred}[!] {default}Si umlčaný ešte na{olive} {1} {default}vteřin!"
 		"de"			"{darkred}[!] {default}Du bist gemutet für{olive} {1} {default}sekunde!"
 		"pl"			"{darkred}[!] {default}Jesteś wyciszony przez{olive} {1} {default}sekund!"
+		"ba"			"{darkred}[!] {default}Ušućkan si za{olive} {1} {default}sekunde!"
+		"se"			"{darkred}[!] {default}Ušućkan si za{olive} {1} {default}sekunde!"
+		"hr"			"{darkred}[!] {default}Ušućkan si za{olive} {1} {default}sekunde!"
 	}
 	"do not repeat chat"
 	{
@@ -2394,6 +3216,9 @@
 		"sk"			"{darkred}[!] {default}Neopakuj spravy v chate!"
 		"de"			"{darkred}[!] {default}Wiederhole keine Chat-Nachrichten!"
 		"pl"			"{darkred}[!] {default}Nie powtarzaj wiadomości!"
+		"ba"			"{darkred}[!] {default}Nemoj ponavljati Chat-Poruke!"
+		"se"			"{darkred}[!] {default}Nemoj ponavljati Chat-Poruke!"
+		"hr"			"{darkred}[!] {default}Nemoj ponavljati Chat-Poruke!"
 	}
 	"you reach level"
 	{
@@ -2403,6 +3228,9 @@
 		"sk"			"Práve si dosiahol </font><font color='#FFFFFF'>{1}. </font><font color='#FF00FF'>úroveň!"
 		"de"			"Du hast erreicht </font><font color='#FFFFFF'>{1}. </font><font color='#FF00FF'>Level!"
 		"pl"			"Osiągnąłeś </font><font color='#FFFFFF'>{1}. </font><font color='#FF00FF'>poziom!"
+		"ba"			"Dostigao si </font><font color='#FFFFFF'>{1}. </font><font color='#FF00FF'>Level!"
+		"se"			"Dostigao si </font><font color='#FFFFFF'>{1}. </font><font color='#FF00FF'>Level!"
+		"hr"			"Dostigao si </font><font color='#FFFFFF'>{1}. </font><font color='#FF00FF'>Level!"
 	}
 	"player reach level"
 	{
@@ -2412,6 +3240,9 @@
 		"sk"			"{green}[FUN]{default} {1} {olive}dosiahol úroveň {default}{2}{olive}!"
 		"de"			"{green}[FUN]{default} {1} {olive}hat ein Level erreicht{default}{2}{olive}!"
 		"pl"			"{green}[FUN]{default} {1} {olive}osiagnał poziom {default}{2}{olive}!"
+		"ba"			"{green}[FUN]{default} {1} {olive}je dostigao Level{default}{2}{olive}!"
+		"se"			"{green}[FUN]{default} {1} {olive}je dostigao Level{default}{2}{olive}!"
+		"hr"			"{green}[FUN]{default} {1} {olive}je dostigao Level{default}{2}{olive}!"
 	}
 	"cant song end round"
 	{
@@ -2420,6 +3251,9 @@
 		"sk"			"{darkred}[!] {default}Nemôžeš pustiť pieseň na konci kola."
 		"de"			"{darkred}[!] {default}Runde Ende, kann Lied nicht spielen."
 		"pl"			"{darkred}[!] {default}Końcówka rundy, nie można puścić piosenki."
+		"ba"			"{darkred}[!] {default}Kraj runde,ne možeš pustiti muziku."
+		"se"			"{darkred}[!] {default}Kraj runde,ne možeš pustiti muziku."
+		"hr"			"{darkred}[!] {default}Kraj runde,ne možeš pustiti muziku."
 	}
 	"cant song specialround"
 	{
@@ -2428,6 +3262,9 @@
 		"sk"			"{darkred}[!] {default}Nemôžeš pustiť pieseň při speciálním kole."
 		"de"			"{darkred}[!] {default}Jetzt läuft spezielle Runde, kann Lied nicht spielen."
 		"pl"			"{darkred}[!] {default}Teraz podczas specjalnej rundy nie można odtwarzać utworu."
+		"ba"			"{darkred}[!] {default}U toku je specijalna runda,ne možes pustiti muziku."
+		"se"			"{darkred}[!] {default}U toku je specijalna runda,ne možes pustiti muziku."
+		"hr"			"{darkred}[!] {default}U toku je specijalna runda,ne možes pustiti muziku."
 	}
 	"cant song now playing"
 	{
@@ -2437,6 +3274,9 @@
 		"sk"			"{darkred}[!] {default}Práve hrá iná pesnička, musíš ešte počkať {olive}{1} {default}sekúnd."
 		"de"			"{darkred}[!] {default}Wenn du jetzt ein anderes Lied spielst, musst du warten {olive}{1} {default}seconds."
 		"pl"			"{darkred}[!] {default}Aktualnie leci inna piosenka, musisz poczekać {olive}{1} {default}sekund."
+		"ba"			"{darkred}[!] {default}Već je puštena pjesma,moraš čekati {olive}{1} {default}sekundi."
+		"se"			"{darkred}[!] {default}Već je puštena pjesma,moraš čekati {olive}{1} {default}sekundi."
+		"hr"			"{darkred}[!] {default}Već je puštena pjesma,moraš čekati {olive}{1} {default}sekundi."
 	}
 	"player play song"
 	{
@@ -2446,6 +3286,9 @@
 		"sk"			"{green}[FUN]{default} {1} {olive}pustil {default}{2}{olive}."
 		"de"			"{green}[FUN]{default} {1} {olive}spielt {default}{2}{olive}."
 		"pl"			"{green}[FUN]{default} {1} {olive}puścił {default}{2}{olive}."
+		"ba"			"{green}[FUN]{default} {1} {olive}pušta {default}{2}{olive}."
+		"se"			"{green}[FUN]{default} {1} {olive}pušta {default}{2}{olive}."
+		"hr"			"{green}[FUN]{default} {1} {olive}pušta {default}{2}{olive}."
 	}
 	"must enter higher level"
 	{
@@ -2454,6 +3297,9 @@
 		"sk"			"{darkred}[!] {default}Musíš zadať väčšiu úroveň!"
 		"de"			"{darkred}[!] {default}Du musst ein höheres Level eingeben als du!"
 		"pl"			"{darkred}[!] {default}Musisz mieć wyższy poziom!"
+		"ba"			"{darkred}[!] {default}Moraš upisati level veči od tvog!"
+		"se"			"{darkred}[!] {default}Moraš upisati level veči od tvog!"
+		"hr"			"{darkred}[!] {default}Moraš upisati level veči od tvog!"
 	}
 	"can enter max 150 lvl"
 	{
@@ -2462,6 +3308,9 @@
 		"sk"			"{darkred}[!] {default}Môžete zadať maximalne{olive} 150. {default}úroveň!"
 		"de"			"{darkred}[!] {default}Sie können max {default} 150 {olive}Level!"
 		"pl"			"{darkred}[!] {default}Możesz wpisać maksymalnie {default} 150 {olive}poziom!"
+		"ba"			"{darkred}[!] {default}Možete maximalno upisati {default} 150 {olive}Level!"
+		"se"			"{darkred}[!] {default}Možete maximalno upisati {default} 150 {olive}Level!"
+		"hr"			"{darkred}[!] {default}Možete maximalno upisati {default} 150 {olive}Level!"
 	}
 	"xp left to lvl"
 	{
@@ -2471,6 +3320,9 @@
 		"sk"			"{darkred}[!] {default}Do úrovne {olive}{1} {default}vám chýba {olive}{2} {default}XP."
 		"de"			"{darkred}[!] {default}Aufstufen {olive}{1} {default}du bist gegangen {olive}{2} {default}XP."
 		"pl"			"{darkred}[!] {default}Do poziomu {olive}{1} {default}brakuje Ci {olive}{2} {default}XP."
+		"ba"			"{darkred}[!] {default}Do levela {olive}{1} {default}ti je ostalo {olive}{2} {default}XP."
+		"se"			"{darkred}[!] {default}Do levela {olive}{1} {default}ti je ostalo {olive}{2} {default}XP."
+		"hr"			"{darkred}[!] {default}Do levela {olive}{1} {default}ti je ostalo {olive}{2} {default}XP."
 	}
 	"Maps Menu"
 	{
@@ -2479,6 +3331,9 @@
 		"sk"			"Zoznam Map (/maps)\nVyber pre nomináciu"
 		"de"			"Karten auflisten (/maps)\nWählen Sie für nominieren"
 		"pl"			"Lista Map (/maps)\nWybierz do nominacji"
+		"ba"			"Listu mapa (/maps)\nIzaberi za nominate"
+		"se"			"Listu mapa (/maps)\nIzaberi za nominate"
+		"hr"			"Listu mapa (/maps)\nIzaberi za nominate"
 	}
 	"Setting Menu"
 	{
@@ -2487,6 +3342,9 @@
 		"sk"			"Nastavenie Serveru (/nastavenia)"
 		"de"			"Servereinstellung (/setting)"
 		"pl"			"Ustawienia servera (/setting)"
+		"ba"			"Postavke servera (/setting)"
+		"se"			"Postavke servera (/setting)"
+		"hr"			"Postavke servera (/setting)"
 	}
 	"Setting Function"
 	{
@@ -2495,6 +3353,9 @@
 		"sk"			"Nastavenie funkcí"
 		"de"			"Funktionseinstellung"
 		"pl"			"Ustawienia funkcji"
+		"ba"			"Postavke funkcija"
+		"se"			"Postavke funkcija"
+		"hr"			"Postavke funkcija"
 	}
 	"Setting Sound"
 	{
@@ -2503,6 +3364,9 @@
 		"sk"			"Hlasitosť zvukov"
 		"de"			"Lautstärke"
 		"pl"			"Ustawienia głośności"
+		"ba"			"Glasnoća"
+		"se"			"Glasnoća"
+		"hr"			"Glasnoća"
 	}
 	"Bonuses Setting"
 	{
@@ -2511,6 +3375,9 @@
 		"sk"			"Nastavenie Bonusov"
 		"de"			"Bonuseinstellungen"
 		"pl"			"Ustawienia bonusów"
+		"ba"			"Postavke bonusa"
+		"se"			"Postavke bonusa"
+		"hr"			"Postavke bonusa"
 	}
 	"Setting VIP"
 	{
@@ -2519,6 +3386,9 @@
 		"sk"			"VIP Nastavenia"
 		"de"			"VIP-Einstellung"
 		"pl"			"Ustawienia VIP"
+		"ba"			"VIP Postavke"
+		"se"			"VIP Postavke"
+		"hr"			"VIP Postavke"
 	}
 	"set roundsounds"
 	{
@@ -2527,6 +3397,9 @@
 		"sk"			"Songy na konci kola"
 		"de"			"Runde Töne"
 		"pl"			"Dźwięk rund"
+		"ba"			"Zvukovi Runde"
+		"se"			"Zvukovi Runde"
+		"hr"			"Zvukovi Runde"
 	}
 	"set songs"
 	{
@@ -2535,6 +3408,10 @@
 		"sk"			"Songy z menu"
 		"de"			"Songs aus dem Menü"
 		"pl"			"Piosenki z menu"
+		"ba"			"Pjesme iz izbornika"
+		"se"			"Pjesme iz izbornika"
+		"hr"			"Pjesme iz izbornika"
+		
 	}
 	"set ultisounds"
 	{
@@ -2543,6 +3420,9 @@
 		"sk"			"Ultimátne zvuky"
 		"de"			"Ultimative Sounds"
 		"pl"			"Dźwięk ostateczne"
+		"ba"			"Ultimativni zvukovi"
+		"se"			"Ultimativni zvukovi"
+		"hr"			"Ultimativni zvukovi"
 	}
 	"set xpchat"
 	{
@@ -2551,6 +3431,9 @@
 		"sk"			"Získané XP v chate"
 		"de"			"XP im Chat gewonnen"
 		"pl"			"Zdobywane XP na czacie"
+		"ba"			"Dobijeni XP u chat"
+		"se"			"Dobijeni XP u chat"
+		"hr"			"Dobijeni XP u chat"
 	}
 	"set nadetrails"
 	{
@@ -2559,6 +3442,9 @@
 		"sk"			"Trail za granátmi"
 		"de"			"Granatenspuren"
 		"pl"			"Traile granatów"
+		"ba"			"Tragovi granate"
+		"se"			"Tragovi granate"
+		"hr"			"Tragovi granate"
 	}
 	"set hitsound"
 	{
@@ -2567,6 +3453,9 @@
 		"sk"			"Zvuk pri zásahu"
 		"de"			"Treffertöne"
 		"pl"			"Dźwięk trafień"
+		"ba"			"Zvukovi pogodka"
+		"se"			"Zvukovi pogodka"
+		"hr"			"Zvukovi pogodka"
 	}
 	"set killsound"
 	{
@@ -2575,6 +3464,9 @@
 		"sk"			"Zvuk pri zabití"
 		"de"			"Töte Töne"
 		"pl"			"Dźwięk zabójstw"
+		"ba"			"Zvukovi smrti"
+		"se"			"Zvukovi smrti"
+		"hr"			"Zvukovi smrti"
 	}
 	"set othertrails"
 	{
@@ -2583,6 +3475,9 @@
 		"sk"			"Traily za hráčmi"
 		"de"			"Spuren hinter Spielern"
 		"pl"			"Traile za graczem"
+		"ba"			"Tragovi iza igrača"
+		"se"			"Tragovi iza igrača"
+		"hr"			"Tragovi iza igrača"
 	}
 	"set buyinfo"
 	{
@@ -2591,6 +3486,9 @@
 		"sk"			"Info o kúpe spoluhráča"
 		"de"			"Informationen von einem Teamkollegen kaufen"
 		"pl"			"Informacje zakupu członka drużyny"
+		"ba"			"Informacije kupovine od suigrača"
+		"se"			"Informacije kupovine od suigrača"
+		"hr"			"Informacije kupovine od suigrača"
 	}
 	"set showdmg"
 	{
@@ -2599,6 +3497,10 @@
 		"sk"			"Zobrazovaní zásahů"
 		"de"			"Schaden anzeigen"
 		"pl"			"Pokazuje obrażenia"
+		"ba"			"Pokazati Štetu"
+		"se"			"Pokazati Štetu"
+		"hr"			"Pokazati Štetu"
+		
 	}
 	"turned on"
 	{
@@ -2608,6 +3510,9 @@
 		"sk"			"Zapol si si {1}"
 		"de"			"Du bist eingeschaltet {1}"
 		"pl"			"Włączyłeś {1}"
+		"ba"			"To si uključio {1}"
+		"se"			"To si uključio {1}"
+		"hr"			"To si uključio {1}"
 	}
 	"activated"
 	{
@@ -2617,6 +3522,9 @@
 		"sk"			"Aktivoval si si {1}"
 		"de"			"Du hast aktiviert {1}"
 		"pl"			"Aktywowałeś {1}"
+		"ba"			"Ti si aktivirao {1}"
+		"se"			"Ti si aktivirao {1}"
+		"hr"			"Ti si aktivirao {1}"
 	}
 	"turned off"
 	{
@@ -2624,8 +3532,11 @@
 		"en"			"You turned off {1}"
 		"cze"			"Vypnul sis {1}"
 		"sk"			"Vypol si si {1}"
-		"de"			"Du bist ausgeschaltet{1}"
+		"de"			"Du bist ausgeschaltet {1}"
 		"pl"			"Wyłączyłeś {1}"
+		"ba"			"Ti si usključio {1}"
+		"se"			"Ti si usključio {1}"
+		"hr"			"Ti si usključio {1}"
 	}
 	"Bonuses Menu"
 	{
@@ -2634,6 +3545,9 @@
 		"sk"			"Nastavenie Bonusov (/bonusy)\nMôžeš si aktivovať max 5 bonusov!"
 		"de"			"Bonus-Einstellung (/bonus)\nDu kannst nur bis zu 5 Bonus aktivieren!"
 		"pl"			"Ustawienie bonusów (/bonus)\nMożesz aktywować do 5 bonusów!"
+		"ba"			"Postavke Bonusa (/bonus)\nTi možeš aktivirati do 5 bonusa!"
+		"se"			"Postavke Bonusa (/bonus)\nTi možeš aktivirati do 5 bonusa!"
+		"hr"			"Postavke Bonusa (/bonus)\nTi možeš aktivirati do 5 bonusa!"
 	}
 	"active"
 	{
@@ -2642,6 +3556,9 @@
 		"sk"			"AKTÍVNY"
 		"de"			"AKTIVIERT"
 		"pl"			"AKTYWNE"
+		"ba"			"AKTIVNO"
+		"se"			"AKTIVNO"
+		"hr"			"AKTIVNO"
 	}
 	"inactive"
 	{
@@ -2650,6 +3567,9 @@
 		"sk"			"NEAKTÍVNY"
 		"de"			"INAKTIV"
 		"pl"			"NIEAKTYWNE"
+		"ba"			"NEAKTIVNO"
+		"se"			"NEAKTIVNO"
+		"hr"			"NEAKTIVNO"
 	}
 	"bonus parachute"
 	{
@@ -2658,6 +3578,9 @@
 		"sk"			"Padák"
 		"de"			"Fallschirm"
 		"pl"			"Spadochron"
+		"ba"			"Padobran"
+		"se"			"Padobran"
+		"hr"			"Padobran"
 	}
 	"bonus knifejump"
 	{
@@ -2666,6 +3589,9 @@
 		"sk"			"Knife Jump"
 		"de"			"Knife Sprung"
 		"pl"			"Skok na nożu"
+		"ba"			"Skok nož"
+		"se"			"Skok nož"
+		"hr"			"Skok nož"
 	}
 	"bonus pushhe"
 	{
@@ -2674,6 +3600,9 @@
 		"sk"			"Push HE grenade"
 		"de"			"Push HE grenade"
 		"pl"			"Odpychający granat HE"
+		"ba"			"Gurajuća HE Granata"
+		"se"			"Gurajuća HE Granata"
+		"hr"			"Gurajuća HE Granata"
 	}
 	"bonus scopealert"
 	{
@@ -2682,6 +3611,9 @@
 		"sk"			"Scope Alert"
 		"de"			"Visier warnung"
 		"pl"			"Ostrzeżenie o scope"
+		"ba"			"Upozorenje ciljanja"
+		"se"			"Upozorenje ciljanja"
+		"hr"			"Upozorenje ciljanja"
 	}
 	"bonus doublejump"
 	{
@@ -2690,6 +3622,9 @@
 		"sk"			"Dvoj skok"
 		"de"			"Doppelsprung"
 		"pl"			"Podwójny skok"
+		"ba"			"Dupli skok"
+		"se"			"Dupli skok"
+		"hr"			"Dupli skok"
 	}
 	"bonus implosionflash"
 	{
@@ -2698,6 +3633,9 @@
 		"sk"			"Implosion Flash"
 		"de"			"Implosion Flash"
 		"pl"			"Implozyjny Flash"
+		"ba"			"Implosion Flash"
+		"se"			"Implosion Flash"
+		"hr"			"Implosion Flash"
 	}
 	"bonus unlimag"
 	{
@@ -2706,6 +3644,9 @@
 		"sk"			"Neobmedzene zásobníkov"
 		"de"			"Unbegrenztes Magazin"
 		"pl"			"Nielimitowana ammunicja"
+		"ba"			"Beskonačni magazin"
+		"se"			"Beskonačni magazin"
+		"hr"			"Beskonačni magazin"
 	}
 	"bonus bunnyhop"
 	{
@@ -2714,6 +3655,9 @@
 		"sk"			"Auto BunnyHop"
 		"de"			"Auto BunnyHop"
 		"pl"			"Auto BunnyHop"
+		"ba"			"Auto BunnyHop"
+		"se"			"Auto BunnyHop"
+		"hr"			"Auto BunnyHop"
 	}
 	"bonus safecash"
 	{
@@ -2722,6 +3666,9 @@
 		"sk"			"SafeCash"
 		"de"			"SafeCash"
 		"de"			"SafeCash"
+		"ba"			"Sačuvaj pare"
+		"se"			"Sačuvaj pare"
+		"hr"			"Sačuvaj pare"
 	}
 	"bonus launcher"
 	{
@@ -2730,6 +3677,9 @@
 		"sk"			"AK/M4 Granátomet"
 		"de"			"AK/M4 Granatwerfer"
 		"pl"			"AK/M4 Granatnik"
+		"ba"			"AK/M4 Bacač bombi"
+		"se"			"AK/M4 Bacač bombi"
+		"hr"			"AK/M4 Bacač bombi"
 	}
 	"bonus lowhe"
 	{
@@ -2738,6 +3688,9 @@
 		"sk"			"Menšie HE poškodenie"
 		"de"			"Verringere HE Schaden"
 		"pl"			"Niższe obrażenia od granatów"
+		"ba"			"Manje HE štete"
+		"se"			"Manje HE štete"
+		"hr"			"Manje HE štete"
 	}
 	"bonus blink"
 	{
@@ -2746,6 +3699,9 @@
 		"sk"			"Blink"
 		"de"			"Blink"
 		"pl"			"Blink"
+		"ba"			"Teleport"
+		"se"			"Teleport"
+		"hr"			"Teleport"
 	}
 	"bonus nofall"
 	{
@@ -2754,6 +3710,9 @@
 		"sk"			"No Fall Damage"
 		"de"			"Kein Fallschaden"
 		"pl"			"Brak obrażeń od upadku"
+		"ba"			"No Fall Damage"
+		"se"			"No Fall Damage"
+		"hr"			"No Fall Damage"
 	}
 	"bonus flamenade"
 	{
@@ -2762,6 +3721,9 @@
 		"sk"			"Zápalné gránaty"
 		"de"			"Flammennades"
 		"pl"			"Płomień Nades"
+		"ba"			"Vatrene granate"
+		"se"			"Vatrene granate"
+		"hr"			"Vatrene granate"
 	}
 	"bonus respawn"
 	{
@@ -2770,6 +3732,9 @@
 		"sk"			"Respawn"
 		"de"			"Respawn"
 		"pl"			"Odrodzenie"
+		"ba"			"Respawn"
+		"se"			"Respawn"
+		"hr"			"Respawn"
 	}
 	"bonus pilefall"
 	{
@@ -2778,6 +3743,9 @@
 		"sk"			"Pilefall"
 		"de"			"Pilefall"
 		"pl"			"Pilefall"
+		"ba"			"Pilefall"
+		"se"			"Pilefall"
+		"hr"			"Pilefall"
 	}
 	"bonus noflash"
 	{
@@ -2786,6 +3754,9 @@
 		"sk"			"No Flash"
 		"de"			"Kein Flashbang Effekt"
 		"pl"			"Bezefektowne flashe"
+		"ba"			"No Flash"
+		"se"			"No Flash"
+		"hr"			"No Flash"
 	}
 	"bonus block"
 	{
@@ -2794,6 +3765,9 @@
 		"sk"			"Air Block"
 		"de"			"Luftblockierung"
 		"pl"			"Blok powietrzny"
+		"ba"			"Zrak Blok"
+		"se"			"Zrak Blok"
+		"hr"			"Zrak Blok"
 	}
 	"bonus boostjump"
 	{
@@ -2802,6 +3776,9 @@
 		"sk"			"Boost Jump"
 		"de"			"Boost Sprung"
 		"pl"			"Boost Skoku"
+		"ba"			"Boost Skok"
+		"se"			"Boost Skok"
+		"hr"			"Boost Skok"
 	}
 	"bonus revteammate"
 	{
@@ -2810,6 +3787,9 @@
 		"sk"			"Oživenie spoluhráčov"
 		"de"			"Beleben Sie Ihre Teamkollegen"
 		"pl"			"Odradzanie członka drużyny"
+		"ba"			"Oživi suigrača"
+		"se"			"Oživi suigrača"
+		"hr"			"Oživi suigrača"
 	}
 	"bonus shootjump"
 	{
@@ -2818,6 +3798,10 @@
 		"sk"			"Shoot Jump"
 		"de"			"Shoot Jump"
 		"pl"			"Shoot Jump"
+		"ba"		        "Skok pucanjem"
+		"se"		        "Skok pucanjem"
+		"hr"		        "Skok pucanjem"
+	
 	}
 	"bonus recall"
 	{
@@ -2826,6 +3810,9 @@
 		"sk"			"Recall"
 		"de"			"Recall"
 		"pl"			"Recall"
+		"ba"		        "Recall"
+		"se"		        "Recall"
+		"hr"		        "Recall"
 	}
 	"bonus rope"
 	{
@@ -2834,6 +3821,9 @@
 		"sk"			"Rope"
 		"de"			"Seil"
 		"pl"			"Lina"
+		"ba"		        "Uže"
+		"se"		        "Uže"
+		"hr"		        "Uže"
 	}
 	"bonus hook"
 	{
@@ -2842,6 +3832,9 @@
 		"sk"			"Hook"
 		"de"			"Haken"
 		"pl"			"Hak"
+		"ba"		        "Kuka"
+		"se"		        "Kuka"
+		"hr"		        "Kuka"
 	}
 	"Volume Menu"
 	{
@@ -2850,6 +3843,9 @@
 		"sk"			"Hlasitosť:"
 		"de"			"Lautstärke:"
 		"pl"			"Głośność:"
+		"ba"		        "Glasnoća"
+		"se"		        "Glasnoća"
+		"hr"		        "Glasnoća"
 	}
 	"vol roundsounds"
 	{
@@ -2858,6 +3854,9 @@
 		"sk"			"Piesní na konci kola"
 		"de"			"Lieder am Ende der Runde"
 		"pl"			"Piosenki na koniec rundy"
+		"ba"		        "Pjesme na kraju runde"
+		"se"		        "Pjesme na kraju runde"
+		"hr"		        "Pjesme na kraju runde"
 	}
 	"vol song"
 	{
@@ -2866,6 +3865,9 @@
 		"sk"			"Piesní z menu"
 		"de"			"Songs aus dem Menü"
 		"pl"			"Piosenki z menu"
+		"ba"		        "Pjesme i menu-a"
+		"se"		        "Pjesme i menu-a"
+		"hr"		        "Pjesme i menu-a"
 	}
 	"vol ultisounds"
 	{
@@ -2874,6 +3876,9 @@
 		"sk"			"Ultimátnych zvukov"
 		"de"			"Ultimative Sounds"
 		"pl"			"Ostateczne Dźwięk"
+		"ba"		        "Ultimativni zvukovi"
+		"se"		        "Ultimativni zvukovi"
+		"hr"		        "Ultimativni zvukovi"
 	}
 	"vol hitsounds"
 	{
@@ -2882,6 +3887,9 @@
 		"sk"			"Zvukov pri zásahu"
 		"de"			"Treffertöne"
 		"pl"			"Dźwięk trafień"
+		"ba"		        "Hit zvukovi"
+		"se"		        "Hit zvukovi"
+		"hr"		        "Hit zvukovi"
 	}
 	"vol killsounds"
 	{
@@ -2890,6 +3898,9 @@
 		"sk"			"Zvukov pri zabití"
 		"de"			"Töte Töne"
 		"pl"			"Dźwięk zabójstw"
+		"ba"		        "Kill zvukovi"
+		"se"		        "Kill zvukovi"
+		"hr"		        "Kill zvukovi"
 	}
 	"vol default"
 	{
@@ -2898,6 +3909,9 @@
 		"sk"			"Nastaviť predvolené"
 		"de"			"Setze Standard"
 		"pl"			"Ustaw domyślne"
+		"ba"		        "Postavi standard"
+		"se"		        "Postavi standard"
+		"hr"		        "Postavi standard"
 	}
 	"vip effekt"
 	{
@@ -2906,6 +3920,10 @@
 		"sk"			"Efekt pri zabití"
 		"de"			"Töte den Effekt"
 		"pl"			"Dźwięk zabójstwa"
+		"ba"		        "Kill efekti"
+		"se"		        "Kill efekti"
+		"hr"		        "Kill efekti"
+		
 	}
 	"vip skin"
 	{
@@ -2914,6 +3932,9 @@
 		"sk"			"VIP skin"
 		"de"			"VIP skin"
 		"pl"			"VIP skin"
+		"ba"		        "VIP Skin"
+		"se"		        "VIP Skin"
+		"hr"		        "VIP Skin"
 	}
 	"vip m4"
 	{
@@ -2922,6 +3943,9 @@
 		"sk"			"M4A1-S namiesto M4A4"
 		"de"			"M4A1-S anstelle von M4A4"
 		"pl"			"M4A1-S zamiast M4A1"
+		"ba"		        "M4A1-S umjesto M4A4"
+		"se"		        "M4A1-S umjesto M4A4"
+		"hr"		        "M4A1-S umjesto M4A4"
 	}
 	"vip secundary"
 	{
@@ -2930,6 +3954,9 @@
 		"sk"			"Sekundárna zbraň v VIP menu"
 		"de"			"Zweitwaffe im VIP-Menü"
 		"pl"			"Broń podręczna w menu VIP"
+		"ba"		        "Drugo oružje u VIP menu"
+		"se"		        "Drugo oružje u VIP menu"
+		"hr"		        "Drugo oružje u VIP menu"
 	}
 	"nade normal"
 	{
@@ -2938,6 +3965,9 @@
 		"sk"			"Mód - Normálny"
 		"de"			"Modus - Normal"
 		"pl"			"Tryb - Normalny"
+		"ba"		        "Mod - Normal"
+		"se"		        "Mod - Normal"
+		"hr"		        "Mod - Normal"	
 	}
 	"nade impact"
 	{
@@ -2946,6 +3976,9 @@
 		"sk"			"Mód - Dotyk"
 		"de"			"Modus - Auswirkungen"
 		"pl"			"Tryb - Uderzeniowy"
+		"ba"		        "Mod - Impaktni "
+		"se"		        "Mod - Impaktni"
+		"hr"		        "Mod - Impaktni"
 	}
 	"nade satchel"
 	{
@@ -2954,6 +3987,9 @@
 		"sk"			"Mód - Odpáliť E"
 		"de"			"Modus - Satchel Gebühr"
 		"pl"			"Tryb - Ładunek zasilany"
+		"ba"		        "Mod - Naknadno punjenje "
+		"se"		        "Mod - Naknadno punjenje "
+		"hr"		        "Mod - Naknadno punjenje "
 	}
 	"nade proximity"
 	{
@@ -2962,6 +3998,10 @@
 		"sk"			"Mód - Sensor Vzdialenosti"
 		"de"			"Modus - Nähe"
 		"pl"			"Tryb - Ładunek zbliżeniowy"
+		"ba"		        "Mod - Blizina "
+		"se"		        "Mod - Blizina "
+		"ba"		        "Mod - Blizina "
+		
 	}
 	"nade sensor"
 	{
@@ -2970,6 +4010,9 @@
 		"sk"			"Mód - Sensor Pohybu"
 		"de"			"Modus - Bewegungssensor"
 		"pl"			"Tryb - Czujnik ruchu"
+		"ba"		        "Mod - Senzor Pokreta"
+		"se"		        "Mod - Senzor Pokreta"
+		"hr"		        "Mod - Senzor Pokreta"
 	}
 	"nade sticky"
 	{
@@ -2978,6 +4021,9 @@
 		"sk"			"Mód - Lepivý"
 		"de"			"Modus - Klebrig"
 		"pl"			"Tryb - Samtex"
+		"ba"		        "Mod - ljepljiva"
+		"se"		        "Mod - ljepljiva"
+		"hr"		        "Mod - ljepljiva"
 	}
 	"nade homing"
 	{
@@ -2986,6 +4032,9 @@
 		"sk"			"Mód - Vyhľadá cieľ"
 		"de"			"Modus - Referenzieren"
 		"pl"			"Tryb - Podążający"
+		"ba"		        "Mod - Referencna"
+		"se"		        "Mod - Referencna"
+		"hr"		        "Mod - Referencna"
 	}
 	"nade laser"
 	{
@@ -2994,6 +4043,9 @@
 		"sk"			"Mód - Laser"
 		"de"			"Modus - Reise Laser"
 		"pl"			"Tryb - Mina laserowa"
+		"ba"		        "Mod - Putovni laser"
+		"se"		        "Mod - Putovni laser"
+		"hr"		        "Mod - Putovni laser"
 	}
 	"change mode press R"
 	{
@@ -3002,6 +4054,9 @@
 		"sk"			"Zmeníš mód Granátov"
 		"de"			"Ändern Sie den Granatenmodus"
 		"pl"			"Zmień tryb granatu"
+		"ba"		        "Promjeni mod granate"
+		"se"		        "Promjeni mod granate"
+		"hr"		        "Promjeni mod granate"
 	}
 	"smoke random"
 	{
@@ -3010,6 +4065,9 @@
 		"sk"			"Farba - Náhodná"
 		"de"			"Farbe - Zufällig"
 		"pl"			"Kolor - Losowy"
+		"ba"		        "Boja - Nasumična"
+		"se"		        "Boja - Nasumična"
+		"hr"		        "Boja - Nasumična"
 	}
 	"smoke black"
 	{
@@ -3018,6 +4076,9 @@
 		"sk"			"Farba - Čierna"
 		"de"			"Farbe - Schwarz"
 		"pl"			"Kolor - Czarny"
+		"ba"		        "Boja - Crna"
+		"se"		        "Boja - Crna"
+		"hr"		        "Boja - Crna"
 	}
 	"smoke blue"
 	{
@@ -3026,6 +4087,9 @@
 		"sk"			"Farba - Modrá"
 		"de"			"Farbe - Blau"
 		"pl"			"Kolor - Niebieski"
+		"ba"		        "Boja - Plava"
+		"se"		        "Boja - Plava"
+		"hr"		        "Boja - Plava"
 	}
 	"smoke cyan"
 	{
@@ -3034,6 +4098,9 @@
 		"sk"			"Farba - Tyrkysová"
 		"de"			"Farbe - Türkis"
 		"pl"			"Kolor - Turkusowy"
+		"ba"		        "Boja - Tirkizna"
+		"se"		        "Boja - Tirkizna"
+		"hr"		        "Boja - Tirkizna"
 	}
 	"smoke green"
 	{
@@ -3042,6 +4109,9 @@
 		"sk"			"Farba - Zelená"
 		"de"			"Farbe - Grün"
 		"pl"			"Kolor - Zielony"
+		"ba"		        "Boja - Zelena"
+		"se"		        "Boja - Zelena"
+		"hr"		        "Boja - Zelena"
 	}
 	"smoke lime"
 	{
@@ -3050,6 +4120,9 @@
 		"sk"			"Farba - Limetková"
 		"de"			"Farbe - Limette"
 		"pl"			"Kolor - Limonkowy"
+		"ba"		        "Boja - Lime boja"
+		"se"		        "Boja - Lime boja"
+		"hr"		        "Boja - Lime boja"
 	}
 	"smoke orange"
 	{
@@ -3058,6 +4131,9 @@
 		"sk"			"Farba - Oranžová"
 		"de"			"Farbe - Orange"
 		"pl"			"Kolor - Pomarańczowy"
+		"ba"		        "Boja - Narandžasta"
+		"se"		        "Boja - Narandžasta"
+		"hr"		        "Boja - Narandžasta"
 	}
 	"smoke pink"
 	{
@@ -3066,6 +4142,9 @@
 		"sk"			"Farba - Ružová"
 		"de"			"Farbe - Rosa"
 		"pl"			"Kolor - Różowy"
+		"ba"		        "Boja - Pink"
+		"se"		        "Boja - Pink"
+		"hr"		        "Boja - Pink"
 	}
 	"smoke red"
 	{
@@ -3074,6 +4153,10 @@
 		"sk"			"Farba - Červená"
 		"de"			"Farbe - Rot"
 		"pl"			"Kolor - Czerwony"
+		"ba"		        "Boja - Crvena"
+		"se"		        "Boja - Crvena"
+		"hr"		        "Boja - Crvena"
+		
 	}
 	"smoke water"
 	{
@@ -3082,6 +4165,9 @@
 		"sk"			"Farba - Vodný"
 		"de"			"Farbe - Wasser"
 		"pl"			"Kolor - Wodnisty"
+		"ba"		        "Boja - Voda"
+		"se"		        "Boja - Voda"
+		"hr"		        "Boja - Voda"
 	}
 	"smoke yellow"
 	{
@@ -3090,6 +4176,9 @@
 		"sk"			"Farba - Žltá"
 		"de"			"Farbe - Gelb"
 		"pl"			"Kolor - Żółty"
+		"ba"		        "Boja - Žuta"
+		"se"		        "Boja - Žuta"
+		"hr"		        "Boja - Žuta"
 	}
 	"change color press R"
 	{
@@ -3098,6 +4187,9 @@
 		"sk"			"Zmeníš farbu Smoke"
 		"de"			"Ändern Sie die Rauchfarbe"
 		"pl"			"Zmień kolor smoke'a"
+		"ba"		        "Promjeni boju dima"
+		"se"		        "Promjeni boju dima"
+		"hr"		        "Promjeni boju dima"
 	}
 	"camera on"
 	{
@@ -3106,6 +4198,9 @@
 		"sk"			"Kamera - ON"
 		"de"			"Kamera - AN"
 		"pl"			"Kamera - ON"
+		"ba"		        "Kamera - ON"
+		"se"		        "Kamera - ON"
+		"hr"		        "Kamera - ON"
 	}
 	"camera off"
 	{
@@ -3114,6 +4209,9 @@
 		"sk"			"Kamera - OFF"
 		"de"			"Kamera - AUS"
 		"pl"			"Kamera - OFF"
+		"ba"		        "Kamera - OFF"
+		"se"		        "Kamera - OFF"
+		"hr"		        "Kamera - OFF"
 	}
 	"change camera press R"
 	{
@@ -3122,6 +4220,9 @@
 		"sk"			"Vypneš/Zapneš kameru"
 		"de"			"Schalten Sie die Kamera AUS oder AN"
 		"pl"			"Włącz/Wyłącz kamerę"
+		"ba"		        "Uključite ili isključite Kameru"
+		"se"		        "Uključite ili isključite Kameru"
+		"hr"		        "Uključite ili isključite Kameru"
 	}
 	"Main Menu"
 	{
@@ -3130,6 +4231,9 @@
 		"sk"			"Hlavné Menu"
 		"de"			"Kopfmenü"
 		"pl"			"Menu głowy"
+		"ba"		        "Izbornik Glava"
+		"se"		        "Izbornik Glava"
+		"hr"		        "Izbornik Glava"
 	}
 	"mainmenu hats"
 	{
@@ -3138,6 +4242,9 @@
 		"sk"			"Vybrať Doplnok (/hats)"
 		"de"			"Wähle Hut (/hats)"
 		"pl"			"Wybierz czapkę (/hats)"
+		"ba"			"Izaberi Šešir (/hats)"
+		"se"			"Izaberi Šešir (/hats)"
+		"hr"			"Izaberi Šešir (/hats)"
 	}
 	"mainmenu trail"
 	{
@@ -3146,6 +4253,9 @@
 		"sk"			"Vybrať Trail (/trail)"
 		"de"			"Wähle Pfad (/trail)"
 		"pl"			"Wybierz trail (/trail)"
+		"ba"			"Izaberi rep (/trail)"
+		"se"			"Izaberi rep (/trail)"
+		"hr"			"Izaberi rep (/trail)"
 	}
 	"mainmenu song"
 	{
@@ -3154,6 +4264,9 @@
 		"sk"			"Pustiť Pieseň (/song)"
 		"de"			"Wähle Lied (/song)"
 		"pl"			"Wybierz piosenkę (/song)"
+		"ba"			"Izaberi pjesmu (/song)"
+		"se"			"Izaberi pjesmu (/song)"
+		"hr"			"Izaberi pjesmu (/song)"
 	}
 	"mainmenu shop"
 	{
@@ -3162,6 +4275,9 @@
 		"sk"			"Herný Obchod (/shop)"
 		"de"			"Spiel-Shop (/shop)"
 		"pl"			"Sklep gry (/shop)"
+		"ba"			"Prodavnica (/shop)"
+		"se"			"Prodavnica (/shop)"
+		"hr"			"Prodavnica (/shop)"
 	}
 	"mainmenu item"
 	{
@@ -3170,6 +4286,9 @@
 		"sk"			"Item Obchod (/item)"
 		"de"			"Gegendstand Shop (/item)"
 		"pl"			"Sklep z przedmiotami (/item)"
+		"ba"			"Prodavnica predmeta (/item)"
+		"se"			"Prodavnica predmeta (/item)"
+		"hr"			"Prodavnica predmeta (/item)"
 	}
 	"mainmenu report"
 	{
@@ -3178,6 +4297,9 @@
 		"sk"			"Nahlásiť Hráča (/report)"
 		"de"			"Melde Spieler (/report)"
 		"pl"			"Zgłoś gracza (/report)"
+		"ba"			"Prijavi igrača (/report)"
+		"se"			"Prijavi igrača (/report)"
+		"hr"			"Prijavi igrača (/report)"
 	}
 	"mainmenu setting"
 	{
@@ -3186,6 +4308,9 @@
 		"sk"			"Nastavenia (/nastavenia)"
 		"de"			"Einstellung (/setting)"
 		"pl"			"Ustawienia (/setting)"
+		"ba"			"Postavke (/setting)"
+		"se"			"Postavke (/setting)"
+		"hr"			"Postavke (/setting)"
 	}
 	"mainmenu rules"
 	{
@@ -3194,6 +4319,9 @@
 		"sk"			"Pravidlá (/pravidla)"
 		"de"			"Regeln (/rules)"
 		"pl"			"Zasady (/rules)"
+		"ba"			"Pravila (/rules)"
+		"se"			"Pravila (/rules)"
+		"hr"			"Pravila (/rules)"
 	}
 	"mainmenu info"
 	{
@@ -3202,6 +4330,9 @@
 		"sk"			"Info (/Info)"
 		"de"			"Info (/Info)"
 		"pl"			"Informacje (/Info)"
+		"ba"			"Informacije (/Info)"
+		"se"			"Informacije (/Info)"
+		"hr"			"Informacije (/Info)"
 	}
 	"you own"
 	{
@@ -3210,6 +4341,9 @@
 		"sk"			"[Vlastníš]"
 		"de"			"[Du besitzt]"
 		"pl"			"[Posiadasz]"
+		"ba"			"[Ti posjeduješ]"
+		"se"			"[Ti posjeduješ]"
+		"hr"			"[Ti posjeduješ]"
 	}
 	"item jetpack"
 	{
@@ -3218,6 +4352,9 @@
 		"sk"			"JetPack"
 		"de"			"JetPack"
 		"pl"			"JetPack"
+		"ba"			"JetPack"
+		"se"			"JetPack"
+		"hr"			"JetPack"
 	}
 	"item explobullets"
 	{
@@ -3226,6 +4363,9 @@
 		"sk"			"Výbušna munícia"
 		"de"			"Explosive Kugeln"
 		"pl"			"Wybuchowe pociski"
+		"ba"			"Eksplozivni metci"
+		"se"			"Eksplozivni metci"
+		"hr"			"Eksplozivni metci"
 	}
 	"item frezzbullets"
 	{
@@ -3234,6 +4374,9 @@
 		"sk"			"Mraziaca munícia"
 		"de"			"Einfrieren von Kugeln"
 		"pl"			"Zamrażające pociski"
+		"ba"			"Smrzavajući metci"
+		"se"			"Smrzavajući metci"
+		"hr"			"Smrzavajući metci"
 	}
 	"item smartbullets"
 	{
@@ -3242,6 +4385,9 @@
 		"sk"			"Hi-tec munícia"
 		"de"			"Intelligente Kugeln"
 		"pl"			"Inteligentne pociski"
+		"ba"			"Pametni metci"
+		"se"			"Pametni metci"
+		"hr"			"Pametni metci"
 	}
 	"item flamebullets"
 	{
@@ -3250,14 +4396,20 @@
 		"sk"			"Zápalna munícia"
 		"de"			"Brand Kugeln"
 		"pl"			"Podpalające naboje"
+		"ba"			"Zapaljujući metci"
+		"se"			"Zapaljujući metci"
+		"hr"			"Zapaljujući metci"
 	}
 	"item Port-A-Fort"
 	{
 		"en"			"Port-A-Fort"
 		"cze"			"Port-A-Fort"
 		"sk"			"Port-A-Fort"
-		"de"			"Port-A-Fort"
+		"de"                    "Port-A-Fort"
 		"pl"			"Port-A-Fort"
+		"ba"                    "Port-A-Fort"
+		"se"                    "Port-A-Fort"
+		"hr"                    "Port-A-Fort"
 	}
 	"item knifevest"
 	{
@@ -3266,6 +4418,9 @@
 		"sk"			"Vesta proti vrhacím nožom"
 		"de"			"Anti-Wurf-KnifeWeste"
 		"pl"			"Kamizelke odporną na rzutki"
+		"ba"			"Anti Throw KnifeVest"
+		"se"			"Anti Throw KnifeVest"
+		"hr"			"Anti Throw KnifeVest"
 	}
 	"item mole"
 	{
@@ -3274,6 +4429,9 @@
 		"sk"			"Mole"
 		"de"			"Maulwurf"
 		"pl"			"Znamie"
+		"ba"			"Krtica"
+		"se"			"Krtica"
+		"hr"			"Krtica"
 	}
 	"item tower"
 	{
@@ -3282,6 +4440,9 @@
 		"sk"			"Kontrolní Věž"
 		"de"			"Kontrollturm"
 		"pl"			"Wieżę kontroli"
+		"ba"			"Kontrolni toranj"
+		"se"			"Kontrolni toranj"
+		"hr"			"Kontrolni toranj"
 	}
 	"mole info"
 	{
@@ -3290,6 +4451,7 @@
 		"sk"			"V nasledujúcom kole sa oživíš v tíme protihráčov!"
 		"de"			"Die nächste Runde spawnt auf feindliches Team!"
 		"pl"			"W następnej rundzie pojawiasz się w przeciwnej drużynie"
+		"ba"			"Sledeću rundu ćes se spawnati u protivničkom timu"
 	}
 	"purchased"
 	{
@@ -3298,6 +4460,9 @@
 		"sk"			"[Zakúpený]"
 		"de"			"[Gekauft]"
 		"pl"			"[Zakupiono]"
+		"ba"			"[Kupljeno]"
+		"se"			"[Kupljeno]"
+		"hr"			"[Kupljeno]"
 	}
 	"vipmenu credits"
 	{
@@ -3307,6 +4472,10 @@
 		"sk"			"Máš {1} kreditov"
 		"de"			"Sie haben {1} credits"
 		"pl"			"Posiadasz {1} kredytów"
+		"ba"			"Imate {1} creditsa"
+		"se"			"Imate {1} creditsa"
+		"hr"			"Imate {1} creditsa"
+		
 	}
 	"vipmenu expire"
 	{
@@ -3316,6 +4485,9 @@
 		"sk"			"Platnosť VIP skončí: {1}"
 		"de"			"Ihr VIP wird ablaufen in: {1}"
 		"pl"			"Twój VIP wygraśnie za {1}"
+		"ba"			"Vaš VIP ističe za: {1}"
+		"se"			"Vaš VIP ističe za: {1}"
+		"hr"			"Vaš VIP ističe za: {1}"
 	}
 	"never"
 	{
@@ -3324,6 +4496,9 @@
 		"sk"			"NIKDY"
 		"de"			"NIE"
 		"pl"			"NIGDY"
+		"ba"			"NIKADA"
+		"se"			"NIKADA"
+		"hr"			"NIKADA"
 	}
 	"new"
 	{
@@ -3332,6 +4507,9 @@
 		"sk"			"NOVÝ"
 		"de"			"NEU"
 		"pl"			"NOWY"
+		"ba"			"NOVO"
+		"se"			"NOVO"
+		"hr"			"NOVO"
 	}
 	"soon"
 	{
@@ -3340,6 +4518,9 @@
 		"sk"			"ČOSKORO"
 		"de"			"BALD"
 		"pl"			"WKRÓTCE"
+		"ba"			"USKORO"
+		"se"			"USKORO"
+		"hr"			"USKORO"
 	}
 	"credits"
 	{
@@ -3348,6 +4529,9 @@
 		"sk"			"kreditov"
 		"de"			"credits"
 		"pl"			"kredyty"
+		"ba"			"krediti"
+		"se"			"krediti"
+		"hr"			"krediti"
 	}
 	"vip benefits"
 	{
@@ -3356,6 +4540,9 @@
 		"sk"			"VIP Výhody"
 		"de"			"VIP Leistungen"
 		"pl"			"Przywileje VIP"
+		"ba"			"VIP Prednosti"
+		"se"			"VIP Prednosti"
+		"hr"			"VIP Prednosti"
 	}
 	"buy vip forever"
 	{
@@ -3364,6 +4551,9 @@
 		"sk"			"Zakúpiť VIP na vždy"
 		"de"			"Kaufe VIP für immer"
 		"pl"			"Zakupiono VIP na zawsze"
+		"ba"			"Kupi VIP zauvijek"
+		"se"			"Kupi VIP zauvijek"
+		"hr"			"Kupi VIP zauvijek"
 	}
 	"buy temp vip"
 	{
@@ -3372,6 +4562,9 @@
 		"sk"			"Zakúpiť VIP na 14 dní"
 		"de"			"Kaufe VIP für 14 Tage"
 		"pl"			"Zakupiono VIP na 14 dni"
+		"ba"			"Kupi VIP za 14 dana"
+		"se"			"Kupi VIP za 14 dana"
+		"hr"			"Kupi VIP za 14 dana"
 	}
 	"no enough credit"
 	{
@@ -3380,6 +4573,9 @@
 		"sk"			"{darkred}[!] {default}Nemáš dostatok kreditov!"
 		"de"			"{darkred}[!] {default}Du hast nicht genug Credits!"
 		"pl"			"{darkred}[!] {default}Nie masz wystarczająco kredytów!"
+		"ba"			"{darkred}[!] {default}Nemaš dovoljno Creditsa!"
+		"se"			"{darkred}[!] {default}Nemaš dovoljno Creditsa!"
+		"hr"			"{darkred}[!] {default}Nemaš dovoljno Creditsa!"
 	}
 	"vip expire"
 	{
@@ -3388,6 +4584,9 @@
 		"sk"			"{darkred}[!] {default}Tvojmu VIP vypršala platnosť! Môžeš si ho znova aktivovať v {olive}/vip{default}."
 		"de"			"{darkred}[!] {default}Deine VIP sind abgelaufen! Sie können wieder aktivieren in {olive}/vip{default}."
 		"pl"			"{darkred}[!] {default}Twój VIP wygasł! Możesz go aktywować ponownie w menu {olive}/vip{default}."
+		"ba"			"{darkred}[!] {default}Tvoj VIP je istekao! Ponovo ga možete aktivirati u {olive}/vip{default}."
+		"se"			"{darkred}[!] {default}Tvoj VIP je istekao! Ponovo ga možete aktivirati u {olive}/vip{default}."
+		"hr"			"{darkred}[!] {default}Tvoj VIP je istekao! Ponovo ga možete aktivirati u {olive}/vip{default}."
 	}
 	"vip gun menu"
 	{
@@ -3396,6 +4595,9 @@
 		"sk"			"VIP Výber Zbraní"
 		"de"			"VIP Wähle Waffe"
 		"pl"			"Bronie VIP"
+		"ba"			"VIP Izaberi pušku"
+		"se"			"VIP Izaberi pušku"
+		"hr"			"VIP Izaberi pušku"
 	}
 	"you have"
 	{
@@ -3404,6 +4606,9 @@
 		"sk"			"Teraz máš"
 		"de"			"Du hast"
 		"pl"			"Masz"
+		"ba"			"Ti imaš"
+		"se"			"Ti imaš"
+		"hr"			"Ti imaš"
 	}
 	"Song Menu"
 	{
@@ -3412,6 +4617,9 @@
 		"sk"			"Pustiť Pieseň"
 		"de"			"Wähle Lied"
 		"pl"			"Wybierz piosenkę"
+		"ba"			"Izaberi pjesmu"
+		"se"			"Izaberi pjesmu"
+		"hr"			"Izaberi pjesmu"
 	}
 	"random song"
 	{
@@ -3420,6 +4628,9 @@
 		"sk"			"Náhodna Pieseň"
 		"de"			"Zufällige Lied"
 		"pl"			"Losowa piosenka"
+		"ba"			"Nasumična pjesma"
+		"se"			"Nasumična pjesma"
+		"hr"			"Nasumična pjesma"
 	}
 	"xp recived"
 	{
@@ -3429,6 +4640,9 @@
 		"sk"			"{darkred}[!] {default}Bolo ti pripočítaných{olive} {1} {default}XP!"
 		"de"			"{darkred}[!] {default}Wurdest hinzugefügt{olive} {1} {default}XP!"
 		"pl"			"{darkred}[!] {default}Dodano Ci{olive} {1} {default}XP!"
+		"ba"			"{darkred}[!] {default}Je dodano{olive} {1} {default}XP!"
+		"se"			"{darkred}[!] {default}Je dodano{olive} {1} {default}XP!"
+		"hr"			"{darkred}[!] {default}Je dodano{olive} {1} {default}XP!"
 	}
 	"money recived"
 	{
@@ -3438,6 +4652,9 @@
 		"sk"			"{darkred}[!] {default}Bolo ti pripočítaných{lime} ${1} {default} do banky!"
 		"de"			"{darkred}[!] {default}Wurdest hinzugefügt{lime} ${1} {default} zur Bank!"
 		"pl"			"{darkred}[!] {default}Dodano Ci{olive} {1} {default}pieniędzy!"
+		"ba"			"{darkred}[!] {default}Je dodano{lime} ${1} {default} u Banku!"
+		"se"			"{darkred}[!] {default}Je dodano{lime} ${1} {default} u Banku!"
+		"hr"			"{darkred}[!] {default}Je dodano{lime} ${1} {default} u Banku!"
 	}
 	"disablehtmlmotd"
 	{
@@ -3446,6 +4663,9 @@
 		"sk"			"Máš nastavené cl_disablehtmlmotd na 1 a preto sa ti nezobrazí MOTD okno. Napíš toto do konzoly pre povolenie: cl_disablehtmlmotd 0"
 		"de"			"Sie haben cl_disablethtmlmotd zu 1 und für Sie kann MOTD nicht zeigen. Bitte setzen Sie dies in Ihre Konsole: cl_disablethtmlmotd 0"
 		"pl"			"Masz cl_disablehtmlmotd na 1 i nie możesz wyświetlić MOTD. Prosimy zmienić wartośc w konsoli na: cl_disablehtmlmotd 0"
+		"ba"			"Imate cl_disablethtmlmotd 1 i za vas se MOTD ne može prikazati.Kucajte u svoju konzolu : cl_disablethtmlmotd 0"
+		"se"			"Imate cl_disablethtmlmotd 1 i za vas se MOTD ne može prikazati.Kucajte u svoju konzolu : cl_disablethtmlmotd 0"
+		"hr"			"Imate cl_disablethtmlmotd 1 i za vas se MOTD ne može prikazati.Kucajte u svoju konzolu : cl_disablethtmlmotd 0"
 	}
 	"you are been muted"
 	{
@@ -3455,6 +4675,9 @@
 		"sk"			"{darkred}[!] {default}Bol si umlčaný na {olive}{1} {default}minút!"
 		"de"			"{darkred}[!] {default}Du wurdest gemutet {olive}{1} {default}Minute!"
 		"pl"			"{darkred}[!] {default}Zostałeś wyciszony na {olive}{1} {default}minuty!"
+		"ba"			"{darkred}[!] {default}Ti si ušućkan za {olive}{1} {default}Minuta!"
+		"se"			"{darkred}[!] {default}Ti si ušućkan za {olive}{1} {default}Minuta!"
+		"hr"			"{darkred}[!] {default}Ti si ušućkan za {olive}{1} {default}Minuta!"
 	}
 	"you are been unmuted"
 	{
@@ -3463,6 +4686,9 @@
 		"sk"			"{darkred}[!] {default}Už môžeš znovu písať do chatu!"
 		"de"			"{darkred}[!] {default}Du wurdest ungemutet!"
 		"pl"			"{darkred}[!] {default}Zostałeś odciszony!"
+		"ba"			"{darkred}[!] {default}Ti si unmuteovan!"
+		"se"			"{darkred}[!] {default}Ti si unmuteovan!"
+		"hr"			"{darkred}[!] {default}Ti si unmuteovan!"
 	}
 	"admin mute player"
 	{
@@ -3472,6 +4698,9 @@
 		"sk"			"{green}[FUN]{olive} Hráč {default}{1} {olive}bol umlčaný adminom {default}{2}{olive}."
 		"de"			"{green}[FUN]{olive} Spieler {default}{1} {olive}wurde gemutet, von Admin {default}{2}{olive}."
 		"pl"			"{green}[FUN]{olive} Gracz {default}{1} {olive}został wyciszony przez Admina {default}{2}{olive}."
+		"ba"			"{green}[FUN]{olive} Igrač {default}{1} {olive}je ušućkan, od Admina {default}{2}{olive}."
+		"se"			"{green}[FUN]{olive} Igrač {default}{1} {olive}je ušućkan, od Admina {default}{2}{olive}."
+		"hr"			"{green}[FUN]{olive} Igrač {default}{1} {olive}je ušućkan, od Admina {default}{2}{olive}."
 	}
 	"admin unmute player"
 	{
@@ -3481,6 +4710,10 @@
 		"sk"			"{green}[FUN]{olive} Hráč {default}{1} {olive}bol odmlčaní adminom {default}{2}{olive}."
 		"de"			"{green}[FUN]{olive} Spieler {default}{1} {olive}wurde ungemutet, von Admin {default}{2}{olive}."
 		"pl"			"{green}[FUN]{olive} Gracz {default}{1} {olive}został odciszony przez Admina {default}{2}{olive}."
+		"ba"			"{green}[FUN]{olive} Igrač {default}{1} {olive}je unmuteovan, od Admina {default}{2}{olive}."
+		"se"			"{green}[FUN]{olive} Igrač {default}{1} {olive}je unmuteovan, od Admina {default}{2}{olive}."
+		"hr"			"{green}[FUN]{olive} Igrač {default}{1} {olive}je unmuteovan, od Admina {default}{2}{olive}."
+	}
 	}
 	"admin teleport player"
 	{
@@ -3490,6 +4723,9 @@
 		"sk"			"{green}[FUN]{olive} Hráč {default}{1} {olive}bol teleportovaný adminom {default}{2}{olive}."
 		"de"			"{green}[FUN]{olive} Spieler {default}{1} {olive}wurde teleportet, von Admin {default}{2}{olive}."
 		"pl"			"{green}[FUN]{olive} Gracz {default}{1} {olive}został przeteleportowany przez Admina {default}{2}{olive}."
+		"ba"			"{green}[FUN]{olive} Igrač {default}{1} {olive}je teleportovan, od Admina {default}{2}{olive}."
+		"se"			"{green}[FUN]{olive} Igrač {default}{1} {olive}je teleportovan, od Admina {default}{2}{olive}."
+		"hr"			"{green}[FUN]{olive} Igrač {default}{1} {olive}je teleportovan, od Admina {default}{2}{olive}."
 	}
 	"enter positive value"
 	{
@@ -3498,6 +4734,9 @@
 		"sk"			"{darkred}[!] {default}Musíte zadať kladnú hodnotu!"
 		"de"			"{darkred}[!] {default}Sie müssen einen positiven Wert eingeben!"
 		"pl"			"{darkred}[!] {default}Musisz wstawić wartość dodatnią!"
+		"ba"			"{darkred}[!] {default}Morate upsati pozitivnu valutu!"
+		"se"			"{darkred}[!] {default}Morate upsati pozitivnu valutu!"
+		"hr"			"{darkred}[!] {default}Morate upsati pozitivnu valutu!"
 	}
 	"min 10000"
 	{
@@ -3506,6 +4745,9 @@
 		"sk"			"{darkred}[!] {default}Minimálne môžeš poslať {lime}$10,000{default}!"
 		"de"			"{darkred}[!] {default}Der Mindestbetrag, den Sie senden können, ist {lime}$10,000{default}!!"
 		"pl"			"{darkred}[!] {default}Minimilna wartośc jaką możesz wysłać to {lime}$10,000{default}!!"
+		"ba"			"{darkred}[!] {default}Najmanje što možes poslati je {lime}$10,000{default}!!"
+		"se"			"{darkred}[!] {default}Najmanje što možes poslati je {lime}$10,000{default}!!"
+		"hr"			"{darkred}[!] {default}Najmanje što možes poslati je {lime}$10,000{default}!!"
 	}
 	"much money"
 	{
@@ -3514,6 +4756,9 @@
 		"sk"			"{darkred}[!] {default}Toľko peňazí v banke nemáš!"
 		"de"			"{darkred}[!] {default}So viel Geld besitzt du nicht !"
 		"pl"			"{darkred}[!] {default}Nie masz tylu pieniędzy!"
+		"ba"			"{darkred}[!] {default}Neposjeduješ toliko novca !"
+		"se"			"{darkred}[!] {default}Neposjeduješ toliko novca !"
+		"hr"			"{darkred}[!] {default}Neposjeduješ toliko novca !"
 	}
 	"Send Menu"
 	{
@@ -3523,6 +4768,9 @@
 		"sk"			"Poslať hráčovy ${1} (/send <čiastka>)\n-${2} poplatok"
 		"de"			"Sende an Spieler ${1} (/send <ammount>)\n-${2} Preis"
 		"pl"			"Wysłano do gracza ${1} (/send <ammount>)\n-${2} podatek"
+		"ba"			"Pošalji igraču ${1} (/send <ammount>)\n-${2} Provizija"
+		"se"			"Pošalji igraču ${1} (/send <ammount>)\n-${2} Provizija"
+		"hr"			"Pošalji igraču ${1} (/send <ammount>)\n-${2} Provizija"
 	}
 	"you sent money"
 	{
@@ -3532,6 +4780,9 @@
 		"sk"			"{darkred}[!] {default}Poslal si {lime}${1} {default}hráčovy {olive}{2}{default}."
 		"de"			"{darkred}[!] {default}Du hast geschickt {lime}${1} {default}an den Spieler {olive}{2}{default}."
 		"pl"			"{darkred}[!] {default}Wysłałeś {lime}${1} {default}do gracza {olive}{2}{default}."
+		"ba"			"{darkred}[!] {default}Ti si posalo {lime}${1} {default}igraču {olive}{2}{default}."
+		"se"			"{darkred}[!] {default}Ti si posalo {lime}${1} {default}igraču {olive}{2}{default}."
+		"hr"			"{darkred}[!] {default}Ti si posalo {lime}${1} {default}igraču {olive}{2}{default}."
 	}
 	"you recived money"
 	{
@@ -3541,6 +4792,9 @@
 		"sk"			"{darkred}[!] {olive}{1} {default}ti poslal {lime}${2}{default}."
 		"de"			"{darkred}[!] {olive}{1} {default}schickte dich {lime}${2}{default}."
 		"pl"			"{darkred}[!] {olive}{1} {default}wysłał Ci {lime}${2}{default}."
+		"ba"			"{darkred}[!] {olive}{1} {default}je vam poslao {lime}${2}{default}."
+		"se"			"{darkred}[!] {olive}{1} {default}je vam poslao {lime}${2}{default}."
+		"hr"			"{darkred}[!] {olive}{1} {default}je vam poslao {lime}${2}{default}."
 	}
 	"rtv done"
 	{
@@ -3549,6 +4803,9 @@
 		"sk"			"{green}[FUN] {olive}Dostatok hráčov hlasovalo pre novú mapu, toto je posledné kolo!"
 		"de"			"{green}[FUN] {olive}Genug Spieler haben für die neue Karte gestimmt, dies ist die letzte Runde!"
 		"pl"			"{green}[FUN] {olive}Wystarczająca ilość graczy zagłosowała za zmianą mapy, to ostatnia runda!"
+		"ba"			"{green}[FUN] {olive}Dovoljno igrača je glasalo za novu mapu,ovo je zadnja runda!"
+		"se"			"{green}[FUN] {olive}Dovoljno igrača je glasalo za novu mapu,ovo je zadnja runda!"
+		"hr"			"{green}[FUN] {olive}Dovoljno igrača je glasalo za novu mapu,ovo je zadnja runda!"
 	}
 	"rtv need"
 	{
@@ -3558,6 +4815,9 @@
 		"sk"			"{green}[FUN] {olive}Eště {default}{1} {olive}hráčov musí napísať {darkred}rtv {olive}pre nové hlasovanie máp!"
 		"de"			"{green}[FUN] {default}{1} {olive}mehr Spieler müssen tippen {darkred}rtv {olive}für einen neuen Kartenpool!"
 		"pl"			"{green}[FUN] {default}{1} {olive}więcej graczy musi wpisać {darkred}rtv {olive},aby zmienić mapę!"
+		"ba"			"{green}[FUN] {default}{1} {olive}igrača mora ukucati {darkred}rtv {olive}za novo glasanje!"
+		"se"			"{green}[FUN] {default}{1} {olive}igrača mora ukucati {darkred}rtv {olive}za novo glasanje!"
+		"hr"			"{green}[FUN] {default}{1} {olive}igrača mora ukucati {darkred}rtv {olive}za novo glasanje!"
 	}
 	"played first"
 	{
@@ -3567,6 +4827,9 @@
 		"sk"			"{darkred}[!] {default}Na serveri si bol prvýkrát{olive} {1}{default}."
 		"de"			"{darkred}[!] {default}Zum ersten Mal waren Sie auf dem Server{olive} {1}{default}."
 		"pl"			"{darkred}[!] {default}Po raz pierwszy byłeś na serwerze przez{olive} {1}{default}."
+		"ba"			"{darkred}[!] {default}Prvi put ste bili na serveru {olive} {1}{default}."
+		"se"			"{darkred}[!] {default}Prvi put ste bili na serveru {olive} {1}{default}."
+		"hr"			"{darkred}[!] {default}Prvi put ste bili na serveru {olive} {1}{default}."
 	}
 	"played hours"
 	{
@@ -3576,6 +4839,9 @@
 		"sk"			"{darkred}[!] {default}Na serveri máš nahratých{olive} {1}{default} hodín."
 		"de"			"{darkred}[!] {default}Sie haben auf diesem Server für gespielt{olive} {1}{default} Std."
 		"pl"			"{darkred}[!] {default}Grałeś na serwerze{olive} {1}{default} godzin."
+		"ba"			"{darkred}[!] {default}Na ovom serveru ste igrali{olive} {1}{default} Sata."
+		"se"			"{darkred}[!] {default}Na ovom serveru ste igrali{olive} {1}{default} Sata."
+		"hr"			"{darkred}[!] {default}Na ovom serveru ste igrali{olive} {1}{default} Sata."
 	}
 	"pick present"
 	{
@@ -3584,6 +4850,9 @@
 		"sk"			"zobral darček"
 		"de"			"Geschenk abgeholt"
 		"pl"			"podniósł prezent"
+		"ba"			"je pokupio poklon"
+		"se"			"je pokupio poklon"
+		"hr"			"je pokupio poklon"
 	}
 	"want much"
 	{
@@ -3592,6 +4861,9 @@
 		"sk"			"{darkred}[!] {default}Chcel si príliš veľa a preto nemáš nič!"
 		"de"			"{darkred}[!] {default}Nun, du wolltest zu viel, das hat dich verdient ... Nichts."
 		"pl"			"{darkred}[!] {default}Cóż, chciałeś wiele, ale osiągnąłeś... Nic."
+		"ba"			"{darkred}[!] {default}Htio si previše,to ti je pomoglo da ništa ne dobiješ"
+		"se"			"{darkred}[!] {default}Htio si previše,to ti je pomoglo da ništa ne dobiješ"
+		"hr"			"{darkred}[!] {default}Htio si previše,to ti je pomoglo da ništa ne dobiješ"
 	}
 	"money from gift"
 	{
@@ -3601,6 +4873,9 @@
 		"sk"			"{darkred}[!] {default}Získal si{lime} ${1}{default} z darčeku!"
 		"de"			"{darkred}[!] {default}Sie erhalten{lime} ${1}{default} ein Geschenk!"
 		"pl"			"{darkred}[!] {default}Otrzymałeś{lime} ${1}{default} z prezentu!"
+		"ba"			"{darkred}[!] {default}Dobijaš{lime} ${1}{default} poklon!"
+		"se"			"{darkred}[!] {default}Dobijaš{lime} ${1}{default} poklon!"
+		"hr"			"{darkred}[!] {default}Dobijaš{lime} ${1}{default} poklon!"
 	}
 	"xp from gift"
 	{
@@ -3610,6 +4885,9 @@
 		"sk"			"{darkred}[!] {default}Získal si{olive} {1} XP{default} z darčeku!"
 		"de"			"{darkred}[!] {default}Sie erhalten{olive} {1} XP{default} ein Geschenk!"
 		"pl"			"{darkred}[!] {default}Otrzymałeś{olive} {1} XP{default} z prezentu!"
+		"ba"			"{darkred}[!] {default}Dobijate{olive} {1} XP{default} kao poklon!"
+		"se"			"{darkred}[!] {default}Dobijate{olive} {1} XP{default} kao poklon!"
+		"hr"			"{darkred}[!] {default}Dobijate{olive} {1} XP{default} kao poklon!"
 	}
 	"item from gift"
 	{
@@ -3619,6 +4897,9 @@
 		"sk"			"{darkred}[!] {default}Získal si {olive}{1} {default}z darčeku!"
 		"de"			"{darkred}[!] {default}Sie erhalten {olive}{1} {default}ein Geschenk!"
 		"pl"			"{darkred}[!] {default}Otrzymałeś {olive}{1} {default}prezent!"
+		"ba"			"{darkred}[!] {default}Dobijate {olive}{1} {default}kao Poklon!"
+		"se"			"{darkred}[!] {default}Dobijate {olive}{1} {default}kao Poklon!"
+		"hr"			"{darkred}[!] {default}Dobijate {olive}{1} {default}kao Poklon!"
 	}
 	"set from gift"
 	{
@@ -3627,6 +4908,9 @@
 		"sk"			"{darkred}[!] {default}Získal si {olive}menšiu výbavu {default}z darčeku!"
 		"de"			"{darkred}[!] {default}Sie erhalten {olive}kleinere Nachrüstungen {default} ein Geschenk!"
 		"pl"			"{darkred}[!] {default}Otrzymałeś {olive}małą modernizacje {default} prezentu!"
+		"ba"			"{darkred}[!] {default}Dobijaš {olive}manju nadogradnju {default} kao poklon!"
+		"se"			"{darkred}[!] {default}Dobijaš {olive}manju nadogradnju {default} kao poklon!"
+		"hr"			"{darkred}[!] {default}Dobijaš {olive}manju nadogradnju {default} kao poklon!"
 	}
 	"nothing from gift"
 	{
@@ -3635,6 +4919,9 @@
 		"sk"			"{darkred}[!] {default}Bohužiaľ si v darčeku nič nenašiel :("
 		"de"			"{darkred}[!] {default}Leider hast du in der Geschenk nichts gefunden :("
 		"pl"			"{darkred}[!] {default}Niestety nic nie znalazłeś w prezencie :("
+		"ba"			"{darkred}[!] {default}Nažalost ništa nisi dobio u poklonu :("
+		"se"			"{darkred}[!] {default}Nažalost ništa nisi dobio u poklonu :("
+		"hr"			"{darkred}[!] {default}Nažalost ništa nisi dobio u poklonu :("
 	}
 	"xp money from gift"
 	{
@@ -3644,6 +4931,9 @@
 		"sk"			"{darkred}[!] {default}Získal si {olive}{1} XP {default}a {lime}${2} {default}z darčeku!"
 		"de"			"{darkred}[!] {default}Sie erhalten {olive}{1} XP {default}und {lime}${2} {default} ein Geschenk!"
 		"pl"			"{darkred}[!] {default}Otrzymałeś {olive}{1} XP {default}i {lime}${2} {default}z prezentu!"
+		"ba"			"{darkred}[!] {default}Dobijate {olive}{1} XP {default}i {lime}${2} {default} kao poklon!"
+		"se"			"{darkred}[!] {default}Dobijate {olive}{1} XP {default}i {lime}${2} {default} kao poklon!"
+		"hr"			"{darkred}[!] {default}Dobijate {olive}{1} XP {default}i {lime}${2} {default} kao poklon!"
 	}
 	"vip from gift"
 	{
@@ -3652,6 +4942,10 @@
 		"sk"			"{darkred}[!] {default}Získal si {olive}VIP {default}navždy z darčeka !!!"
 		"de"			"{darkred}[!] {default}Sie erhalten {olive}VIP {default}für immer ein Geschenk!!!"
 		"pl"			"{darkred}[!] {default}Otrzymałeś {olive}VIP {default}na zawsze, w prezencie!!!"
+		"ba"			"{darkred}[!] {default}Dobijate {olive}VIP {default}zauvijek poklon!!!"
+		"se"			"{darkred}[!] {default}Dobijate {olive}VIP {default}zauvijek poklon!!!"
+		"hr"			"{darkred}[!] {default}Dobijate {olive}VIP {default}zauvijek poklon!!!"
+		
 	}
 	"bonusxp from gift"
 	{
@@ -3661,6 +4955,9 @@
 		"sk"			"{darkred}[!] {default}Získal si {olive}{1} Bonus XP {default}z darčeku!"
 		"de"			"{darkred}[!] {default}Sie erhalten {olive}{1} Bonus XP {default}ein Geschenk!"
 		"pl"			"{darkred}[!] {default}You're earned {olive}{1} Bonus XP {default}a gift!"
+		"ba"			"{darkred}[!] {default}Dobijate {olive}{1} Bonus XP {default}kao poklon!"
+		"se"			"{darkred}[!] {default}Dobijate {olive}{1} Bonus XP {default}kao poklon!"
+		"hr"			"{darkred}[!] {default}Dobijate {olive}{1} Bonus XP {default}kao poklon!"
 	}
 	"hp from gift"
 	{
@@ -3670,6 +4967,9 @@
 		"sk"			"{darkred}[!] {default}Získal si {olive}+{1} HP{default} z darčeku!"
 		"de"			"{darkred}[!] {default}Sie erhalten {olive}+{1} HP{default} ein Geschenk!"
 		"pl"			"{darkred}[!] {default}Otrzymałeś {olive}+{1} HP{default} z prezentu!"
+		"ba"			"{darkred}[!] {default}Dobijaš {olive}+{1} HP{default} kao poklon!"
+		"se"			"{darkred}[!] {default}Dobijaš {olive}+{1} HP{default} kao poklon!"
+		"hr"			"{darkred}[!] {default}Dobijaš {olive}+{1} HP{default} kao poklon!"
 	}
 	"chat kill"
 	{
@@ -3679,6 +4979,9 @@
 		"sk"			"{darkred}[!] {default}Za zabitie si získal {olive}{1} {default}XP."
 		"de"			"{darkred}[!] {default}Zum töten hast du gewonnen {olive}{1} {default}XP."
 		"pl"			"{darkred}[!] {default}Za zabójstwo otrzymałeś {olive}{1} {default}XP."
+		"ba"			"{darkred}[!] {default}Za ubijanje si dobio {olive}{1} {default}XP."
+		"se"			"{darkred}[!] {default}Za ubijanje si dobio {olive}{1} {default}XP."
+		"hr"			"{darkred}[!] {default}Za ubijanje si dobio {olive}{1} {default}XP."
 	}
 	"chat assist"
 	{
@@ -3688,6 +4991,9 @@
 		"sk"			"{darkred}[!] {default}Za assistenciu si získal {olive}{1} {default}XP."
 		"de"			"{darkred}[!] {default}Für Hilfe, die Sie gewonnen haben {olive}{1} {default}XP."
 		"pl"			"{darkred}[!] {default}Za asystę otrzymałeś {olive}{1} {default}XP."
+		"ba"			"{darkred}[!] {default}Za pomoć dobio si {olive}{1} {default}XP."
+		"se"			"{darkred}[!] {default}Za pomoć dobio si {olive}{1} {default}XP."
+		"hr"			"{darkred}[!] {default}Za pomoć dobio si {olive}{1} {default}XP."
 	}
 	"chat mvp"
 	{
@@ -3697,6 +5003,9 @@
 		"sk"			"{darkred}[!] {default}Ako nejlepší hráč kola si získal {olive}{1} {default}XP."
 		"de"			"{darkred}[!] {default}Als bester Spieler in der Runde hast du gewonnen {olive}{1} {default}XP."
 		"pl"			"{darkred}[!] {default}Za bycie MVP otrzymałeś {olive}{1} {default}XP."
+		"ba"			"{darkred}[!] {default}Kao najbolji igrač runde dobio si {olive}{1} {default}XP."
+		"se"			"{darkred}[!] {default}Kao najbolji igrač runde dobio si {olive}{1} {default}XP."
+		"hr"			"{darkred}[!] {default}Kao najbolji igrač runde dobio si {olive}{1} {default}XP."
 	}
 	"chat plant"
 	{
@@ -3706,6 +5015,9 @@
 		"sk"			"{darkred}[!] {default}Za položenie bomby si získal {olive}{1} {default}XP."
 		"de"			"{darkred}[!] {default}Für das Legen der Bombe hast du gewonnen {olive}{1} {default}XP."
 		"pl"			"{darkred}[!] {default}Za podłożenie bomby otrzymałeś {olive}{1} {default}XP."
+		"ba"			"{darkred}[!] {default}Za postavljanje bombe dobio si {olive}{1} {default}XP."
+		"se"			"{darkred}[!] {default}Za postavljanje bombe dobio si {olive}{1} {default}XP."
+		"hr"			"{darkred}[!] {default}Za postavljanje bombe dobio si {olive}{1} {default}XP."
 	}
 	"chat defuse"
 	{
@@ -3715,6 +5027,9 @@
 		"sk"			"{darkred}[!] {default}Za zneškodnenie bomby si získal {olive}{1} {default}XP."
 		"de"			"{darkred}[!] {default}Für das Entschärfen der Bombe hast du gewonnen {olive}{1} {default}XP."
 		"pl"			"{darkred}[!] {default}Za rozbrojenie bomby otrzymałeś {olive}{1} {default}XP."
+		"ba"			"{darkred}[!] {default}Za defuse bombe dobio si {olive}{1} {default}XP."
+		"se"			"{darkred}[!] {default}Za defuse bombe dobio si {olive}{1} {default}XP."
+		"hr"			"{darkred}[!] {default}Za defuse bombe dobio si {olive}{1} {default}XP."
 	}
 	"chat rescued"
 	{
@@ -3724,6 +5039,9 @@
 		"sk"			"{darkred}[!] {default}Za záchranu rukojemníkov si získal {olive}{1} {default}XP."
 		"de"			"{darkred}[!] {default}Für die Geiselrettung hast du gewonnen {olive}{1} {default}XP."
 		"pl"			"{darkred}[!] {default}Za uratowanie zakładnika otrzymałeś {olive}{1} {default}XP."
+		"ba"			"{darkred}[!] {default}Za spašavanje žrtve dobio si {olive}{1} {default}XP."
+		"se"			"{darkred}[!] {default}Za spašavanje žrtve dobio si {olive}{1} {default}XP."
+		"hr"			"{darkred}[!] {default}Za spašavanje žrtve dobio si {olive}{1} {default}XP."
 	}
 	"Report Menu"
 	{
@@ -3732,6 +5050,9 @@
 		"sk"			"Nahlásiť Hráča"
 		"de"			"Melde Spieler"
 		"pl"			"Zgłoś gracza"
+		"ba"			"Prijavi igrača"
+		"se"			"Prijavi igrača"
+		"hr"			"Prijavi igrača"
 	}
 	"report reason"
 	{
@@ -3740,16 +5061,22 @@
 		"sk"			"Dôvod nahlásenia"
 		"de"			"Grund melden"
 		"pl"			"Podwód zgłoszenia"
+		"ba"			"Razlog prijave"
+		"se"			"Razlog prijave"
+		"hr"			"Razlog prijave"
 	}
 	"you reported player"
 	{
 		"#format"		"{1:s}"
-		"en"			"{darkred}[!] {default}You're has reported player {olive}{1}{default}."
+		"en"			"{darkred}[!] {default}You have a reported player {olive}{1}{default}."
 		"cze"			"{darkred}[!] {default}Nahlasil si hráče {olive}{1}{default}."
 		"sk"			"{darkred}[!] {default}Nahlásil si hráča {olive}{1}{default}."
 		"de"			"{darkred}[!] {default}Du hast einen Spieler gemeldet {olive}{1}{default}."
 		"pl"			"{darkred}[!] {default}Zgłosiłeś gracza {olive}{1}{default}."
-	}
+		"ba"                    "{darkred}[!] {default}Prijavio si igrača {olive}{1}{default}."
+		"se"                    "{darkred}[!] {default}Prijavio si igrača {olive}{1}{default}."
+		"hr"                    "{darkred}[!] {default}Prijavio si igrača {olive}{1}{default}."
+	}	
 	"Valve Menu"
 	{
 		"en"			"Valve Content"
@@ -3757,6 +5084,9 @@
 		"sk"			"Valve Obsah"
 		"de"			"Valve Inhalt"
 		"pl"			"Valve Content"
+		"ba"                    "Valve Sadržaj"
+		"se"                    "Valve Sadržaj"
+		"hr"                    "Valve Sadržaj"
 	}
 	"valve weapons"
 	{
@@ -3765,6 +5095,9 @@
 		"sk"			"Prispôsobenie Zbrane"
 		"de"			"Waffenanpassung"
 		"pl"			"Ustawienia Broni"
+		"ba"                    "Uređivanje  pušaka"
+		"se"                    "Uređivanje  pušaka"
+		"hr"                    "Uređivanje  pušaka"
 	}
 	"valve knife"
 	{
@@ -3773,6 +5106,9 @@
 		"sk"			"Výber Nožíka"
 		"de"			"Wähle Knife"
 		"pl"			"Wybierz Nóż"
+		"ba"                    "Izaberi nož"
+		"se"                    "Izaberi nož"
+		"hr"                    "Izaberi nož"
 	}
 	"valve glove"
 	{
@@ -3781,6 +5117,9 @@
 		"sk"			"Výber Rukavíc"
 		"de"			"Wähle Gloves"
 		"pl"			"Wybierz Rękawice"
+		"ba"                    "Izaberi rukavice"
+		"se"                    "Izaberi rukavice"
+		"hr"                    "Izaberi rukavice"
 	}
 	"valve sprays"
 	{
@@ -3789,6 +5128,9 @@
 		"sk"			"Výber Spreye"
 		"de"			"Wähle Graffiti"
 		"pl"			"Wybierz Graffiti"
+		"ba"                    "Izaberi grafiti"
+		"se"                    "Izaberi grafiti"
+		"hr"                    "Izaberi grafiti"
 	}
 	"valve music"
 	{
@@ -3797,6 +5139,9 @@
 		"sk"			"Výber Hudobného Balíčka"
 		"de"			"Wähle Musik Kit"
 		"pl"			"Wybierz Zestaw Muzyczny"
+		"ba"                    "Izaberi Muzički kit"
+		"se"                    "Izaberi Muzički kit"
+		"hr"                    "Izaberi Muzički kit"
 	}
 	"valve coin"
 	{
@@ -3805,6 +5150,9 @@
 		"sk"			"Výber Mince"
 		"de"			"Wähle Münze"
 		"pl"			"Wybierz Żeton"
+		"ba"                    "Izaberi Žeton"
+		"se"                    "Izaberi Žeton"
+		"hr"                    "Izaberi Žeton"
 	}
 	"technology"
 	{
@@ -3813,6 +5161,9 @@
 		"sk"			"Technológie"
 		"de"			"Technologie"
 		"pl"			"Technologie"
+		"ba"                    "Tehnologija"
+		"se"                    "Tehnologija"
+		"hr"                    "Tehnologija"
 	}
 	"stattrack all"
 	{
@@ -3821,6 +5172,9 @@
 		"sk"			"StatTrak™ na všetkých zbraniach"
 		"de"			"StatTrak™ auf allen Waffen"
 		"pl"			"StatTrak™ na wszystkich broniach"
+		"ba"                    "StatTrak™ na svim puškama"
+		"se"                    "StatTrak™ na svim puškama"
+		"hr"                    "StatTrak™ na svim puškama"
 	}
 	"stattrack knife"
 	{
@@ -3829,6 +5183,9 @@
 		"sk"			"StatTrak™ iba na nožíku"
 		"de"			"StatTrak™ nur auf Knife"
 		"pl"			"StatTrak™ tylko na nożu"
+		"ba"                    "StatTrak™ na nožu"
+		"se"                    "StatTrak™ na nožu"
+		"hr"                    "StatTrak™ na nožu"
 	}
 	"skin for current"
 	{
@@ -3837,6 +5194,9 @@
 		"sk"			"Vybrať skin pre aktualnu zbraň"
 		"de"			"Wähle skin für die aktuelle Waffe"
 		"pl"			"Wybierz skin dla aktualnej broni"
+		"ba"                    "Izaberi skin za trenutno oružje"
+		"se"                    "Izaberi skin za trenutno oružje"
+		"hr"                    "Izaberi skin za trenutno oružje"
 	}
 	"skin for specific"
 	{
@@ -3845,6 +5205,9 @@
 		"sk"			"Vybrať skin pre určitú zbraň"
 		"de"			"Wähle skin für spezifische Waffe"
 		"pl"			"Wybierz skin dla określonej broni"
+		"ba"			"Izaberi skin za specifičnu pušku"
+		"se"			"Izaberi skin za specifičnu pušku"
+		"hr"			"Izaberi skin za specifičnu pušku"
 	}
 	"skin for all"
 	{
@@ -3853,6 +5216,9 @@
 		"sk"			"Vybrať skin pre všetky zbraňe"
 		"de"			"Wähle skin für alle Waffen"
 		"pl"			"Wybierz skin dla wszystkich broni"
+		"ba"			"Izaberi skin za sve puške"
+		"se"			"Izaberi skin za sve puške"
+		"hr"			"Izaberi skin za sve puške"
 	}
 	"menu set sticker"
 	{
@@ -3861,6 +5227,9 @@
 		"sk"			"Nastaviť Samolepku"
 		"de"			"Wähle Sticker"
 		"pl"			"Wybierz naklejkę"
+		"ba"			"Izaberi stikere"
+		"se"			"Izaberi stikere"
+		"hr"			"Izaberi stikere"
 	}
 	"menu set float"
 	{
@@ -3869,6 +5238,9 @@
 		"sk"			"Nastaviť Float zbrane"
 		"de"			"Wähle Waffen Float"
 		"pl"			"Wybierz Float"
+		"ba"			"Izaberi Float puške"
+		"se"			"Izaberi Float puške"
+		"hr"			"Izaberi Float puške"
 	}
 	"menu set pattern"
 	{
@@ -3877,6 +5249,9 @@
 		"sk"			"Nastaviť Pattern zbrane"
 		"de"			"Wähle Waffenpattern"
 		"pl"			"Wybierz Pattern"
+		"ba"			"Izaberi Pattern puške"
+		"se"			"Izaberi Pattern puške"
+		"hr"			"Izaberi Pattern puške"
 	}
 	"menu set nametag"
 	{
@@ -3885,6 +5260,9 @@
 		"sk"			"Nastaviť NameTag zbrane"
 		"de"			"Wähle Waffen NameTag"
 		"pl"			"Nadaj NameTag"
+		"ba"			"Izaberi Ime puške"
+		"se"			"Izaberi Ime puške"
+		"hr"			"Izaberi Ime puške"
 	}
 	"float set title"
 	{
@@ -3894,6 +5272,9 @@
 		"sk"			"Nastaviť tento Float:\n{1}"
 		"de"			"Stellen Sie dieses Float ein:\n{1}"
 		"pl"			"Ustaw wartość Float na: \n{1}"
+		"ba"			"Stavite ovaj Float: \n{1}"
+		"se"			"Stavite ovaj Float: \n{1}"
+		"hr"			"Stavite ovaj Float: \n{1}"
 	}
 	"pattern set title"
 	{
@@ -3903,6 +5284,9 @@
 		"sk"			"Nastaviť tento Pattern:\n{1}"
 		"de"			"Setze dieses Pattern:\n{1}"
 		"pl"			"Ustaw Pattern na: \n{1}"
+		"ba"			"Stavite ovaj pattern: \n{1}"
+		"se"			"Stavite ovaj Float: \n{1}"
+		"hr"			"Stavite ovaj Float: \n{1}"
 	}
 	"nametag set title"
 	{
@@ -3912,6 +5296,9 @@
 		"sk"			"Nastaviť tento NameTag:\n{1}"
 		"de"			"Stellen Sie diese NameTag ein:\n{1}"
 		"pl"			"Ustaw NameTag na: \n{1}"
+		"ba"			"Stavite ovo Ime: \n{1}"
+		"se"			"Stavite ovo Ime: \n{1}"
+		"hr"			"Stavite ovo Ime: \n{1}"
 	}
 	"ws set on current"
 	{
@@ -3920,6 +5307,9 @@
 		"sk"			"Na aktuálnu zbraň"
 		"de"			"Auf der aktuellen Waffe"
 		"pl"			"Na aktualnej broni"
+		"ba"			"Na trenutnoj pušci"
+		"se"			"Na trenutnoj pušci"
+		"hr"			"Na trenutnoj pušci"
 	}
 	"ws set on all"
 	{
@@ -3928,6 +5318,9 @@
 		"sk"			"Na všetky zbrane"
 		"de"			"Auf alle Waffen"
 		"pl"			"Na wszystkich broniach"
+		"ba"			"Na sve puške"
+		"se"			"Na sve puške"
+		"hr"			"Na sve puške"
 	}
 	"ws cant set weapon"
 	{
@@ -3937,6 +5330,9 @@
 		"sk"			"{darkred}[!] {default}Na túto zbraň nemôžeš nastaviť {1}!"
 		"de"			"{darkred}[!] {default}Auf dieser Waffe kann nicht eingestellt werden{1}!"
 		"pl"			"{darkred}[!] {default}Nie możesz ustawić na tej broni {1}!"
+		"ba"			"{darkred}[!] {default}Na ovoj pušci se ne može postaviti{1}!"
+		"se"			"{darkred}[!] {default}Na ovoj pušci se ne može postaviti{1}!"
+		"hr"			"{darkred}[!] {default}Na ovoj pušci se ne može postaviti{1}!"
 	}
 	"ws set skin"
 	{
@@ -3945,6 +5341,9 @@
 		"sk"			"Zvoľ si skin pre tvoju zbraň"
 		"de"			"Wähle skin für deine Waffe"
 		"pl"			"Wybierz skin dla swojej broni"
+		"ba"			"Izaberi skin za svoju pušku"
+		"se"			"Izaberi skin za svoju pušku"
+		"hr"			"Izaberi skin za svoju pušku"
 	}
 	"ws set skins"
 	{
@@ -3953,6 +5352,9 @@
 		"sk"			"Zvoľ si skin pre tvoje zbrane"
 		"de"			"Wähle skin für deine Waffen"
 		"pl"			"Wybierz skin dla wszystkich broni"
+		"ba"			"Izaberi skin za svoje puške"
+		"se"			"Izaberi skin za svoje puške"
+		"hr"			"Izaberi skin za svoje puške"
 	}
 	"ws search by type"
 	{
@@ -3961,6 +5363,9 @@
 		"sk"			"Hľadať podľa typu zbrane"
 		"de"			"Suche nach Waffentyp"
 		"pl"			"Wybierz według rodzaju broni"
+		"ba"			"Pretraži po tipu puške"
+		"se"			"Pretraži po tipu puške"
+		"hr"			"Pretraži po tipu puške"
 	}
 	"ws search by case"
 	{
@@ -3969,6 +5374,9 @@
 		"sk"			"Hľadať podľa typu debny"
 		"de"			"Suche nach Falltyp"
 		"pl"			"Wybierz według rodzaju skrzynki"
+		"ba"			"Pretraži po tipu case"
+		"se"			"Pretraži po tipu case"
+		"hr"			"Pretraži po tipu case"
 	}
 	"ws choose weapon type"
 	{
@@ -3977,6 +5385,9 @@
 		"sk"			"Zvoľ typ zbrane"
 		"de"			"Wähle Waffenart"
 		"pl"			"Wybierdz rodzaj broni"
+		"ba"			"Izaberi tip puške"
+		"se"			"Izaberi tip puške"
+		"hr"			"Izaberi tip puške"
 	}
 	"ws choose case type"
 	{
@@ -3985,6 +5396,9 @@
 		"sk"			"Zvoľ typ debny"
 		"de"			"Wählen Sie den Falltyp"
 		"pl"			"Wybierz rodzaj skrzynki"
+		"ba"			"Izaberi tip case"
+		"se"			"Izaberi tip case"
+		"hr"			"Izaberi tip case"
 	}
 	"ws choose weapon"
 	{
@@ -3993,6 +5407,9 @@
 		"sk"			"Zvoľ si zbraň"
 		"de"			"Wähle Waffe"
 		"pl"			"Wybierz broń"
+		"ba"			"Izaberi pušku"
+		"se"			"Izaberi pušku"
+		"hr"			"Izaberi pušku"
 	}
 	"ws random"
 	{
@@ -4001,6 +5418,9 @@
 		"sk"			"Náhodný"
 		"de"			"Zufall"
 		"pl"			"Losowy"
+		"ba"			"Nasumični"
+		"se"			"Nasumični"
+		"hr"			"Nasumični"
 	}
 	"ws default"
 	{
@@ -4009,6 +5429,9 @@
 		"sk"			"Predvoleny"
 		"de"			"Standard"
 		"pl"			"Domyślny"
+		"ba"			"Standard"
+		"se"			"Standard"
+		"hr"			"Standard"
 	}
 	"glove set skin"
 	{
@@ -4017,6 +5440,9 @@
 		"sk"			"Zvoľ si skin pre tvoje rukavice"
 		"de"			"Wähle skin für deine Handschuhe"
 		"pl"			"Wybierz skin dla wszystkich rękawiczki"
+		"ba"			"Izaberi skin za rukavice"
+		"se"			"Izaberi skin za rukavice"
+		"hr"			"Izaberi skin za rukavice"
 	}
 	"glove search by type"
 	{
@@ -4025,6 +5451,9 @@
 		"sk"			"Hľadať podľa typu rukavic"
 		"de"			"Suche nach Handschuhetyp"
 		"pl"			"Wybierz według rodzaju rękawiczki"
+		"ba"			"Traži po tipu rukavica"
+		"se"			"Traži po tipu rukavica"
+		"hr"			"Traži po tipu rukavica"
 	}
 	"glove choose type"
 	{
@@ -4033,6 +5462,9 @@
 		"sk"			"Zvoľ typ rukavic"
 		"de"			"Wähle Handschuhetyp"
 		"pl"			"Wybierdz rodzaj rękawiczki"
+		"ba"			"Izaberi po tipu rukavica"
+		"se"			"Izaberi po tipu rukavica"
+		"hr"			"Izaberi po tipu rukavica"
 	}
 	"glove quality"
 	{
@@ -4041,6 +5473,9 @@
 		"sk"			"Zvoľ opotřebení rukavic"
 		"de"			"Wählen Sie die Handschuhqualität"
 		"pl"			"Wybierz jakość rękawic"
+		"ba"			"Izaberi klvalitet rukavica"
+		"se"			"Izaberi klvalitet rukavica"
+		"hr"			"Izaberi klvalitet rukavica"
 	}
 	"Factory-New"
 	{
@@ -4049,6 +5484,10 @@
 		"sk"			"Zbrusu nový"
 		"de"			"Fabrikneu"
 		"pl"			"prosto z fabryki"
+		"ba"			"Factory New"
+		"se"			"Factory New"
+		"hr"			"Factory New"
+		
 	}
 	"Minimal-Wear"
 	{
@@ -4057,6 +5496,9 @@
 		"sk"			"Lehce opotřebený"
 		"de"			"Minimale Gebrauchsspuren"
 		"pl"			"ekkie zużycie"
+		"ba"			"Minimal Wear"
+		"se"			"Minimal Wear"
+		"hr"			"Minimal Wear"
 	}
 	"Field-Tested"
 	{
@@ -4065,6 +5507,9 @@
 		"sk"			"Opotřebený"
 		"de"			"Abgenutzt"
 		"pl"			"po testach bojowych"
+		"ba"			"Field-Tested"
+		"se"			"Field-Tested"
+		"hr"			"Field-Tested"
 	}
 	"Well-Worn"
 	{
@@ -4073,6 +5518,9 @@
 		"sk"			"Silně opotřebený"
 		"de"			"Einsatzerprobt"
 		"pl"			"mocne zużycie"
+		"ba"			"Well-Worn"
+		"se"			"Well-Worn"
+		"hr"			"Well-Worn"
 	}
 	"Battle-Scarred"
 	{
@@ -4081,6 +5529,9 @@
 		"sk"			"Poničený bojem"
 		"de"			"Kampfspuren"
 		"pl"			"po ciężkich walkach"
+		"ba"			"Battle-Scarred"
+		"se"			"Battle-Scarred"
+		"hr"			"Battle-Scarred"
 	}
 	"Knife Menu"
 	{
@@ -4089,6 +5540,9 @@
 		"sk"			"Zvoľ si Nôž"
 		"de"			"Wähle Knife"
 		"pl"			"Wybierz Nóż"
+		"ba"			"Izaberi nož"
+		"se"			"Izaberi nož"
+		"hr"			"Izaberi nož"
 	}
 	"choose knife both"
 	{
@@ -4097,6 +5551,9 @@
 		"sk"			"Zvoľ si Nôž pre oba tímy"
 		"de"			"Wählen Sie Knife für beide Teams"
 		"pl"			"Wybierz Nóż dla obu zespołów"
+		"ba"			"Izaberi nož za oba tima"
+		"se"			"Izaberi nož za oba tima"
+		"hr"			"Izaberi nož za oba tima"
 	}
 	"choose knife ct"
 	{
@@ -4105,6 +5562,9 @@
 		"sk"			"Zvoľ si Nož pre CT"
 		"de"			"Wählen Sie Knife für CT"
 		"pl"			"Wybierz Nóż dla CT"
+		"ba"			"Izaberi nož za CT"
+		"se"			"Izaberi nož za CT"
+		"hr"			"Izaberi nož za CT"
 	}
 	"choose knife t"
 	{
@@ -4113,6 +5573,9 @@
 		"sk"			"Zvoľ si Nož pre T"
 		"de"			"Wählen Sie Knife für T"
 		"pl"			"Wybierz Nóż dla T"
+		"ba"			"Izaberi nož za T"
+		"se"			"Izaberi nož za T"
+		"hr"			"Izaberi nož za T"
 	}
 	"team"
 	{
@@ -4121,6 +5584,9 @@
 		"sk"			"tím"
 		"de"			"Team"
 		"pl"			"Drużyna"
+		"ba"			"Tim"
+		"se"			"Tim"
+		"hr"			"Tim"
 	}
 	"teams"
 	{
@@ -4129,6 +5595,9 @@
 		"sk"			"tímy"
 		"de"			"Teams"
 		"pl"			"Drużyny"
+		"ba"			"Timovi"
+		"se"			"Timovi"
+		"hr"			"Timovi"
 	}
 	"current"
 	{
@@ -4137,6 +5606,9 @@
 		"sk"			"(Aktuálny)"
 		"de"			"(Aktuell)"
 		"pl"			"(Aktualny)"
+		"ba"			"(Trenutno)"
+		"se"			"(Trenutno)"
+		"hr"			"(Trenutno)"
 	}
 	"gold knife"
 	{
@@ -4145,6 +5617,9 @@
 		"sk"			"Zlatý Nôž"
 		"de"			"Golden Knife"
 		"pl"			"Złoty Nóż"
+		"ba"			"Zlatni nož"
+		"se"			"Zlatni nož"
+		"hr"			"Zlatni nož"
 	}
 	"Coin Menu"
 	{
@@ -4153,6 +5628,9 @@
 		"sk"			"Zvoľ si Mincu (/minca)"
 		"de"			"Wähle Münze (/coin)"
 		"pl"			"Wybierz żeton (/coin)"
+		"ba"			"Izaberi žeton (/coin)"
+		"se"			"Izaberi žeton (/coin)"
+		"hr"			"Izaberi žeton (/coin)"
 	}
 	"no coin"
 	{
@@ -4161,6 +5639,9 @@
 		"sk"			"Žiadna Minca"
 		"de"			"Keine Münze"
 		"pl"			"Brak żetonu"
+		"ba"			"Nijedan žeton"
+		"se"			"Nijedan žeton"
+		"hr"			"Nijedan žeton"
 	}
 	"vote next map"
 	{
@@ -4169,6 +5650,9 @@
 		"sk"			"Hlasovanie ďalšej mapy"
 		"de"			"Wählen einer nächsten Karte"
 		"pl"			"Głosowanie na następną mapę"
+		"ba"			"Glasanje za sledeću mapu"
+		"se"			"Glasanje za sledeću mapu"
+		"hr"			"Glasanje za sledeću mapu"
 	}
 	"player voted for"
 	{
@@ -4178,6 +5662,9 @@
 		"sk"			"{green}[FUN] {default}{1} {olive}hlasoval pre {default}{2}{olive}."
 		"de"			"{green}[FUN] {default}{1} {olive}stimmte für {default}{2}{olive}."
 		"pl"			"{green}[FUN] {default}{1} {olive}zagłosował za{default}{2}{olive}."
+		"ba"			"{green}[FUN] {default}{1} {olive}glas za {default}{2}{olive}."
+		"se"			"{green}[FUN] {default}{1} {olive}glas za {default}{2}{olive}."
+		"hr"			"{green}[FUN] {default}{1} {olive}glas za {default}{2}{olive}."
 	}
 	"player not voted"
 	{
@@ -4187,6 +5674,9 @@
 		"sk"			"{green}[FUN] {default}{1} {olive}nehlasoval."
 		"de"			"{green}[FUN] {default}{1} {olive}nicht gewählt."
 		"pl"			"{green}[FUN] {default}{1} {olive}nie głosował."
+		"ba"			"{green}[FUN] {default}{1} {olive}nije glasao."
+		"se"			"{green}[FUN] {default}{1} {olive}nije glasao."
+		"hr"			"{green}[FUN] {default}{1} {olive}nije glasao."
 	}
 	"no any votes"
 	{
@@ -4195,6 +5685,9 @@
 		"sk"			"{green}[FUN] {olive}Nikto nehlasoval, mapa sa zvolí náhodne..."
 		"de"			"{green}[FUN] {olive}Keine Stimmen, Karte wird zufällig ausgewählt..."
 		"pl"			"{green}[FUN] {olive}Brak głosów, zostanie wybrana losowa mapa..."
+		"ba"			"{green}[FUN] {olive}Nijedan glas,bira se nasumična mapa..."
+		"se"			"{green}[FUN] {olive}Nijedan glas,bira se nasumična mapa..."
+		"hr"			"{green}[FUN] {olive}Nijedan glas,bira se nasumična mapa..."
 	}
 	"vote map finished"
 	{
@@ -4203,6 +5696,9 @@
 		"sk"			"{green}[FUN] {olive}Hlasovanie skončilo."
 		"de"			"{green}[FUN] {olive}Abstimmung beendet."
 		"pl"			"{green}[FUN] {olive}Głosowanie zakończone."
+		"ba"			"{green}[FUN] {olive}Glasanje gotovo."
+		"se"			"{green}[FUN] {olive}Glasanje gotovo."
+		"hr"			"{green}[FUN] {olive}Glasanje gotovo."
 	}
 	"next map will"
 	{
@@ -4212,6 +5708,9 @@
 		"sk"			"{green}[FUN] {olive}Nasledujúca mapa bude {default}{1}{olive}."
 		"de"			"{green}[FUN] {olive}Die nächste Karte wird sein {default}{1}{olive}."
 		"pl"			"{green}[FUN] {olive}Następną mapą będzie {default}{1}{olive}."
+		"ba"			"{green}[FUN] {olive}Sledeća mapa će biti {default}{1}{olive}."
+		"se"			"{green}[FUN] {olive}Sledeća mapa će biti {default}{1}{olive}."
+		"hr"			"{green}[FUN] {olive}Sledeća mapa će biti {default}{1}{olive}."
 	}
 	"player pissing"
 	{
@@ -4221,6 +5720,9 @@
 		"sk"			"{green}[FUN]{default} {1} {olive}močí na{default} {2}ovo{olive} telo :D"
 		"de"			"{green}[FUN]{default} {1} {olive}aufpissen{default} {2}'s{olive} Leiche :D"
 		"pl"			"{green}[FUN]{default} {1} {olive}sika na ciało {default} {2}'s{olive} :D"
+		"ba"			"{green}[FUN]{default} {1} {olive}piša na{default} {2}'s{olive} leš :D"
+		"se"			"{green}[FUN]{default} {1} {olive}piša na{default} {2}'s{olive} leš :D"
+		"hr"			"{green}[FUN]{default} {1} {olive}piša na{default} {2}'s{olive} leš :D"
 	}
 	"back menu"
 	{
@@ -4229,6 +5731,9 @@
 		"sk"			"Späť do menu"
 		"de"			"Zurück zum Menü"
 		"pl"			"Powrót do menu"
+		"ba"			"Nazad u izbornik"
+		"se"			"Nazad u izbornik"
+		"hr"			"Nazad u izbornik"
 	}
 	"close"
 	{
@@ -4237,6 +5742,9 @@
 		"sk"			"Zatvoriť"
 		"de"			"Schließen"
 		"pl"			"Zamknij"
+		"ba"			"Zatvori"
+		"se"			"Zatvori"
+		"hr"			"Zatvori"
 	}
 	"via"
 	{
@@ -4245,6 +5753,9 @@
 		"sk"			"Cez"
 		"de"			"Über"
 		"pl"			"Przez"
+		"ba"			"Preko"
+		"se"			"Preko"
+		"hr"			"Preko"
 	}
 	"Credit Menu"
 	{
@@ -4254,6 +5765,9 @@
 		"sk"			"Kredity (/kredit)\nMáš {1} kreditov"
 		"de"			"Credits (/credit)\nDu hast {1} credits"
 		"pl"			"Kredyty (/credit)\nMasz {1} kredytów"
+		"ba"			"Credits (/credit)\nTi imas {1} creditsa"
+		"se"			"Credits (/credit)\nTi imas {1} creditsa"
+		"hr"			"Credits (/credit)\nTi imas {1} creditsa"
 	}
 	"credit purchase vip"
 	{
@@ -4262,6 +5776,9 @@
 		"sk"			"Zakúpiť VIP"
 		"de"			"Kaufe VIP"
 		"pl"			"Zakupiono VIP"
+		"ba"			"Kupi VIP"
+		"se"			"Kupi VIP"
+		"hr"			"Kupi VIP"
 	}
 	"credit purchase xp"
 	{
@@ -4270,6 +5787,9 @@
 		"sk"			"Zakúpiť XP"
 		"de"			"Kaufe XP"
 		"pl"			"Zakupiono XP"
+		"ba"			"Kupi XP"
+		"se"			"Kupi XP"
+		"hr"			"Kupi XP"
 	}
 	"credit purchase money"
 	{
@@ -4278,6 +5798,9 @@
 		"sk"			"Zakúpiť MONEY"
 		"de"			"Kaufe MONEY"
 		"pl"			"Zakupiono MONEY"
+		"ba"			"Kupi MONEY"
+		"se"			"Kupi MONEY"
+		"hr"			"Kupi MONEY"
 	}
 	"credit buy"
 	{
@@ -4286,6 +5809,9 @@
 		"sk"			"Dobiť Kredit"
 		"de"			"Kaufen Credits"
 		"pl"			"Kup Kredyty"
+		"ba"			"Kupi Creditse"
+		"se"			"Kupi Creditse"
+		"hr"			"Kupi Creditse"
 	}
 	"activ old code"
 	{
@@ -4294,6 +5820,9 @@
 		"sk"			"Aktivovať starý CS1.6 kód"
 		"de"			"Aktivieren Sie den alten CS1.6 Code"
 		"pl"			"Aktywuj stary kod CS1.6"
+		"ba"			"Aktiviraj stari CS1.6 kod"
+		"se"			"Aktiviraj stari CS1.6 kod"
+		"hr"			"Aktiviraj stari CS1.6 kod"
 	}
 	"Purchase Menu"
 	{
@@ -4302,6 +5831,9 @@
 		"sk"			"Zakúpenie Kreditov"
 		"de"			"Kaufe Credits"
 		"pl"			"Zakup kredyty"
+		"ba"			"Kupi creditse"
+		"se"			"Kupi creditse"
+		"hr"			"Kupi creditse"
 	}
 	"float info"
 	{
@@ -4310,6 +5842,9 @@
 		"sk"			"Napíš hodnotu v desatinách\nNapríklad 0.00001 pre najlepšiu kvalitu\nalebo 0.9 pre horšiu kvalitu"
 		"de"			"Geben Sie den Wert in Dezimal oder kleiner ein.\nBeispiel 0.00001 für die beste Qualität\noder 0.9 für die niedrige Qualität"
 		"pl"			"Wpisz wartość dziesiętna lub mniejszą\n Dla przykładu 0.00001 dla najlepszej jakości\n lub 0.9 dla niskiej jakości"
+		"ba"			"Unesite broj u decimalnim brojevima ili manje nmr.\nprimjer 0.00001 za najbolju Kvalitetu \noder 0.9 za najgoru kvalitetu"
+		"se"			"Unesite broj u decimalnim brojevima ili manje nmr.\nprimjer 0.00001 za najbolju Kvalitetu \noder 0.9 za najgoru kvalitetu"
+		"hr"			"Unesite broj u decimalnim brojevima ili manje nmr.\nprimjer 0.00001 za najbolju Kvalitetu \noder 0.9 za najgoru kvalitetu"
 	}
 	"float info title"
 	{
@@ -4318,6 +5853,9 @@
 		"sk"			"Nastaviť Float zbrane"
 		"de"			"Wähle Waffen Float"
 		"pl"			"Wybierz Float broni"
+		"ba"			"Izaberi Float puške"
+		"se"			"Izaberi Float puške"
+		"hr"			"Izaberi Float puške"
 	}
 	"pattern info"
 	{
@@ -4326,6 +5864,9 @@
 		"sk"			"Napíš kladnú číselnú hodnotu\nNapríklad 50"
 		"de"			"Geben Sie einen positiven numerischen Wert ein \nBeispiel 50"
 		"pl"			"Wpisz pozytywną wartość numeryczną\nNa przykład 50"
+		"ba"			"Upiši pozitivnu brojnu vrijednost\nPrijmer 50"
+		"se"			"Upiši pozitivnu brojnu vrijednost\nPrijmer 50"
+		"hr"			"Upiši pozitivnu brojnu vrijednost\nPrijmer 50"
 	}
 	"pattern info title"
 	{
@@ -4334,6 +5875,9 @@
 		"sk"			"Nastaviť Pattern zbrane"
 		"de"			"Wähle Waffen Pattern"
 		"pl"			"Wybierz Pattern broni"
+		"ba"			"Izaberi pattern puške"
+		"se"			"Izaberi pattern puške"
+		"hr"			"Izaberi pattern puške"
 	}
 	"nametag info"
 	{
@@ -4342,6 +5886,9 @@
 		"sk"			"Napíš ľubovoľný text\nNapríklad: Magic Stick\nPre zmazanie NameTagu nechajte pole prázdne"
 		"de"			"Geben Sie einen beliebigen Text ein\nBeispiel: Magic Stick\nFür das Löschen von NameTag geben Sie eine leere Zeichenfolge ein"
 		"pl"			"Wpisz dowolny tekst\nPrzykład: Magic Stick\nDla usunięcia NameTag wpisz pustą wartość"
+		"ba"			"Ukucajte neki text\nPrimjer: Magic Stick\nZa brisanje Imena kucajte prazne znakove"
+		"se"			"Ukucajte neki text\nPrimjer: Magic Stick\nZa brisanje Imena kucajte prazne znakove"
+		"hr"			"Ukucajte neki text\nPrimjer: Magic Stick\nZa brisanje Imena kucajte prazne znakove"
 	}
 	"nametag info title"
 	{
@@ -4350,6 +5897,9 @@
 		"sk"			"Nastaviť Nametag zbrane"
 		"de"			"Wähle Waffen Nametag"
 		"pl"			"Wybierz NameTag broni"
+		"ba"                    "Izaberi Ime puške"
+		"se"                    "Izaberi Ime puške"
+		"hr"                    "Izaberi Ime puške"
 	}
 	"paypal info title"
 	{
@@ -4358,6 +5908,9 @@
 		"sk"			"Zakúpenie Kreditov cez PayPal"
 		"de"			"Kaufe Credits über PayPal"
 		"pl"			"Kup kredyty przez PayPal"
+		"ba"                    "Kupi credite preko PayPala"
+		"se"                    "Kupi credite preko PayPala"
+		"hr"                    "Kupi credite preko PayPala"
 	}
 	"paypal info"
 	{
@@ -4366,6 +5919,9 @@
 		"sk"			"0.04€ = 1 kredit\nNa e-mail stoupaa@email.cz\nDo info správy napíš tvoje SteamID alebo link na steam profil!"
 		"de"			"0.04€ = 1 credit\nTo e-mail stoupaa@email.cz\nZur Info-Nachricht schreibe deine SteamID oder verlinke auf das Steam-Profil!"
 		"pl"			"0.04 Euro = 1 kredyt\nNa e-mail stoupaa@email.cz\nW informacjach wpisz swój SteamID lub link do profilu Steam"
+		"ba"			"0.04€ = 1 credit\nNa e-mail stoupaa@email.cz\nZa Informacije pošalji mi svoj SteamID ili link svog steam profila"
+		"se"			"0.04€ = 1 credit\nNa e-mail stoupaa@email.cz\nZa Informacije pošalji mi svoj SteamID ili link svog steam profila"
+		"hr"			"0.04€ = 1 credit\nNa e-mail stoupaa@email.cz\nZa Informacije pošalji mi svoj SteamID ili link svog steam profila"
 	}
 	"paysafecard info title"
 	{
@@ -4374,6 +5930,9 @@
 		"sk"			"Zakúpenie Kreditov cez PaySafeCard"
 		"de"			"Kaufe Credits über PaySafeCard"
 		"pl"			"Kup kredyty przez PaySafeCard"
+		"ba"			"Kupi Credits preko PaySafeCarda"
+		"se"			"Kupi Credits preko PaySafeCarda"
+		"hr"			"Kupi Credits preko PaySafeCarda"
 	}
 	"paysafecard info"
 	{
@@ -4382,6 +5941,9 @@
 		"sk"			"0.04€ = 1 kredit\nKontaktujte majiteľa serveru\nhttp://steamcommunity.com/id/gamerxcz/"
 		"de"			"0.04€ = 1 credit\nWenden Sie sich an den Serverbesitzer\nhttp://steamcommunity.com/id/gamerxcz/"
 		"pl"			"0.04 Euro = 1 kredyt\nSkontaktuj się z właścicielem serwera\nhttp://steamcommunity.com/id/gamerxcz/"
+		"ba"			"0.04€ = 1 credit\nJavite se Vlasniku\nhttp://steamcommunity.com/id/gamerxcz/"
+		"se"			"0.04€ = 1 credit\nJavite se Vlasniku\nhttp://steamcommunity.com/id/gamerxcz/"
+		"hr"			"0.04€ = 1 credit\nJavite se Vlasniku\nhttp://steamcommunity.com/id/gamerxcz/"
 	}
 	"steamoffer info title"
 	{
@@ -4390,6 +5952,7 @@
 		"sk"			"Zakúpenie Kreditov cez Steam Offer"
 		"de"			"Kaufe Credits über Steam Offer"
 		"pl"			"Kup kredyty przez Ofertę Steam"
+		"ba"                    "Kupi Creditse preko Steam Offera"
 	}
 	"steamoffer info"
 	{
@@ -4398,6 +5961,9 @@
 		"sk"			"0.04€ = 1 kredit\nAdresa pre presmerovanie na offer:\nhttp://funmod.org/offer.html\nVšetky itemy zo všetkých hier budú prijaté"
 		"de"			"0.04€ = 1 credit\nAdresse für die Weiterleitung zum Angebot:\nhttp://funmod.org/offer.html\nAlle Elemente aus allen Spiel werden akzeptiert"
 		"pl"			"0.04 Euro = 1 kredyt\nAdres do oferty:\nhttp://funmod.org/offer.html\nPrzedmioty z wszystkich gier są akceptowalne"
+		"ba"			"0.04€ = 1 credit\nAdresa za prosleđicanje\nhttp://funmod.org/offer.html\nSvi itemi i sve se prihvata iz svih igara"
+		"se"			"0.04€ = 1 credit\nAdresa za prosleđicanje\nhttp://funmod.org/offer.html\nSvi itemi i sve se prihvata iz svih igara"
+		"hr"			"0.04€ = 1 credit\nAdresa za prosleđicanje\nhttp://funmod.org/offer.html\nSvi itemi i sve se prihvata iz svih igara"
 	}
 	"oldcode info"
 	{
@@ -4406,6 +5972,9 @@
 		"sk"			"Napíš do chatu tvoj\nstarý VIP kód."
 		"de"			"Schreiben Sie, um Ihren\nVIP-Code zu chatten."
 		"pl"			"Wpisz na czacie swój\nstary kod VIP."
+		"ba"			"Upišite u čet Vaš\nVIP-Code zu dopisivanje."
+		"se"			"Upišite u čet Vaš\nVIP-Code zu dopisivanje."
+		"hr"			"Upišite u čet Vaš\nVIP-Code zu dopisivanje."
 	}
 	"info"
 	{
@@ -4414,6 +5983,9 @@
 		"sk"			"info"
 		"de"			"info"
 		"pl"			"info"
+		"ba"			"info"
+		"se"			"info"
+		"hr"			"info"
 	}
 	"Skybox Menu"
 	{
@@ -4422,6 +5994,9 @@
 		"sk"			"Výber skyboxu"
 		"de"			"Wähle ein Skybox"
 		"pl"			"Wybierz Skybox"
+		"ba"			"Izaberi skybox"
+		"se"			"Izaberi skybox"
+		"hr"			"Izaberi skybox"
 	}
 	"sky default"
 	{
@@ -4430,6 +6005,9 @@
 		"sk"			"Skybox Mapy"
 		"de"			"Karte Skybox"
 		"pl"			"Mapa Skybox"
+		"ba"			"Skybox mape"
+		"se"			"Skybox mape"
+		"hr"			"Skybox mape"	
 	}
 	"give credits"
 	{
@@ -4439,6 +6017,9 @@
 		"sk"			"Darovat {1} kreditov hráčovy:"
 		"de"			"Spende {1} Credits an Spieler:"
 		"pl"			"Daj {1} kredytów dla gracza:"
+		"ba"			"Daj {1} Creditse Igraču:"
+		"se"			"Daj {1} Creditse Igraču:"
+		"hr"			"Daj {1} Creditse Igraču:"
 	}
 	"credits sent"
 	{
@@ -4448,6 +6029,9 @@
 		"sk"			"{darkred}[!] {default}Poslal si{olive} {1} {default}kreditov hráčovy{olive} {2}{default}!"
 		"de"			"{darkred}[!] {default}Du hast{olive} {1} {default}krediten zu{olive} {2} {default}gesendet!"
 		"pl"			"{darkred}[!] {default}Wysłałeś{olive} {1} {default}kredytów do{olive} {2}{default}!"
+		"ba"			"{darkred}[!] {default}Ti si{olive} {1} {default}creditsa poslao{olive} {2} {default}!"
+		"se"			"{darkred}[!] {default}Ti si{olive} {1} {default}creditsa poslao{olive} {2} {default}!"
+		"hr"			"{darkred}[!] {default}Ti si{olive} {1} {default}creditsa poslao{olive} {2} {default}!"
 	}
 	"tower you have"
 	{
@@ -4456,6 +6040,9 @@
 		"sk"			"{darkred}[!] {default}Stále máte postavenou vež!"
 		"de"			"{darkred}[!] {default}Du hast schon einen Turm gebaut!"
 		"pl"			"{darkred}[!] {default}Wciąż posiadasz zbudowaną wieżę!"
+		"ba"			"{darkred}[!] {default}Već si napravio jedan toranj!"
+		"se"			"{darkred}[!] {default}Već si napravio jedan toranj!"
+		"hr"			"{darkred}[!] {default}Već si napravio jedan toranj!"
 	}
 	"tower cant near spawn"
 	{
@@ -4464,6 +6051,9 @@
 		"sk"			"{darkred}[!] {default}Nemôžete postaviť veža blízkosti spawne!"
 		"de"			"{darkred}[!] {default}Du kannst keine türme in der nähe des spawns bauen!"
 		"pl"			"{darkred}[!] {default}Nie możesz budować wieży blisko spawnu!"
+		"ba"			"{darkred}[!] {default}Ne možes postavljati toranj blizu spawna!"
+		"se"			"{darkred}[!] {default}Ne možes postavljati toranj blizu spawna!"
+		"hr"			"{darkred}[!] {default}Ne možes postavljati toranj blizu spawna!"
 	}
 	"tower cant near teleport"
 	{
@@ -4472,6 +6062,9 @@
 		"sk"			"{darkred}[!] {default}Nemôžete postaviť veža blízkosti teleportu!"
 		"de"			"{darkred}[!] {default}Du kannst keinen Turm in der nähe eines Teleports bauen!"
 		"pl"			"{darkred}[!] {default}Nie możesz budować wieży blisko teleportu!"
+		"ba"			"{darkred}[!] {default}Ne možes postavljati toranj blizu teleporta!"
+		"se"			"{darkred}[!] {default}Ne možes postavljati toranj blizu teleporta!"
+		"hr"			"{darkred}[!] {default}Ne možes postavljati toranj blizu teleporta!"
 	}
 	"tower cant on this object"
 	{
@@ -4480,6 +6073,9 @@
 		"sk"			"{darkred}[!] {default}Nemôžete postaviť veža na tomto objektě!"
 		"de"			"{darkred}[!] {default}Du kannst keinen Turm auf diesem Objekt bauen!"
 		"pl"			"{darkred}[!] {default}Nie możesz zbudować wieży na tym obiekcie!"
+		"ba"			"{darkred}[!] {default}Ne možes postavljati toranj na ovaj objekat!"
+		"se"			"{darkred}[!] {default}Ne možes postavljati toranj na ovaj objekat!"
+		"hr"			"{darkred}[!] {default}Ne možes postavljati toranj na ovaj objekat!"
 	}
 	"tower no place"
 	{
@@ -4488,6 +6084,9 @@
 		"sk"			"{darkred}[!] {default}Tu nie je dostatok miesta pre vežu!"
 		"de"			"{darkred}[!] {default}Hier ist nicht genug Platz für einen Turm!"
 		"pl"			"{darkred}[!] {default}Nie ma tu wystarczająco miejsca dla wieży!"
+		"ba"			"{darkred}[!] {default}Ne možes postavljati toranj jer nema dovoljno mjesta!"
+		"se"			"{darkred}[!] {default}Ne možes postavljati toranj jer nema dovoljno mjesta!"
+		"hr"			"{darkred}[!] {default}Ne možes postavljati toranj jer nema dovoljno mjesta!"
 	}
 	"reset skill"
 	{
@@ -4496,6 +6095,9 @@
 		"sk"			"{darkred}[!] {default}Vyresetoval sis svůj skill!"
 		"de"			"{darkred}[!] {default}Zresetowałeś swoje umiejętności!"
 		"pl"			"{darkred}[!] {default}Du hast deine Fähigkeiten zurückgesetzt!"
+		"ba"			"{darkred}[!] {default}Resetovao si svoje mogućnosti!"
+		"se"			"{darkred}[!] {default}Resetovao si svoje mogućnosti!"
+		"hr"			"{darkred}[!] {default}Resetovao si svoje mogućnosti!"
 	}
 	"rate map"
 	{
@@ -4504,6 +6106,9 @@
 		"sk"			"Ohodnoť mapu"
 		"de"			"Bewerten Sie die Karte"
 		"pl"			"Oceń mapę"
+		"ba"			"Ocjeni ovu mapu"
+		"se"			"Ocjeni ovu mapu"
+		"hr"			"Ocjeni ovu mapu"
 	}
 	"you rated map"
 	{
@@ -4512,6 +6117,9 @@
 		"sk"			"Hodnotil jsi"
 		"de"			"Sie haben bewertet"
 		"pl"			"Oceniłeś"
+		"ba"			"Ocjenio si ovu mapu"
+		"se"			"Ocjenio si ovu mapu"
+		"hr"			"Ocjenio si ovu mapu"
 	}
 	"player rated map"
 	{
@@ -4521,6 +6129,9 @@
 		"sk"			"{green}[FUN] {default}{1}{olive} dal této mapě hodnocení {default}{2}{olive}."
 		"de"			"{green}[FUN] {default}{1}{olive} hat diese Karte bewertet {default}{2}{olive}."
 		"pl"			"{green}[FUN] {default}{1}{olive} nadał tej mapie ocenę {default}{2}{olive}."
+		"ba"			"{green}[FUN] {default}{1}{olive} je ovu mapu ocjenio {default}{2}{olive}."
+		"se"			"{green}[FUN] {default}{1}{olive} je ovu mapu ocjenio {default}{2}{olive}."
+		"hr"			"{green}[FUN] {default}{1}{olive} je ovu mapu ocjenio {default}{2}{olive}."
 	}
 	"you change map rate"
 	{
@@ -4530,6 +6141,9 @@
 		"sk"			"{darkred}[!] {default}Změnil si svě hodnocení této mapy na {olive}{1}{default}."
 		"de"			"{darkred}[!] {default}Zmieniłeś ocenę tej mapy na {olive}{1}{default}."
 		"pl"			"{darkred}[!] {default}Sie haben die Bewertung dieser Karte in geändert {olive}{1}{default}."
+		"ba"			"{darkred}[!] {default}Promjenili ste ocjenu ove mape {olive}{1}{default}."
+		"se"			"{darkred}[!] {default}Promjenili ste ocjenu ove mape {olive}{1}{default}."
+		"hr"			"{darkred}[!] {default}Promjenili ste ocjenu ove mape {olive}{1}{default}."
 	}
 	"BOT cant send inv"
 	{
@@ -4538,6 +6152,9 @@
 		"sk"			"{default}[{purple}BOT ● FUNPLAY.pro{default}] {orange}Nemůžu tě pozvat do naší steam skupiny, protože nejsme přátelé. Přijmi moji žádost o přátelstvý a zkuste to znovu."
 		"de"			"{default}[{purple}BOT ● FUNPLAY.pro{default}] {orange}Ich kann dich nicht in unsere Steam-Gruppe einladen, weil wir keine Freunde sind. Bitte akzeptieren Sie meine Freundschaftsanfrage und versuchen Sie es erneut."
 		"pl"			"{default}[{purple}BOT ● FUNPLAY.pro{default}] {orange}Nie mogę zaprosić Cię w naszej steam grupie, ponieważ nie jesteśmy przyjaciółmi. Przyjmij moją prośbę o dodanie do znajomych i spróbuj ponownie."
+		"ba"			"{default}[{purple}BOT ● FUNPLAY.pro{default}] {orange}Ne mogu te dodati u našu Steam Grupu jer nismo prijatelji.Prihvati moj zahtjev za prijateljstvo pa probaj ponovo."
+		"se"			"{default}[{purple}BOT ● FUNPLAY.pro{default}] {orange}Ne mogu te dodati u našu Steam Grupu jer nismo prijatelji.Prihvati moj zahtjev za prijateljstvo pa probaj ponovo."
+		"hr"			"{default}[{purple}BOT ● FUNPLAY.pro{default}] {orange}Ne mogu te dodati u našu Steam Grupu jer nismo prijatelji.Prihvati moj zahtjev za prijateljstvo pa probaj ponovo."
 	}
 	"BOT cant send msg"
 	{
@@ -4546,6 +6163,9 @@
 		"sk"			"{default}[{purple}BOT ● FUNPLAY.pro{default}] {orange}Nemůžu ti posílat zprávy, protože nejsme přátelé. Přijmi moji žádost o přátelstvý a zkuste to znovu."
 		"de"			"{default}[{purple}BOT ● FUNPLAY.pro{default}] {orange}Ich kann dir keine Nachrichten senden, weil wir keine Freunde sind. Bitte akzeptieren Sie meine Freundschaftsanfrage und versuchen Sie es erneut."
 		"pl"			"{default}[{purple}BOT ● FUNPLAY.pro{default}] {orange}Nie mogę wysyłać Ci wiadomości, ponieważ nie jesteśmy przyjaciółmi. Przyjmij moją prośbę o dodanie do znajomych i spróbuj ponownie."
+		"ba"			"{default}[{purple}BOT ● FUNPLAY.pro{default}] {orange}Ne mogu slati poruke jer nismo prijatelji.Prihvati moj zahtjev za prijateljstvo pa probaj ponovo."
+		"se"			"{default}[{purple}BOT ● FUNPLAY.pro{default}] {orange}Ne mogu slati poruke jer nismo prijatelji.Prihvati moj zahtjev za prijateljstvo pa probaj ponovo."
+		"hr"			"{default}[{purple}BOT ● FUNPLAY.pro{default}] {orange}Ne mogu slati poruke jer nismo prijatelji.Prihvati moj zahtjev za prijateljstvo pa probaj ponovo."
 	}
 	"BOT inv sent"
 	{
@@ -4554,6 +6174,9 @@
 		"sk"			"{default}[{purple}BOT ● FUNPLAY.pro{default}] {orange}Pozvání do naší steam skupiny bylo odesláno."
 		"de"			"{default}[{purple}BOT ● FUNPLAY.pro{default}] {orange}Einladung zu unserer Steam-Gruppe wurde gesendet."
 		"pl"			"{default}[{purple}BOT ● FUNPLAY.pro{default}] {orange}Zaproszenie do naszej grupy Steam zostało wysłane."
+		"ba"			"{default}[{purple}BOT ● FUNPLAY.pro{default}] {orange} Pozivka za našu Steam grupu je poslata."
+		"se"			"{default}[{purple}BOT ● FUNPLAY.pro{default}] {orange} Pozivka za našu Steam grupu je poslata."
+		"hr"			"{default}[{purple}BOT ● FUNPLAY.pro{default}] {orange} Pozivka za našu Steam grupu je poslata."
 	}
 	"already in group"
 	{
@@ -4562,6 +6185,9 @@
 		"sk"			"{darkred}[!] {default}Jsi již v naší Steam skupině."
 		"de"			"{darkred}[!] {default}Sie sind bereits in unserer Steam-Gruppe."
 		"pl"			"{darkred}[!] {default}Jesteś już w naszej grupie Steam."
+		"ba"			"{darkred}[!] {default}Već ste u našoj Steam grupi."
+		"se"			"{darkred}[!] {default}Već ste u našoj Steam grupi."
+		"hr"			"{darkred}[!] {default}Već ste u našoj Steam grupi."
 	}
 	"steam group info"
 	{
@@ -4570,6 +6196,12 @@
 		"sk"			"{orange}Do naší Steam skupiny se připojíš na této webové adrese {default}https://steamcommunity.com/groups/fun_mod{orange}."
 		"de"			"{orange}Treten Sie unserer Steam-Gruppe unter {default}https://steamcommunity.com/groups/fun_mod {orange}bei."
 		"pl"			"{orange}Dołącz do naszej grupy Steam na {default}https://steamcommunity.com/groups/fun_mod{orange}."
+		"ba"			"{orange}Pridružite se našoj Steam grupi pod
+{default}https://steamcommunity.com/groups/fun_mod {orange}."
+                "se"			"{orange}Pridružite se našoj Steam grupi pod
+{default}https://steamcommunity.com/groups/fun_mod {orange}."
+                "hr"			"{orange}Pridružite se našoj Steam grupi pod
+{default}https://steamcommunity.com/groups/fun_mod {orange}."
 	}
 	"Server List title"
 	{
@@ -4578,6 +6210,9 @@
 		"sk"			"[FUNPLAY.pro] Servery"
 		"de"			"[FUNPLAY.pro] Servers"
 		"pl"			"[FUNPLAY.pro] Serwery"
+		"ba"			"[FUNPLAY.pro] Servers"
+		"se"			"[FUNPLAY.pro] Servers"
+		"hr"			"[FUNPLAY.pro] Servers"
 	}
 	"server"
 	{
@@ -4586,6 +6221,9 @@
 		"sk"			"Server"
 		"de"			"Server"
 		"pl"			"Serwer"
+		"ba"			"Server"
+		"se"			"Server"
+		"hr"			"Server"
 	}
 	"map"
 	{
@@ -4594,6 +6232,9 @@
 		"sk"			"Mapa"
 		"de"			"Karte"
 		"pl"			"Mapa"
+		"ba"			"Mapa"
+		"se"			"Mapa"
+		"hr"			"Mapa"
 	}
 	"players"
 	{
@@ -4602,6 +6243,9 @@
 		"sk"			"Hráčů"
 		"de"			"Spieler"
 		"pl"			"Gracze"
+		"ba"			"Igrači"
+		"se"			"Igrači"
+		"hr"			"Igrači"
 	}
 	"redirect in chat"
 	{
@@ -4610,6 +6254,9 @@
 		"sk"			"Poslat link do chatu"
 		"de"			"Senden Sie einen Link zum Chat"
 		"pl"			"Wyślij link do czatu"
+		"ba"			"Pošalji link u chat"
+		"se"			"Pošalji link u chat"
+		"hr"			"Pošalji link u chat"
 	}
 	"redirect chat info"
 	{
@@ -4619,6 +6266,9 @@
 		"sk"			"{orange}Pro připojení na {default}{1}{orange} si ulož IP {default}{2}{orange} do oblíbených nebo pro rychlé připojení napiš {default}connect {3}{orange} do konzole."
 		"de"			"{orange}Um eine Verbindung zu {default}{1}{orange} IP speichern {default}{2}{orange} zu Ihren Favoriten oder schnell verbinden schreiben {default}connect {3}{orange} an die Konsole."
 		"pl"			"{orange}Aby połączyć się z {default}{1}{orange} zapisz IP {default}{2}{orange} do ulubionych lub dla szybkiego połączenia napisz {default}connect {3}{orange} do konsoli."
+		"ba"			"{orange}Kako bi se spojili {default}{1}{orange} IP sačuvajte {default}{2}{orange} u vaše favorite ili brzo povezivanje {default}connect {3}{orange} u Konsolu."
+		"se"			"{orange}Kako bi se spojili {default}{1}{orange} IP sačuvajte {default}{2}{orange} u vaše favorite ili brzo povezivanje {default}connect {3}{orange} u Konsolu."
+		"hr"			"{orange}Kako bi se spojili {default}{1}{orange} IP sačuvajte {default}{2}{orange} u vaše favorite ili brzo povezivanje {default}connect {3}{orange} u Konsolu."
 	}
 	"redirect in console"
 	{
@@ -4627,6 +6277,9 @@
 		"sk"			"Poslat link do konzole"
 		"de"			"Senden Sie einen Link zur Konsole"
 		"pl"			"Wyślij link do konsoli"
+		"ba"			"Pošaljite link u konzolu"
+		"se"			"Pošaljite link u konzolu"
+		"hr"			"Pošaljite link u konzolu"
 	}
 	"redirect console info"
 	{
@@ -4636,6 +6289,9 @@
 		"sk"			"Pro připojení na {1} si ulož IP {2} do oblíbených nebo pro rychlé připojení napiš connect {3} do konzole."
 		"de"			"Um eine Verbindung zu {1} IP speichern {2} zu Ihren Favoriten oder schnell verbinden schreiben connect {3} an die Konsole."
 		"pl"			"Aby połączyć się z {1} zapisz IP {2} do ulubionych lub dla szybkiego połączenia napisz connect {3} do konsoli."
+		"ba"			"Kako bi se spojili na {1} IP sačuvati {2} u vaše favorite ili brzo spojiti sa connect {3} u Konzolu."
+		"se"			"Kako bi se spojili na {1} IP sačuvati {2} u vaše favorite ili brzo spojiti sa connect {3} u Konzolu."
+		"hr"			"Kako bi se spojili na {1} IP sačuvati {2} u vaše favorite ili brzo spojiti sa connect {3} u Konzolu."
 	}
 	"redirect in steam"
 	{
@@ -4644,6 +6300,9 @@
 		"sk"			"Poslat link přes steam"
 		"de"			"Senden Sie einen Link über Steam"
 		"pl"			"Wyślij link przez Steam"
+		"ba"			"Pošaljite link preko Steama"
+		"se"			"Pošaljite link preko Steama"
+		"hr"			"Pošaljite link preko Steama"
 	}
 	"killstreak #0"
 	{
@@ -4652,6 +6311,9 @@
 		"sk"			"Multi Kill!"
 		"de"			"Mehrfachtötung!"
 		"pl"			"Wielokrotne zabójstwo!"
+		"ba"			"Multi Kill!"
+		"se"			"Multi Kill!"
+		"hr"			"Multi Kill!"
 	}
 	"killstreak #1"
 	{
@@ -4660,6 +6322,9 @@
 		"sk"			"Sa rozbieha!"
 		"de"			"Beginnt!"
 		"pl"			"Zaczyna się!"
+		"ba"			"Starts off!"
+		"se"			"Starts off!"
+		"hr"			"Starts off!"
 	}
 	"killstreak #2"
 	{
@@ -4668,6 +6333,9 @@
 		"sk"			"Slušný zabijak!"
 		"de"			"Anständiger Killer!"
 		"pl"			"Nieludzkie zabójstwo!"
+		"ba"			"Decent killer!"
+		"se"			"Decent killer!"
+		"hr"			"Decent killer!"
 	}
 	"killstreak #3"
 	{
@@ -4676,6 +6344,9 @@
 		"sk"			"Ide z neho Respect!"
 		"de"			"Respekt geht von ihm aus!"
 		"pl"			"Szacunek dla niego!"
+		"ba"			"Respect goes from him!"
+		"se"			"Respect goes from him!"
+		"hr"			"Respect goes from him!"
 	}
 	"killstreak #4"
 	{
@@ -4684,6 +6355,9 @@
 		"sk"			"Dostal ďalšieho !!!"
 		"de"			"Er hat noch einen bekommen!!!"
 		"pl"			"Zabija kolejnego!"
+		"ba"			"He received another !!!"
+		"se"			"He received another !!!"
+		"hr"			"He received another !!!"
 	}
 	"killstreak #5"
 	{
@@ -4692,6 +6366,9 @@
 		"sk"			"Nepolapitelný!"
 		"de"			"Schwer fassbar!"
 		"pl"			"Niepowstrzymany!"
+		"ba"			"Elusive!"
+		"se"			"Elusive!"
+		"hr"			"Elusive!"
 	}
 	"killstreak #6"
 	{
@@ -4700,6 +6377,9 @@
 		"sk"			"Vraždiaci Stroj!"
 		"de"			"Tötungsmaschine!"
 		"pl"			"Maszyna do zabijania!"
+		"ba"			"Killing Machine!"
+		"se"			"Killing Machine!"
+		"hr"			"Killing Machine!"
 	}
 	"killstreak #7"
 	{
@@ -4708,6 +6388,9 @@
 		"sk"			"Je nejlepší!"
 		"de"			"Ist das Beste!"
 		"pl"			"Jest najlepszy!"
+		"ba"			"Is the best!"
+		"se"			"Is the best!"
+		"hr"			"Is the best!"
 	}
 	"killstreak #8"
 	{
@@ -4716,6 +6399,9 @@
 		"sk"			"Lepšie ako cheater!"
 		"de"			"Besser als ein Cheater!"
 		"pl"			"Lepszy od cheatera"
+		"ba"			"Better than cheater!"
+		"se"			"Better than cheater!"
+		"hr"			"Better than cheater!"
 	}
 	"revolver round"
 	{
@@ -4724,6 +6410,9 @@
 		"sk"			"! REVOLVER KOLO !"
 		"de"			"! REVOLVER RUNDE !"
 		"pl"			"! RUNDA REVOLVEROWA!"
+		"ba"			"! REVOLVER RUNDA !"
+		"se"			"! REVOLVER RUNDA !"
+		"hr"			"! REVOLVER RUNDA !"
 	}
 	"taser round"
 	{
@@ -4732,6 +6421,9 @@
 		"sk"			"! TASER KOLO !"
 		"de"			"! TASER RUNDE !"
 		"pl"			"! RUNDA NA ZEUSY !"
+		"ba"			"! TASER RUNDA !"
+		"se"			"! TASER RUNDA !"
+		"hr"			"! TASER RUNDA !"
 	}
 	"headshot round"
 	{
@@ -4740,6 +6432,9 @@
 		"sk"			"! HEADSHOT KOLO !"
 		"de"			"! KOPFSCHUSS RUNDE !"
 		"pl"			"! RUNDA NA HEADSHOTY !"
+		"ba"			"! HEADSHOT RUNDA !"
+		"se"			"! HEADSHOT RUNDA !"
+		"hr"			"! HEADSHOT RUNDA !"
 	}
 	"grenade round"
 	{
@@ -4748,6 +6443,9 @@
 		"sk"			"! GRENADE KOLO !"
 		"de"			"! GRANATEN RUNDE !"
 		"pl"			"! RUNDA NA GRANATY !"
+		"ba"			"! GRANATE RUNDA !"
+		"se"			"! GRANATE RUNDA !"
+		"hr"			"! GRANATE RUNDA !"
 	}
 	"negev round"
 	{
@@ -4756,6 +6454,9 @@
 		"sk"			"! NEGEV KOLO !"
 		"de"			"! NEGEV RUNDE !"
 		"pl"			"! RUNDA NA NEGEVY !"
+		"ba"			"! NEGEV RUNDA !"
+		"se"			"! NEGEV RUNDA !"
+		"hr"			"! NEGEV RUNDA !"
 	}
 	"flame round"
 	{
@@ -4764,6 +6465,9 @@
 		"sk"			"! OHNIVÉ KOLO !"
 		"de"			"! FLAMME RUNDE !"
 		"pl"			"! RUNDA PODPALANIA !"
+		"ba"			"! FLAME RUNDA !"
+		"se"			"! FLAME RUNDA !"
+		"hr"			"! FLAME RUNDA !"
 	}
 	"decoy round"
 	{
@@ -4772,6 +6476,9 @@
 		"sk"			"! VYBÍJANÁ !"
 		"de"			"! VÖLKERBALL !"
 		"pl"			"! GRA W ZBIJAKA !"
+		"ba"			"! DECOY RUNDA !"
+		"se"			"! DECOY RUNDA !"
+		"hr"			"! DECOY RUNDA !"
 	}
 	"ffa round"
 	{
@@ -4780,6 +6487,9 @@
 		"sk"			"! KAŽDÝ PROTI KAŽDÉMU !"
 		"de"			"! FREI FÜR ALLE !"
 		"pl"			"! WSZYSCY NA WSZYSTKICH !"
+		"ba"			"! FFA RUNDA !"
+		"se"			"! FFA RUNDA !"
+		"hr"			"! FFA RUNDA !"
 	}
 	"noscope round"
 	{
@@ -4788,6 +6498,9 @@
 		"sk"			"! NO SCOPE KOLO !"
 		"de"			"! KEINE VISIER RUNDE !"
 		"pl"			"! RUNDA NA NO SCOPE'y !"
+		"ba"			"! NS RUNDA !"
+		"se"			"! NS RUNDA !"
+		"hr"			"! NS RUNDA !"
 	}
 	"3person round"
 	{
@@ -4796,6 +6509,9 @@
 		"sk"			"! KOLO Z 3. OSOBY !"
 		"de"			"! DRITTE PERSON RUNDE !"
 		"pl"			"! RUNDA Z TRZECIA OSOBA !"
+		"ba"			"! 3.LICE  RUNDA !"
+		"se"			"! 3.LICE  RUNDA !"
+		"hr"			"! 3.LICE  RUNDA !"
 	}
 	"onetap round"
 	{
@@ -4804,6 +6520,9 @@
 		"sk"			"! ONE TAP KOLO !"
 		"de"			"! ONE TAP RUNDE !"
 		"pl"			"! RUNDA NA ONE TAP'y !"
+		"ba"			"! ONE TAP RUNDA !"
+		"se"			"! ONE TAP RUNDA !"
+		"hr"			"! ONE TAP RUNDA !"
 	}
 	"lava round"
 	{
@@ -4812,6 +6531,9 @@
 		"sk"			"! ZEM JE LÁVA !"
 		"de"			"! BODEN IST LAVA !"
 		"pl"			"! GROUND IS LAVA !"
+		"ba"			"! POD JE LAVA RUNDA !"
+		"se"			"! POD JE LAVA RUNDA !"
+		"hr"			"! POD JE LAVA RUNDA !"
 	}
 	"knife round"
 	{
@@ -4820,6 +6542,9 @@
 		"sk"			"! KNIFE KOLO !"
 		"de"			"! KNIFE RUNDE !"
 		"pl"			"! RUNDA KNIFE !"
+		"ba"			"! NOŽ RUNDA !"
+		"se"			"! NOŽ RUNDA !"
+		"hr"			"! NOŽ RUNDA !"
 	}
 	"LVL"
 	{
