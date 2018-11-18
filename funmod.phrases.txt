@@ -7,9 +7,9 @@
 		"sk"			"sa k nám pridal"
 		"de"			"ist beigetreten"
 		"pl"			"dołączył do nas"
-		"bh"                    "se pridružio"
-		"se"                    "se pridružio"
-		"hr"                    "se pridružio"
+		"bh"			"se pridružio"
+		"se"			"se pridružio"
+		"hr"			"se pridružio"
 	}
 	"leave msg"
 	{
@@ -18,9 +18,9 @@
 		"sk"			"od nás odišiel"
 		"de"			"hat uns verlassen"
 		"pl"			"odszedł of nas"
-		"bh"                    "je nas napustio"
-		"se"                    "je nas napustio"
-		"hr"                    "je nas napustio"
+		"bh"			"je nas napustio"
+		"se"			"je nas napustio"
+		"hr"			"je nas napustio"
 	}
 	"connect msg title"
 	{
@@ -29,9 +29,9 @@
 		"sk"			"Hlavné príkazy:"
 		"de"			"Hauptbefehle:"
 		"pl"			"Główne komendy:"
-		"bh"                    "Glavne komande"
-		"se"                    "Glavne komande"
-		"hr"                    "Glavne komande"
+		"bh"			"Glavne komande"
+		"se"			"Glavne komande"
+		"hr"			"Glavne komande"
 	}
 	"connect msg"
 	{
@@ -40,12 +40,9 @@
 		"sk"			"/menu - Hlavné Menu\n/shop - Herný Obchod\n/item - Item Obchod\n/loss - Náhodné losovanie\n/bonusy - Nastavenie Bonusov\n/valve - Nastavenie Inventára\n/nastavenie - Nastavenie Serveru\n/pravidla - Pravidlá Serveru"
 		"de"			"/menu - Hauptmenü\n/shop - Spielladen\n/item - Spielgegenstände\n/loss - Verlustpreis\n/bonuses - Bonuseinstellungen\n/valve - Inventareinstellungen\n/setting - Servereinstellungen\n/rules - Server Regeln"
 		"pl"			"/menu - Menu główne\n/shop - Sklep w grze\n/item - Sklep z przedmiotami\n/loss - Przegranie nagrody\n/bonuses - Ustawienia bonusów\n/valve - Ustawienia ekwipunku\n/setting - Ustawienia serwera\n/rules - Zasady serwera"
-		"bh"                    "/menu - Glavni izbornik\n/shop - Prodavnica\n/item - Prodavnica objekata\n/loss - Nasumičan dobitak\n/bonuses - Postavke bonusa\n/valve - Postavke inventara\n/setting - Postavke servera\n/rules - Pravila servera"
-		"se"                    "/menu - Glavni izbornik\n/shop - Prodavnica\n/item - Prodavnica objekata\n/loss - Nasumičan dobitak\n/bonuses - Postavke bonusa\n/valve - Postavke inventara\n/setting - Postavke servera\n/rules - Pravila servera"
-		"hr"                    "/menu - Glavni izbornik\n/shop - Prodavnica\n/item - Prodavnica objekata\n/loss - Nasumičan dobitak\n/bonuses - Postavke bonusa\n/valve - Postavke inventara\n/setting - Postavke servera\n/rules - Pravila servera"
-	}
-	}
-	}
+		"bh"			"/menu - Glavni izbornik\n/shop - Prodavnica\n/item - Prodavnica objekata\n/loss - Nasumičan dobitak\n/bonuses - Postavke bonusa\n/valve - Postavke inventara\n/setting - Postavke servera\n/rules - Pravila servera"
+		"se"			"/menu - Glavni izbornik\n/shop - Prodavnica\n/item - Prodavnica objekata\n/loss - Nasumičan dobitak\n/bonuses - Postavke bonusa\n/valve - Postavke inventara\n/setting - Postavke servera\n/rules - Pravila servera"
+		"hr"			"/menu - Glavni izbornik\n/shop - Prodavnica\n/item - Prodavnica objekata\n/loss - Nasumičan dobitak\n/bonuses - Postavke bonusa\n/valve - Postavke inventara\n/setting - Postavke servera\n/rules - Pravila servera"
 	}
 	"command not exists"
 	{
@@ -54,9 +51,9 @@
 		"sk"			"{darkred}[!] {default}Nesprávny alebo neexistujúci príkaz."
 		"de"			"{darkred}[!] {default}Falscher oder nicht vorhandener Befehl."
 		"pl"			"{darkred}[!] {default}Niepoprawne lub nieistniejące polecenie."
-		"bh"                    "{darkred}[!] {default}Pogrešna ili nepostojeća komanda" 
-		"se"                    "{darkred}[!] {default}Pogrešna ili nepostojeća komanda" 
-		"hr"                    "{darkred}[!] {default}Pogrešna ili nepostojeća komanda" 
+		"bh"			"{darkred}[!] {default}Pogrešna ili nepostojeća komanda" 
+		"se"			"{darkred}[!] {default}Pogrešna ili nepostojeća komanda" 
+		"hr"			"{darkred}[!] {default}Pogrešna ili nepostojeća komanda" 
 	}
 	"played"
 	{
@@ -65,9 +62,9 @@
 		"sk"			"Nahrané:"
 		"de"			"Gespielt:"
 		"pl"			"Zagrał:"
-		"bh"                    "Igrao"
-		"se"                    "Igrao"
-		"hr"                    "Igrao"
+		"bh"			"Igrao"
+		"se"			"Igrao"
+		"hr"			"Igrao"
 	}
 	"hours"
 	{
@@ -76,9 +73,9 @@
 		"sk"			"hodín"
 		"de"			"stunde"
 		"pl"			"godziny"
-		"bh"                    "sati"
-		"se"                    "sati"
-		"hr"                    "sati"
+		"bh"			"sati"
+		"se"			"sati"
+		"hr"			"sati"
 	}
 	"minutes"
 	{
@@ -87,9 +84,9 @@
 		"sk"			"minút"
 		"de"			"minute"
 		"pl"			"minuty"
-		"bh"                    "minuta"
-		"se"                    "minuta"
-		"hr"                    "minuta"
+		"bh"			"minuta"
+		"se"			"minuta"
+		"hr"			"minuta"
 	}
 	"seconds"
 	{
@@ -98,9 +95,9 @@
 		"sk"			"sekúnd"
 		"de"			"sekunde"
 		"pl"			"sekundy"
-		"bh"                    "sekundi"
-		"se"                    "sekundi"
-		"hr"                    "sekundi"
+		"bh"			"sekundi"
+		"se"			"sekundi"
+		"hr"			"sekundi"
 	}
 	"usage"
 	{
@@ -109,9 +106,9 @@
 		"sk"			"Použití"
 		"de"			"Verwendung"
 		"pl"			"Używanie"
-		"bh"                    "Upotreba"
-		"se"                    "Upotreba"
-		"hr"                    "Upotreba"
+		"bh"			"Upotreba"
+		"se"			"Upotreba"
+		"hr"			"Upotreba"
 	}
 	"usage launcher"
 	{
@@ -120,9 +117,9 @@
 		"sk"			"PTM když držíš AK47/M4A4/M4A1-S"
 		"de"			"RMT wenn gehalten AK47/M4A4/M4A1-S"
 		"pl"			"PPM kiedy trzymasz AK47/M4A4/M4A1-S"
-		"bh"                    "DKM kad držiš AK47/M4A4/M4A1-S"
-		"se"                    "DKM kad držiš AK47/M4A4/M4A1-S"
-		"hr"                    "DKM kad držiš AK47/M4A4/M4A1-S"
+		"bh"			"DKM kad držiš AK47/M4A4/M4A1-S"
+		"se"			"DKM kad držiš AK47/M4A4/M4A1-S"
+		"hr"			"DKM kad držiš AK47/M4A4/M4A1-S"
 	}
 	"usage pilefall"
 	{
@@ -131,9 +128,9 @@
 		"sk"			"Podrž CTRL když padáš"
 		"de"			"Halten Sie CTRL gedrückt, wenn Sie fallen"
 		"pl"			"Przytrzymaj CTRL podczas upadku"
-		"bh"                    "Držite CTRL kada padate"
-		"se"                    "Držite CTRL kada padate"
-		"hr"                    "Držite CTRL kada padate"
+		"bh"			"Držite CTRL kada padate"
+		"se"			"Držite CTRL kada padate"
+		"hr"			"Držite CTRL kada padate"
 	}
 	"usage revteammate"
 	{
@@ -142,9 +139,9 @@
 		"sk"			"Podrž CTRL + E na mrtvé pozici spoluhráče"
 		"de"			"Halten Sie CTRL + E bei Teamkameradotposition"
 		"pl"			"Przytrzymaj CTRL + E na martwej pozycji partnera"
-		"bh"                    "Držite CTRL+E na poziciji mrtvog suigrača"
-		"se"                    "Držite CTRL+E na poziciji mrtvog suigrača"
-		"hr"                    "Držite CTRL+E na poziciji mrtvog suigrača" 
+		"bh"			"Držite CTRL+E na poziciji mrtvog suigrača"
+		"se"			"Držite CTRL+E na poziciji mrtvog suigrača"
+		"hr"			"Držite CTRL+E na poziciji mrtvog suigrača" 
 	}
 	"nade launcher ammo"
 	{
@@ -154,9 +151,9 @@
 		"sk"			"Granátomet: {1}"
 		"de"			"Granatenwerfer: {1}"
 		"pl"			"Granaty: {1}"
-		"bh"                    "Bacač granata: {1}" 
-		"se"                    "Bacač granata: {1}" 
-		"hr"                    "Bacač granata: {1}" 
+		"bh"			"Bacač granata: {1}" 
+		"se"			"Bacač granata: {1}" 
+		"hr"			"Bacač granata: {1}" 
 	}
 	"throw knifes ammo"
 	{
@@ -166,9 +163,9 @@
 		"sk"			"Vrhacích nožov: {1}"
 		"de"			"Wurfmesser: {1}"
 		"pl"			"Noże do rzucania: {1}"
-		"bh"                    "Bacanje noževa: {1}"
-		"se"                    "Bacanje noževa: {1}"
-		"hr"                    "Bacanje noževa: {1}"
+		"bh"			"Bacanje noževa: {1}"
+		"se"			"Bacanje noževa: {1}"
+		"hr"			"Bacanje noževa: {1}"
 		
 	}
 	"you burn player"
@@ -179,9 +176,9 @@
 		"sk"			"{green}[FUN]{default} {1}{olive} zapálil {default}{2}{olive}!"
 		"de"			"{green}[FUN]{default} {1}{olive} verbrannt {default}{2}{olive!"
 		"pl"			"{green}[FUN]{default} {1}{olive} spalił {default}{2}{olive}!"
-		"bh"                    "{green}[FUN]{default} {1}{olive} izgorio {default}{2}{olive}!"
-		"se"                    "{green}[FUN]{default} {1}{olive} izgorio {default}{2}{olive}!"
-		"hr"                    "{green}[FUN]{default} {1}{olive} izgorio {default}{2}{olive}!"
+		"bh"			"{green}[FUN]{default} {1}{olive} izgorio {default}{2}{olive}!"
+		"se"			"{green}[FUN]{default} {1}{olive} izgorio {default}{2}{olive}!"
+		"hr"			"{green}[FUN]{default} {1}{olive} izgorio {default}{2}{olive}!"
 	}
 	"Respawn Menu"
 	{
@@ -190,9 +187,9 @@
 		"sk"			"Oživiť sa?"
 		"de"			"Respawn?"
 		"pl"			"Odrodzić?"
-		"bh"                    "Respawn?"
-		"se"                    "Respawn?"
-		"hr"                    "Respawn?"
+		"bh"			"Respawn?"
+		"se"			"Respawn?"
+		"hr"			"Respawn?"
 	}
 	"yes"
 	{
@@ -201,9 +198,9 @@
 		"sk"			"Ano"
 		"de"			"Ja"
 		"pl"			"Tak"
-		"bh"                    "Da"
-		"se"                    "Da"
-		"hr"                    "Da"
+		"bh"			"Da"
+		"se"			"Da"
+		"hr"			"Da"
 	}
 	"no"
 	{
@@ -212,9 +209,9 @@
 		"sk"			"Nie"
 		"de"			"Nein"
 		"pl"			"Nie"
-		"bh"                    "Ne"
-		"se"                    "Ne"
-		"hr"                    "Ne"
+		"bh"			"Ne"
+		"se"			"Ne"
+		"hr"			"Ne"
 	}
 	"rules"
 	{
@@ -223,9 +220,9 @@
 		"sk"			"pravidla"
 		"de"			"rules"
 		"pl"			"rules"
-		"bh"                    "Pravila"
-		"se"                    "Pravila"
-		"hr"                    "Pravila"
+		"bh"			"Pravila"
+		"se"			"Pravila"
+		"hr"			"Pravila"
 	}
 	"benefits"
 	{
@@ -234,9 +231,9 @@
 		"sk"			"vyhody"
 		"de"			"benefits"
 		"pl"			"benefits"
-		"bh"                    "prednosti"
-		"se"                    "prednosti"
-		"hr"                    "prednosti"
+		"bh"			"prednosti"
+		"se"			"prednosti"
+		"hr"			"prednosti"
 	}
 	"Silent Menu"
 	{
@@ -246,9 +243,9 @@
 		"sk"			"Umlčať Hráča na {1} minút (/silent <minut>)"
 		"de"			"Spieler für {1} Minute muten (/silent <minute>)"
 		"pl"			"Zmutuj gracza na {1} minuty (/silent <minut>)"
-		"bh"                    "Igrača za {1} Minute ušućkati (/silent <minute>)"
-		"se"                    "Igrača za {1} Minute ušućkati (/silent <minute>)"
-		"hr"                    "Igrača za {1} Minute ušućkati (/silent <minute>)"
+		"bh"			"Igrača za {1} Minute ušućkati (/silent <minute>)"
+		"se"			"Igrača za {1} Minute ušućkati (/silent <minute>)"
+		"hr"			"Igrača za {1} Minute ušućkati (/silent <minute>)"
 	}
 	"Teleport Menu"
 	{
@@ -257,9 +254,9 @@
 		"sk"			"Teleportovať Hráča"
 		"de"			"Spieler teleportieren"
 		"pl"			"Przeteleportuj gracza"
-		"bh"                    "Teleportuj igrača"
-		"se"                    "Teleportuj igrača"
-		"hr"                    "Teleportuj igrača"
+		"bh"			"Teleportuj igrača"
+		"se"			"Teleportuj igrača"
+		"hr"			"Teleportuj igrača"
 	}
 	"ChangeTeam Menu"
 	{
@@ -268,9 +265,9 @@
 		"sk"			"Zmenit tím Hráča"
 		"de"			"Ändere das Team des Spielers"
 		"pl"			"Zmień drużynę"
-		"bh"                    "Promjeni tim igrača"
-		"se"                    "Promjeni tim igrača"
-		"hr"                    "Promjeni tim igrača"
+		"bh"			"Promjeni tim igrača"
+		"se"			"Promjeni tim igrača"
+		"hr"			"Promjeni tim igrača"
 	}
 	"Hats Menu"
 	{
@@ -279,9 +276,9 @@
 		"sk"			"Výběr doplněk"
 		"de"			"Hats Menü"
 		"pl"			"Menu Hats"
-		"bh"                    "Hats menu"
-		"se"                    "Hats menu"
-		"hr"                    "Hats menu"
+		"bh"			"Hats menu"
+		"se"			"Hats menu"
+		"hr"			"Hats menu"
 	}
 	"hats off"
 	{
@@ -290,9 +287,9 @@
 		"sk"			"Odebrat doplňky"
 		"de"			"Hüte entfernen"
 		"pl"			"Usuń hats"
-		"bh"                    "Izbriši hats"
-		"se"                    "Izbriši hats"
-		"hr"                    "Izbriši hats"
+		"bh"			"Izbriši hats"
+		"se"			"Izbriši hats"
+		"hr"			"Izbriši hats"
 	}
 	"hat cape"
 	{
@@ -301,9 +298,9 @@
 		"sk"			"Plášť"
 		"de"			"Kap"
 		"pl"			"Peleryna"
-		"bh"                    "Plašt"
-		"se"                    "Plašt"
-		"hr"                    "Plašt"
+		"bh"			"Plašt"
+		"se"			"Plašt"
+		"hr"			"Plašt"
 	}
 	"hat headphones"
 	{
@@ -312,9 +309,9 @@
 		"sk"			"Sluchátka"
 		"de"			"Kopfhörer"
 		"pl"			"Słuchawki"
-		"bh"                    "Slušalice"
-		"se"                    "Slušalice"
-		"hr"                    "Slušalice"
+		"bh"			"Slušalice"
+		"se"			"Slušalice"
+		"hr"			"Slušalice"
 	}
 	"hat angel"
 	{
@@ -323,9 +320,9 @@
 		"sk"			"Anděl"
 		"de"			"Engel"
 		"pl"			"Anioł"
-		"bh"                    "Anđeo"
-		"se"                    "Anđeo"
-		"hr"                    "Anđeo"
+		"bh"			"Anđeo"
+		"se"			"Anđeo"
+		"hr"			"Anđeo"
 	}
 	"hat devil"
 	{
@@ -334,9 +331,9 @@
 		"sk"			"Čert"
 		"de"			"Eufel"
 		"pl"			"Diabeł"
-		"bh"                    "Đavo"
-		"se"                    "Đavo"
-		"hr"                    "Đavo"
+		"bh"			"Đavo"
+		"se"			"Đavo"
+		"hr"			"Đavo"
 	}
 	"cape skin"
 	{
@@ -345,9 +342,9 @@
 		"sk"			"Vyber skin Pláště"
 		"de"			"Wählen Sie Cape-Haut"
 		"pl"			"Wybierz skórkę przylądka"
-		"bh"                    "Izaberite skin plašta"
-		"se"                    "Izaberite skin plašta"
-		"hr"                    "Izaberite skin plašta"
+		"bh"			"Izaberite skin plašta"
+		"se"			"Izaberite skin plašta"
+		"hr"			"Izaberite skin plašta"
 	}
 	"cape red"
 	{
@@ -356,9 +353,9 @@
 		"sk"			"Červený Plášt"
 		"de"			"Rot Kap"
 		"pl"			"Czerwony Peleryna"
-		"bh"                    "Crveni Plašt"
-		"se"                    "Crveni Plašt"
-		"hr"                    "Crveni Plašt"
+		"bh"			"Crveni Plašt"
+		"se"			"Crveni Plašt"
+		"hr"			"Crveni Plašt"
 	}
 	"cape blue"
 	{
@@ -367,9 +364,9 @@
 		"sk"			"Modrý Plášt"
 		"de"			"Blau Kap"
 		"pl"			"Niebieski Peleryna"
-		"bh"                    "Plavi Plašt"
-		"se"                    "Plavi Plašt"
-		"hr"                    "Plavi Plašt"
+		"bh"			"Plavi Plašt"
+		"se"			"Plavi Plašt"
+		"hr"			"Plavi Plašt"
 	}
 	"cape green"
 	{
@@ -378,9 +375,9 @@
 		"sk"			"Zelený Plášt"
 		"de"			"Grün Kap"
 		"pl"			"Zielony Peleryna"
-		"bh"                    "Zeleni Plašt"
-		"se"                    "Zeleni Plašt"
-		"hr"                    "Zeleni Plašt"
+		"bh"			"Zeleni Plašt"
+		"se"			"Zeleni Plašt"
+		"hr"			"Zeleni Plašt"
 	}
 	"cape yellow"
 	{
@@ -389,9 +386,9 @@
 		"sk"			"Žlutý Plášt"
 		"de"			"Gelb Kap"
 		"pl"			"Żółty Peleryna"
-		"bh"                    "Žuti Plašt"
-		"se"                    "Žuti Plašt"
-		"hr"                    "Žuti Plašt"
+		"bh"			"Žuti Plašt"
+		"se"			"Žuti Plašt"
+		"hr"			"Žuti Plašt"
 	}
 	"cape doppler"
 	{
@@ -400,9 +397,9 @@
 		"sk"			"Doppler Plášt"
 		"de"			"Doppler Kap"
 		"pl"			"Doppler Peleryna"
-		"bh"                    "Doppler Plašt"
-		"se"                    "Doppler Plašt"
-		"hr"                    "Doppler Plašt"
+		"bh"			"Doppler Plašt"
+		"se"			"Doppler Plašt"
+		"hr"			"Doppler Plašt"
 	}
 	"cape crimson web"
 	{
@@ -411,9 +408,9 @@
 		"sk"			"Crimson Web Plášt"
 		"de"			"Crimson Web Kap"
 		"pl"			"Crimson Web Peleryna"
-		"bh"                    "Crimson Web Plašt"
-		"se"                    "Crimson Web Plašt"
-		"hr"                    "Crimson Web Plašt"
+		"bh"			"Crimson Web Plašt"
+		"se"			"Crimson Web Plašt"
+		"hr"			"Crimson Web Plašt"
 	}
 	"cape hyper beast"
 	{
@@ -422,9 +419,9 @@
 		"sk"			"Hyper Beast Plášt"
 		"de"			"Hyper Beast Kap"
 		"pl"			"Hyper Beast Peleryna"
-		"bh"                    "Hyper Beast Plašt"
-		"se"                    "Hyper Beast Plašt"
-		"hr"                    "Hyper Beast Plašt"
+		"bh"			"Hyper Beast Plašt"
+		"se"			"Hyper Beast Plašt"
+		"hr"			"Hyper Beast Plašt"
 	}
 	"cape slaughter"
 	{
@@ -433,9 +430,9 @@
 		"sk"			"Slaughter Plášt"
 		"de"			"Slaughter Kap"
 		"pl"			"Slaughter Peleryna"
-		"bh"                    "Slaughter Plašt"
-		"se"                    "Slaughter Plašt"
-		"hr"                    "Slaughter Plašt"
+		"bh"			"Slaughter Plašt"
+		"se"			"Slaughter Plašt"
+		"hr"			"Slaughter Plašt"
 	}
 	"cape point disarray"
 	{
@@ -444,9 +441,9 @@
 		"sk"			"Point Disarray Plášt"
 		"de"			"Point Disarray Kap"
 		"pl"			"Point Disarray Peleryna"
-		"bh"                    "Point Disarray Plašt"
-		"se"                    "Point Disarray Plašt"
-		"hr"                    "Point Disarray Plašt"
+		"bh"			"Point Disarray Plašt"
+		"se"			"Point Disarray Plašt"
+		"hr"			"Point Disarray Plašt"
 	}
 	"cape rekt"
 	{
@@ -455,9 +452,9 @@
 		"sk"			"Rekt Plášt"
 		"de"			"Rekt Kap"
 		"pl"			"Rekt Peleryna"
-		"ba"                    "Rekt Plašt"
-		"se"                    "Rekt Plašt"
-		"hr"                    "Rekt Plašt"
+		"ba"			"Rekt Plašt"
+		"se"			"Rekt Plašt"
+		"hr"			"Rekt Plašt"
 	}
 	"cape assimov"
 	{
@@ -466,9 +463,9 @@
 		"sk"			"Assimov Plášt"
 		"de"			"Assimov Kap"
 		"pl"			"Assimov Peleryna"
-		"ba"                    "Assimov Plašt"
-		"se"                    "Assimov Plašt"
-		"hr"                    "Assimov Plašt"
+		"ba"			"Assimov Plašt"
+		"se"			"Assimov Plašt"
+		"hr"			"Assimov Plašt"
 	}
 	"cape slovakia"
 	{
@@ -477,9 +474,9 @@
 		"sk"			"Slovakia Plášt"
 		"de"			"Slovakia Kap"
 		"pl"			"Slovakia Peleryna"
-		"ba"                    "Slovačka Plašt"
-		"se"                    "Slovačka Plašt"
-		"hr"                    "Slovačka Plašt"
+		"ba"			"Slovačka Plašt"
+		"se"			"Slovačka Plašt"
+		"hr"			"Slovačka Plašt"
 	}
 	"cape czech"
 	{
@@ -488,9 +485,9 @@
 		"sk"			"Czech Plášt"
 		"de"			"Czech Kap"
 		"pl"			"Czech Peleryna"
-		"ba"                    "Češki Plašt"
-		"se"                    "Češki Plašt"
-		"hr"                    "Češki Plašt"
+		"ba"			"Češki Plašt"
+		"se"			"Češki Plašt"
+		"hr"			"Češki Plašt"
 	}
 	"cape batman"
 	{
@@ -499,9 +496,9 @@
 		"sk"			"Batman Plášt"
 		"de"			"Batman Kap"
 		"pl"			"Batman Peleryna"
-		"ba"                    "Batman Plašt"
-		"se"                    "Batman Plašt"
-		"hr"                    "Batman Plašt"
+		"ba"			"Batman Plašt"
+		"se"			"Batman Plašt"
+		"hr"			"Batman Plašt"
 	}
 	"cape joker"
 	{
@@ -510,9 +507,9 @@
 		"sk"			"Joker Plášt"
 		"de"			"Joker Kap"
 		"pl"			"Joker Peleryna"
-		"ba"                    "Joker Plašt"
-		"se"                    "Joker Plašt"
-		"hr"                    "Joker Plašt"
+		"ba"			"Joker Plašt"
+		"se"			"Joker Plašt"
+		"hr"			"Joker Plašt"
 	}
 	"cape superman"
 	{
@@ -521,9 +518,9 @@
 		"sk"			"Superman Plášt"
 		"de"			"Superman Kap"
 		"pl"			"Superman Peleryna"
-		"ba"                    "SupermanPlašt"
-		"se"                    "Superman Plašt"
-		"hr"                    "Superman Plašt"
+		"ba"			"SupermanPlašt"
+		"se"			"Superman Plašt"
+		"hr"			"Superman Plašt"
 	}
 	"cape spiderman"
 	{
@@ -532,9 +529,9 @@
 		"sk"			"Spiderman Plášt"
 		"de"			"Spiderman Kap"
 		"pl"			"Spiderman Peleryna"
-		"ba"                    "Spiderman Plašt"
-		"se"                    "Spiderman Plašt"
-		"hr"                    "Spiderman Plašt"
+		"ba"			"Spiderman Plašt"
+		"se"			"Spiderman Plašt"
+		"hr"			"Spiderman Plašt"
 	}
 	"cape dragon lore"
 	{
@@ -543,9 +540,9 @@
 		"sk"			"Dragon Lore Plášt"
 		"de"			"Dragon Lore Kap"
 		"pl"			"Dragon Lore Peleryna"
-		"ba"                    "Dragon Lore Plašt"
-		"se"                    "Dragon Lore Plašt"
-		"hr"                    "Dragon Lore Plašt"
+		"ba"			"Dragon Lore Plašt"
+		"se"			"Dragon Lore Plašt"
+		"hr"			"Dragon Lore Plašt"
 	}
 	"cape vulcan"
 	{
@@ -554,9 +551,9 @@
 		"sk"			"Vulcan Plášt"
 		"de"			"Vulcan Kap"
 		"pl"			"Vulcan Peleryna"
-		"ba"                    "Vulkan Plašt"
-		"se"                    "Vulkan Plašt"
-		"hr"                    "Vulkan Plašt"
+		"ba"			"Vulkan Plašt"
+		"se"			"Vulkan Plašt"
+		"hr"			"Vulkan Plašt"
 	}
 	"cape wtf zombies"
 	{
@@ -565,9 +562,9 @@
 		"sk"			"Wtf Zombies Plášt"
 		"de"			"Wtf Zombies Kap"
 		"pl"			"Wtf Zombies Peleryna"
-		"ba"                    "Wtf Zombies Plašt"
-		"se"                    "Wtf Zombies Plašt"
-		"hr"                    "Wtf Zombies Plašt"
+		"ba"			"Wtf Zombies Plašt"
+		"se"			"Wtf Zombies Plašt"
+		"hr"			"Wtf Zombies Plašt"
 	}
 	"cape oldschool"
 	{
@@ -576,9 +573,9 @@
 		"sk"			"Old School Plášt"
 		"de"			"Old School Kap"
 		"pl"			"Old School Peleryna"
-		"ba"                    "Old School Plašt"
-		"se"                    "Old School Plašt"
-		"hr"                    "Old School Plašt"
+		"ba"			"Old School Plašt"
+		"se"			"Old School Plašt"
+		"hr"			"Old School Plašt"
 	}
 	"cape lava"
 	{
@@ -587,9 +584,9 @@
 		"sk"			"Lava Plášt"
 		"de"			"Lava Kap"
 		"pl"			"Lava Peleryna"
-		"ba"                    "Lava Plašt"
-		"se"                    "Lava Plašt"
-		"hr"                    "Lava Plašt"
+		"ba"			"Lava Plašt"
+		"se"			"Lava Plašt"
+		"hr"			"Lava Plašt"
 	}
 	"headphones color"
 	{
@@ -598,9 +595,9 @@
 		"sk"			"Vyber barvu Sluchátek"
 		"de"			"Wählen Sie Kopfhörerfarbe"
 		"pl"			"Wybierz kolor słuchawek"
-		"ba"                    "Izaberite slušalice"
-		"se"                    "Izaberite slušalice"
-		"hr"                    "Izaberite slušalice"
+		"ba"			"Izaberite slušalice"
+		"se"			"Izaberite slušalice"
+		"hr"			"Izaberite slušalice"
 	}
 	"headphones black"
 	{
@@ -609,9 +606,9 @@
 		"sk"			"Černé Sluchátka"
 		"de"			"Schwarz Kopfhörer"
 		"pl"			"Czarny Słuchawki"
-		"ba"                    "Crne slušalice"
-		"se"                    "Crne slušalice"
-		"hr"                    "Crne slušalice"
+		"ba"			"Crne slušalice"
+		"se"			"Crne slušalice"
+		"hr"			"Crne slušalice"
 	}
 	"headphones blue"
 	{
@@ -620,9 +617,9 @@
 		"sk"			"Modré Sluchátka"
 		"de"			"Blau Kopfhörer"
 		"pl"			"Niebieski Słuchawki"
-		"ba"                    "Plave slušalice"
-		"se"                    "Plave slušalice"
-		"hr"                    "Plave slušalice"
+		"ba"			"Plave slušalice"
+		"se"			"Plave slušalice"
+		"hr"			"Plave slušalice"
 	}
 	"headphones red"
 	{
@@ -631,9 +628,9 @@
 		"sk"			"Červené Sluchátka"
 		"de"			"Rot Kopfhörer"
 		"pl"			"Czerwony Słuchawki"
-		"ba"                    "Crvene slušalice"
-		"se"                    "Crvene slušalice"
-		"hr"                    "Crvene slušalice"
+		"ba"			"Crvene slušalice"
+		"se"			"Crvene slušalice"
+		"hr"			"Crvene slušalice"
 	}
 	"headphones cyan"
 	{
@@ -642,9 +639,9 @@
 		"sk"			"Tyrkysové Sluchátka"
 		"de"			"Türkis Kopfhörer"
 		"pl"			"Turkusowy Słuchawki"
-		"ba"                    "Tirkizne slušalice"
-		"se"                    "Tirkizne slušalice"
-		"hr"                    "Tirkizne slušalice"
+		"ba"			"Tirkizne slušalice"
+		"se"			"Tirkizne slušalice"
+		"hr"			"Tirkizne slušalice"
 	}
 	"headphones green"
 	{
@@ -653,9 +650,9 @@
 		"sk"			"Zelené Sluchátka"
 		"de"			"Grün Kopfhörer"
 		"pl"			"Zielony Słuchawki"
-		"ba"                    "Zelene slušalice"
-		"se"                    "Zelene slušalice"
-		"hr"                    "Zelene slušalice"
+		"ba"			"Zelene slušalice"
+		"se"			"Zelene slušalice"
+		"hr"			"Zelene slušalice"
 	}
 	"headphones orange"
 	{
@@ -664,9 +661,9 @@
 		"sk"			"Oranžové Sluchátka"
 		"de"			"Orange Kopfhörer"
 		"pl"			"Pomarańczowy Słuchawki"
-		"ba"                    "Narandžaste slušalice"
-		"se"                    "Narandžaste slušalice"
-		"hr"                    "Narandžaste slušalice"
+		"ba"			"Narandžaste slušalice"
+		"se"			"Narandžaste slušalice"
+		"hr"			"Narandžaste slušalice"
 	}
 	"headphones pink"
 	{
@@ -675,9 +672,9 @@
 		"sk"			"Rúžové Sluchátka"
 		"de"			"Rosa Kopfhörer"
 		"pl"			"Różowy Słuchawki"
-		"ba"                    "Pink slušalice"
-		"se"                    "Pink slušalice"
-		"hr"                    "Pink slušalice"
+		"ba"			"Pink slušalice"
+		"se"			"Pink slušalice"
+		"hr"			"Pink slušalice"
 	}
 	"headphones purple"
 	{
@@ -686,20 +683,20 @@
 		"sk"			"Fialové Sluchátka"
 		"de"			"Lila Kopfhörer"
 		"pl"			"Fioletowy Słuchawki"
-		"ba"                    "Ljubičaste slušalice"
-		"se"                    "Ljubičaste slušalice"
-		"hrŽute"                    "Ljubičaste slušalice"
+		"ba"			"Ljubičaste slušalice"
+		"se"			"Ljubičaste slušalice"
+		"hrŽute"			"Ljubičaste slušalice"
 	}
 	"headphones yellow"
-	{Ljubičaste
+	{
 		"en"			"Yellow Headphones"
 		"cze"			"Žluté Sluchátka"
 		"sk"			"Žluté Sluchátka"
 		"de"			"Gelb Kopfhörer"
 		"pl"			"Żółty Słuchawki"
-		"ba"                    "Žute slušalice"
-		"se"                    "Žute slušalice"
-		"hr"                    "Žute slušalice"
+		"ba"			"Žute slušalice"
+		"se"			"Žute slušalice"
+		"hr"			"Žute slušalice"
 	}
 	"Trail Menu"
 	{
@@ -708,9 +705,9 @@
 		"sk"			"Trail Menu"
 		"de"			"Trail Menü"
 		"pl"			"Menu traila"
-		"ba"                    "Menu Trailova"
-		"se"                    "Menu Trailova"
-		"hr"                    "Menu Trailova"
+		"ba"			"Menu Trailova"
+		"se"			"Menu Trailova"
+		"hr"			"Menu Trailova"
 	}
 	"trail off"
 	{
@@ -719,9 +716,9 @@
 		"sk"			"Žiadny trail"
 		"de"			"Trail aus"
 		"pl"			"Trail wyłączony"
-		"bh"                    "Trail isključen"
-		"se"                    "Trail isključen"
-		"hr"                    "Trail isključen"
+		"bh"			"Trail isključen"
+		"se"			"Trail isključen"
+		"hr"			"Trail isključen"
 	}
 	"trail random"
 	{
@@ -730,9 +727,9 @@
 		"sk"			"Náhodná farba"
 		"de"			"Zufällige Farbe"
 		"pl"			"Losowe kolory"
-		"bh"                    "Nasumična boja"
-		"se"                    "Nasumična boja"
-		"hr"                    "Nasumična boja"
+		"bh"			"Nasumična boja"
+		"se"			"Nasumična boja"
+		"hr"			"Nasumična boja"
 	}
 	"trail red"
 	{
@@ -741,9 +738,9 @@
 		"sk"			"Červený"
 		"de"			"Rot"
 		"pl"			"Czerwony"
-		"bh"                    "Crveni"
-		"se"                    "Crveni"
-		"hr"                    "Crveni"
+		"bh"			"Crveni"
+		"se"			"Crveni"
+		"hr"			"Crveni"
 	}
 	"trail orange"
 	{
@@ -752,9 +749,9 @@
 		"sk"			"Oranžový"
 		"de"			"Orange"
 		"pl"			"Pomarańczowy"
-		"bh"                    "Narandžasti"
-		"se"                    "Narandžasti"
-		"hr"                    "Narandžasti"
+		"bh"			"Narandžasti"
+		"se"			"Narandžasti"
+		"hr"			"Narandžasti"
 	}
 	"trail yellow"
 	{
@@ -763,9 +760,9 @@
 		"sk"			"Žltý"
 		"de"			"Gelb"
 		"pl"			"Żółty"
-		"bh"                    "Žuti"
-		"se"                    "Žuti"
-		"hr"                    "Žuti"
+		"bh"			"Žuti"
+		"se"			"Žuti"
+		"hr"			"Žuti"
 	}
 	"trail lime"
 	{
@@ -774,9 +771,9 @@
 		"sk"			"Limetkovo zelený"
 		"de"			"Limette"
 		"pl"			"Limonkowy"
-		"bh"                    "Limeta"
-		"se"                    "Limeta"
-		"hr"                    "Limeta"
+		"bh"			"Limeta"
+		"se"			"Limeta"
+		"hr"			"Limeta"
 	}
 	"trail green"
 	{
@@ -785,9 +782,9 @@
 		"sk"			"Zelený"
 		"de"			"Grün"
 		"pl"			"Zielony"
-		"bh"                    "Zeleni"
-		"se"                    "Zeleni"
-		"hr"                    "Zeleni"
+		"bh"			"Zeleni"
+		"se"			"Zeleni"
+		"hr"			"Zeleni"
 	}
 	"trail emerald"
 	{
@@ -796,9 +793,9 @@
 		"sk"			"Smaragdový"
 		"de"			"Smaragdgrün"
 		"pl"			"Szmaragdowy"
-		"bh"                    "Smaragdzelena"
-		"se"                    "Smaragdzelena"
-		"hr"                    "Smaragdzelena"
+		"bh"			"Smaragdzelena"
+		"se"			"Smaragdzelena"
+		"hr"			"Smaragdzelena"
 	}
 	"trail cyan"
 	{
@@ -807,9 +804,9 @@
 		"sk"			"Tyrkysový"
 		"de"			"Türkis"
 		"pl"			"Turkusowy"
-		"bh"                    "Tirkizni"
-		"se"                    "Tirkizni"
-		"hr"                    "Tirkizni"
+		"bh"			"Tirkizni"
+		"se"			"Tirkizni"
+		"hr"			"Tirkizni"
 	}
 	"trail lightblue"
 	{
@@ -818,9 +815,9 @@
 		"sk"			"Svetlo modrý"
 		"de"			"Hellblau"
 		"pl"			"Jasnoniebieski"
-		"bh"                    "Svjetloplavi"
-		"se"                    "Svjetloplavi"
-		"hr"                    "Svjetloplavi"
+		"bh"			"Svjetloplavi"
+		"se"			"Svjetloplavi"
+		"hr"			"Svjetloplavi"
 	}
 	"trail blue"
 	{
@@ -829,9 +826,9 @@
 		"sk"			"Modrý"
 		"de"			"Blau"
 		"pl"			"Niebieski"
-		"bh"                    "Plavi"
-		"se"                    "Plavi"
-		"hr"                    "Plavi"
+		"bh"			"Plavi"
+		"se"			"Plavi"
+		"hr"			"Plavi"
 	}
 	"trail purple"
 	{
@@ -840,9 +837,9 @@
 		"sk"			"Fialový"
 		"de"			"Lila"
 		"pl"			"Fioletowy"
-		"bh"                    "Ljubičasti"
-		"se"                    "Ljubičasti"
-		"hr"                    "Ljubičasti"
+		"bh"			"Ljubičasti"
+		"se"			"Ljubičasti"
+		"hr"			"Ljubičasti"
 	}
 	"trail magenta"
 	{
@@ -851,9 +848,9 @@
 		"sk"			"Purpurový"
 		"de"			"Magenta"
 		"pl"			"Magenta"
-		"bh"                    "Magentni"
-		"se"                    "Magentni"
-		"hr"                    "Magentni"
+		"bh"			"Magentni"
+		"se"			"Magentni"
+		"hr"			"Magentni"
 	}
 	"trail pink"
 	{
@@ -862,9 +859,9 @@
 		"sk"			"Ružový"
 		"de"			"Rosa"
 		"pl"			"Różowy"
-		"bh"                    "Pink"
-		"se"                    "Pink"
-		"hr"                    "Pink"
+		"bh"			"Pink"
+		"se"			"Pink"
+		"hr"			"Pink"
 	}
 	"trail white"
 	{
@@ -873,9 +870,9 @@
 		"sk"			"Biely"
 		"de"			"Weiß"
 		"pl"			"Biały"
-		"bh"                    "Bjeli"
-		"se"                    "Bjeli"
-		"hr"                    "Bjeli"
+		"bh"			"Bjeli"
+		"se"			"Bjeli"
+		"hr"			"Bjeli"
 	}
 	"trail velocity"
 	{
@@ -884,9 +881,9 @@
 		"sk"			"Rýchlostný"
 		"de"			"Geschwindigkeit"
 		"pl"			"Czułość"
-		"bh"                    "Velocity"
-		"se"                    "Velocity"
-		"hr"                    "Velocity"
+		"bh"			"Velocity"
+		"se"			"Velocity"
+		"hr"			"Velocity"
 	}
 	"trail spectrum"
 	{
@@ -895,9 +892,9 @@
 		"sk"			"Spektrumný"
 		"de"			"Spektrum
 		"pl"			"Widmo"
-		"bh"                    "Spektrum"
-		"se"                    "Spektrum"
-		"hr"                    "Spektrum"
+		"bh"			"Spektrum"
+		"se"			"Spektrum"
+		"hr"			"Spektrum"
 	}
 	"trail wave"
 	{
@@ -906,9 +903,9 @@
 		"sk"			"Sledový"
 		"de"			"Welle"
 		"pl"			"Fala"
-		"ba"                    "Val"
-		"se"                    "Val"
-		"hr"                    "Val"
+		"ba"			"Val"
+		"se"			"Val"
+		"hr"			"Val"
 	}
 	"trail crazy"
 	{
@@ -917,9 +914,9 @@
 		"sk"			"Bláznivý"
 		"de"			"Verrückt"
 		"pl"			"Szalona"
-		"ba"                    "Ludi"
-		"ba"                    "Ludi"
-		"ba"                    "Ludi"
+		"ba"			"Ludi"
+		"ba"			"Ludi"
+		"ba"			"Ludi"
 	}
 	"trail holiday"
 	{
@@ -928,9 +925,9 @@
 		"sk"			"Sviatočný"
 		"de"			"Urlaub"
 		"pl"			"Wakacje"
-		"ba"                    "Praznici"
-		"se"                    "Praznici"
-		"hr"                    "Praznici"
+		"ba"			"Praznici"
+		"se"			"Praznici"
+		"hr"			"Praznici"
 	}
 	"Tracer Menu"
 	{
@@ -939,9 +936,9 @@
 		"sk"			"Tracer Menu"
 		"de"			"Tracer Menü"
 		"pl"			"Menu Tracera"
-		"ba"                    "Izbornik za Tracer"
-		"se"                    "Izbornik za Tracer"
-		"hr"                    "Izbornik za Tracer"
+		"ba"			"Izbornik za Tracer"
+		"se"			"Izbornik za Tracer"
+		"hr"			"Izbornik za Tracer"
 	}
 	"tracer off"
 	{
@@ -950,9 +947,9 @@
 		"sk"			"Žiadny tracer"
 		"de"			"Tracer aus"
 		"pl"			"Tracer wyłączony"
-		"ba"                    "Tracer isključen"
-		"se"                    "Tracer isključen"
-		"hr"                    "Tracer isključen"
+		"ba"			"Tracer isključen"
+		"se"			"Tracer isključen"
+		"hr"			"Tracer isključen"
 	}
 	"tracer color"
 	{
@@ -961,9 +958,9 @@
 		"sk"			"Farba traceru"
 		"de"			"Tracer Farbe"
 		"pl"			"Tracer kolor"
-		"ba"                    "Boja TraceraTracer"
-		"se"                    "Boja TraceraTracer"
-		"hr"                    "Boja TraceraTracer"
+		"ba"			"Boja TraceraTracer"
+		"se"			"Boja TraceraTracer"
+		"hr"			"Boja TraceraTracer"
 	}
 	"tracer material"
 	{
@@ -973,9 +970,9 @@
 		"sk"			"Material traceru: {1}"
 		"de"			"Tracer material: {1}"
 		"pl"			"Tracer material: {1}"
-		"ba"                    "Materijal Tracera: {1}"
-		"se"                    "Materijal Tracera: {1}"
-		"hr"                    "Materijal Tracera: {1}"
+		"ba"			"Materijal Tracera: {1}"
+		"se"			"Materijal Tracera: {1}"
+		"hr"			"Materijal Tracera: {1}"
 	}
 	"tracer lifetime"
 	{
@@ -1006,9 +1003,9 @@
 		"sk"			"malý"
 		"de"			"klein"
 		"pl"			"mały"
-		"ba"                    "mali"
-		"se"                    "mali"
-		"hr"                    "mali"
+		"ba"			"mali"
+		"se"			"mali"
+		"hr"			"mali"
 	}
 	"medium"
 	{
@@ -1017,9 +1014,9 @@
 		"sk"			"stredná"
 		"de"			"mittel"
 		"pl"			"średni"
-		"ba"                    "srednji"
-		"se"                    "srednji"
-		"hr"                    "srednji"
+		"ba"			"srednji"
+		"se"			"srednji"
+		"hr"			"srednji"
 	}
 	"large"
 	{
@@ -1028,9 +1025,9 @@
 		"sk"			"velký"
 		"de"			"groß"
 		"pl"			"duży"
-		"ba"                    "veliki"
-		"se"                    "veliki"
-		"hr"                    "veliki"
+		"ba"			"veliki"
+		"se"			"veliki"
+		"hr"			"veliki"
 	}
 	"huge"
 	{
@@ -1039,9 +1036,9 @@
 		"sk"			"obrovský"
 		"de"			"riesig"
 		"pl"			"ogromny"
-		"ba"                    "ogromni"
-		"se"                    "ogromni"
-		"hr"                    "ogromni"
+		"ba"			"ogromni"
+		"se"			"ogromni"
+		"hr"			"ogromni"
 	}
 	"KillStreak"
 	{
@@ -1050,9 +1047,9 @@
 		"sk"			"Zabitie v rade"
 		"de"			"Abschussserie"
 		"pl"			"Seria zabójstw"
-		"ba"                    "Serija ubistva"
-		"se"                    "Serija ubistva"
-		"hr"                    "Serija ubistva"
+		"ba"			"Serija ubistva"
+		"se"			"Serija ubistva"
+		"hr"			"Serija ubistva"
 	}
 	"You won"
 	{
@@ -1060,11 +1057,11 @@
 		"en"			"{green}[FUN] {olive}You won{lightgreen} ${1} {olive}!"
 		"cze"			"{green}[FUN] {olive}Vyhrál si{lightgreen} ${1} {olive}!"
 		"sk"			"{green}[FUN] {olive}Vyhral si{lightgreen} ${1} {olive}!"
-		"de"			"{green}[FUN] {olive}Du hast gewonnen{lightgreen ${1} {olive}!"
-		"pl"			"{green}[FUN] {olive}Wygrałeś{lightgreen ${1} {olive}!"
-		"ba"                    "{green}[FUN] {olive}Ti si pobjedio{lightgreen ${1} {olive}!"
-		"se"                    "{green}[FUN] {olive}Ti si pobjedio{lightgreen ${1} {olive}!"
-		"hr"                    "{green}[FUN] {olive}Ti si pobjedio{lightgreen ${1} {olive}!"
+		"de"			"{green}[FUN] {olive}Du hast gewonnen{lightgreen} ${1} {olive}!"
+		"pl"			"{green}[FUN] {olive}Wygrałeś{lightgreen} ${1} {olive}!"
+		"ba"			"{green}[FUN] {olive}Ti si pobjedio{lightgreen} ${1} {olive}!"
+		"se"			"{green}[FUN] {olive}Ti si pobjedio{lightgreen} ${1} {olive}!"
+		"hr"			"{green}[FUN] {olive}Ti si pobjedio{lightgreen} ${1} {olive}!"
 	}
 	"You lose"
 	{
@@ -1074,9 +1071,9 @@
 		"sk"			"{green}[FUN] {olive}Prehral si{lightgreen} ${1} {olive}!"
 		"de"			"{green}[FUN] {olive}Du hast verloren{lightgreen} ${1} {olive}!"
 		"pl"			"{green}[FUN] {olive}Przegrałeś{lightgreen} ${1} {olive}!"
-		"ba"                    "{green}[FUN] {olive}Ti si izgubio{lightgreen ${1} {olive}!"
-		"se"                    "{green}[FUN] {olive}Ti si izgubio{lightgreen ${1} {olive}!"
-		"hr"                    "{green}[FUN] {olive}Ti si izgubio{lightgreen ${1} {olive}!"
+		"ba"			"{green}[FUN] {olive}Ti si izgubio{lightgreen} ${1} {olive}!"
+		"se"			"{green}[FUN] {olive}Ti si izgubio{lightgreen} ${1} {olive}!"
+		"hr"			"{green}[FUN] {olive}Ti si izgubio{lightgreen} ${1} {olive}!"
 	}
 	"TAB Info"
 	{
@@ -2351,9 +2348,9 @@
 		"sk"			"{darkred}[!] {default}V tomto kole si už výber zbraní použil!"
 		"de"			"{darkred}[!] {default}In dieser Runde nutzen Sie bereits das VIP-Menü"
 		"pl"			"{darkred}[!] {default}Używałeś menu VIP'a w tej rundzie!"
-		"ba"                    "{darkred}[!] {default}U ovoj rundi si već korisio VIP menu"
-		"se"                    "{darkred}[!] {default}U ovoj rundi si već korisio VIP menu"
-		"hr"                    "{darkred}[!] {default}U ovoj rundi si već korisio VIP menu"
+		"ba"			"{darkred}[!] {default}U ovoj rundi si već korisio VIP menu"
+		"se"			"{darkred}[!] {default}U ovoj rundi si već korisio VIP menu"
+		"hr"			"{darkred}[!] {default}U ovoj rundi si već korisio VIP menu"
 	}
 	"must alive for buy"
 	{
@@ -3540,14 +3537,15 @@
 	}
 	"Bonuses Menu"
 	{
-		"en"			"Bonuses Setting (/bonuses)\nYou can activate up to 5 bonuses!"
-		"cze"			"Nastavení Bonusů (/bonusy)\nMůzěš si aktivovat max 5 bonusů!"
-		"sk"			"Nastavenie Bonusov (/bonusy)\nMôžeš si aktivovať max 5 bonusov!"
-		"de"			"Bonus-Einstellung (/bonus)\nDu kannst nur bis zu 5 Bonus aktivieren!"
-		"pl"			"Ustawienie bonusów (/bonus)\nMożesz aktywować do 5 bonusów!"
-		"ba"			"Postavke Bonusa (/bonus)\nTi možeš aktivirati do 5 bonusa!"
-		"se"			"Postavke Bonusa (/bonus)\nTi možeš aktivirati do 5 bonusa!"
-		"hr"			"Postavke Bonusa (/bonus)\nTi možeš aktivirati do 5 bonusa!"
+		"#format"		"{1:i}"
+		"en"			"Bonuses Setting (/bonuses)\nYou can activate up to {1} bonuses!"
+		"cze"			"Nastavení Bonusů (/bonusy)\nMůzěš si aktivovat max {1} bonusů!"
+		"sk"			"Nastavenie Bonusov (/bonusy)\nMôžeš si aktivovať max {1} bonusov!"
+		"de"			"Bonus-Einstellung (/bonus)\nDu kannst nur bis zu {1} Bonus aktivieren!"
+		"pl"			"Ustawienie bonusów (/bonus)\nMożesz aktywować do {1} bonusów!"
+		"ba"			"Postavke Bonusa (/bonus)\nTi možeš aktivirati do {1} bonusa!"
+		"se"			"Postavke Bonusa (/bonus)\nTi možeš aktivirati do {1} bonusa!"
+		"hr"			"Postavke Bonusa (/bonus)\nTi možeš aktivirati do {1} bonusa!"
 	}
 	"active"
 	{
@@ -4405,11 +4403,11 @@
 		"en"			"Port-A-Fort"
 		"cze"			"Port-A-Fort"
 		"sk"			"Port-A-Fort"
-		"de"                    "Port-A-Fort"
+		"de"			"Port-A-Fort"
 		"pl"			"Port-A-Fort"
-		"ba"                    "Port-A-Fort"
-		"se"                    "Port-A-Fort"
-		"hr"                    "Port-A-Fort"
+		"ba"			"Port-A-Fort"
+		"se"			"Port-A-Fort"
+		"hr"			"Port-A-Fort"
 	}
 	"item knifevest"
 	{
@@ -5073,9 +5071,9 @@
 		"sk"			"{darkred}[!] {default}Nahlásil si hráča {olive}{1}{default}."
 		"de"			"{darkred}[!] {default}Du hast einen Spieler gemeldet {olive}{1}{default}."
 		"pl"			"{darkred}[!] {default}Zgłosiłeś gracza {olive}{1}{default}."
-		"ba"                    "{darkred}[!] {default}Prijavio si igrača {olive}{1}{default}."
-		"se"                    "{darkred}[!] {default}Prijavio si igrača {olive}{1}{default}."
-		"hr"                    "{darkred}[!] {default}Prijavio si igrača {olive}{1}{default}."
+		"ba"			"{darkred}[!] {default}Prijavio si igrača {olive}{1}{default}."
+		"se"			"{darkred}[!] {default}Prijavio si igrača {olive}{1}{default}."
+		"hr"			"{darkred}[!] {default}Prijavio si igrača {olive}{1}{default}."
 	}	
 	"Valve Menu"
 	{
@@ -5084,9 +5082,9 @@
 		"sk"			"Valve Obsah"
 		"de"			"Valve Inhalt"
 		"pl"			"Valve Content"
-		"ba"                    "Valve Sadržaj"
-		"se"                    "Valve Sadržaj"
-		"hr"                    "Valve Sadržaj"
+		"ba"			"Valve Sadržaj"
+		"se"			"Valve Sadržaj"
+		"hr"			"Valve Sadržaj"
 	}
 	"valve weapons"
 	{
@@ -5095,9 +5093,9 @@
 		"sk"			"Prispôsobenie Zbrane"
 		"de"			"Waffenanpassung"
 		"pl"			"Ustawienia Broni"
-		"ba"                    "Uređivanje  pušaka"
-		"se"                    "Uređivanje  pušaka"
-		"hr"                    "Uređivanje  pušaka"
+		"ba"			"Uređivanje  pušaka"
+		"se"			"Uređivanje  pušaka"
+		"hr"			"Uređivanje  pušaka"
 	}
 	"valve knife"
 	{
@@ -5106,9 +5104,9 @@
 		"sk"			"Výber Nožíka"
 		"de"			"Wähle Knife"
 		"pl"			"Wybierz Nóż"
-		"ba"                    "Izaberi nož"
-		"se"                    "Izaberi nož"
-		"hr"                    "Izaberi nož"
+		"ba"			"Izaberi nož"
+		"se"			"Izaberi nož"
+		"hr"			"Izaberi nož"
 	}
 	"valve glove"
 	{
@@ -5117,9 +5115,9 @@
 		"sk"			"Výber Rukavíc"
 		"de"			"Wähle Gloves"
 		"pl"			"Wybierz Rękawice"
-		"ba"                    "Izaberi rukavice"
-		"se"                    "Izaberi rukavice"
-		"hr"                    "Izaberi rukavice"
+		"ba"			"Izaberi rukavice"
+		"se"			"Izaberi rukavice"
+		"hr"			"Izaberi rukavice"
 	}
 	"valve sprays"
 	{
@@ -5128,9 +5126,9 @@
 		"sk"			"Výber Spreye"
 		"de"			"Wähle Graffiti"
 		"pl"			"Wybierz Graffiti"
-		"ba"                    "Izaberi grafiti"
-		"se"                    "Izaberi grafiti"
-		"hr"                    "Izaberi grafiti"
+		"ba"			"Izaberi grafiti"
+		"se"			"Izaberi grafiti"
+		"hr"			"Izaberi grafiti"
 	}
 	"valve music"
 	{
@@ -5139,9 +5137,9 @@
 		"sk"			"Výber Hudobného Balíčka"
 		"de"			"Wähle Musik Kit"
 		"pl"			"Wybierz Zestaw Muzyczny"
-		"ba"                    "Izaberi Muzički kit"
-		"se"                    "Izaberi Muzički kit"
-		"hr"                    "Izaberi Muzički kit"
+		"ba"			"Izaberi Muzički kit"
+		"se"			"Izaberi Muzički kit"
+		"hr"			"Izaberi Muzički kit"
 	}
 	"valve coin"
 	{
@@ -5150,9 +5148,9 @@
 		"sk"			"Výber Mince"
 		"de"			"Wähle Münze"
 		"pl"			"Wybierz Żeton"
-		"ba"                    "Izaberi Žeton"
-		"se"                    "Izaberi Žeton"
-		"hr"                    "Izaberi Žeton"
+		"ba"			"Izaberi Žeton"
+		"se"			"Izaberi Žeton"
+		"hr"			"Izaberi Žeton"
 	}
 	"technology"
 	{
@@ -5161,9 +5159,9 @@
 		"sk"			"Technológie"
 		"de"			"Technologie"
 		"pl"			"Technologie"
-		"ba"                    "Tehnologija"
-		"se"                    "Tehnologija"
-		"hr"                    "Tehnologija"
+		"ba"			"Tehnologija"
+		"se"			"Tehnologija"
+		"hr"			"Tehnologija"
 	}
 	"stattrack all"
 	{
@@ -5172,9 +5170,9 @@
 		"sk"			"StatTrak™ na všetkých zbraniach"
 		"de"			"StatTrak™ auf allen Waffen"
 		"pl"			"StatTrak™ na wszystkich broniach"
-		"ba"                    "StatTrak™ na svim puškama"
-		"se"                    "StatTrak™ na svim puškama"
-		"hr"                    "StatTrak™ na svim puškama"
+		"ba"			"StatTrak™ na svim puškama"
+		"se"			"StatTrak™ na svim puškama"
+		"hr"			"StatTrak™ na svim puškama"
 	}
 	"stattrack knife"
 	{
@@ -5183,9 +5181,9 @@
 		"sk"			"StatTrak™ iba na nožíku"
 		"de"			"StatTrak™ nur auf Knife"
 		"pl"			"StatTrak™ tylko na nożu"
-		"ba"                    "StatTrak™ na nožu"
-		"se"                    "StatTrak™ na nožu"
-		"hr"                    "StatTrak™ na nožu"
+		"ba"			"StatTrak™ na nožu"
+		"se"			"StatTrak™ na nožu"
+		"hr"			"StatTrak™ na nožu"
 	}
 	"skin for current"
 	{
@@ -5194,9 +5192,9 @@
 		"sk"			"Vybrať skin pre aktualnu zbraň"
 		"de"			"Wähle skin für die aktuelle Waffe"
 		"pl"			"Wybierz skin dla aktualnej broni"
-		"ba"                    "Izaberi skin za trenutno oružje"
-		"se"                    "Izaberi skin za trenutno oružje"
-		"hr"                    "Izaberi skin za trenutno oružje"
+		"ba"			"Izaberi skin za trenutno oružje"
+		"se"			"Izaberi skin za trenutno oružje"
+		"hr"			"Izaberi skin za trenutno oružje"
 	}
 	"skin for specific"
 	{
@@ -5897,9 +5895,9 @@
 		"sk"			"Nastaviť Nametag zbrane"
 		"de"			"Wähle Waffen Nametag"
 		"pl"			"Wybierz NameTag broni"
-		"ba"                    "Izaberi Ime puške"
-		"se"                    "Izaberi Ime puške"
-		"hr"                    "Izaberi Ime puške"
+		"ba"			"Izaberi Ime puške"
+		"se"			"Izaberi Ime puške"
+		"hr"			"Izaberi Ime puške"
 	}
 	"paypal info title"
 	{
@@ -5908,9 +5906,9 @@
 		"sk"			"Zakúpenie Kreditov cez PayPal"
 		"de"			"Kaufe Credits über PayPal"
 		"pl"			"Kup kredyty przez PayPal"
-		"ba"                    "Kupi credite preko PayPala"
-		"se"                    "Kupi credite preko PayPala"
-		"hr"                    "Kupi credite preko PayPala"
+		"ba"			"Kupi credite preko PayPala"
+		"se"			"Kupi credite preko PayPala"
+		"hr"			"Kupi credite preko PayPala"
 	}
 	"paypal info"
 	{
@@ -5952,7 +5950,7 @@
 		"sk"			"Zakúpenie Kreditov cez Steam Offer"
 		"de"			"Kaufe Credits über Steam Offer"
 		"pl"			"Kup kredyty przez Ofertę Steam"
-		"ba"                    "Kupi Creditse preko Steam Offera"
+		"ba"			"Kupi Creditse preko Steam Offera"
 	}
 	"steamoffer info"
 	{
