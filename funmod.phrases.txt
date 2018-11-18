@@ -6302,6 +6302,14 @@
 		"se"			"Pošaljite link preko Steama"
 		"hr"			"Pošaljite link preko Steama"
 	}
+	"total hits"
+	{
+		"en"			"Total Hits"
+		"cze"			"Celkem zásahů"
+		"sk"			"Celkom zázahov"
+		"de"			"Gesamtschlag"
+		"pl"			"Całkowite trafienie"
+	}
 	"killstreak #0"
 	{
 		"en"			"Multi Kill!"
